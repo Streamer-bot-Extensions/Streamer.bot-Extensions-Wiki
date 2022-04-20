@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: true
-date: 2022-04-20T04:20:25.410Z
+date: 2022-04-20T04:27:51.151Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T04:20:25.410Z
@@ -46,4 +46,4 @@ There are a few commands that you can send to the Server.
 - Event commands
 - These commands allow your client to opt-in/out of events on the server
   - These commands are sent as `Listen {Event}` and `Ignore {Event}`
-  - For more information on events, please see the [Events](https://github.com/KK964/Minecraft_Websocket_Intergration/wiki/Events) page.
+  - For more information on events, please see the [Events](/integrated-games/minecraft/events) page.
