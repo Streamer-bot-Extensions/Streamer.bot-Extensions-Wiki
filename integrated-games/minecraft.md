@@ -1,8 +1,8 @@
 ---
-title: Minecraft (by KK964)
+title: Minecraft Websocket Integration (by KK964)
 description: Streamer.bot extension for Minecraft.
 published: true
-date: 2022-04-20T04:43:39.949Z
+date: 2022-04-20T04:44:11.551Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:51:00.284Z
