@@ -2,7 +2,7 @@
 title: Streamer.bot
 description: Using the plugin in Streamer.bot.
 published: true
-date: 2022-04-20T04:31:50.206Z
+date: 2022-04-20T04:32:44.763Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T04:30:59.326Z
@@ -18,7 +18,7 @@ For setting up the Minecraft server, please see the [Getting Started](/integrate
 
 ---
 
-## 1. Setting up default actions
+## Setting up default actions
 
 1. Inside Streamer.bot, navigate to the `Actions` tab.
 2. Right click on the `Actions` tab and select `Add`.
@@ -27,7 +27,7 @@ For setting up the Minecraft server, please see the [Getting Started](/integrate
 5. Then press `Ok`.
 6. Add 2 more actions to the group, called `MC WS Disconnected` and `MC WS Message`.
 
-## 2. Connecting to the WebSocket Server
+## Connecting to the WebSocket Server
 
 1. Inside Streamer.bot, navigate to the `Servers/Clients` tab.
 2. Click the sub-tab `Websocket Clients`.
@@ -39,7 +39,7 @@ For setting up the Minecraft server, please see the [Getting Started](/integrate
 8. Set the Action Message to `MC WS Message`.
 9. Click `Ok`.
 
-## 3. Setting up Actions
+## Setting up Actions
 
 In this guide, the following will be the flowchart of the actions:
 
@@ -119,7 +119,7 @@ return true;
 
 3. This will handle all messages between the server and the client.
 
-### 4. MC WS Event Handler
+### MC WS Event Handler
 
 1. Make a sub action `C#`->`Run C# code`
    - inside the C# window, add the following inside `Execute()`:
@@ -136,7 +136,7 @@ return true;
 
 2. This will forward the event to the correct action.
 
-### 5. MC WS Event-{event ran}
+### MC WS Event-{event ran}
 
 1. Replace `{event ran}` with the event name you want to handle.
 2. Handle the event
