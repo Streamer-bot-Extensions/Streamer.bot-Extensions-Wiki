@@ -2,7 +2,7 @@
 title: Elgato Lighting Control (by Geocym)
 description: Change Brightness and Color Temperature of Elgato Lighting.
 published: true
-date: 2022-04-20T01:41:31.598Z
+date: 2022-04-20T03:50:39.442Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:41:06.173Z
@@ -22,12 +22,12 @@ TlM0RR+LCAAAAAAABAC9WGuP2kgW/b7S/gcUaaVdKW6V3zhSPjSkeXaTYLpt4+35UC8/QmF7DAbMaP77
 ```
 
 > This should work out of the box but the C# may need to compile so it can find the following references.
-![elgato-lighting-references.png](/elgato-lighting-control/elgato-lighting-references.png)
+![elgato-lighting-references.png](/extensions/elgato-lighting-control/elgato-lighting-references.png)
 {.is-warning}
 
 
 ## Configuration
-![elgato-lighting-action.png](/elgato-lighting-control/elgato-lighting-action.png)
+![elgato-lighting-action.png](/extensions/elgato-lighting-control/elgato-lighting-action.png)
 
 The C# code has everything pre-configured to send the `HTTP PUT` request, all that needs to be done is set the `targetIpAddress`, `targetBrightness` & `targetTemperature` arguments for the code to read in
 ***
