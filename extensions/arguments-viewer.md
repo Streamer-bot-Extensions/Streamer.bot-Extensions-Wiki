@@ -2,7 +2,7 @@
 title: Arguments Viewer (by Silverlink)
 description: In UI printout of all Argument Variables that were populated when an action executed.
 published: true
-date: 2022-04-20T03:43:52.402Z
+date: 2022-04-20T03:46:48.701Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:56:58.430Z
@@ -40,5 +40,5 @@ Ensure the `Run on UI Thread` checkbox is ticked or the application is liable to
 
 When the action executes a window similar to the one shown should pop up, listing all the arguments and their contents
 
-![arguments-viewer.png](/extensions/arguments-viewer.png)
+![arguments-viewer.png](/extensions/arguments-viewer/arguments-viewer.png)
 
