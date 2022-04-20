@@ -2,7 +2,7 @@
 title: Points System
 description: Links to all the extensions that use Streamer.bot's points system.
 published: true
-date: 2022-04-20T16:09:25.378Z
+date: 2022-04-20T23:16:56.211Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:11:37.622Z
@@ -22,24 +22,24 @@ Below you can find the core Points System and a list of all the extensions that 
 
 * [Add Ranks *by VRFlad* *Add user ranks to the Points System.*](/extensions/points-system/points-system-add-ranks)
 {.links-list}
-* [Point Transfer *by GoWMan* *Transfer your SE or SL Points into Streamerbot*](/extensions/points-system/pointtransfer)
+* [Points Transfer *by GoWMan* *Transfer your SE or SL Points into Streamer.bot.*](/extensions/points-system/pointtransfer)
 {.links-list}
-* [Leader board *by TerrierDarts* *Show the Users with the Top Points.*](/extensions/points-system/leaderboard)
+* [Leaderboard *by TerrierDarts* *Show the Users with the Top Points.*](/extensions/points-system/leaderboard)
 {.links-list}
-* [Point Reset *by TerrierDarts* *Reset all the points back to zero.*](/extensions/points-system/pointreset)
+* [Points Reset *by TerrierDarts* *Reset points for all users back to zero.*](/extensions/points-system/pointreset)
 {.links-list}
 
-# Point System (Games)
+# Points System (Games)
 
-* [Slots *by TerrierDarts* *A Classic Slots Game*](/extensions/points-system/slots)
+* [Slots *by TerrierDarts* *A Classic Slots Game.*](/extensions/points-system/slots)
 {.links-list}
-* [Gamble *by TerrierDarts* *Gamble your points with this game*](/extensions/points-system/gamble)
+* [Gamble *by TerrierDarts* *Gamble your points with this game.*](/extensions/points-system/gamble)
 {.links-list}
-* [Raffle *by TerrierDarts* *Run Raffles on your stream with plenty of control*](/extensions/points-system/raffle)
+* [Raffle *by TerrierDarts* *Run Raffles on your stream with plenty of control.*](/extensions/points-system/raffle)
 {.links-list}
-* [Free For All's *by TerrierDarts* *Run Free-For-Alls and see who is the winner*](/extensions/points-system/ffa)
+* [Free For All's *by TerrierDarts* *Run Free-For-Alls and see who is the winner.*](/extensions/points-system/ffa)
 {.links-list}
-* [Lotto *by TerrierDarts* *Run Lotto Draws on your Stream*](/extensions/points-system/lotto)
+* [Lotto *by TerrierDarts* *Run Lotto Draws on your Stream.*](/extensions/points-system/lotto)
 {.links-list}
 * [Boss Battles *by TerrierDarts* *Coming Soon*](/extensions/points-system/bossbattles)
 {.links-list}
