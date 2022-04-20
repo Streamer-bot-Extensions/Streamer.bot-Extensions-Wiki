@@ -2,7 +2,7 @@
 title: Points System
 description: Links to all the extensions that use Streamer.bot's points system.
 published: true
-date: 2022-04-20T13:57:45.096Z
+date: 2022-04-20T15:59:45.225Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:11:37.622Z
@@ -22,11 +22,11 @@ Below you can find the core Points System and a list of all the extensions that 
 
 * [Add Ranks *by VRFlad* *Add user ranks to the Points System.*](/extensions/points-system/points-system-add-ranks)
 {.links-list}
-* [Point Transfer *by GoWMan* *Transfer your SE or SL Points into Streamerbot*](/extensions/points-system/points-system-add-ranks)
+* [Point Transfer *by GoWMan* *Transfer your SE or SL Points into Streamerbot*](/extensions/points-system/pointtransfer)
 {.links-list}
-* [Leader board *by TerrierDarts* *Show the Users with the Top Points.*](/extensions/points-system/points-system-add-ranks)
+* [Leader board *by TerrierDarts* *Show the Users with the Top Points.*](/extensions/points-system/leaderboard)
 {.links-list}
-* [Point Reset *by TerrierDarts* *Reset all the points back to zero.*](/extensions/points-system/points-system-add-ranks)
+* [Point Reset *by TerrierDarts* *Reset all the points back to zero.*](/extensions/points-system/pointreset)
 {.links-list}
 
 # Point System (Games)
