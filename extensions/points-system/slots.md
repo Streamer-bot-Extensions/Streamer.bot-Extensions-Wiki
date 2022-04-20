@@ -2,7 +2,7 @@
 title: Slots
 description: Allow your viewers to bet there points on this fully customisable slot machine!
 published: true
-date: 2022-04-20T17:54:38.258Z
+date: 2022-04-20T17:54:54.550Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T16:02:15.587Z
@@ -45,3 +45,5 @@ You can use `!slotemote` followed by `add` or `remove`and the emote name to Add 
 `numOfEmotes` This is the amount of emotes you want to be avaliable (minus 1)
 `defaultBet` This is the amount the bet will be if the user doesnt specify 
 `winMulti` This is the amount the user will win of there bet multiplied.
+
+
