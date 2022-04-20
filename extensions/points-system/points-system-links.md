@@ -2,7 +2,7 @@
 title: Points System
 description: Links to all the extensions that use Streamer.bot's points system.
 published: true
-date: 2022-04-20T15:59:45.225Z
+date: 2022-04-20T16:00:54.771Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:11:37.622Z
@@ -31,19 +31,19 @@ Below you can find the core Points System and a list of all the extensions that 
 
 # Point System (Games)
 
-* [Slots *by TerrierDarts* *A Classic Slots Game*](/extensions/points-system/points-system-core)
+* [Slots *by TerrierDarts* *A Classic Slots Game*](/extensions/points-system/slots)
 {.links-list}
-* [Gamble *by TerrierDarts* *Gamble your points with this game*](/extensions/points-system/points-system-core)
+* [Gamble *by TerrierDarts* *Gamble your points with this game*](/extensions/points-system/gamble)
 {.links-list}
-* [Raffle *by TerrierDarts* *Run Raffles on your stream with plenty of control*](/extensions/points-system/points-system-core)
+* [Raffle *by TerrierDarts* *Run Raffles on your stream with plenty of control*](/extensions/points-system/raffle)
 {.links-list}
-* [Free For All's *by TerrierDarts* *Run Free-For-Alls and see who is the winner*](/extensions/points-system/points-system-core)
+* [Free For All's *by TerrierDarts* *Run Free-For-Alls and see who is the winner*](/extensions/points-system/ffa)
 {.links-list}
-* [Lotto *by TerrierDarts* *Run Lotto Draws on your Stream*](/extensions/points-system/points-system-core)
+* [Lotto *by TerrierDarts* *Run Lotto Draws on your Stream*](/extensions/points-system/lotto)
 {.links-list}
-* [Boss Battles *by TerrierDarts* *Coming Soon*](/extensions/points-system/points-system-core)
+* [Boss Battles *by TerrierDarts* *Coming Soon*](/extensions/points-system/bossbattles)
 {.links-list}
-* [Heist *by TerrierDarts* *Coming Soon*](/extensions/points-system/points-system-core)
+* [Heist *by TerrierDarts* *Coming Soon*](/extensions/points-system/heist)
 {.links-list}
-* [Casino Style Roulette *by TerrierDarts* *Coming Soon*](/extensions/points-system/points-system-core)
+* [Casino Style Roulette *by TerrierDarts* *Coming Soon*](/extensions/points-system/roulette)
 {.links-list}
