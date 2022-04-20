@@ -2,13 +2,13 @@
 title: Walkon Sounds (by Geocym)
 description: This simple set of actions allows you to have a custom entrance sound for each of your regulars.
 published: true
-date: 2022-04-20T01:35:00.269Z
+date: 2022-04-20T03:28:30.762Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:34:57.535Z
 ---
 
-# Custom Walk on Sounds (by Geocym)
+# Walk on Sounds (by Geocym)
 
 ## Description
 One way to engage with your community is to give your regulars a custom sound that plays the first time they talk in chat 
