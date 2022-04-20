@@ -1,8 +1,8 @@
 ---
-title: Slots
+title: Slots (by TerrierDarts)
 description: Allow your viewers to bet there points on this fully customisable slot machine!
 published: true
-date: 2022-04-20T17:54:54.550Z
+date: 2022-04-20T23:24:39.521Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T16:02:15.587Z
