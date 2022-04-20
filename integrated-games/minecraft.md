@@ -2,7 +2,7 @@
 title: Minecraft (by KK964)
 description: Streamer.bot extension for Minecraft.
 published: true
-date: 2022-04-20T04:42:25.776Z
+date: 2022-04-20T04:43:39.949Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:51:00.284Z
@@ -21,7 +21,8 @@ The output plugin will be in target/
 * [Streamer.bot *Using the plugin in Streamer.bot*](/integrated-games/minecraft/streamer-bot)
 {.links-list}
 
-## Simple getting started
+## Simple Getting Started
+
 ### Connecting to the websocket
 - Connect as if it were a normal websocket server
 - Authentication
