@@ -2,7 +2,7 @@
 title: Streamer.bot
 description: Using the plugin in Streamer.bot.
 published: true
-date: 2022-04-20T04:30:59.326Z
+date: 2022-04-20T04:31:50.206Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T04:30:59.326Z
@@ -10,7 +10,7 @@ dateCreated: 2022-04-20T04:30:59.326Z
 
 # Using the Plugin in [Streamer.bot](https://streamer.bot/)
 
-For setting up the Minecraft server, please see the [Getting Started](https://github.com/KK964/Minecraft_Websocket_Intergration/wiki/GettingStarted) page.
+For setting up the Minecraft server, please see the [Getting Started](/integrated-games/minecraft/getting-started) page.
 
 ## Make sure that you have [Streamer.bot](https://streamer.bot/) installed before following guide!
 
