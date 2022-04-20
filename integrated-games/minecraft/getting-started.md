@@ -1,8 +1,8 @@
 ---
 title: Getting Started
-description: 
+description: Start here first.
 published: true
-date: 2022-04-20T04:27:51.151Z
+date: 2022-04-20T04:36:15.023Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T04:20:25.410Z
