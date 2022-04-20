@@ -2,7 +2,7 @@
 title: Points System Links
 description: Links to all the extensions that use Streamer.bot's points system.
 published: true
-date: 2022-04-20T02:36:18.146Z
+date: 2022-04-20T05:02:07.164Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:11:37.622Z
@@ -20,5 +20,5 @@ Below you can find the core Points System and a list of all the extensions that 
 
 # Points System (Extensions)
 
-* [Add Ranks *by VRFlad*](/extensions/points-system/points-system-add-ranks)
+* [Add Ranks *by VRFlad* *Add user ranks to the Points System.*](/extensions/points-system/points-system-add-ranks)
 {.links-list}
