@@ -2,7 +2,7 @@
 title: Points System Links
 description: Links to all the extensions that use Streamer.bot's points system.
 published: true
-date: 2022-04-20T02:31:22.532Z
+date: 2022-04-20T02:35:21.849Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:11:37.622Z
@@ -20,9 +20,5 @@ Below you can find a list of all the extensions that utilize Streamer.bot's Poin
 
 # Points System (Extensions)
 
-* [StreamDeck](https://github.com/nate1280/streamdeck-Streamer.bot)
-* [TouchPortal](https://www.christophecvb.com/touch-portal/plugins/streamer-bot)
-* [Voice Attack](https://github.com/nate1280/voiceattack-Streamer.bot)
-* LoupeDeck (Discontinued Until LoupeDeck makes a plugin available)
-* [DeckBoard *Can be installed through the server app*](https://github.com/rivafarabi/streamerbot-deckboard)
+* [Add Ranks *by VRFlad*](/extensions/points-system/points-system-add-ranks)
 {.links-list}
