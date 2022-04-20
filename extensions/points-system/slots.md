@@ -2,7 +2,7 @@
 title: Slots
 description: Allow your viewers to bet there points on this fully customisable slot machine!
 published: true
-date: 2022-04-20T16:31:25.022Z
+date: 2022-04-20T17:54:38.258Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T16:02:15.587Z
@@ -36,3 +36,12 @@ You will need to add the following Commands
 !slot,!slots  = Tied to Slots (everyone)
 ```
 Then you will need to do `!slotsetup` to create the list of emotes, this action is a one time use.
+You can use `!slotemote` followed by `add` or `remove`and the emote name to Add or Remove Emotes 
+```
+!slotemote add Kappa
+!slotemote remove Kappa
+```
+## Settings
+`numOfEmotes` This is the amount of emotes you want to be avaliable (minus 1)
+`defaultBet` This is the amount the bet will be if the user doesnt specify 
+`winMulti` This is the amount the user will win of there bet multiplied.
