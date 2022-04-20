@@ -2,7 +2,7 @@
 title: Raffle
 description: Run Raffles on your stream to give your viewers chance to win big rewards!
 published: true
-date: 2022-04-20T19:22:12.375Z
+date: 2022-04-20T19:28:10.044Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T16:04:47.155Z
@@ -27,7 +27,9 @@ You will need to set up the following commands.
 !raffle = Tied to Raffle Start 
 !join 	= Tied to Raffle Join
 ```
-{warning}
+>**You can use this with timed actions if you wish, it will just use the `defaultprize` as the payout!**{is-warning}
+
+>**You may want to enable the command `!join` on starting a raffle and then disable it on a raffle ending.**{is.danger}
 ## Editable Settings
 ### Raffle Start
 `defaultprize` This is the default prize if one isnt specified.
