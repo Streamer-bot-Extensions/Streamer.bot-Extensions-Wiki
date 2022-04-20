@@ -2,7 +2,7 @@
 title: Minecraft Websocket Integration (by KK964)
 description: Streamer.bot extension for Minecraft.
 published: true
-date: 2022-04-20T04:44:11.551Z
+date: 2022-04-20T04:47:23.496Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:51:00.284Z
@@ -10,7 +10,8 @@ dateCreated: 2022-04-20T02:51:00.284Z
 
 # Minecraft Websocket Integration (by KK964)
 
- Allows websockets to run commands on your server
+## Description
+ Allows websockets to run commands on your server.
 
 ### Building
     $ mvn
