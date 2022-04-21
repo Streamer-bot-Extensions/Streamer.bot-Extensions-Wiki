@@ -2,7 +2,7 @@
 title: Add Ranks (by VRFlad)
 description: Points with Ranking.
 published: true
-date: 2022-04-21T03:35:39.820Z
+date: 2022-04-21T05:56:03.723Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:33:59.539Z
@@ -33,5 +33,6 @@ If a `Command` is already setup for `!points` from the [Points System (by VRFlad
 If a `Command` is not setup for `!points` from the [Points System (by VRFlad)](/en/extensions/points-system/points-system-core) then create a `Command` called `!points` and tie it to the `Action` `Current points with Rank` and set to `Exact`.
 
 > This will allow for a user to use `!points` to see their total points and current rank.
+{.is-info}
 
 ![points-system-points-add-ranks-points-command.png](/extensions/points-system/images/points-system-points-add-ranks-points-command.png)
