@@ -2,7 +2,7 @@
 title: Points System (by VRFlad)
 description: The core extension to allow Streamer.bot to have channel points without the need for being a Twitch Affliate.
 published: true
-date: 2022-04-21T00:33:27.113Z
+date: 2022-04-21T01:46:12.180Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:20:49.109Z
@@ -29,9 +29,54 @@ TlM0RR+LCAAAAAAABADtXelvGku2//6k9z+gSJHmaabyau2uHmk+2CTG2IlvbGLAvMyH2hq4bpZhsY1H
 ![points-system-import.png](/extensions/points-system/points-system-import.png)
 
 ## Setup
-First we need to set the `Action` `Points-timed` to the `Event` `Present Viewers`.
+To automatically give points to your viewers while watching set the `Action` `Points-timed` to the `Event` `Present Viewers`.
 
 ![points-system-present-viewers.png](/extensions/points-system/points-system-present-viewers.png)
+
+To award points to users when they raid and/or host you set the `Action` `events trigger to add points to user (host / raid)` to the `Event` `Raid` and/or the `Event` `Host`.
+
+![points-system-raid.png](/extensions/points-system/points-system-raid.png)
+![points-system-host.png](/extensions/points-system/points-system-host.png)
+
+### Moderator and/or Broadcaster Only Commands
+Create a `Command` called `!pointsname` that is tied to the `Action` `pointsname` and set to `Start`.
+>For example using `!pointsname UFO's` will set your points name to UFO's.
+
+![points-system-points-name-command.png](/extensions/points-system/points-system-points-name-command.png)
+
+To retrieve the name of the points setup a `Command` called `!getpointsname` that is tied to the `Action` `getpointsname` and set to `Exact`.
+>For example using `!getpointsname` will return the name of the points you have set from using `!pointsname`. 
+
+![points-system-get-points-name-command.png](/extensions/points-system/points-system-get-points-name-command.png)
+
+To set a user's points manually setup a `Command` called `!setpoints` that is tied to the `Action` `Setpoints (for Streamer / Mod)` and set to `Start`.
+>For example using `!setpoints VRFlad 100` will set VRFlad's points to a total of 100 points.
+
+> This will overwrite a user's total points!
+{.is-danger}
+
+![points-system-set-points-command.png](/extensions/points-system/points-system-set-points-command.png)
+
+To be able to give users points setup a `Command` called `!addpoints` that is tied to the `Action` `Addpoints (for Streamer / Mod)` and set to `Start`.
+
+>For example using `!addpoints VRFlad 100` will give VRFlad 100 points.
+
+![points-system-add-points-command.png](/extensions/points-system/points-system-add-points-command.png)
+
+### User Commands
+
+To allow users to view their total points setup a `Command` called `!points` that is tied to the `Action` `Current points per user` and set to `Exact`.
+>For example when a user uses `!points` in chat it will return `user, you have points pointsname.`
+> (i.e `VRFlad, you have 100 UFO's.`)
+
+![points-system-points-command.png](/extensions/points-system/points-system-points-command.png)
+
+
+
+
+
+
+
 
 
 
