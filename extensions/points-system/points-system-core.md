@@ -2,7 +2,7 @@
 title: Points System (by VRFlad)
 description: The core extension to allow Streamer.bot to have channel points without the need for being a Twitch Affliate.
 published: true
-date: 2022-04-20T02:20:52.077Z
+date: 2022-04-21T00:07:10.791Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:20:49.109Z
@@ -12,6 +12,10 @@ dateCreated: 2022-04-20T02:20:49.109Z
 
 ## Description
 This is the core Points System need to utilize all the extensions on this page.  This Points System by VRFlad will allow your viewers to gain channel points while viewing your stream.  Coupled with the other extensions it will allow your viewers to spend points on chat games, giveaways, and more all without the need for Twitch Affiliation!
+
+## Tutorial Video
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/VCnoT7wqNrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Installation
 This setup allows an easy way to have a points system in Streamer.bot without any complicated maintenence and should allow for a one and done setup.
