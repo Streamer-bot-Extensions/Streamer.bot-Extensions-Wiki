@@ -2,7 +2,7 @@
 title: Add Ranks (by VRFlad)
 description: Points with Ranking.
 published: true
-date: 2022-04-21T03:25:41.780Z
+date: 2022-04-21T03:35:39.820Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:33:59.539Z
@@ -24,7 +24,7 @@ TlM0RR+LCAAAAAAABADtWk1vGzcQvRfof1gY8C1T8Pujt7SHIpeiyCGXogeSM0yEyJKqjyRGkP/e4cpO
 
 ![points-system-points-add-ranks-import.png](/extensions/points-system/images/points-system-points-add-ranks-import.png)
 
-## Setup
+## Configuration
 
 If a `Command` is already setup for `!points` from the [Points System (by VRFlad)](/en/extensions/points-system/points-system-core) then change the `Action` tied to it to the `Action` `Current points with Rank`.
 
