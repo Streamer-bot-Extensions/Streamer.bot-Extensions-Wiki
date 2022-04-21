@@ -2,7 +2,7 @@
 title: Points System (by VRFlad)
 description: The core extension to allow Streamer.bot to have channel points without the need for being a Twitch Affliate.
 published: true
-date: 2022-04-21T03:41:51.759Z
+date: 2022-04-21T05:15:22.376Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:20:49.109Z
@@ -56,7 +56,7 @@ To retrieve the name of the points setup a `Command` called `!getpointsname` tha
 
 To set a user's points manually setup a `Command` called `!setpoints` that is tied to the `Action` `Setpoints (for Streamer / Mod)` and set to `Start`.
 >For example using `!setpoints VRFlad 100` will set VRFlad's points to a total of 100 points.
->
+
 > This will overwrite a user's total points!
 {.is-danger}
 
@@ -99,7 +99,7 @@ Create a `Command` called `!pointssetcctotal` that is tied to the `Action` `poin
 ![points-system-cc-totalpoints.png](/extensions/points-system/images/points-system-cc-totalpoints.png)
 
 Create a `Command` called `!pointsccreset` that is tied to the `Action` `points-cc-reset` and set to `Exact`.
->Using `!pointsccrest` will reset your Community Challenge and clear out the all the points contributed!
+>Using `!pointsccreset` will reset your Community Challenge and clear out the all the points contributed!
 {.is-danger}
 
 ![points-system-cc-reset.png](/extensions/points-system/images/points-system-cc-reset.png)
