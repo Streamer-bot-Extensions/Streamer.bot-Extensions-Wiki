@@ -2,13 +2,16 @@
 title: Add Ranks (by VRFlad)
 description: Points with Ranking.
 published: true
-date: 2022-04-21T02:51:38.199Z
+date: 2022-04-21T03:14:08.331Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:33:59.539Z
 ---
 
 # Add Ranks (by VRFlad)
+
+## Description
+This extension will add ranks to the Core Points System by VRFlad!
 
 Points with Ranking (need to set !points command to "Current Points with Rank" command. 
 Import string:
