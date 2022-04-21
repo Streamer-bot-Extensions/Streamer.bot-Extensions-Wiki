@@ -10,7 +10,7 @@ dateCreated: 2022-04-20T01:15:10.917Z
 
 ![streamerbot.png](./logos/streamerbot.png){.align-abstopright}
 
-# Welcome to Streamer.bot
+# Welcome to Streamer.bot Extensions
 
 Documentation for Streamer.bot. Here are the changelogs and information on all aspects of the application.
 
