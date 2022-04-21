@@ -41,4 +41,4 @@ Ensure the `Run on UI Thread` checkbox is ticked or the application is liable to
 
 When the action executes a window similar to the one shown should pop up, listing all the arguments and their contents
 
-![arguments-viewer.png](/extensions/arguments-viewer/arguments-viewer.png)
+![arguments-viewer.png](/extensions/arguments-viewer/images/arguments-viewer.png)
