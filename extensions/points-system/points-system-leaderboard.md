@@ -9,12 +9,20 @@ dateCreated: 2022-04-20T15:52:36.015Z
 ---
 
 # Coming Soon
+
 # Leaderboard (By TerrierDarts)
+
 The Leader Board Extention will allow you to see which users have the most points.
+
 # Import Code
+
 code
+
 # Code Pen (optional)
+
 CodePen Link
+
 # Configuration
+
 !rank
 !points

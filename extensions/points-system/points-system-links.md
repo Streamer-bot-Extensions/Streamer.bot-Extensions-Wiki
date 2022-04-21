@@ -11,14 +11,15 @@ dateCreated: 2022-04-20T02:11:37.622Z
 # Points System
 
 ## Description
+
 Below you can find the core Points System and a list of all the extensions that utilize Streamer.bot's Points System created by VRFlad.
 
-# Points System (Core)
+## Points System (Core)
 
 * [Points System *by VRFlad* *The main extension for points in Streamer.bot.  You must have this to use other extensions listed below.*](/extensions/points-system/points-system-core)
 {.links-list}
 
-# Points System (Tools)
+## Points System (Tools)
 
 * [Add Ranks *by VRFlad* *Add user ranks to the Points System.*](/extensions/points-system/points-system-add-ranks)
 {.links-list}
@@ -29,7 +30,7 @@ Below you can find the core Points System and a list of all the extensions that 
 * [Points Reset *by TerrierDarts* *Reset points for all users back to zero.*](/extensions/points-system/points-system-points-reset)
 {.links-list}
 
-# Points System (Games)
+## Points System (Games)
 
 * [Slots *by TerrierDarts* *A Classic Slots Game.*](/extensions/points-system/points-system-slots)
 {.links-list}
