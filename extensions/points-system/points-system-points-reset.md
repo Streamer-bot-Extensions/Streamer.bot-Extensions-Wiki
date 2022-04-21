@@ -2,7 +2,7 @@
 title: Points Reset (by TerrierDarts)
 description: This extension will allow you to reset your points all back to zero if you so wish.
 published: true
-date: 2022-04-21T12:38:56.953Z
+date: 2022-04-21T12:41:08.682Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T15:58:30.664Z
@@ -39,3 +39,5 @@ You will also need to create the following command.
 !resetVariable Tokens 
 >>Output = Tokens have been reset.
 ```
+> Remember when using the `!resetVariable` command that it may need to case match, it may work either way but it's better to be safe.
+{.is-warning}
