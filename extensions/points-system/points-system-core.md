@@ -2,7 +2,7 @@
 title: Points System (by VRFlad)
 description: The core extension to allow Streamer.bot to have channel points without the need for being a Twitch Affliate.
 published: true
-date: 2022-04-21T01:46:12.180Z
+date: 2022-04-21T02:11:48.733Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:20:49.109Z
@@ -71,6 +71,29 @@ To allow users to view their total points setup a `Command` called `!points` tha
 
 ![points-system-points-command.png](/extensions/points-system/points-system-points-command.png)
 
+#### !buywithpoints Sample
+
+The `Action` `Points-sampleredeem` is an example `Action` you can use to allow users to redeem things on stream while you are live.  The `Commands` made need to be called `!buywithpoints <Name>` and set to `Exact`.  The following image shows how to do this with the `Action` `Points-sampleredeem`:
+
+![points-system-buywithpoints-sample-command.png](/extensions/points-system/points-system-buywithpoints-sample-command.png)
+
+## Community Challenge (Optional)
+
+To use the Points System optional Community Challenge the following commands should be created:
+
+### Moderator and/or Broadcaster Only Commands
+
+Create a `Command` called `!pointssetcctotal` that is tied to the `Action` `points-cc-totalpoints` and set to `Start`.
+>For example using `!pointsname UFO's` will set your points name to UFO's.
+
+![points-system-cc-totalpoints.png](/extensions/points-system/points-system-cc-totalpoints.png)
+
+### User Commands
+
+To allow users to contribute points to the community challenge setup a `Command` called `!contribute` that is tied to the `Action` `points-cc-contribute` and set to `Start`.
+>For example when a user uses `!contribute 100` in chat it will add 100 points to the community challenge and deduct the points from the user's points total.
+
+![points-system-cc-contribute.png](/extensions/points-system/points-system-cc-contribute.png)
 
 
 
