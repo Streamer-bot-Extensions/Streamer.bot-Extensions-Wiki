@@ -2,7 +2,7 @@
 title: Points System (by VRFlad)
 description: The core extension to allow Streamer.bot to have channel points without the need for being a Twitch Affliate.
 published: true
-date: 2022-04-21T03:07:13.204Z
+date: 2022-04-21T03:34:57.342Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:20:49.109Z
@@ -28,7 +28,7 @@ TlM0RR+LCAAAAAAABADtXelvGku2//6k9z+gSJHmaabyau2uHmk+2CTG2IlvbGLAvMyH2hq4bpZhsY1H
 ```
 ![points-system-import.png](/extensions/points-system/images/points-system-import.png)
 
-## Setup
+## Configuration
 To automatically give points to your viewers while watching set the `Action` `Points-timed` to the `Event` `Present Viewers`.
 
 ![points-system-present-viewers.png](/extensions/points-system/images/points-system-present-viewers.png)
