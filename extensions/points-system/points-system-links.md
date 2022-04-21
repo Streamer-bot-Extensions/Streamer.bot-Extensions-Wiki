@@ -2,7 +2,7 @@
 title: Points System
 description: Links to all the extensions that use Streamer.bot's points system.
 published: true
-date: 2022-04-21T00:14:56.884Z
+date: 2022-04-21T00:15:22.088Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:11:37.622Z
@@ -26,7 +26,7 @@ Below you can find the core Points System and a list of all the extensions that 
 {.links-list}
 * [Leaderboard *by TerrierDarts* *Show the Users with the Top Points.*](/extensions/points-system/points-system-leaderboard)
 {.links-list}
-* [Points Reset *by TerrierDarts* *Reset points for all users back to zero.*](/extensions/points-system/points-system/points-reset)
+* [Points Reset *by TerrierDarts* *Reset points for all users back to zero.*](/extensions/points-system/points-system-points-reset)
 {.links-list}
 
 # Points System (Games)
