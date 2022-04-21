@@ -2,7 +2,7 @@
 title: Add Ranks (by VRFlad)
 description: Points with Ranking.
 published: true
-date: 2022-04-21T03:24:51.291Z
+date: 2022-04-21T03:25:41.780Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:33:59.539Z
@@ -11,7 +11,7 @@ dateCreated: 2022-04-20T02:33:59.539Z
 # Add Ranks (by VRFlad)
 
 ## Description
-This extension will add ranks to the Core Points System by VRFlad!
+This extension will add ranks to the [Points System (by VRFlad)](/en/extensions/points-system/points-system-core).
 
 ## Installation
 This setup allows an easy way to add ranks to the points system in Streamer.bot without any complicated maintenence and should allow for a one and done setup.
