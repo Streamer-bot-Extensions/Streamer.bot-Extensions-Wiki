@@ -2,7 +2,7 @@
 title: Points System (by VRFlad)
 description: The core extension to allow Streamer.bot to have channel points without the need for being a Twitch Affliate.
 published: true
-date: 2022-04-21T05:16:14.566Z
+date: 2022-04-21T05:55:28.823Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:20:49.109Z
@@ -56,6 +56,7 @@ To retrieve the name of the points setup a `Command` called `!getpointsname` tha
 
 To set a user's points manually setup a `Command` called `!setpoints` that is tied to the `Action` `Setpoints (for Streamer / Mod)` and set to `Start`.
 >For example using `!setpoints VRFlad 100` will set VRFlad's points to a total of 100 points.
+{.is-info}
 
 > This will overwrite a user's total points!
 {.is-danger}
@@ -65,6 +66,7 @@ To set a user's points manually setup a `Command` called `!setpoints` that is ti
 To be able to give users points setup a `Command` called `!addpoints` that is tied to the `Action` `Addpoints (for Streamer / Mod)` and set to `Start`.
 
 >For example using `!addpoints VRFlad 100` will give VRFlad 100 points.
+{.is-info}
 
 ![points-system-add-points-command.png](/extensions/points-system/images/points-system-add-points-command.png)
 
@@ -73,6 +75,7 @@ To be able to give users points setup a `Command` called `!addpoints` that is ti
 To allow users to view their total points setup a `Command` called `!points` that is tied to the `Action` `Current points per user` and set to `Exact`.
 >For example when a user uses `!points` in chat it will return `user, you have points pointsname.`
 > (i.e `VRFlad, you have 100 UFO's.`)
+{.is-info}
 
 ![points-system-points-command.png](/extensions/points-system/images/points-system-points-command.png)
 
@@ -90,6 +93,7 @@ To use the Points System optional Community Challenge the following commands sho
 
 Create a `Command` called `!pointsccsetname` that is tied to the `Action` `points-cc-setname` and set to `Start`.
 >For example using `!pointsccsetname This month's Community Challenge will benefit UNICEF!` will set your Community Challenge Description to `This month's Community Challenge will benefit UNICEF!`
+{.is-info}
 
 ![points-system-cc-set-name.png](/extensions/points-system/images/points-system-cc-set-name.png)
 
@@ -108,10 +112,12 @@ Create a `Command` called `!pointsccreset` that is tied to the `Action` `points-
 
 To allow users to view the community challenge status setup a `Command` called `!pointscc` that is tied to the `Action` `points-communitychallenge` and set to `Exact`.
 >For example when a user uses `!pointscc` in chat it will return `The` `pointsname` `challenge -` `communitychallengename` `is at` `communitychallengecurrpoints` `out of` `communitychallengetotalpoints.` if there is a Community Challenge active.  Otherwise, it will return `There is no current` `pointsname` `community challenge.`
+{.is-info}
 
 ![points-system-cc-status.png](/extensions/points-system/images/points-system-cc-status.png)
 
 To allow users to contribute points to the community challenge setup a `Command` called `!contribute` that is tied to the `Action` `points-cc-contribute` and set to `Start`.
 >For example when a user uses `!contribute 100` in chat it will add 100 points to the Community Challenge and deduct the points from the user's points total.
+{.is-info}
 
 ![points-system-cc-contribute.png](/extensions/points-system/images/points-system-cc-contribute.png)
