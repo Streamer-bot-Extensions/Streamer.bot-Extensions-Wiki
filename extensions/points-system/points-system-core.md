@@ -2,7 +2,7 @@
 title: Points System (by VRFlad)
 description: The core extension to allow Streamer.bot to have channel points without the need for being a Twitch Affliate.
 published: true
-date: 2022-04-21T05:55:28.823Z
+date: 2022-04-22T01:11:04.059Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:20:49.109Z
@@ -46,11 +46,13 @@ To award points to users when they raid and/or host you set the `Action` `events
 
 Create a `Command` called `!pointsname` that is tied to the `Action` `pointsname` and set to `Start`.
 >For example using `!pointsname UFO's` will set your points name to UFO's.
+{.is-info}
 
 ![points-system-points-name-command.png](/extensions/points-system/images/points-system-points-name-command.png)
 
 To retrieve the name of the points setup a `Command` called `!getpointsname` that is tied to the `Action` `getpointsname` and set to `Exact`.
 >For example using `!getpointsname` will return the name of the points you have set from using `!pointsname`.
+{.is-info}
 
 ![points-system-get-points-name-command.png](/extensions/points-system/images/points-system-get-points-name-command.png)
 
@@ -99,6 +101,7 @@ Create a `Command` called `!pointsccsetname` that is tied to the `Action` `point
 
 Create a `Command` called `!pointssetcctotal` that is tied to the `Action` `points-cc-totalpoints` and set to `Start`.
 >For example using `!pointssetcctotal 10000` will set your Community Challenge Goal to 10,000 points.
+{.is-info}
 
 ![points-system-cc-totalpoints.png](/extensions/points-system/images/points-system-cc-totalpoints.png)
 
