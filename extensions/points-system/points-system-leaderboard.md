@@ -2,7 +2,7 @@
 title: Leader Board (by TerrierDarts)
 description: This tool will allow you to see which users have the most points, it comes with a codepen for visuals of Top 5 but you can post in chat up to 20 people. Twitch Character Limit may prevent more.
 published: true
-date: 2022-04-23T10:05:47.327Z
+date: 2022-04-23T10:10:08.130Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T15:52:36.015Z
@@ -19,7 +19,7 @@ Import Code Coming Soon
 
 # Code Pen (optional)
 
-[codepen.io](The CodePen)
+* [The CodePen](codepen.io)
 {.links-list}
 
 The Codepen can be altered if you so wish, you can change the title on the leaderboard by changing the `Top Points` text in the html. You can also change the colours if you wish by playing with the CSS. Around line 134 there is a `nth-child` and under that it say background, altering that hexcode will change the colour.
@@ -58,5 +58,5 @@ Final step would be to add the Browser Source Url from the Codepen into the `fil
 > It's important to note that if you choose a number too high for boardSize the message may not post due to twitch's own message character limit. 
 {.is-info}
 
-#### Youtube Video
-[www.youtube.com](Youtube)
+## Youtube Video
+If you want you can [click here](www.youtube.com) and watch TerrierDarts quick video on how to set this up, and if you have anymore questions you can ask in the StreamSaver or Streamerbot Discord.
