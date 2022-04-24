@@ -2,7 +2,7 @@
 title: Stream Chat (by izzy)
 description: OBS Chat Overlay for Streamer.bot.
 published: true
-date: 2022-04-24T18:55:20.448Z
+date: 2022-04-24T18:57:54.808Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-24T18:51:29.459Z
@@ -12,6 +12,8 @@ dateCreated: 2022-04-24T18:51:29.459Z
 
 ## Description
 Chat Overlay for OBS based on [Streamer.bot](https://streamer.bot/)'s websocket, using pronouns from [pronouns.alejo.io](https://pronouns.alejo.io/).
+
+![stream-chat-example.png](/extensions/overlays/stream-chat/images/stream-chat-example.png)
 
 ## Installation
 
