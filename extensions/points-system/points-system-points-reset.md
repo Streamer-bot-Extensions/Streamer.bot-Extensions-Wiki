@@ -2,7 +2,7 @@
 title: Points Reset (by TerrierDarts)
 description: This extension will allow you to reset your points all back to zero if you so wish.
 published: true
-date: 2022-04-24T18:08:18.524Z
+date: 2022-04-24T18:09:20.532Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T15:58:30.664Z
@@ -14,6 +14,7 @@ dateCreated: 2022-04-20T15:58:30.664Z
 This extension will allow you to reset all you current users points back to 0. This works by unsetting the current user variables that are named "points", based of VRFlads Points system. There is a 2nd action included that will allow you to reset any user variable.
 
 ## Tutorial
+<br>
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/Y2j4f_bEqhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Installation
