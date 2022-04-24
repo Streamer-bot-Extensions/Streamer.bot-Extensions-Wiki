@@ -2,7 +2,7 @@
 title: Leaderboard (by TerrierDarts)
 description: This tool will allow you to see which users have the most points, it comes with a codepen for visuals of Top 5 but you can post in chat up to 20 people. Twitch Character Limit may prevent more.
 published: true
-date: 2022-04-24T18:24:10.493Z
+date: 2022-04-24T18:26:06.950Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T15:52:36.015Z
@@ -15,7 +15,7 @@ The Leader Board Extention will allow you to see which users have the most point
 
 ## Tutorial
 <br>
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/4txKsjOBsyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/4txKsjOBsyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Installation
 Copy the text from the code box below into the `Import` box in Streamer.bot to add these to your action library:
