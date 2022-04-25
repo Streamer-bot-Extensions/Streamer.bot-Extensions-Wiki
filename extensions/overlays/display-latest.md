@@ -2,7 +2,7 @@
 title: Display Latest (by VRFlad)
 description: Display latest subs, followers, etc. through Streamer.bot.
 published: true
-date: 2022-04-25T05:13:34.838Z
+date: 2022-04-25T05:16:20.717Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-24T23:50:10.985Z
@@ -51,23 +51,23 @@ Then you can add on the following options, each separated by `&`:
 {.is-info}
 
 
-To use a different machine / port for Streamer bot than the same machine default, then you can add onto the end of the URL: ?server=machine:port 
+To use a different machine / port for Streamer.bot than the same machine default, then you can add onto the end of the URL: `?server=machine:port` 
 
 >Examples:
 >To connect to streamer bot on port 8081 rather than default 8080, whilst displaying subs, 
->https://vrflad.com/latest/?server=loc...
+>https://vrflad.com/latest/?server=localhost:8081
 >To connect to streamer bot on a different machine on IP address 192.168.0.10 with default port 8080:
->https://vrflad.com/latest/?server=192...
+>https://vrflad.com/latest/?server=192.168.0.10:8081
 {.is-info}
 
 >If you want a translated version of this, please do reach out and I can help get this set up and to link below:
 >
 >French (Merci,  https://www.twitch.tv/lebluxtv): 
-https://vrflad.com/latest/french.html? 
+`https://vrflad.com/latest/french.html?`
 >
 >Portuguese(Obrigado, https://www.twitch.tv/LiveDoEdu)
->https://vrflad.com/latest/portuguese.... 
+>`https://vrflad.com/latest/portuguese.html?`
 >
 >Spanish (Gracias, https://www.twitch.tv/dj_pole)
-https://vrflad.com/latest/spanish.html? 
+`https://vrflad.com/latest/spanish.html?`
 {.is-warning}
