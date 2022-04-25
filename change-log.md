@@ -2,7 +2,7 @@
 title: Change Log
 description: Here is a list of any updates that have been added to codes, after there initial release. 
 published: true
-date: 2022-04-24T18:22:43.950Z
+date: 2022-04-25T11:42:47.236Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-24T17:53:02.729Z
@@ -11,6 +11,9 @@ dateCreated: 2022-04-24T17:53:02.729Z
 # Change Log
 
 Here is a list of the following changes that have been made to codes since the inital release.
+## Unreleased/In Testing (WIP)
+- **(Added)** *`UserQueueSystem`* - User can now leave the queue.
+- **(Added)** *`UserQueueSystem`* - User can see there poistion when requested and when the first join. 
 ## 24th April 2022
  - **(Fixed)** *`NewGetPoints`* - Issue when the user in position 1 used command is now fixed.
  - **(Fixed)** *`Leaderboard`* - Now Works on 0.1.7.
