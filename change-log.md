@@ -2,7 +2,7 @@
 title: Change Log
 description: Here is a list of any updates that have been added to codes, after there initial release. 
 published: true
-date: 2022-04-25T11:44:32.275Z
+date: 2022-04-25T12:48:16.164Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-24T17:53:02.729Z
@@ -22,6 +22,7 @@ Here is a list of the following changes that have been made to codes since the i
  - **(Fixed)** *`Variable Reset`* - Now Works on 0.1.7.
  - **(Update)** *`ModAddedCommands`* - Code is now in one action making installing easier.
  - **(Added)** *`Lotto`* - You can now bulk buy tickets.
+ - **(Added)** *`Lotto`* - Codepen Added for Visual Effect.
  - **(Fixed)** *`ModAddedCommands`* - Minor issue when using an unknown command caused error.
  - **(Fixed)** *`Free for Alls`* - This now adds the correct amount to the pot.
  - **(Added)** *`Raffle`* - You can now set a cost to join as well as having multiple winners.
