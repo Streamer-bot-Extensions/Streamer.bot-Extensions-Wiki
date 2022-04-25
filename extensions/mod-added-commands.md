@@ -2,7 +2,7 @@
 title: Mod Added Commands
 description: This extension will allow your mods to add simple chat commands in via chat, you will also have access to many variables if you wish.
 published: true
-date: 2022-04-25T13:44:18.163Z
+date: 2022-04-25T14:51:51.233Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T13:20:44.129Z
@@ -46,6 +46,7 @@ The final command you will need to set up is a Regex Commands.
 ```
 !  = Tied to #comname3
 ```
+![modaddedcom_regex.png](/extensions/modaddedcom_regex.png)
 Once all commands are setup you will need to do `!comfirst` but you will only need to do this once, this is just to set up the list of commands for when a user does `!comlist`.
 ## Example Usuage
 ### When adding a command
