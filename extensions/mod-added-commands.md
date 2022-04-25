@@ -48,7 +48,7 @@ The final command you will need to set up is a Regex Commands.
 ```
 !  = Tied to #comname3
 ```
-![modaddedcom_regex.png](/extensions/modaddedcom_regex.png)
+![modaddedcom_regex.png](/extensions/mod-added-commands/images/modaddedcom_regex.png)
 Once all commands are setup you will need to do `!comfirst` but you will only need to do this once, this is just to set up the list of commands for when a user does `!comlist`.
 ## Example Usuage
 ### When adding a command
