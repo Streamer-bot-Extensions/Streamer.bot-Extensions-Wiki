@@ -2,7 +2,7 @@
 title: Display Latest (by VRFlad)
 description: Display latest subs, followers, etc. through Streamer.bot.
 published: true
-date: 2022-04-25T01:28:38.598Z
+date: 2022-04-25T01:29:48.203Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-24T23:50:10.985Z
@@ -11,7 +11,7 @@ dateCreated: 2022-04-24T23:50:10.985Z
 # Display Latest (by VRFlad)
 
 ## Description
-Chat Overlay for OBS based on [Streamer.bot](https://streamer.bot/)'s websocket, using pronouns from [pronouns.alejo.io](https://pronouns.alejo.io/).
+Easily show the latest sub / follow / raid / tip / cheers with this overlay and [Streamer.bot](https://streamer.bot/).
 
 ## Tutorial
 <br>
