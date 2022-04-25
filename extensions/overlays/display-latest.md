@@ -2,7 +2,7 @@
 title: Display Latest (by VRFlad)
 description: Display latest subs, followers, etc. through Streamer.bot.
 published: true
-date: 2022-04-25T01:26:38.690Z
+date: 2022-04-25T01:28:38.598Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-24T23:50:10.985Z
@@ -13,7 +13,9 @@ dateCreated: 2022-04-24T23:50:10.985Z
 ## Description
 Chat Overlay for OBS based on [Streamer.bot](https://streamer.bot/)'s websocket, using pronouns from [pronouns.alejo.io](https://pronouns.alejo.io/).
 
-![stream-chat-example.png](/extensions/overlays/stream-chat/images/stream-chat-example.png)
+## Tutorial
+<br>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/uRrAa_e_I-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Installation
 To build up the URL, for the browser source, start with URL below (note the /? at the end is required):
@@ -59,10 +61,13 @@ To use a different machine / port for Streamer bot than the same machine default
 {.is-info}
 
 >If you want a translated version of this, please do reach out and I can help get this set up and to link below:
+>
 >French (Merci,  https://www.twitch.tv/lebluxtv): 
 https://vrflad.com/latest/french.html? 
+>
 >Portuguese(Obrigado, https://www.twitch.tv/LiveDoEdu)
 >https://vrflad.com/latest/portuguese.... 
+>
 >Spanish (Gracias, https://www.twitch.tv/dj_pole)
 https://vrflad.com/latest/spanish.html? 
 {.is-warning}
