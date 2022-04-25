@@ -1,8 +1,8 @@
 ---
-title: Mod Added Commands
+title: Mod Added Commands (by TerrierDarts)
 description: This extension will allow your mods to add simple chat commands in via chat, you will also have access to many variables if you wish.
 published: true
-date: 2022-04-25T14:51:51.233Z
+date: 2022-04-25T23:01:41.792Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T13:20:44.129Z
