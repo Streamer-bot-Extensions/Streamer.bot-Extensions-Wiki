@@ -2,7 +2,7 @@
 title: Display Latest (by VRFlad)
 description: Display latest subs, followers, etc. through Streamer.bot.
 published: true
-date: 2022-04-25T01:29:48.203Z
+date: 2022-04-25T05:13:34.838Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-24T23:50:10.985Z
@@ -19,7 +19,7 @@ Easily show the latest sub / follow / raid / tip / cheers with this overlay and 
 
 ## Installation
 To build up the URL, for the browser source, start with URL below (note the /? at the end is required):
-https://vrflad.com/latest/?
+`https://vrflad.com/latest/?`
 
 Then you can add on the following options, each separated by `&`:
 
