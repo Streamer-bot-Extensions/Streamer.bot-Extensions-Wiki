@@ -15,7 +15,7 @@ This extension will allow you to reset all you current users points back to 0. T
 
 ## Tutorial
 <br>
-<iframe width="600" height="400" src="https://www.youtube.com/embed/Y2j4f_bEqhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/Y2j4f_bEqhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Installation
 Copy the text from the code box below into the `Import` box in Streamer.bot to add these to your action library:
