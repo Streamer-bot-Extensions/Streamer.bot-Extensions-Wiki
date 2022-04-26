@@ -17,8 +17,9 @@ Display a fake news overlay on stream through Streamer.bot and TwitchSpeaker.
 {.is-info}
 
 Example of what this can do shown below:
-
-![fakenews.mp4](/extensions/overlays/fake-news/images/fakenews.mp4)
+<video width="1120" height="630" controls>
+ <source src="/extensions/overlays/fake-news/images/fakenews.mp4" type="video/mp4">
+</video>
 
 ## Installation
 
@@ -31,7 +32,7 @@ TlM0RR+LCAAAAAAABAC1VU1v2zAMvQ/of9AMBNiAKPG34wDDUBTo0EsPPfSy7EBJdOpFlj3ZbhoU/e+T
 ![fake-news-overlay-import.png](/extensions/overlays/fake-news/images/fake-news-overlay-import.png)
 
 Extract zip file below into a folder of your choice:
-![fakenews.zip](/extensions/overlays/fake-news/files/fakenews.zip)
+[Fake News.zip](/extensions/overlays/fake-news/files/fakenews.zip)
 
 ## Configuration
 
