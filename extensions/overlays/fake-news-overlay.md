@@ -18,7 +18,7 @@ Display a fake news overlay on stream through Streamer.bot and TwitchSpeaker.
 
 Example of what this can do shown below:
 <video width="1120" height="630" controls>
- <source src="/extensions/overlays/fake-news/images/fakenews.mp4" type="video/mp4">
+<source src="/extensions/overlays/fake-news/images/fakenews.mp4" type="video/mp4">
 </video>
 
 ## Installation
@@ -50,7 +50,10 @@ Update the following `Subactions`:
 `UDP Broadcast (6669)`: Update   "voice": "NewsReader" to point to the Twitchspeaker voice alias to use to read the news.
 ![fake-news-overlay-udp.png](/extensions/overlays/fake-news/images/fake-news-overlay-udp.png)
 
--OBS Set Browser Source URL: Select OBS scene and browser source here - URL doesnt need changing
+`OBS Set Browser Source URL`: Select OBS `Scene` and browser `Source`.
+>URL does not need to be changed.
+{.is-warning}
+
 ![fake-news-overlay-browser.png](/extensions/overlays/fake-news/images/fake-news-overlay-browser.png)
 
 >To move the position or to change volume level, use the values `videooffsetleft`, `videooffsettop` and `videovolume` in the html page.
