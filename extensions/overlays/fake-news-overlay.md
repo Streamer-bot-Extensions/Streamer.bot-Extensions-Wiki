@@ -13,7 +13,7 @@ dateCreated: 2022-04-20T01:34:57.535Z
 ## Description
 Display a fake news overlay on stream through Streamer.bot and TwitchSpeaker.
 
->NOTE: Twitchspeaker needed to be set up with a newsreader voice set up (you will need the name).
+>NOTE: Twitchspeaker needs to be set up with a newsreader voice set up (the name will be needed).
 {.is-info}
 
 Example of what this can do shown below:
