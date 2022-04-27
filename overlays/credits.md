@@ -22,8 +22,8 @@ Display credits that thank people for subs, follows, viewing, etc. during the st
 
 Download one of the following example overlays:
 
-[Scrolling](/extensions/overlays/credits/files/cph-credits-scroll-01.html)
-[Random Fading Names](/extensions/overlays/credits/files/cph-credits-fading-names.html)
-[Animated Sections](/extensions/overlays/credits/files/cph-credits-slide.html)
+[Scrolling](/overlays/credits/files/cph-credits-scroll-01.html)
+[Random Fading Names](/overlays/credits/files/cph-credits-fading-names.html)
+[Animated Sections](/overlays/credits/files/cph-credits-slide.html)
 
 ## Configuration
