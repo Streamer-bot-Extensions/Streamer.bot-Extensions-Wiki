@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<html>
+<head>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="http://stylus-lang.com/try/stylus.min.js"></script>
+<script language="javascript" type="text/javascript">
+
+function getParameterCaseInsensitive(object, key) {
+  return object[Object.keys(object)
+    .find(k => k.toLowerCase() === key.toLowerCase())
+  ];
+}
+
+// Create WebSocket connection.
+const socket = new WebSocket('ws://localhost:8080');
+
+socket.onmessage = function (event) {
+  var msg = JSON.parse(event.data);
+  console.log('Message from server: ', msg);
+
+	if (msg.id === 'credits')
+	{
+		// close the socket
+		socket.close();
+
+		var container = $("<div id='text-effect-wrapper'>");
+
+		var slides = 1;
+		var maxLen = 0;
+
+		var thankYouDiv = $("<div class='slide'>").appendTo($(container));
+		var title = "Thank You For Watching!";
+		if (title.length > maxLen) maxLen = title.length;
+		$("<p class='thanks'>" + title + "</p>").appendTo($(thankYouDiv));
+
+		const headers = [
+			{ section: "events", key: "follows", title: "New Followers!" },
+			{ section: "events", key: "cheers", title: "Cheers!" },
+			{ section: "events", key: "subs", title: "New Subscribers!" },
+			{ section: "events", key: "reSubs", title: "Those who Resubscribed!" },
+			{ section: "events", key: "giftSubs", title: "Crazy people who gave gift subs!" },
+			{ section: "events", key: "giftBombs", title: "Even crazier people who droped gift bombs!" },
+			{ section: "events", key: "raided", title: "Thank you Raiders!" },
+			{ section: "events", key: "rewardRedemptions", title: "Decided to waste channel points" },
+			{ section: "events", key: "goalContributions", title: "Contributed to goals!" },
+			{ section: "events", key: "pyramids", title: "Managed to make some pyramids!" },
+			{ section: "users", key: "editors", title: "Editors" },
+			{ section: "users", key: "moderators", title: "Moderators", filterExistingEntries: true },
+			{ section: "users", key: "subscribers", title: "Subscribers" },
+			{ section: "users", key: "vips", title: "VIPs!", filterExistingEntries: true },
+			{ section: "groups", key: "<group name>", title: "<group title>" },
+			{ section: "users", key: "users", title: "Viewers", filterExistingEntries: true },
+			{ section: "hypeTrain", key: "conductors", title: "Crazy ass Hype Train Conductors" },
+			{ section: "hypeTrain", key: "contributors", title: "Those onboard the hype trains!" },
+			{ section: "top", key: "allBits", title: "All time top crazy people with bits!" },
+			{ section: "top", key: "monthBits", title: "Monthly crazy people with bits, but only by a little" },
+			{ section: "top", key: "weekBits", title: "Crazy people just this week with bits!" },
+			{ section: "top", key: "channelRewards", title: "Folks with the most channel points to waste" }
+		];
+
+    const existingUserMap = {};
+		Object.entries(headers).forEach((val) => {
+			const [idx, header] = val;
+			var headerSection = getParameterCaseInsensitive(msg, header.section);
+			if (headerSection)
+			{
+				let eventData = getParameterCaseInsensitive(headerSection, header.key);
+        // filter existing entries in the current section
+				if (header.filterExistingEntries) eventData = eventData.filter(e => !existingUserMap[header.section] || !existingUserMap[header.section].includes(e));
+				if (eventData && eventData.length > 0)
+				{
+					var slideDiv = $("<div class='slide'>").appendTo($(container));
+					if (header.title.length > maxLen) maxLen = header.title.length;
+					$("<p>" + header.title + "</p>").appendTo($(slideDiv));
+					Object.values(eventData).forEach((entry) => {
+						$("<h1>" + entry + "</div>").appendTo($(slideDiv));
+						if (entry.length > maxLen) maxLen = entry.length;
+					});
+					slides++;
+
+          // save output users by section
+					if (!existingUserMap[header.section]) existingUserMap[header.section] = [];
+					existingUserMap[header.section].push(...eventData);
+				}
+			}
+		});
+
+		var src = `slide-time = 5s
+slide-number = ${ slides }
+
+letter-posibilities = ${ maxLen }
+
+random(min,max)
+  return floor(math(0, 'random')*(max - min + 1) + min)
+
+body
+  margin 0
+  font-family 'Open-Sans', sans-serif
+  letter-spacing 4px
+  background rgba(0,0,0,0)
+  color lightblue
+  text-align center
+  line-height 1.6
+  font-variant small-caps
+  *
+    font-weight 100
+
+#text-effect-wrapper
+  display block
+
+.slide
+  max-width 100%
+  position absolute
+  top 45%
+  left 50%
+  transform translate(-50%, -50%)
+  opacity 0
+  white-space nowrap
+  animation fadein (slide-time * slide-number) infinite
+  for i in (1..slide-number)
+    &:nth-child({i})
+      animation-delay slide-time * (i - 1)
+      .text-effect
+        animation-delay slide-time * (i - 1) !important
+        for n in (1..letter-posibilities)
+          &:nth-child({letter-posibilities}n + {n})
+            animation (slide- + i +- + n) (slide-time * slide-number) ease infinite
+
+  p
+    color hotpink
+    &.left
+      text-align left
+      float left
+      font-size 1.5em
+    &.right
+      text-align right
+      float right
+      font-size 1.5em
+      display block
+
+.thanks
+  color green !important
+  font-size 3em
+
+h1, h2, h3
+  letter-spacing 16px
+  &, /p
+    margin 2px 0
+
+span.text-effect
+  margin-left -1px
+  white-space pre
+  display inline-block
+
+for i in (1..slide-number)
+  for n in (1..letter-posibilities)
+    @keyframes slide-{i}-{n}
+      if odd(i)
+        {50% / slide-number}
+          transform translate(0%, random(5%, 35%))
+        {80% / slide-number}, 100%
+          transform translate(0%, -20px)
+      else
+        {50% / slide-number}
+          transform translate(0%, random(-35%, -5%))
+        {80% / slide-number}, 100%
+          transform translate(0%, 20px)
+      0%
+        transform translate(0%, 0%)
+
+@keyframes fadein
+  {40% / slide-number}, {50% / slide-number}
+    opacity 1
+  0%, {80% / slide-number}, 100%
+    opacity 0`;
+
+		var css = stylus(src).render(function(err, css) {
+            if (err) { console.log(err.message); }
+            else { $('head').append('<style>'+css+'</style>'); }
+        });
+
+		$("body").append(container);
+
+		[...document.querySelectorAll("#text-effect-wrapper *")].forEach((el) =>
+		  [...el.childNodes]
+			.filter((n) => n.nodeType == 3 && n.textContent.trim() != ``)
+			.forEach((n, i) => {
+			  n.parentElement.replaceChild((i = document.createElement(`span`)), n);
+			  i.innerHTML = n.textContent.replace(
+				/\s+|\S/g,
+				`<span class="text-effect">$&</span>`
+			  );
+			})
+		);
+
+	}
+}
+
+// send the GetCredits, or TestCredits request when the socket opens to kick everything off!
+socket.onopen = function (event) {
+	var msg = { "request": "TestCredits", "id": "credits" };
+	socket.send(JSON.stringify(msg));
+};
+</script>
+</head>
+<body>
+</body>
+</html>
