@@ -2,7 +2,7 @@
 title: Updating Streamer.bot (by VRFlad)
 description: Learn how to update Streamer.bot in this tutorial by VRFlad.
 published: true
-date: 2022-04-20T01:53:28.002Z
+date: 2022-04-27T03:58:19.142Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:47:42.436Z

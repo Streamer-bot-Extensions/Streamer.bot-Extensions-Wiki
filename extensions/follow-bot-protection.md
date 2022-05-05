@@ -2,7 +2,7 @@
 title: Follow Bot Protection (by Carhua)
 description: Checks if a follow is any of the hoss or other follow bots and wont continue sub action if it is.
 published: true
-date: 2022-04-25T02:50:52.438Z
+date: 2022-04-27T03:57:34.862Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T02:50:52.438Z
@@ -111,7 +111,7 @@ or if there is no `Follows` `Action` just put `BotCheck` `Action` in the `Follow
 
 ![follow-bot-protection-events2.png](/extensions/follow-bot-protection/images/follow-bot-protection-events2.png)
 
-Press test and a file will be created with a few bot names (all “hoss” variants).
+Press test and a file will be created with a few bot names (all ï¿½hossï¿½ variants).
 
 ## Adding bot names with command
 Add a `Command` called `!addbot` tied to the `Action` `BotCheckAdd` set to `Start` and set `Group Permissions` to `Moderators`.
@@ -146,7 +146,7 @@ It is **recommended** to add as much of the name as possible, so there won't be 
 
 ![follow-bot-protection-toggle-text-file.png](/extensions/follow-bot-protection/images/follow-bot-protection-toggle-text-file.png)
 
-**Here is a case of false ban**: If a user named `“hasselhoss”` for example comes to the stream and follows, they will get banned (if ban is set to true) as part of the name is in the list of bots!
+**Here is a case of false ban**: If a user named `ï¿½hasselhossï¿½` for example comes to the stream and follows, they will get banned (if ban is set to true) as part of the name is in the list of bots!
 
 >botlist.txt file will be located in the data folder!
 {.is-danger}

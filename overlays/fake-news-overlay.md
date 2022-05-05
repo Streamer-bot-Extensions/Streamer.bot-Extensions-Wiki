@@ -2,7 +2,7 @@
 title: Fake News Overlay (by VRFlad)
 description: Display a fake news overlay on stream through Streamer.bot and TwitchSpeaker.
 published: true
-date: 2022-05-05T01:56:37.621Z
+date: 2022-05-05T01:56:40.442Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-26T00:58:56.273Z
