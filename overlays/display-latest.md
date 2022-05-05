@@ -2,7 +2,7 @@
 title: Display Latest (by VRFlad)
 description: Display latest subs, followers, etc. through Streamer.bot.
 published: true
-date: 2022-04-27T02:55:09.542Z
+date: 2022-05-05T01:55:18.528Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-24T23:50:10.985Z
@@ -65,7 +65,7 @@ To use a different machine / port for Streamer.bot than the same machine default
 >French (Merci,  https://www.twitch.tv/lebluxtv): 
 `https://vrflad.com/latest/french.html?`
 >
->Portuguese(Obrigado, https://www.twitch.tv/LiveDoEdu)
+>Portuguese (Obrigado, https://www.twitch.tv/LiveDoEdu)
 >`https://vrflad.com/latest/portuguese.html?`
 >
 >Spanish (Gracias, https://www.twitch.tv/dj_pole)
