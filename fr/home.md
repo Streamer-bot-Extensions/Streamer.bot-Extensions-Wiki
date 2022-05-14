@@ -1,11 +1,11 @@
 ---
 title: Streamer.bot Extensions
-description: 
+description: Streamer.bot Community Made Extensions
 published: true
-date: 2022-05-14T04:56:47.587Z
+date: 2022-05-07T22:22:24.925Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-14T04:56:47.587Z
+dateCreated: 2022-04-20T01:15:10.917Z
 ---
 
 ![streamerbot.png](./logos/streamerbot.png){.align-abstopright}
