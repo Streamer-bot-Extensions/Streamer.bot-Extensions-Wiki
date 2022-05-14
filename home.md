@@ -2,7 +2,7 @@
 title: Streamer.bot Extensions
 description: Streamer.bot Community Made Extensions
 published: true
-date: 2022-05-07T22:22:24.925Z
+date: 2022-05-14T05:11:30.428Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:15:10.917Z
@@ -14,7 +14,7 @@ dateCreated: 2022-04-20T01:15:10.917Z
 
 Documentation for Streamer.bot. Here are the changelogs and information on all aspects of the application.
 
-Additionally, there are channels on the Stremer.bot discord to seek help/support, share discoveries, and present what you're working on.  The application can advance/evolve optimally if we all share new/interesting ways to do things.
+Additionally, there are channels on the Streamer.bot discord to seek help/support, share discoveries, and present what you're working on.  The application can advance/evolve optimally if we all share new/interesting ways to do things.
 
 If you would like to help build this wiki with information, please get in contact with me on Discord 😃 
 
