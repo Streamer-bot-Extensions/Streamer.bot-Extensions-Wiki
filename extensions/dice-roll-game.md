@@ -2,13 +2,13 @@
 title: Dice Roll Game (by Geocym)
 description: A game of chance for users to play in chat.
 published: true
-date: 2022-05-18T02:22:24.759Z
+date: 2022-05-18T03:11:18.907Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T02:19:11.907Z
 ---
 
-# Dice Roll Game (by Geocym)
+# Dice Roll Game [(by Geocym)](https://www.twitch.tv/geocym)
 This is a simple dice roll game where viewers can challenge each other in chat to roll a 20 sided die each and whoever gets the bigger number wins. 
 
 > Import code will be provided but it may need some tweaking once installed as it relies on speciifc commands so these may need to be created and re-linked after install
