@@ -2,7 +2,7 @@
 title: Points System
 description: Links to all the extensions that use Streamer.bot's points system.
 published: true
-date: 2022-05-01T13:42:01.186Z
+date: 2022-05-18T01:33:29.892Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:11:37.622Z
@@ -24,6 +24,7 @@ Below you can find the core Points System and a list of all the extensions that 
 
 * [Add Ranks *by VRFlad* *Add user ranks to the Points System.*](/extensions/points-system/points-system-add-ranks)
 * [Additional Commands *A few additional commands to use with the points system*](/extensions/points-system/additional-commands)
+* [Increase Points For Followers *by MarkusoOoO* *Give users points for following.*](/extensions/points-system/points-system-followers)
 * [Leaderboard *by TerrierDarts* *Show the Users with the Top Points.*](/extensions/points-system/points-system-leaderboard)
 * [Points Reset *by TerrierDarts* *Reset points for all users back to zero.*](/extensions/points-system/points-system-points-reset)
 * [Points Transfer *by GoWMan* *Transfer your SE or SL Points into Streamer.bot.*](/extensions/points-system/points-system-points-transfer)
