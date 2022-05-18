@@ -2,13 +2,13 @@
 title: Add Ranks (by VRFlad)
 description: Points with Ranking.
 published: true
-date: 2022-04-27T03:58:21.976Z
+date: 2022-05-18T03:32:17.981Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:33:59.539Z
 ---
 
-# Add Ranks (by VRFlad)
+# Add Ranks [(by VRFlad)](https://www.twitch.tv/VRFlad) 
 
 ## Description
 
