@@ -2,7 +2,7 @@
 title: Streamer.bot Extensions
 description: Streamer.bot Community Made Extensions
 published: true
-date: 2022-05-14T05:11:30.428Z
+date: 2022-05-18T03:55:46.617Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:15:10.917Z
@@ -12,40 +12,19 @@ dateCreated: 2022-04-20T01:15:10.917Z
 
 # Welcome to Streamer.bot Extensions
 
-Documentation for Streamer.bot. Here are the changelogs and information on all aspects of the application.
+Welcome to the Streamer.bot Extensions wiki! This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
 
-Additionally, there are channels on the Streamer.bot discord to seek help/support, share discoveries, and present what you're working on.  The application can advance/evolve optimally if we all share new/interesting ways to do things.
+>Extensions are provided as is and any alterations to them are done at your own risk!
+Please make sure you understand this before altering anything in them outside of the directions provided in this wiki!
+{.is-danger}
 
-If you would like to help build this wiki with information, please get in contact with me on Discord 😃 
+This wiki is here to not only provide you with great resources to enhance your stream but also to guide you in configuring each resource provided. You may use any of them and alter them as you like but extensions are provided as is and any alterations to them are done at your own risk. Failure to follow the guides on this wiki may result in resources not functioning properly. Please make sure you understand this before trying to alter things outside of the direction of this wiki.
+
+>All contributions provided are credited to their respective author.
+If you decide to alter any of the resources here and release them with additional functionalities to the community feel free to do so.
+Out of respect for the community and the authors of these resources it is just asked that you credit the original author's work that your resources were derived from.
+The goal of this wiki is to share resources with the community in a ethical manner that contributes to the Streamer.bot community as a whole.
+{.is-warning}
 
 * [Discord *Be sure to join the Discord for examples, help, to share what you've made, or just to hang out!*](https://discord.streamer.bot)
-{.links-list}
-
-Also be sure to share on Twitter and tag **@streamerdotbot**, and/or use the hashtags **#streamerdotbot**, **#streamerbot**!  Uploading videoes on YouTube, be sure to add the **#streamerbot** and/or **#streamerdotbot** hashtags to help others find your videos!
-
-## Available Plugins
-
-* [StreamDeck](https://github.com/nate1280/streamdeck-Streamer.bot)
-* [TouchPortal](https://www.christophecvb.com/touch-portal/plugins/streamer-bot)
-* [Voice Attack](https://github.com/nate1280/voiceattack-Streamer.bot)
-* LoupeDeck (Discontinued Until LoupeDeck makes a plugin available)
-* [DeckBoard *Can be installed through the server app*](https://github.com/rivafarabi/streamerbot-deckboard)
-{.links-list}
-
-## Extended Features
-
-Don't have a StreamDeck, or a LoupeDeck? Looking for a web based deck you can just setup and use.
-
-Well, be sure to check out **[Streamer.bot Decks](https://streamer.bot/user/decks)**, it is currently a **WIP** feature, created by the very talented **Whipstickgostop**
-
-## Thanks
-
-Wanted to first off, say thank you to everyone who has been using this bot, providing feedback (i.e. breaking it 😁), and being supportive of my efforts to just provide another option for streamers out there to use.
-
-A very big thank you to the amazing folks who have been supporting me through the hectic release: 
-(**[Lyfesaver74](https://twitch.tv/lyfesaver74)**, **[Geocym](https://twitch.tv/geocym)**, **[VRFlad](https://twitch.tv/vrflad)**, **[Krayn_](https://twitch.tv/krayn_)**, **[Njna_Grimsdottir](https://twitch.tv/njna_grimsdottir)**, & **[Whipstickgostop](https://twitch.tv/whipstickgostop)**)
-
-I appreciate all the support from everyone and to all using this software.  Thank you.
-
-* [Patreon *It's never required, I have setup a Patreon if you would like to support development.*](https://patreon.com/nate1280)
 {.links-list}
