@@ -2,7 +2,7 @@
 title: Depreciated Extensions
 description: List of Extensions That Have Been Depreciated.
 published: true
-date: 2022-05-19T02:08:54.599Z
+date: 2022-05-19T04:14:49.090Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T02:08:54.599Z
@@ -16,5 +16,5 @@ No support will be offered with using these and they may or may not work with th
 >USE AT YOUR OWN RISK!
 {.is-danger}
 
-* [Place List Here *by Username* *Description.*](#)
+* [Place List Here *by Username* *Description.* *Reason*](#)
 {.links-list}
