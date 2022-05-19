@@ -1,14 +1,14 @@
 ---
-title: Follow Bot Protection (by Carhua)
+title: Follow Bot Protection (by Caruha)
 description: Checks if a follow is any of the hoss or other follow bots and wont continue sub action if it is.
 published: true
-date: 2022-04-27T03:57:34.862Z
+date: 2022-05-18T03:16:06.237Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T02:50:52.438Z
 ---
 
-# Follow Bot Protection (by Carhua)
+# Follow Bot Protection [(by Caruha)](https://www.twitch.tv/caruha)
 
 ## Description
 Checks when a user follows if it is any of the hoss or other follow bots and wont continue sub action if it is.
