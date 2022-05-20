@@ -2,13 +2,13 @@
 title: Leaderboard (by TerrierDarts)
 description: This tool will allow you to see which users have the most points, it comes with a codepen for visuals of Top 5 but you can post in chat up to 20 people. Twitch Character Limit may prevent more.
 published: true
-date: 2022-05-20T01:53:15.120Z
+date: 2022-05-20T01:57:14.830Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T15:52:36.015Z
 ---
 
-# Leaderboard [(By TerrierDarts)](https://www.twitch.tv/terrierdarts)
+# Leaderboard [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)
 
 ## Description
 The Leader Board Extention will allow you to see which users have the most points. It also comes with a new action to check how many points you have which will tell you what posistion you are in the rankings, along with the person above and below.
