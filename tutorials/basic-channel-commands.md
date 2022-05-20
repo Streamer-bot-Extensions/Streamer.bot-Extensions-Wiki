@@ -1,6 +1,6 @@
 ---
 title: Basic Channel Commands (by VRFlad)
-description: Learn how to add basic command in Streamer.bot.
+description: Learn how to add basic commands in Streamer.bot.
 published: true
 date: 2022-04-27T03:58:10.832Z
 tags: 
