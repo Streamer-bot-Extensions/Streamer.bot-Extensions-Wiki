@@ -24,6 +24,8 @@ TlM0RR+LCAAAAAAABADdWNuOo0gSfV9p/8Hq1x2XuJi2PdI8YFzG+MK08QXDuh8gEwPlxDAG7IJR//tE
 
 ![watchtime-import.png](/extensions/watchtime/images/watchtime-import.png)
 
+## Configuration
+
 Add the `Action` `Auto Add Watchtime` to the `Present Viewers Event`.
 ![watchtime-present-viewers-event.png](/extensions/watchtime/images/watchtime-present-viewers-event.png)
 
