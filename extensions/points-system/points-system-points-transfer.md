@@ -32,6 +32,22 @@ TlM0RR+LCAAAAAAABADtV2lv8lYW/j7S/AeUT1NNibywuVI/BAeMCXEDBBs8vB98Fy/heqkXiKn633ts
 
 For Streamelements points [Streamelements-CSV](https://github.com/Slikrick/streamelements-csv) is needed to export points to a CSV file.
 
-For Streamlabs click on connections in the bottom left corner. Next click on cloud and then click Export Currency CSV and save the CSV file on a local readable drive.
+For Streamlabs click on connections in the bottom left corner.  Next click on cloud and then click Export Currency CSV and save the CSV file on a local readable drive.
 ![points-system-stream-labs-chat-bot.png](/extensions/points-system/images/points-system-stream-labs-chat-bot.png)
 
+Set the file path in the appropriate `Action` to point to the exported CSV file.
+![points-system-points-transfer-set-file-path.png](/extensions/points-system/images/points-system-points-transfer-set-file-path.png)
+
+Add a new `Command` called `!transferse` for Streamelements or `!transfersl` for Streamlabs and point to the appropriate action.
+![points-system-points-transfer-create-command-se.png](/extensions/points-system/images/points-system-points-transfer-create-command-se.png)
+![points-system-points-transfer-create-command-sl.png](/extensions/points-system/images/points-system-points-transfer-create-command-sl.png)
+
+## Execute
+
+Run the appropriate `Command` from chat for whichever system points need to be transfered over from.
+A response should be returned that all points have been successfully transfered.
+
+>This will only transfer points over for users that Streamer.bot has seen.
+So boolean variables have been added to make sure that once a user's points have been transfered over they will not be transfered again.
+This ensures that this system can be run multiple times until all users have had their points transfered over to Streamer.bot.
+{.is-warning}
