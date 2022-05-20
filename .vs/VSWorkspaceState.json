@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\extensions",
+    "\\extensions\\points-system",
+    "\\extensions\\points-system\\images"
   ],
-  "SelectedNode": "\\C:\\Users\\prest\\Source\\Repos\\Streamer.bot-Extensions-Wiki",
+  "SelectedNode": "\\extensions\\points-system\\images\\points-system-stream-labs-chat-bot.png",
   "PreviewInSolutionExplorer": false
 }
