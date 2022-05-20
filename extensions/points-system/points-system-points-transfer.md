@@ -66,6 +66,6 @@ Run the appropriate `Command` from chat for whichever system points need to be t
 A response should be returned that all points have been successfully transfered.
 
 >This will only transfer points over for users that Streamer.bot has seen.
-So boolean variables have been added to make sure that once a user's points have been transfered over they will not be transfered again.
+Boolean variables have been added to make sure that once a user's points have been transfered over they will not be transfered again.
 This ensures that this system can be run multiple times until all users have had their points transfered over to Streamer.bot.
 {.is-warning}
