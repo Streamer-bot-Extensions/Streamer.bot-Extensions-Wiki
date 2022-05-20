@@ -2,13 +2,13 @@
 title: Raffle
 description: Run Raffles on your stream to give your viewers chance to win big rewards!
 published: true
-date: 2022-05-20T01:56:09.179Z
+date: 2022-05-20T01:59:08.852Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T16:04:47.155Z
 ---
 
-# Raffle [(By TerrierDarts)](https://www.twitch.tv/terrierdarts)
+# Raffle [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)
 
 Allow your viewers to enter raffles to try and win some big rewards, this has plenty of customisation options to give you total control!
 
