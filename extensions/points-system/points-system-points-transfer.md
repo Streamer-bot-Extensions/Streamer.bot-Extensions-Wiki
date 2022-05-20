@@ -42,6 +42,24 @@ Add a new `Command` called `!transferse` for Streamelements or `!transfersl` for
 ![points-system-points-transfer-create-command-se.png](/extensions/points-system/images/points-system-points-transfer-create-command-se.png)
 ![points-system-points-transfer-create-command-sl.png](/extensions/points-system/images/points-system-points-transfer-create-command-sl.png)
 
+### C# References
+In both `Actions` there is an `Execute Code`.
+![points-system-points-transfer-execute-code.png](/extensions/points-system/images/points-system-points-transfer-execute-code.png)
+
+Each `Execute Code` will display errors when hitting `Compile`.
+![points-system-points-transfer-c-sharp-errors.png](/extensions/points-system/images/points-system-points-transfer-c-sharp-errors.png)
+
+To add the references needed `Right Click` in the `References` tab.
+![points-system-points-transfer-add-reference-from-file.png](/extensions/points-system/images/points-system-points-transfer-add-reference-from-file.png)
+
+Click `Add reference from file...` then type `Microsoft.Visual.Basic.dll` and hit `Open`.
+![points-system-points-transfer-visual-basic.png](/extensions/points-system/images/points-system-points-transfer-visual-basic.png)
+
+Next click `Compile` and a message saying `Compiled Succesful!` should appear.
+![points-system-points-transfer-compile-success.png](/extensions/points-system/images/points-system-points-transfer-compile-success.png)
+
+Hit `Save and Compile` and the `Action` is ready to be executed.
+
 ## Execute
 
 Run the appropriate `Command` from chat for whichever system points need to be transfered over from.
