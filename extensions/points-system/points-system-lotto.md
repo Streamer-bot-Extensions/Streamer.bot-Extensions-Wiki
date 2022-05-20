@@ -2,13 +2,13 @@
 title: Lotto (by TerrierDarts)
 description: Allow your viewers to try their luck at winning big with this Lotto Game!
 published: true
-date: 2022-05-20T01:55:45.415Z
+date: 2022-05-20T01:58:51.724Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T16:09:06.194Z
 ---
 
-# Lotto [(By TerrierDarts)](https://www.twitch.tv/terrierdarts)
+# Lotto [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)
 
 This Game will allow your viewers to try their luck at getting there hands on some big prizes, with plently of customisation this will add another cool dynamic to your streams!
 
