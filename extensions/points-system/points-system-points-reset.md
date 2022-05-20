@@ -2,13 +2,13 @@
 title: Points Reset (by TerrierDarts)
 description: This extension will allow you to reset your points all back to zero if you so wish.
 published: true
-date: 2022-04-27T03:58:42.503Z
+date: 2022-05-20T01:53:35.724Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T15:58:30.664Z
 ---
 
-# Points Reset (by TerrierDarts)
+# Points Reset [(By TerrierDarts)](https://www.twitch.tv/terrierdarts)
 
 ## Description
 This extension will allow you to reset all you current users points back to 0. This works by unsetting the current user variables that are named "points", based of VRFlads Points system. There is a 2nd action included that will allow you to reset any user variable.
