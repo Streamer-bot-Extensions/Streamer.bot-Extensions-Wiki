@@ -14,7 +14,7 @@ dateCreated: 2022-05-05T02:39:37.201Z
 
 Allows Streamer.bot to read and write to .ini files.
 
-##Installation
+## Installation
 
 To install the actions, copy the following code and paste into your `Import Actions` pane:
 
