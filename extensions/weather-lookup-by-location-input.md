@@ -1,8 +1,8 @@
 ---
-title: Weather Lookup By Location Input (by Web_Mage) 
+title: Weather Lookup By Location Input (by Web_Mage)
 description: 
 published: true
-date: 2022-05-18T02:07:55.239Z
+date: 2022-05-22T21:04:19.699Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T02:07:55.239Z
@@ -33,12 +33,14 @@ You will need the key later in the setup process.
 5. Click Import.
 6. Click on the newly imported action and find the folder named Query setup.
 7. Double-click on the line that says "`<Insert API Key Here>`"
-8. Find the API Key that you created earlier and paste it into the Value box. <br>If you do not have one, please follow the steps in the Prerequisite section above.
-    <br>(Optional: You can change the returned language by changing the variable to your language of choice.)
+8. Find the API Key that you created earlier and paste it into the Value box.
+   If you do not have one, please follow the steps in the Prerequisite section above.
+   (Optional: You can change the returned language by changing the variable to your language of choice.)
 9. Open the Execute Code (WeatherAPI) sub-action
 10. Click on References. Right click and select "Add Reference from File"
-11. Navigate to your .NET folder (typically C:\Windows\Microsoft.NET\Framework\v4.0.30319\) and select System.dll.<br> Do this again and select System.Net.dll
-     You should now have three files in your references: mscorlib.dll, System.dll, and System.Net.dll
+11. Navigate to your .NET folder (typically `C:\Windows\Microsoft.NET\Framework\v4.0.30319\`) and select System.dll.
+  Do this again and select System.Net.dll
+  You should now have three files in your references: mscorlib.dll, System.dll, and System.Net.dll
 12. Click Compile. You should see a message in Compiling Log tab that says "Compiled successfully!"
 13. Click Save and Complile.
 
@@ -55,12 +57,12 @@ TlM0RR+LCAAAAAAABADVW2lv20qW/T7A/AdOBkF3A2FS3MlgMoApW5ttvUiyKInjRqM2UrS4tajFcqP/
 1. Create a command or a channel point reward and have it point to the WM-Current_Weather action.
      The command will need to have a location of Start. The channel point reward will need a prompt. Something like "Enter location."
 2. The bot will use the user's response to do the lookup.<br>
-     >Note: The lookup can use several methods for searching. They are listed below:<br>
-          - City name (ex: Paris)<br>
-          - US Zip Code (ex: 90210)<br>
-          - UK Postcode (ex: SW1)<br>
-          - Canada postal code (ex: G2J)<br>
-          - 3 Digit Airport code (ex: LAX)<br>
+     >Note: The lookup can use several methods for searching. They are listed below:
+          - City name (ex: Paris)
+          - US Zip Code (ex: 90210)
+          - UK Postcode (ex: SW1)
+          - Canada postal code (ex: G2J)
+          - 3 Digit Airport code (ex: LAX)
 3. Enjoy doing weather lookups for around the globe!
 
 ## Optional Widget ##
@@ -71,10 +73,10 @@ There are a couple ways to handle this, either online or having the html page lo
 
 ### Install Steps (Offline) ###
 
-1. A) For the latest version, go to https://codepen.io/Web_Mage/pen/eYGXwbz and click on Export in the bottom right corner.<br>Click on Export .zip<br>
+1. A) For the latest version, go to https://codepen.io/Web_Mage/pen/eYGXwbz and click on Export in the bottom right corner. Click on Export .zip
 B) Download the attached .zip file from the StreamerBot discord.
 2. Navigate to where you saved the download and extract all of the files.
-3. If you want to move the files to a different area, the ones needed will be in the dist folder. It is located in \<extracted zip>/super-mario-weather/dist/<br>
+3. If you want to move the files to a different area, the ones needed will be in the dist folder. It is located in \<extracted zip>/super-mario-weather/dist/
 	(If you don't want the folder, make sure you move all three files: index.html, script.js, and style.css)
 4. Create a new browser source in OBS. Set the URL to about:blank and the size to whatever you'd like.
 5. In StreamerBot, navigate to the current weather lookup action.
@@ -88,7 +90,7 @@ B) Download the attached .zip file from the StreamerBot discord.
 ### Install Steps (Online) ###
 
 1. Create a new browser source in OBS. Set the URL to about:blank and the size to whatever you'd like.
-2. In StreamerBot, navigate to the current weather lookup action.<br>
+2. In StreamerBot, navigate to the current weather lookup action.
    Add a new Set Browser URL sub-action by right clicking, then
    Add Action -> OBS -> Set Browser Source URL.
 3. Pick the scene, then the browser source you created in step 4.
