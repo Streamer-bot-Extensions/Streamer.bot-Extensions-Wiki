@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-05-18T02:07:55.239Z
 ---
 
-# Weather Lookup By Location Input [by Web_Mage](https://www.twitch.tv/web_mage)
+# Weather Lookup By Location Input [(by Web_Mage)](https://www.twitch.tv/web_mage)
 
 ## Description
 
