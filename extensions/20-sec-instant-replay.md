@@ -15,6 +15,7 @@ This is my take for 20s instant replay using streamer.bot, based on Nutty's vide
 Make sure to follow his [video](https://youtu.be/NuWKrpNCE1k) for setting up OBS at least with `Nested scenes` & `Dynamic Delay Filter`.
 Whole effect takes about `8GB of your RAM`, so be aware of that.
 
+
 ## Example Streamer.bot action
 In Streamer.bot in `Actions` tab, right click at white space and select `Import`.
 Copy the string (bunch of text) below and paste it into the `Import Sring`. 
@@ -24,15 +25,22 @@ TlM0RR+LCAAAAAAABADdWltvG7cSfi/Q/7DQazMF75e+nbh1UpzGLuK0xUEVFLwMbSHrXXcl2TGC/PfO
 ![20-sec-instant-replay.png](/extensions/20-sec-instant-replay/images/20-sec-instant-replay.png)
 
 Also, make sure to check all `Sub-Actions` that they are pointing at your OBS scenes, filters and sound files.
->I plan on making video showing how to set this up from the start to the end
+>I plan on making video showing how to set this up from the start to the end {.is-info}
+
 
 ## Resources
 All resources can be found [>here<](https://mega.nz/folder/VkVU1BaB#QE00zkIprD6HkOvdHS7rxQ)!
 
+
 ## Configuration
-To get timings right with my example action use these settings for Dynamic Delay plugin:
+To get timings right with my example action use these settings for `Dynamic Delay` plugin:
+
 Duration: 20s
+
 Fast Forward: 1000%
+
 Fast Backward: -1000%
+
 Fast Forward OBS hotkey: CTRL+NUM3
+
 Fast Backwards OBS hotkey: CTRL+NUM1
