@@ -29,7 +29,7 @@ Also, make sure to check all `Sub-Actions` that they are pointing at your OBS sc
 
 
 ## Resources
-All resources can be found [>here<](https://mega.nz/folder/VkVU1BaB#QE00zkIprD6HkOvdHS7rxQ)!
+All resources can be found [>here<](/extensions/20-sec-instant-replay/files/Rewind-Effect.zip)!
 
 
 ## Configuration
