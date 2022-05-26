@@ -26,4 +26,4 @@ Make sure to add the following references to the `Execute Code`:
 >System.dll
 System.Drawing.dll
 
-![get-cursor-position-references.png](/extensions/get-cursor-position/images/get-cursor-position-referencest.png)
+![get-cursor-position-references.png](/extensions/get-cursor-position/images/get-cursor-position-references.png)
