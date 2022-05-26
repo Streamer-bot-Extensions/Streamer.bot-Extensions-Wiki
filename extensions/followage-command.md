@@ -2,7 +2,7 @@
 title: Followage Command (by TerrierDarts)
 description: Display followers information in chat through Streamer.bot.
 published: true
-date: 2022-05-26T13:22:42.163Z
+date: 2022-05-26T14:28:10.948Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T01:13:10.778Z
@@ -33,7 +33,10 @@ This will just need a `!followage` command tied to the FollowAge action.
 This command has a slight bit more than the previous example, so a user can just do `!followage` to get their own follow age, however the user can now do targeted followages (as seen below) to get the followage of another user. It will also throw an error if the user does not follow the broadcaster.
 ![followage_fail.png](/extensions/followage/followage_fail.png)
 
-## C# Followage [(by Farlezz)](https://www.twitch.tv/farlezz)!
+## C# Followage [(by Farlezz)](https://www.twitch.tv/farlezz) & [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)!
 ### Import Code
+```
+TlM0RR+LCAAAAAAABADtWFtzokgUft+q/Q+p7OuQapqLMlXzoCYiJnFWjaCs+9A3kchtQTRkav77NhAvoJlNdmfmaa2ilD7dp7/znUuf9suvv1xcXG5YnLhhcPnxQvxQDATIZ/zt8rJ8RWTNxQkf+SN/v7j4Un5xkUvzeYumDESRUQESURZkoGABIywKdIEAlkSpCRkrdRWL/kpZmusPUs87jLIAYY/l+tZxyg7jOzDd0PPCLXJY57cjXU4cplEu7oS+jwKaHMmQt0VZMkpzyxbIS46Uxnxq6LcKw06lJAxIGscsWJ/KTsioEFJMScI0Juwhi3Lc0oeKbINiN7ezoK2wiMWX1SklpwiKIpA0TVAkTRRkWZWFpgpUoakBWZNkuMBIrS3cMtdZ5pDBFahK1iUWRawO78irOOJbzijxBZQ95ZYdRr9+eI2LqvdaDvucrqN0XUNOWUJiN3rxxmVNumIsannuhp14o/QlWzDuK8JqTimEnY/zucURh9tkPr93SRwm4WJ9Nbh5mM+7MQe3DeOVKs/nG/kKXElAErX53E9IGHsuvqKed3ms8M/qzjhbs05ICwPpdBBhnzgTyXumurn+vAW318NoS61+gqx7ZwaflkS6d4Zi2xhbCh9TPC5vXA9Dx+i0HNIzXax7j4be32C4dUbTpTeTTGCPnWg3h3Gd+Xf5tOFsajh8X4+4Lc3Qu5ktDbARmM/21HCnY2WCxQEgvpfamRN9PrN2FvQ3M2v0OJsOgFnX4/czDLurGew+0+7bddq+lmBdk4aQ44eJ8/u4vSQ+fbayvo/hU4Ilyvfp0ztvtJlIo4zzENx2VnseikfXXOSbj7TT3q1p23BSm1PytNsv12NcA2c27QckUyYk8Hr2dGTNrCeRc+jucVnUe9A1jt9I+D5ibY/Cps7Qi2x36RJfW9r6gPttZBJoZlw/58feYP1pQ8EgtK1BfDsEt7lfcr/eeQMP+6OBPR08z/g+t53+BOkTZ3jEs53zDrupoSubw97EofrSw9wHuGd7JDMKHMQ3AZ32U6M3yqiV2x9pVQ483+gsxVexjVubu6z9YFtPvnFTjlXW95JBx20d3vc6neUxr7mNlTknsXj03AyG447C91RWD5b5TGA34PyvjGBd4FyM2wqWJo6tNx3sa8DQByIJ+h4ORgkbH/hgsB5/fc0YG7WYK5/FMM+1sIalzX3YCn+0HUjvQnvcdm3LTPf8wzw/2o2T/ApAHq+Z0VsfxZypGW4t/kv8VV/3QMVX3KfPdu5fcZTnl8dj6Rrp5iOq5uQ5vQUvhnWMdXUaB+dio1x/Pblx0gk0U/tG9Ig0WPK8CfudfoOWNiZH9pWYJG63rvG4bqdYGjq8rmU8tlOqPyl7zs7ztfwGN6/E7nK3d16PozNrz+grn/M5PHSZVMbfHV9brW9rnnPLJbfr5/jfqfg24/VNJL7s0F5ftB92/srXRVrtDI1iRkI/cr1XDlHKPJSN1yg+bXnKQ79oSphCMFMlJKAFUwSZykBAqKEKqqrJAFFJhO9vSrT88z37Evk9fYm1DC8ewovOkpHV/03Jd2hKNjM/4nOG+4O5KAqP1WIy87UN7rQBCUyv2sDcp2avr4ygCUy/m/BDLzSClwL30oTwJNzQaU1/PYHKQnCkv1rgzhV96nezQwKbq30zISYuzbHlmApd/9C8VIskGHId1BL5ATcMDX+vPzPcQ/NiW8N6M1U76M2EwMl/s+HnYq9gPW1kwv3BvRh++vRDihVoNABcgIaANKwKMlKBoEHIBCA3KVMVIlEVf8diVS8QbylV8C2lqnKdhK9fJ89eI6VGs0FFzATMS7cgE6AIGDShoKlwgVhDxk0JvPsaCb4fA+JbGChNgVRWEFIXAmKACDKGqoAhawpqg2BZ1WgDi833mgJfuRH/G1PAkSm7n4fa/PLHgZ5vUJwJRyLCL8coShg9kpbCQlE5s/zbZCf8+jfF5lGUuxEAAA==
+```
 ### Set-Up
-### Example Use
+Like the previous examples, this just needs a `!followage` command tied to the action. Ensure it location is set to start as you want the command to accept any input if the user so chooses!
