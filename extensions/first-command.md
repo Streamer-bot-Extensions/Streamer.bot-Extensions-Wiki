@@ -9,6 +9,10 @@ dateCreated: 2022-05-17T00:48:40.878Z
 ---
 
 # First Command [(by emongev)](https://www.twitch.tv/emongev)
+
+## Description
+Only the first person to type !first will be counted as the first. This only works if you close and open the bot between streams. If someone already typed !first, it will tell other people who was first, and tell you in total how many times in total throughout streams you've been first. 
+
 ```cs
 using System;
 
