@@ -2,13 +2,13 @@
 title: Slots (by TerrierDarts)
 description: Allow your viewers to bet there points on this fully customisable slot machine!
 published: true
-date: 2022-04-27T03:58:51.052Z
+date: 2022-05-20T01:56:46.945Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T16:02:15.587Z
 ---
 
-# Slots (by TerrierDarts)
+# Slots [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)
 
 This will allow your users to gamble there points for a spin on the slot machine, you can customise the emotes used, amount of emotes, pay out and default bet amount.
 
