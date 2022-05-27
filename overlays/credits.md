@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-04-27T02:36:14.656Z
 ---
 
-# Credits (by Nate1280, Lyfesaver74, and https://codepen.io/)
+# Credits (by [Nate1280](https://www.twitch.tv/nate1280), [Lyfesaver74](https://www.twitch.tv/lyfesaver74), and https://codepen.io/)
 
 ## Description
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-04-26T00:58:56.273Z
 ---
 
-# Fake News Overlay (by VRFlad)
+# Fake News Overlay [(by VRFlad)](https://www.twitch.tv/vrflad)
 
 ## Description
 Display a fake news overlay on stream through Streamer.bot and TwitchSpeaker.

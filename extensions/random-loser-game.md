@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-05-18T01:38:20.006Z
 ---
 
-# Random Loser Game (by TheIcemanCometh)
+# Random Loser Game [(by TheIcemanCometh)](https://www.twitch.tv/theicemancometh360)
 Your content here

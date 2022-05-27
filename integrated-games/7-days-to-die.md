@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-04-20T03:26:06.613Z
 ---
 
-# 7 Days To Die Websocket Integration (by KK964)
+# 7 Days To Die Websocket Integration [(by KK964)](https://www.twitch.tv/kk964gaming)
 
 ## Description
 

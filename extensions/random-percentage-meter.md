@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-05-18T00:19:03.648Z
 ---
 
-# Random Percentage Meter (by GinjaFlame)
+# Random Percentage Meter [(by GinjaFlame)](https://www.twitch.tv/ginjaflame)
 
 ## Description
 Gives targeted user a random % of something. ie, 5% derpy, 72% cute, 40% lewd.

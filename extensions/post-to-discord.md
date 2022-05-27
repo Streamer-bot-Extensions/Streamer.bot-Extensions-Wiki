@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-04-28T02:26:59.131Z
 ---
 
-# Post to Discord (by Geocym)
+# Post to Discord [(by Geocym)](https://www.twitch.tv/geocym)
 Your content here

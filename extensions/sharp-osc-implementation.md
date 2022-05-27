@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-05-18T02:05:43.555Z
 ---
 
-# SharpOSC Implementation (by Der_Gardine | Julian)
+# SharpOSC Implementation [(by Der_Gardine | Julian)](https://www.twitch.tv/der_gardine)
 Your content here

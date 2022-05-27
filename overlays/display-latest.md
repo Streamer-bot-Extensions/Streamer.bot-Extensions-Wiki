@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-04-24T23:50:10.985Z
 ---
 
-# Display Latest (by VRFlad)
+# Display Latest [(by VRFlad)](https://www.twitch.tv/vrflad)
 
 ## Description
 Easily show the latest sub / follow / raid / tip / cheers with this overlay and [Streamer.bot](https://streamer.bot/).

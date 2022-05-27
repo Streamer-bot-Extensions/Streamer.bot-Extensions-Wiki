@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-04-20T02:51:00.284Z
 ---
 
-# Minecraft Websocket Integration (by KK964)
+# Minecraft Websocket Integration [(by KK964)](https://www.twitch.tv/kk964gaming)
 
 ## Description
  Allows websockets to run commands on your server.
