@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-04-24T18:51:29.459Z
 ---
 
-# Stream Chat (by izzy)
+# Stream Chat [(by izzy)](https://www.twitch.tv/itsizzy)
 
 ## Description
 Chat Overlay for OBS based on [Streamer.bot](https://streamer.bot/)'s websocket, using pronouns from [pronouns.alejo.io](https://pronouns.alejo.io/).

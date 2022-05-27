@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-05-17T01:02:08.489Z
 ---
 
-# Volume Control (by slashie101)
+# Volume Control [(by slashie101)](https://www.twitch.tv/slashie101)
 Your content here

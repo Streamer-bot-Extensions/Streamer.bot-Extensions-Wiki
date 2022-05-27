@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-05-17T00:51:57.800Z
 ---
 
-# Timeout User Reward by @iAmLarcyn
+# Timeout User Reward [(by iAmLarcyn)](https://www.twitch.tv/iamlarcyn)
 Your content here
