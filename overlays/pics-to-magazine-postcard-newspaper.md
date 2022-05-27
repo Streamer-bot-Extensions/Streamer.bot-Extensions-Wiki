@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-04-27T04:10:48.736Z
 ---
 
-# Pics to Magazines, Postcard and Newspaper (by Lyfesaver74)
+# Pics to Magazines, Postcard and Newspaper [(by Lyfesaver74)](https://www.twitch.tv/lyfesaver74)
 Your content here

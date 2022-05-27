@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-05-17T00:55:28.541Z
 ---
 
-# Viewer Count on 5 Minute Update Cycle (by MarkusoOoO)
+# Viewer Count on 5 Minute Update Cycle [(by MarkusoOoO)](https://www.twitch.tv/markusoooo)
 Your content here

@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-05-18T01:09:47.966Z
 ---
 
-# Power Level (by Sportiax)
+# Power Level [(by Sportiax)](https://www.twitch.tv/sportiax)
 Your content here

@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-05-18T01:44:31.853Z
 ---
 
-# RCON (by ItsTheBOFH)
+# RCON [(by ItsTheBOFH)](https://www.twitch.tv/itsthebofh)
 Your content here

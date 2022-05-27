@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-05-18T01:53:31.025Z
 ---
 
-# Simple Custom Blacklist (by GestiefelterCutter)
+# Simple Custom Blacklist [(by GestiefelterCutter)](https://www.twitch.tv/gestiefeltercutter)
 Your content here

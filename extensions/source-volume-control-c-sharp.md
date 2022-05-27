@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-05-18T01:55:18.308Z
 ---
 
-# Source Volume Control (Using C#) (by MrVibes_RSA)
+# Source Volume Control (Using C#) [(by MrVibes_RSA)](https://www.twitch.tv/mrvibes_rsa)
 Your content here

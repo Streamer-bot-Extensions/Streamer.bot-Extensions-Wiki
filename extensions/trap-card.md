@@ -8,5 +8,5 @@ editor: markdown
 dateCreated: 2022-05-18T01:02:57.341Z
 ---
 
-# Trap Card (by MarkusoOoO)
+# Trap Card [(by MarkusoOoO)](https://www.twitch.tv/markusoooo)
 Your content here

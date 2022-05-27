@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-05-25T12:23:50.048Z
 ---
 
-# TerraSocket - A Websocket mod for Terraria (by ConfuzzedCat)
+# TerraSocket - A Websocket mod for Terraria [(by ConfuzzedCat)](https://www.twitch.tv/confuzzedcat)
 ## Description
 This is a mod for Terraria ([both tModloader](https://www.tmodloader.net/) and [latest version](https://terraria.org/)). This adds in a WebSocket server that will send out messages at some events.
 ## Setup - tModloader
