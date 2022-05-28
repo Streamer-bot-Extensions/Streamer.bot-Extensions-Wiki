@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-05-17T00:31:26.288Z
 
 ---
-# Streamer.bot Countdown Timer [(by rondhi)](https://twitch.tv/rondhi)
+# Countdown Timer [(by rondhi)](https://twitch.tv/rondhi)
 
 ## Installation
 Copy the import code below and paste it into the `Import Pane`:
