@@ -2,7 +2,7 @@
 title: TerraSocket
 description: A WebSocket mod for Terraria
 published: false
-date: 2022-05-27T18:08:33.461Z
+date: 2022-05-28T23:23:05.419Z
 tags: mod, websocket, integration, terraria, confuzzedcat
 editor: markdown
 dateCreated: 2022-05-25T12:23:50.048Z
@@ -33,4 +33,4 @@ The connection process is the same form both tModloader and vanilla version.
 2. Once the main menu has loaded, go to `Servers/Clients` -> `Websocket Clients` in Streamer.bot and add a client. The name doesn't matter, but Endpoint is important by default it is `ws://127.0.0.1:7394/`(This can be changed).
 3. Enjoy the game!
 ### Configuration the endpoint/address
-In the game's install folder, there will be created a file 
+In the game's install folder, there will be created a file called `wsipconfig.json` that holds a string and a unsigned short(0-65535)
