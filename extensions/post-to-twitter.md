@@ -2,11 +2,68 @@
 title: Post to Twitter (by Lyfesaver74 and Nate1280)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-04-27T04:14:42.413Z
+date: 2022-05-28T18:09:30.435Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
 ---
 
-# Post to Twitter [(by Lyfesaver74](https://www.twitch.tv/lyfesaver74) and [Nate1280](https://www.twitch.tv/nate1280))
-Your content here
+# Twitter Actions [(by Lyfesaver74](https://www.twitch.tv/lyfesaver74) and [Nate1280](https://www.twitch.tv/nate1280))
+#### This code was expanded on [by TerrierDarts](https://www.twitch.tv/TerrierDarts)
+
+# Tutorial
+##### Coming Soon
+
+# Pre-SB Set-Up
+The first thing you need to do is to get the key from the twitter API. You can do this by doing the following steps.
+1. Go to - https://developer.twitter.com/en/portal/dashboard
+2. Sign in with Twitter.
+3. Once on the "Developer Portal" you should see on the Left Hand Side "Projects & Apps"
+4. Then under the "Standalone Apps" you will need to Press Create App
+5. Give your app a name, Id Suggest something like "MySBTwitterApp" 
+6. Then you will see a load of tokens, at this point you will need to press "App Settings" (We are going to get new tokens in a minute dont worry about those)
+7. When on the Settings Page, you should see "Keys and Tokens" that is where we will get our 4 keys we need.
+8. Under the Consumer Keys Press "Regenerate", Copy the 2 keys into the relevant parts of the C# Code or in a safe place.
+9. Under the Access Token and Secret Press "Regenerate", Copy the 2 Keys into the relevant parts of the C# Code or in a safe place.
+
+Now You should have your app Set up and your 4 keys you will need for the C# code.
+
+If you get stuck you can follow the Twitter Support at [Twitter Developer Support.](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
+
+
+# Import Code
+## Code
+```
+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
+```
+## Set-Up
+All the Code is in one bit of C# So all the References need adding in just one place, they reference you will need are. 
+![tweetrefs.png](/extensions/twitter/tweetrefs.png)
+Also within the C# Code you will need to add your keys.
+![tweetkeys.png](/extensions/twitter/tweetkeys.png)
+You need to make sure each KeyLine has `@` at the start and then delcared as strings by `"`.
+
+# Functions
+
+## Send a Tweet
+![twittertext.png](/extensions/twitter/twittertext.png)
+
+## Send a Tweet With Image
+![tweetimage.png](/extensions/twitter/tweetimage.png)
+## Streaming Commands
+These 2 Actions will need to be tied to the OBS Events > Stream Starting and OBS Events > Stream Ended
+The Arguments in both sub-actions are exactly the same however you will have a **LIVE** verson and you will have a **Normal** Version for when you are offline. 
+|Argument|Purpose|
+|---|---|
+|`tweetName`|This is the name you want to be seen as on Twitter, ":red_circle: LIVE :red_circle:" would be popular for being live|
+|`imagePath`| This is the profile picture you want, most would add a Red Ring around there current profile pic with the word live on it in some fashion, and the normal for offline|
+|`bannerPath`| This will change the banner at the top of your page, and this is the link to the image file.
+|`tweetText`| This is a Starting only Command, but this is the value you want to tweet out when ou go live, the default message will tell people the game you are playing and post your link.
+### Stream Starting
+![tweetgoinglive.png](/extensions/twitter/tweetgoinglive.png)
+### Stream Ending
+![tweetonend.png](/extensions/twitter/tweetonend.png)
+
+> If there is any action you don't want to happen, use the `Enable/Disable` Option in the Sub Action Context Menu. Disabled Sub-Actions will turn Red/Pink. {.is-success}
+
+
