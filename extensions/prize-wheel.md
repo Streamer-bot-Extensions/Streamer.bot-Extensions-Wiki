@@ -26,11 +26,11 @@ There are two options inside this zip folder, one is making items in wheel to be
 
 *OBS Plugins:
 
-    - Websocket server plugin by Palakis v4.9.1+ >>> https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/
+- Websocket server plugin by Palakis v4.9.1+ >>> https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/
     
-	- Move transition plugin by Exeldro v2.5.3+ >>> https://obsproject.com/forum/resources/move-transition.913/
+- Move transition plugin by Exeldro v2.5.3+ >>> https://obsproject.com/forum/resources/move-transition.913/
     
-	- Copy source plugin by Exeldro v0.1.3+ >>> https://obsproject.com/forum/resources/source-copy.1261/
+- Copy source plugin by Exeldro v0.1.3+ >>> https://obsproject.com/forum/resources/source-copy.1261/
 
 ## Step by step
 1/	Open SB and in `Actions` tab right click and select import. Navigate to path `../Roulette Example Horizontal(Vertical) Text/StreamerBot Actions/..` and you can either drag and drop `Roulette.txt` file into import window
