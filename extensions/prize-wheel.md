@@ -1,9 +1,9 @@
 ---
 title: Prize Wheel (by MarkusoOoO)
-description: 
+description: Fully customizable "Wheel of fortune / Roulette" working with OBS from v27.1.3
 published: true
 date: 2022-05-18T01:56:58.255Z
-tags: 
+tags: Prize, Wheel, Roulette, Template
 editor: markdown
 dateCreated: 2022-05-18T01:56:58.255Z
 ---
@@ -15,7 +15,7 @@ Fully customizable "Wheel of fortune / Roulette" working with OBS from v27.1.3!
 
 Please treat this as an empty example working template.
 
-You can find all files together in this [link](/extensions/prize-wheel/files/Roulette by MarkusoOoO.zip) in zip folder and all guide informations are in `Readme.txt` file. 
+You can find all files together in this [link](/extensions/prize-wheel/files/Roulette-by-MarkusoOoO.zip) in zip folder and all guide informations are in `Readme.txt` file. 
 
 There are two options inside this zip folder, one is making items in wheel to be horizontal and second option is making text to be vertical, so choose one which suits you more to start with (you will find later on, that there is option to modify it yourself).
 
@@ -70,8 +70,9 @@ or channel point redeem which is triggering this action!
 
 ## What can be customized and how?
 1/  Obviously, you have 12 actions in SB, and those can be changed to your needs, if you want to change titles of those options, you have to do TWO things:
-	1/ Change title in `../Roulette Example Horizontal(Vertical) Text/Roulette Source/script.js` on lines 10 to 21 (in `prizes` VUE  variables list)
-	2/ Change value in coresponding IF statements in Action `Roulette Redeem` (double click coresponding `if` statement and in field `value` change one of `Test#` to your desired title)
+
+- Change title in `../Roulette Example Horizontal(Vertical) Text/Roulette Source/script.js` on lines 10 to 21 (in `prizes` VUE  variables list)
+- Change value in coresponding IF statements in Action `Roulette Redeem` (double click coresponding `if` statement and in field `value` change one of `Test#` to your desired title)
     
 2/  You can change all colors in `../Roulette Example Horizontal Text/Roulette Source/style.css`, this requires a bit of CSS knowledge
 
