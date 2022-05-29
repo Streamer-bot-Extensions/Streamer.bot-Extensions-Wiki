@@ -15,7 +15,7 @@ Fully customizable "Wheel of fortune / Roulette" working with OBS from v27.1.3!
 
 Please treat this as an empty example working template.
 
-You can find all files together in this [link](/extensions/prize-wheel/files/Roulette by MarkusoOoO.zip) in zip folder and all guide informations are in `Readme.txt` file. 
+You can find all files together in this [link](/extensions/prize-wheel/files/Roulette-by-MarkusoOoO.zip) in zip folder and all guide informations are in `Readme.txt` file. 
 
 There are two options inside this zip folder, one is making items in wheel to be horizontal and second option is making text to be vertical, so choose one which suits you more to start with (you will find later on, that there is option to modify it yourself).
 
