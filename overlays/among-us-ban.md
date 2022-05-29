@@ -13,8 +13,9 @@ dateCreated: 2022-05-28T18:33:30.403Z
 ## Description
 Some one in chat seem sus?  Need to call an emergency mod meeting?  Want to eject that impostor?  Well now you can with the Among Us Ban Alert for Streamer.bot!
 
-## Resources
-Source Copy:  https://obsproject.com/forum/resources/source-copy.1261/
-Among Us Ban:  https://ko-fi.com/s/aec34635f3
+## Tutorial
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/annlF5LiaFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Installation
+## Resources
+Source Copy:  [OBS Plugin](https://obsproject.com/forum/resources/source-copy.1261/)
+Among Us Ban:  [Resources](/overlays/among-us-ban/files/amongusban.rar)
