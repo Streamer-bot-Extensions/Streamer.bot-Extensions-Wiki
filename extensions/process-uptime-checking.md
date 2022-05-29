@@ -1,8 +1,8 @@
 ---
 title: Process Uptime Checking (by BamBam)
-description: s Uptime Checking (by BamBam) description: This is a process uptime checking utility.  If you configure it then it will write your process uptime to a file in this format Uptime: 01.03:41:15    days.hours:min:seconds format.
+description: This is a process uptime checking utility.  If you configure it then it will write your process uptime to a file in this format Uptime: 01.03:41:15    days.hours:min:seconds format.
 published: true
-date: 2022-05-29T22:32:35.784Z
+date: 2022-05-29T22:33:06.958Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:51:52.518Z
