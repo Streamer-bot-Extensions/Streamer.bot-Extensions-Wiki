@@ -11,14 +11,16 @@ dateCreated: 2022-05-18T01:56:58.255Z
 # Prize Wheel [(by MarkusoOoO)](https://www.twitch.tv/markusoooo)
 
 ## Description
-Fully customizable "Wheel of fortune / Roulette" working with from OBS v27.1.3!
+Fully customizable "Wheel of fortune / Roulette" working with OBS from v27.1.3!
 Please treat this as an empty example working template.
-You can find all files together in this [link](/extensions/prize-wheel/files/Roulette by MarkusoOoO.zip) in zip folder and all guide information in "Readme.txt" file. 
+You can find all files together in this ![link](/extensions/prize-wheel/files/Roulette by MarkusoOoO.zip) in zip folder and all guide information in "Readme.txt" file. 
 There are two options inside this zip folder, one is making items in wheel to be horizontal and second option is making text to be vertical, so choose one which suits you more to start with (you will find later on, that there is option to modify it yourself).
 
 ## Prerequisite
 *Streamer.bot v0.1.4+ (I will refer in this document to Streamer.bot as "SB" for short from now on) >>> https://streamer.bot/
+
 *OBS v27.1.3+ (if you are using v27.2.0+ please make sure to also update Move transition plugin (find link below) to latest version, otherwise your OBS will crash) >>> https://obsproject.com/cs/download
+
 *OBS Plugins:
 	- Websocket server plugin by Palakis v4.9.1+ >>> https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/
 	- Move transition plugin by Exeldro v2.5.3+ >>> https://obsproject.com/forum/resources/move-transition.913/
@@ -64,7 +66,9 @@ or channel point redeem which is triggering this action!
 1/  Obviously, you have 12 actions in SB, and those can be changed to your needs, if you want to change titles of those options, you have to do TWO things:
 	1/ Change title in `../Roulette Example Horizontal(Vertical) Text/Roulette Source/script.js` on lines 10 to 21 (in `prizes` VUE  variables list)
 	2/ Change value in coresponding IF statements in Action `Roulette Redeem` (double click coresponding `if` statement and in field `value` change one of `Test#` to your desired title)
+    
 2/  You can change all colors in `../Roulette Example Horizontal Text/Roulette Source/style.css`, this requires a bit of CSS knowledge
+
 3/  If you know your stuff around frontend web-dev, then you can fully customize how this roulette works and looks (from timings to number of fields, etc..). I will list some advanced modifiers below.
 
 ### Vertical / Horizontal text
@@ -92,10 +96,12 @@ let index = weightedRand12({0:0.25, 1:0.0, 2:0.0, 3:0.0, 4:0.0, 5:0.0, 6:0.50, 7
 ```
 
 ### Add / Remove number of prizes / items
-In `script.js` starting on line 9, is array of `prizes`. Just delete/add how many prizes you want to have in your wheel (example with 3 prizes will is on image below).
+In `script.js` starting on line 9, is array of `prizes`. Just delete/add how many prizes you want to have in your wheel (example with 3 prizes is on image below).
+
 ![prize-wheel.png](/extensions/prize-wheel/images/prize-wheel.png)
 
 In `style.css` I did a little change to make this easier to modify. On line 94, there is css selector for class `bg`. On line 95 you need to change `transform` value to this > `rotate(calc(360deg/X));` where X is presents number of prizes you want to have in your wheel (look at the second screenshot below for my example with 3 prizes).
+
 ![prize-wheel.png](/extensions/prize-wheel/images/prize-wheel1.png)
 
 If you want to have more than 12 prizes in the wheel (so, to add more of them, then what is in default template), you also need to add more code, because in `style.css` starting from lines 75, there are classes specified only for 12 prizes. So just copy code from below as many times as you need to, to manipulate those backgrounds (otherwise those backgrounds will stay white). Just change X for each prize number starting with 13 and put your RGB value in background-color.
