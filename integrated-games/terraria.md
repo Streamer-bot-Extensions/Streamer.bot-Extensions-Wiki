@@ -2,7 +2,7 @@
 title: TerraSocket
 description: A WebSocket mod for Terraria
 published: false
-date: 2022-05-29T00:03:53.530Z
+date: 2022-05-29T00:04:48.958Z
 tags: mod, websocket, integration, terraria, confuzzedcat
 editor: markdown
 dateCreated: 2022-05-25T12:23:50.048Z
@@ -43,7 +43,7 @@ TerraSocket supports 3 commands, that can be sent from Streamer.bot.
 - HealPlayer
 - GiveItem
 To send a command, you need to send a json string to the websocket server. 
-Important! `Username` needs to populated(doesn't need to be a username) and `Command` needs to be one of the 3 commands. `HealPlayer` needs to have `HealAmount`populated as an int. The same with `GiveItem` and `ItemID`.
+Important! `Username` needs to populated(doesn't need to be a username, just needs to be a string) and `Command` needs to be one of the 3 commands. `HealPlayer` needs to have `HealAmount`populated as an int. The same with `GiveItem` and `ItemID`.
 Kill player example: 
 ```cs
 using System;
