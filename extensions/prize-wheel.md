@@ -12,8 +12,11 @@ dateCreated: 2022-05-18T01:56:58.255Z
 
 ## Description
 Fully customizable "Wheel of fortune / Roulette" working with OBS from v27.1.3!
+
 Please treat this as an empty example working template.
-You can find all files together in this ![link](/extensions/prize-wheel/files/Roulette by MarkusoOoO.zip) in zip folder and all guide information in "Readme.txt" file. 
+
+You can find all files together in this [link](/extensions/prize-wheel/files/Roulette by MarkusoOoO.zip) in zip folder and all guide informations are in `Readme.txt` file. 
+
 There are two options inside this zip folder, one is making items in wheel to be horizontal and second option is making text to be vertical, so choose one which suits you more to start with (you will find later on, that there is option to modify it yourself).
 
 ## Prerequisite
@@ -23,7 +26,7 @@ There are two options inside this zip folder, one is making items in wheel to be
 
 *OBS Plugins:
 
-	- Websocket server plugin by Palakis v4.9.1+ >>> https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/
+    - Websocket server plugin by Palakis v4.9.1+ >>> https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/
     
 	- Move transition plugin by Exeldro v2.5.3+ >>> https://obsproject.com/forum/resources/move-transition.913/
     
