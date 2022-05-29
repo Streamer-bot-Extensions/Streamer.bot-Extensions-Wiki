@@ -22,8 +22,11 @@ There are two options inside this zip folder, one is making items in wheel to be
 *OBS v27.1.3+ (if you are using v27.2.0+ please make sure to also update Move transition plugin (find link below) to latest version, otherwise your OBS will crash) >>> https://obsproject.com/cs/download
 
 *OBS Plugins:
+
 	- Websocket server plugin by Palakis v4.9.1+ >>> https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/
+    
 	- Move transition plugin by Exeldro v2.5.3+ >>> https://obsproject.com/forum/resources/move-transition.913/
+    
 	- Copy source plugin by Exeldro v0.1.3+ >>> https://obsproject.com/forum/resources/source-copy.1261/
 
 ## Step by step
