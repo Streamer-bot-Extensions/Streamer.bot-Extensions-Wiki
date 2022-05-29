@@ -25,10 +25,10 @@ Change the `Sub-action` `Set Argument` `processUptimeSavePath` to match your fil
 ![process-uptime-checking-file-path.png](/extensions/process-uptime-checking/images/process-uptime-checking-file-path.png)
 
 Change the `Sub-action` `Set Argument` `processUptimeSaveFile` to the text file you want to save to.
-![process-uptime-checking-file-path.png](/extensions/process-uptime-checking/images/process-uptime-checking-file-path.png)
+![process-uptime-checking-file-path.png](/extensions/process-uptime-checking/images/process-uptime-checking-file.png)
 
 Change the `Sub-action` `Set Argument` `processUptimeName` to the name of the process you want to track.
-![process-uptime-checking-file-path.png](/extensions/process-uptime-checking/images/process-uptime-checking-file-path.png)
+![process-uptime-checking-file-path.png](/extensions/process-uptime-checking/images/process-uptime-checking-process.png)
 
 ### References
 In the `Execute C# Code` `Sub-action` make sure you have the following references:
