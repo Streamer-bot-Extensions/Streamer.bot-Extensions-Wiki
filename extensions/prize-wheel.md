@@ -3,7 +3,7 @@ title: Prize Wheel (by MarkusoOoO)
 description: 
 published: true
 date: 2022-05-18T01:56:58.255Z
-tags: 
+tags: Prize, Wheel, Roulette, Template
 editor: markdown
 dateCreated: 2022-05-18T01:56:58.255Z
 ---
@@ -70,8 +70,9 @@ or channel point redeem which is triggering this action!
 
 ## What can be customized and how?
 1/  Obviously, you have 12 actions in SB, and those can be changed to your needs, if you want to change titles of those options, you have to do TWO things:
-	1/ Change title in `../Roulette Example Horizontal(Vertical) Text/Roulette Source/script.js` on lines 10 to 21 (in `prizes` VUE  variables list)
-	2/ Change value in coresponding IF statements in Action `Roulette Redeem` (double click coresponding `if` statement and in field `value` change one of `Test#` to your desired title)
+
+	- Change title in `../Roulette Example Horizontal(Vertical) Text/Roulette Source/script.js` on lines 10 to 21 (in `prizes` VUE  variables list)
+	- Change value in coresponding IF statements in Action `Roulette Redeem` (double click coresponding `if` statement and in field `value` change one of `Test#` to your desired title)
     
 2/  You can change all colors in `../Roulette Example Horizontal Text/Roulette Source/style.css`, this requires a bit of CSS knowledge
 
