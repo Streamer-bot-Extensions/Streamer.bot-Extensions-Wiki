@@ -1,12 +1,12 @@
 ---
-title: Dual Entry Blocker for Giveaways (by TerrierDarts)
-description: Create giveaways through Streamer.bot filtering out dual enteries.
+title: User Queue Systems(by TerrierDarts)
+description: Apply a Queue system to your stream so Viewers can Join or Line up their Ideas
 published: true
-date: 2022-05-18T03:12:04.112Z
+date: 2022-05-30T19:27:17.228Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T01:05:41.733Z
 ---
 
-# Dual Entry Blocker for Giveaways [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)
+# User Queue Systems [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)
 Your content here
