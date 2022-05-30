@@ -2,7 +2,7 @@
 title: Heat Map Core Installation
 description: Core Installation of Heat Map
 published: true
-date: 2022-05-30T18:55:04.188Z
+date: 2022-05-30T19:06:40.552Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T17:36:34.089Z
@@ -53,7 +53,23 @@ The next thing you want to do is to create a Action that **EXACTLY** matches the
 ![actionssourcesheat.png](/extensions/heat-map/actionssourcesheat.png)
 > IT IS IMPORTANT THAT THE SOURCE NAME IN OBS IS **EXACTLY** THE SAME AS THE ACTION NAME IN STREAMERBOT OTHERWISE IT WILL NOT WORK {.is-danger}
 
-## Twitch Clip of Use
+
+## Twitch Example
+### Clip
 In This clip when you press Red, the box turns Red. When you press Green, the Box turns Green.
-<iframe src="https://clips.twitch.tv/embed?clip=ShakingReliableSheepHoneyBadger-lLgjhyYcpyC7x5NZ" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
+<iframe src="https://clips.twitch.tv/embed?clip=ShakingReliableSheepHoneyBadger-lLgjhyYcpyC7x5NZ&parent=wiki.streamsaver.tools" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
+### Chat
+The Chat from the my actions look like this.
+![heat_chat.png](/extensions/heat-map/heat_chat.png)
+
+> As you can see one of the 'clicks' returns '%user%' this is because the user has not granted access to Heat. To grant access the User needs to do the following. 
+>1. Click on the Heat Logo at the Side of the screen and then Click Manage Access.
+![set_up_heat1.png](/extensions/heat-map/set_up_heat1.png)
+>2. You Then need to press Grant Access and then you should be set up.
+![heatgrant.png](/extensions/heat-map/heatgrant.png)
+{.is-warning}
+
+
 
