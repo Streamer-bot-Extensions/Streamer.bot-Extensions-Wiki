@@ -2,7 +2,7 @@
 title: Heat Map Core Installation
 description: Core Installation of Heat Map
 published: true
-date: 2022-05-30T18:48:53.669Z
+date: 2022-05-30T18:51:38.885Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T17:36:34.089Z
@@ -55,4 +55,4 @@ The next thing you want to do is to create a Action that **EXACTLY** matches the
 
 ## Twitch Clip of Use
 In This clip when you press Red, the box turns Red. When you press Green, the Box turns Green.
-<iframe src="https://clips.twitch.tv/embed?clip=ShakingReliableSheepHoneyBadger-lLgjhyYcpyC7x5NZ&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://www.twitch.tv/terrythebot/clip/ShakingReliableSheepHoneyBadger-lLgjhyYcpyC7x5NZ" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
