@@ -2,7 +2,7 @@
 title: Simple Scrolling Credits
 description: Example of credits in Streamer.bot using a simple scrolling style that allows for easy font and color changes in an editor as well as including intro and outro text/images
 published: true
-date: 2022-05-30T22:02:55.506Z
+date: 2022-05-30T22:04:29.895Z
 tags: credits
 editor: markdown
 dateCreated: 2022-05-30T21:54:42.667Z
@@ -44,7 +44,9 @@ The credits are styled using the included CSS and JS files. While some of the mo
 -   RGB Color Code for Titles/Sections – Line 37
 
 ## Video
-<iframe width="1120" height="630" src="https://www.youtube.com/watch?v=7DrRWu_Lmu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/7DrRWu_Lmu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Video Notes/Updates
 
 Since the release of this video some things have been added to the JS page, allowing for adding text and/or image URLs to the start and/or end of the credits as they scroll. You will find where to add them in the script.js file, lines 71-79.
