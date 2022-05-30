@@ -2,7 +2,7 @@
 title: Heat Map Core Installation
 description: Core Installation of Heat Map
 published: true
-date: 2022-05-30T19:17:42.186Z
+date: 2022-05-30T19:21:32.432Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T17:36:34.089Z
@@ -33,7 +33,7 @@ System.Globalisation.dll
 ```
 4. In `Heat Message` set the `maxWidth` & `maxHeight` to the size of your Canvas!
 5. Set `allowAnom` if you want to allow anonymous clickers or not. **(True or False, True will allow)**
-6. Visit the `Server/Clients Tab` and then go to `Websocket Clients`. Right click and click `Add`. Give it a name, I reccomend `HeatMap` so you know for the log what action is been ran. In the `Endpoint` box type :
+6. Visit the `Server/Clients Tab` and then go to `Websocket Clients`. Right click and click `Add`. Give it a name, I recommend `HeatMap` so you know for the log what action is been ran. In the `Endpoint` box type :
 ```
 wss://heat-api.j38.net/channel/<YOUR-ID>
 ``` 
@@ -69,7 +69,7 @@ The Chat from the my actions look like this.
 > ![set_up_heat1.png](/extensions/heat-map/set_up_heat1.png)
 > You Then need to press Grant Access
 > ![heatgrant.png](/extensions/heat-map/heatgrant.png)
-> Then your viewer should be set up
+> If all steps have been followed then your viewer should be set up.
 {.is-warning}
 
 
