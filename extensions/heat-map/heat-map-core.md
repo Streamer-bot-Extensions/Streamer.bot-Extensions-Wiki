@@ -2,7 +2,7 @@
 title: Heat Map Core Installation
 description: Core Installation of Heat Map
 published: true
-date: 2022-05-30T17:36:34.089Z
+date: 2022-05-30T18:48:53.669Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T17:36:34.089Z
@@ -44,3 +44,15 @@ wss://heat-api.j38.net/channel/<YOUR-ID>
 > Now Basic Heat Should be Set Up! {.is-success}
 
 # How to Use
+
+When you want to add another source you will need to add a folder into the Action `Heat Sources`. In the folder you will need to have the Sub-Actions `OBS Get Scene Item Properties` and `Execute Method(Check if Match, Execute)`. You will want to set this up so the OBS action is pointed to the Source you want to be clickable. Like So, I want the sources `GREEN` and `RED` to be clickable.
+![subactionsheat.png](/extensions/heat-map/subactionsheat.png)
+> It does not matter what you name the groups, however I would recommend keeping them as close to the source name as possible. {.is-warning}
+
+The next thing you want to do is to create a Action that **EXACTLY** matches the source name, and then add the Sub-Actions of what you wish to happen when said source is clicked.
+![actionssourcesheat.png](/extensions/heat-map/actionssourcesheat.png)
+> IT IS IMPORTANT THAT THE SOURCE NAME IN OBS IS **EXACTLY** THE SAME AS THE ACTION NAME IN STREAMERBOT OTHERWISE IT WILL NOT WORK {.is-danger}
+
+## Twitch Clip of Use
+In This clip when you press Red, the box turns Red. When you press Green, the Box turns Green.
+<iframe src="https://clips.twitch.tv/embed?clip=ShakingReliableSheepHoneyBadger-lLgjhyYcpyC7x5NZ&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
