@@ -2,7 +2,7 @@
 title: Heat Map Core Installation
 description: Core Installation of Heat Map
 published: true
-date: 2022-05-30T19:13:50.472Z
+date: 2022-05-30T19:17:42.186Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T17:36:34.089Z
@@ -65,11 +65,12 @@ The Chat from the my actions look like this.
 ![heat_chat.png](/extensions/heat-map/heat_chat.png)
 
 > As you can see one of the `clicks` returns `%user%` this is because the user has not granted access to Heat. To grant access the User needs to do the following. 
-> 1. Click on the Heat Logo at the Side of the screen and then Click Manage Access.
+> Click on the Heat Logo at the Side of the screen and then Click Manage Access.
 > ![set_up_heat1.png](/extensions/heat-map/set_up_heat1.png)
-> 2. You Then need to press Grant Access and then you should be set up.
+> You Then need to press Grant Access
 > ![heatgrant.png](/extensions/heat-map/heatgrant.png)
-{.is-danger}
+> Then your viewer should be set up
+{.is-warning}
 
 
 
