@@ -2,10 +2,10 @@
 title: Importing Codes From Streamer.bot (by VRFlad)
 description: Learn how to import codes and extensions that are shared in the community.
 published: true
-date: 2022-04-27T03:58:16.430Z
+date: 2022-05-17T02:13:06.380Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-24T21:24:28.160Z
+dateCreated: 2022-05-14T05:39:40.897Z
 ---
 
 # Importing Codes From Streamer.bot (by VRFlad)

@@ -1,19 +1,11 @@
 ---
-
 title: Barrel Roll (by IRLCreate)
-
 description: Gives you a channel point redemption for doing a barrel roll
-
 published: true
-
-date: 16 Mar 2022
-
-tags: Fun, Barrel Roll, Channel Point
-
+date: 2022-05-17T02:13:56.810Z
+tags: fun, barrel roll, channel point
 editor: markdown
-
-dateCreated: 16 Mar 2022
-
+dateCreated: 2022-05-14T17:51:58.952Z
 ---
 
   

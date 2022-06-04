@@ -1,11 +1,11 @@
 ---
-title: Audio Source Monitor Toggle (by Zerelito) 
+title: Audio Source Monitor Toggle (by Zerelito)
 description: Easily swap between stream audio (spotify, playlists, etc...) in one click.
 published: true
-date: 2022-05-18T03:00:20.250Z
+date: 2022-05-26T04:46:29.111Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-18T00:34:16.811Z
+dateCreated: 2022-05-19T04:39:12.900Z
 ---
 
 # Audio Source Monitor Toggle [(by Zerelito)](https://www.twitch.tv/Zerelito)

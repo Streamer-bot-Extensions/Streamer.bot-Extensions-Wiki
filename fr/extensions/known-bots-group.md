@@ -1,11 +1,11 @@
 ---
 title: KnownBots Group (by Lyfesaver74)
-description: KnownBots group is needed to make sure unwanted names do not make it into Credits or %raiderNames% for raid alerts. 
+description: KnownBots group is needed to make sure unwanted names do not make it into Credits or %raiderNames% for raid alerts.
 published: true
-date: 2022-05-18T03:20:14.939Z
+date: 2022-05-19T04:40:37.270Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-27T04:18:10.391Z
+dateCreated: 2022-05-14T05:37:20.809Z
 ---
 
 # KnownBots Group [(by Lyfesaver74)](https://www.twitch.tv/lyfesaver74)

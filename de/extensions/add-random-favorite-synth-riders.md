@@ -2,10 +2,10 @@
 title: Random Favorite (Synth Riders) (by VRFlad)
 description: Add a random favorite to your Synth Riders queue.
 published: true
-date: 2022-04-27T03:57:19.077Z
+date: 2022-05-17T02:14:10.917Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-25T02:11:50.550Z
+dateCreated: 2022-05-14T17:57:18.655Z
 ---
 
 # Random Favorite (Synth Riders) (by VRFlad)

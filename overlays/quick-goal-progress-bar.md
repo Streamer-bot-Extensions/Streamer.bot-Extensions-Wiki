@@ -2,10 +2,10 @@
 title: Quick Goal Progress Bar ( Followers / Subscribers ) (by Shansoo)
 description: Show a progress bar on screen with a goal that you setup.
 published: true
-date: 2022-05-18T02:56:07.033Z
+date: 2022-05-27T00:45:33.247Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-17T00:31:26.288Z
+dateCreated: 2022-05-27T00:34:07.480Z
 ---
 
 # Quick Goal Progress Bar ( Followers / Subscribers ) [(by Shansoo)](https://www.twitch.tv/lebluxtv)

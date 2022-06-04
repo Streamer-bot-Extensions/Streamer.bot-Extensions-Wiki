@@ -2,10 +2,10 @@
 title: Arguments Viewer (by Silverlink)
 description: In UI printout of all Argument Variables that were populated when an action executed.
 published: true
-date: 2022-04-27T03:57:21.920Z
+date: 2022-05-17T02:14:13.762Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-20T01:56:58.430Z
+dateCreated: 2022-05-14T17:57:22.414Z
 ---
 
 # Arguments Viewer (by Silverlink)

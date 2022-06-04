@@ -2,7 +2,7 @@
 title: Commercial Timer (by GoWMan)
 description: This allows you to create a timer in SB that auto plays a 180 second commercial every hour on the hour.
 published: true
-date: 2022-05-18T03:07:26.897Z
+date: 2022-05-18T03:07:29.683Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:26:10.373Z

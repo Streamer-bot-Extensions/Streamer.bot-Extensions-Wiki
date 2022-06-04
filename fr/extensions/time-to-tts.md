@@ -2,10 +2,10 @@
 title: Time to TTS (by Artimidorus)
 description: Send the current time from Streamber.bot to TwitchSpeaker TTS.
 published: true
-date: 2022-05-17T00:45:30.291Z
+date: 2022-05-19T04:42:20.700Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-17T00:45:30.291Z
+dateCreated: 2022-05-19T04:42:18.101Z
 ---
 
 # Time to TTS (by Artimidorus)

@@ -2,11 +2,12 @@
 title: BlackListed Words Auto-Moderation (by Shanshoo)
 description: Add Blacklisted Words within Chat Messages, If they are write the message will be erased ( or the user Timed Out ).
 published: true
-date: 2022-05-27T01:04:41.488Z
+date: 2022-05-27T01:40:51.350Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T01:04:41.488Z
 ---
+
 # BlackListed Words Auto-Moderation [(by Shansoo)](https://www.twitch.tv/lebluxtv)
 
 ## Description

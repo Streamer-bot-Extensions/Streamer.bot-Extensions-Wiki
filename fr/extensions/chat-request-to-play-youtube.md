@@ -1,11 +1,11 @@
 ---
-title: Chat Request to Play YouTube (by TerrierDarts) 
+title: Chat Request to Play YouTube (by TerrierDarts)
 description: 
 published: true
-date: 2022-05-18T03:04:34.210Z
+date: 2022-05-19T04:39:32.926Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-18T00:59:07.716Z
+dateCreated: 2022-05-19T04:39:30.234Z
 ---
 
 # Chat Request to Play YouTube [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)

@@ -2,10 +2,10 @@
 title: Birthday Extension (by GoWMan)
 description: Have those users that come into your stream and want to let you know it's their Birthday?  Why not give them a way to get noticed on stream?  You can with the Birthday Extension for Streamer.bot.
 published: true
-date: 2022-05-28T18:33:30.403Z
+date: 2022-05-30T02:02:35.295Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-28T18:33:30.403Z
+dateCreated: 2022-05-30T02:02:32.565Z
 ---
 
 # Birthday Extension [(by GoWMan)](https://www.twitch.tv/gowman)

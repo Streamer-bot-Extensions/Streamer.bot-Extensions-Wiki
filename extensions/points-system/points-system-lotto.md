@@ -2,7 +2,7 @@
 title: Lotto (by TerrierDarts)
 description: Allow your viewers to try their luck at winning big with this Lotto Game!
 published: true
-date: 2022-05-20T01:58:51.724Z
+date: 2022-05-20T01:58:54.474Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T16:09:06.194Z

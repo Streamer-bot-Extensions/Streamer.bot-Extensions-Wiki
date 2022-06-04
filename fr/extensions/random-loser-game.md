@@ -2,10 +2,10 @@
 title: Random Loser Game (by TheIcemanCometh)
 description: Commonly known by a name with one bullet in a gun. Renamed here as to not offend anyone.
 published: true
-date: 2022-05-18T01:38:20.006Z
+date: 2022-05-19T04:41:47.302Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-18T01:38:20.006Z
+dateCreated: 2022-05-19T04:41:44.811Z
 ---
 
 # Random Loser Game (by TheIcemanCometh)

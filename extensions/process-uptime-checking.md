@@ -2,7 +2,7 @@
 title: Process Uptime Checking (by BamBam)
 description: This is a process uptime checking utility.
 published: true
-date: 2022-05-29T22:33:06.958Z
+date: 2022-05-29T23:56:49.803Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:51:52.518Z

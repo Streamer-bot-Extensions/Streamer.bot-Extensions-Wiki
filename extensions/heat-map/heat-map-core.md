@@ -2,7 +2,7 @@
 title: Heat Map Core Installation
 description: Core Installation of Heat Map
 published: true
-date: 2022-05-30T19:21:32.432Z
+date: 2022-05-30T19:21:35.514Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T17:36:34.089Z

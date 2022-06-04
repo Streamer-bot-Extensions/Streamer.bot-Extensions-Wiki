@@ -2,10 +2,10 @@
 title: Dice Roll Game (by Geocym)
 description: A game of chance for users to play in chat.
 published: true
-date: 2022-05-18T03:11:18.907Z
+date: 2022-05-19T04:39:54.209Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-18T02:19:11.907Z
+dateCreated: 2022-05-19T04:39:51.438Z
 ---
 
 # Dice Roll Game [(by Geocym)](https://www.twitch.tv/geocym)

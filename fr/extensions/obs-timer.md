@@ -2,10 +2,10 @@
 title: OBS Timer (by HaimPlays)
 description: Create an OBS Timer through Streamer.bot.
 published: true
-date: 2022-05-18T03:28:57.829Z
+date: 2022-05-19T04:41:13.026Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-17T00:34:46.536Z
+dateCreated: 2022-05-19T04:41:10.479Z
 ---
 
 # OBS Timer [(by HaimPlays)](https://www.twitch.tv/haimplays)

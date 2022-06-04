@@ -1,19 +1,11 @@
 ---
-
 title: Temperature, Distance, and Volume Converter (by rondhi)
-
 description: Convert temperature, distance, or volume with a chat command
-
 published: true
-
-date: 2022-05-18T03:09:56.954Z
-
-tags:
-
+date: 2022-05-27T03:36:33.100Z
+tags: 
 editor: markdown
-
-dateCreated: 2022-05-18T01:59:27.464Z
-
+dateCreated: 2022-05-27T03:36:30.396Z
 ---
 
 # Temperature, Distance, and Volume Converter [(by rondhi)](<https://www.twitch.tv/rondhi>)
