@@ -2,7 +2,7 @@
 title: MQTT (Smarthome) Extension
 description: An extension to allow Streamer.bot to talk to an MQTT broker used in most smart home software like Home Assistant, OpenHAB, HomeSeer, etc
 published: true
-date: 2022-06-05T14:16:00.577Z
+date: 2022-06-05T14:18:03.030Z
 tags: smarthome
 editor: markdown
 dateCreated: 2022-06-05T14:16:00.577Z
@@ -10,7 +10,7 @@ dateCreated: 2022-06-05T14:16:00.577Z
 
 # MQTT Extension [(by Krayn)](https://www.twitch.tv/krayn_)
 ## Description
-This extension will allow you to connect Streamer.bot to any MQTT broker, suach as those found in Home Assistant, HomeSeer, OpenHAB, etc...
+This extension will allow you to connect Streamer.bot to any MQTT broker, such as those found in Home Assistant, HomeSeer, OpenHAB, etc...
 
 With proper a MQTT integration SB will be able to control nearly all smarthome devices and even allow bot to bot communication.
 
@@ -21,9 +21,9 @@ File: [mqtt-broker_(1.1).zip](/mqtt-broker_(1.1).zip)
 1) Extract the zip and put the MQTTnet.dll into the SB folder
 2) Import the Action(s) included with the mqtt.txt file (you might need to remove an extra line at the end of the import code)
 3) Edit the Action "MQTT-Broker"
-    3.1) provide the url to your own MQTT broker in the "Set argument %broker%" Subaction
-    3.2) Edit the "Execute Code (MQTT)" subaction - find refs (if needed manually add the reference to "MQTTnet.dll") and compile
-4) After the Delay Subaction in the Action "MQTT-Broker" you can add all topics you want to Subscribe to just like shown in the included example
+    3.1) provide the URL to your own MQTT broker in the "Set argument %broker%" sub-action
+    3.2) Edit the "Execute Code (MQTT)" sub-action - find refs (if needed manually add the reference to "MQTTnet.dll") and compile
+4) After the Delay sub-action in the Action "MQTT-Broker" you can add all topics you want to Subscribe to just like shown in the included example
 5) After first importing the code you might need to trigger the Action "MQTT-Broker" manually once...it is run on startup automatically
 
 The zip also includes a "mqtt-test" Action which publishes the payload "OFF" to the same topic as my example subscription in "MQTT-Broker"...
