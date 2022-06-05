@@ -2,7 +2,7 @@
 title: Admin To do List
 description: 
 published: false
-date: 2022-06-05T16:32:35.141Z
+date: 2022-06-05T19:12:48.070Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-02T10:34:40.282Z
@@ -41,3 +41,11 @@ dateCreated: 2022-06-02T10:34:40.282Z
 - Welcome Overlay
 - OBS Raw
 
+## Tag Ideas (Extensions that show these C# Skills)
+- Random Number
+- Api
+- Custom dll
+- Read from File
+- Write to File
+- Date and Time
+- 
