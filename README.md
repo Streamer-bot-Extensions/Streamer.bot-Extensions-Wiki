@@ -12,7 +12,7 @@ dateCreated: 2022-04-20T03:03:46.521Z
 
 ## Readme
 
-Welcome to the Streamer.bot Extensions Wiki!  This is a repository of documentation for all the community made extensions for Streamer.bot.  You may use any of these extensions to further enhance your stream.  All Extension files can be found at: https://github.com/Streamer-bot-Extensions/Extensions
+Welcome to the Streamer.bot Extensions Wiki!  This is a repository for all the community made extensions for Streamer.bot.  You may use any of these extensions to further enhance your stream.
 
 > Extensions are provided as is and any alterations to them are done at your own risk!  Please make sure you understand this before altering anything in them outside of the directions provided in this wiki!
 {.is-danger}
