@@ -13,7 +13,7 @@ dateCreated: 2022-05-27T01:04:41.488Z
 ## Description
 Add Blacklisted Words within Chat Messages, If they are write the message will be erased ( or the user Timed Out ).
 
-## Importation
+## Installation
 
 Copy the text from the code box below into the `Import` box in Streamer.bot to add this to your `Action` library:
 
