@@ -1,8 +1,8 @@
 ---
 title: Configure Rewards
 description: Enable or disable rewards with this sub-action.
-published: false
-date: 2022-06-10T05:02:34.514Z
+published: true
+date: 2022-06-10T05:02:50.587Z
 tags: channel point, redeems, disable, enable, rewards
 editor: markdown
 dateCreated: 2022-06-05T20:24:06.064Z
