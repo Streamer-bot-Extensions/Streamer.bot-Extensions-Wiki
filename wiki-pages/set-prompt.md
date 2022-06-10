@@ -1,8 +1,8 @@
 ---
 title: Set Prompt
 description: Change the text the user see when they open up a channel point.
-published: false
-date: 2022-06-10T05:09:09.305Z
+published: true
+date: 2022-06-10T05:13:01.347Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-05T20:52:41.398Z
