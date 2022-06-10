@@ -1,8 +1,8 @@
 ---
 title: Set Paused State
 description: 
-published: false
-date: 2022-06-10T05:09:35.461Z
+published: true
+date: 2022-06-10T05:12:42.360Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-05T20:51:25.103Z
