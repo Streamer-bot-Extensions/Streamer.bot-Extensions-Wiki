@@ -1,8 +1,8 @@
 ---
 title: Update Redemption Status
 description: Using this sub-action you can `Fulfil` or `Cancel` rewards.
-published: false
-date: 2022-06-10T05:05:05.758Z
+published: true
+date: 2022-06-10T05:14:15.663Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-05T20:57:39.888Z
