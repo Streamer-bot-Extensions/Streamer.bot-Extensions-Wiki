@@ -1,8 +1,8 @@
 ---
 title: Set Cost
 description: Change the cost of a reward.
-published: false
-date: 2022-06-10T05:06:33.458Z
+published: true
+date: 2022-06-10T05:12:21.151Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-05T20:50:04.757Z
