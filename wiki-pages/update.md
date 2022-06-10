@@ -1,8 +1,8 @@
 ---
 title: Update
 description: Update will allow you to change the `Title`, `Prompt` and `Cost` of a reward in a single sub action.
-published: false
-date: 2022-06-10T05:07:24.219Z
+published: true
+date: 2022-06-10T05:13:55.466Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-05T20:56:12.571Z
