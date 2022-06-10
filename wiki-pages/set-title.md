@@ -1,8 +1,8 @@
 ---
 title: Set Title
 description: Change the title of a redeem
-published: false
-date: 2022-06-10T05:08:30.682Z
+published: true
+date: 2022-06-10T05:13:19.477Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-05T20:54:08.089Z
