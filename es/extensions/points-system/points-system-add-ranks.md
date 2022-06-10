@@ -2,7 +2,7 @@
 title: Add Ranks (by VRFlad)
 description: Points with Ranking.
 published: true
-date: 2022-05-17T02:17:05.582Z
+date: 2022-06-09T05:14:28.044Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T18:06:06.347Z

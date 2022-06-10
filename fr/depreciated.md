@@ -2,7 +2,7 @@
 title: Depreciated Extensions
 description: List of Extensions That Have Been Depreciated.
 published: true
-date: 2022-05-19T04:38:58.166Z
+date: 2022-06-09T05:02:44.345Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T04:38:55.624Z

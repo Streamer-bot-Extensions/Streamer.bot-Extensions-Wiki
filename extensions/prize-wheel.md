@@ -2,7 +2,7 @@
 title: Prize Wheel (by MarkusoOoO)
 description: Fully customizable "Wheel of fortune / Roulette" working with OBS from v27.1.3
 published: true
-date: 2022-05-29T17:19:29.955Z
+date: 2022-06-09T05:01:30.226Z
 tags: prize, wheel, roulette, template
 editor: markdown
 dateCreated: 2022-05-18T01:56:58.255Z

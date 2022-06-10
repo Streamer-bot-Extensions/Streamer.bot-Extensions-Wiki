@@ -2,7 +2,7 @@
 title: Points System (by VRFlad)
 description: The core extension to allow Streamer.bot to have channel points without the need for being a Twitch Affliate.
 published: true
-date: 2022-05-19T04:41:27.286Z
+date: 2022-06-09T05:15:27.205Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T05:37:47.817Z

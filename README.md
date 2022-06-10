@@ -2,17 +2,17 @@
 title: README
 description: 
 published: true
-date: 2022-04-27T03:57:10.414Z
+date: 2022-06-09T04:58:54.369Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-20T03:03:46.521Z
+dateCreated: 2022-06-09T04:58:51.324Z
 ---
 
 # Streamer.bot Extensions Wiki
 
 ## Readme
 
-Welcome to the Streamer.bot Extensions Wiki!  This is a repository for all the community made extensions for Streamer.bot.  You may use any of these extensions to further enhance your stream.
+Welcome to the Streamer.bot Extensions wiki!  This is a repository of all the community made extensions for Streamer.bot.  You may use any of these extensions to further enhance your stream.
 
 > Extensions are provided as is and any alterations to them are done at your own risk!  Please make sure you understand this before altering anything in them outside of the directions provided in this wiki!
 {.is-danger}
