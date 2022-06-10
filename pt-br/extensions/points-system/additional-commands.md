@@ -2,7 +2,7 @@
 title: Additional Commands
 description: Here you will find a few extra commands to go with the point system.
 published: true
-date: 2022-06-09T05:16:19.341Z
+date: 2022-05-17T02:18:26.861Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T18:07:54.982Z

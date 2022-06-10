@@ -2,7 +2,7 @@
 title: Chat Reminder (by NotZelda)
 description: Get a reminder to look at Chat.
 published: true
-date: 2022-06-09T04:59:55.155Z
+date: 2022-05-28T18:13:30.247Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:39:48.833Z

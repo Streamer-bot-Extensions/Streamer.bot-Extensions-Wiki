@@ -2,7 +2,7 @@
 title: Quick Goal Progress Bar ( Followers / Subscribers ) (by Shansoo)
 description: Show a progress bar on screen with a goal that you setup.
 published: true
-date: 2022-06-09T05:03:31.085Z
+date: 2022-05-27T00:45:33.247Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T00:34:07.480Z

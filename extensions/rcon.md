@@ -2,7 +2,7 @@
 title: RCON (by ItsTheBOFH)
 description: 
 published: true
-date: 2022-06-09T05:01:41.479Z
+date: 2022-05-28T20:23:04.922Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:44:31.853Z
@@ -13,8 +13,8 @@ dateCreated: 2022-05-18T01:44:31.853Z
 This is extension for Streamer.bot which allows you to use a RCON Client to connect go Game Servers via RCON Protocols to run commands. 
 
 What Is used to create: 
-Loyalty Point System by VRFlad : https://www.youtube.com/watch?v=VCnoT7wqNrE : https://discord.com/channels/834650675224248362/878288822620782612/882719082833653770
-Streamer bot points extension by VRFlad : https://discord.com/channels/834650675224248362/878288822620782612/883712020711620668 <-- I just liked the rank stuff so added it in. 
+[Point System by VRFlad](/extensions/points-system/points-system-core)
+[Add Ranks by VRFlad](/extensions/points-system/points-system-add-ranks) <-- I just liked the rank stuff so added it in. 
 
 Using the rcon client: https://github.com/gorcon/rcon-cli
 

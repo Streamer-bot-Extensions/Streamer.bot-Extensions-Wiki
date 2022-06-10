@@ -2,7 +2,7 @@
 title: Actions Cooldown
 description: Apply Cooldowns to Actions if they are triggered by multiple sources
 published: true
-date: 2022-06-09T04:59:27.005Z
+date: 2022-06-05T17:16:14.167Z
 tags: actions, cooldown
 editor: markdown
 dateCreated: 2022-06-05T17:16:14.167Z
@@ -26,7 +26,7 @@ To use this in another you will need to use the `Execute Method` Sub-Action. You
 
 ### Button Cooldown
 This will allow you to add a cooldown to an action that is tied to a button only or to an action that you only want the cooldown to apply if its come from a button. , this is useful for shared decks with multiple people.
-You will need to add the following to the `Arguments` inside the button setting, and edit it to your specification.
+You will need to add the following json to the `Arguments` inside the button setting, and edit it to your specification.
 ```json
 {
 "buttonName":"BUTTONNAME",
@@ -34,7 +34,6 @@ You will need to add the following to the `Arguments` inside the button setting,
  "buttonPress": true
 }
 ```
-> Button Cooldown and Deck Cooldown has been added natively to the decks this is part is no longer required,  {.is-info}
 
 ### FullActionGlobal
 This will allow you to add a Global Cooldown to an action reguardless of how it is triggered. To add this to an action you will need to set up 2 `Set Arguments` one for `actionName` and one for `actionCooldown`. It should look like this.

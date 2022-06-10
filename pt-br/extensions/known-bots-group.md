@@ -2,7 +2,7 @@
 title: KnownBots Group (by Lyfesaver74)
 description: KnownBots group is needed to make sure unwanted names do not make it into Credits or %raiderNames% for raid alerts.
 published: true
-date: 2022-06-09T05:12:27.179Z
+date: 2022-05-17T02:18:12.937Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T18:07:36.388Z

@@ -2,7 +2,7 @@
 title: Raffle
 description: Run Raffles on your stream to give your viewers chance to win big rewards!
 published: true
-date: 2022-06-09T05:14:01.978Z
+date: 2022-05-17T02:15:16.861Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T17:58:41.771Z

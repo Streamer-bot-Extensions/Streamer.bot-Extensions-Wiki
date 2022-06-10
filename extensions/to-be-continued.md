@@ -2,16 +2,6 @@
 title: To Be Continued... (by passbo)
 description: "To be continued" effect from SushiDragon (in Nutty's Video) through Streamer.bot.
 published: true
-date: 2022-06-09T05:02:04.161Z
-tags: 
-editor: markdown
-dateCreated: 2022-05-18T00:29:50.175Z
----
-
----
-title: To Be Continued... (by passbo)
-description: "To be continued" effect from SushiDragon (in Nutty's Video) through Streamer.bot.
-published: true
 date: 2022-05-28T20:56:02.216Z
 tags: 
 editor: markdown

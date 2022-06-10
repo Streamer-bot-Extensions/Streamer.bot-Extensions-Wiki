@@ -2,7 +2,7 @@
 title: MQTT (Smarthome) Extension
 description: An extension to allow Streamer.bot to talk to an MQTT broker used in most smart home software like Home Assistant, OpenHAB, HomeSeer, etc
 published: true
-date: 2022-06-09T05:01:07.379Z
+date: 2022-06-05T14:18:03.030Z
 tags: smarthome
 editor: markdown
 dateCreated: 2022-06-05T14:16:00.577Z

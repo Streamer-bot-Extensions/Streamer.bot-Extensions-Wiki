@@ -2,7 +2,7 @@
 title: Pics to Magazines, Postcard and Newspaper (by Lyfesaver74)
 description: Screenshots and text input from chat for Magazines, Postcard, and Newspaper
 published: true
-date: 2022-06-09T05:05:22.326Z
+date: 2022-05-17T02:13:49.753Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T17:51:51.545Z

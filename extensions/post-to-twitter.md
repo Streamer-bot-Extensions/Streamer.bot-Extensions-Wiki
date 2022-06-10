@@ -2,7 +2,7 @@
 title: Post to Twitter (by Lyfesaver74 and Nate1280)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-06-09T18:03:35.413Z
+date: 2022-05-28T18:09:33.388Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
@@ -16,11 +16,10 @@ dateCreated: 2022-04-27T04:14:39.472Z
 
 # Pre-SB Set-Up
 The first thing you need to do is to get the key from the twitter API. You can do this by doing the following steps.
-> You will need **elevated access** for this to work. {.is-warning}
 1. Go to - https://developer.twitter.com/en/portal/dashboard
 2. Sign in with Twitter.
 3. Once on the "Developer Portal" you should see on the Left Hand Side "Projects & Apps"
-4. Create yourself an App, you can use `Projects` or `Standalone`.
+4. Then under the "Standalone Apps" you will need to Press Create App
 5. Give your app a name, Id Suggest something like "MySBTwitterApp" 
 6. Then you will see a load of tokens, at this point you will need to press "App Settings" (We are going to get new tokens in a minute dont worry about those)
 7. When on the Settings Page, you should see "Keys and Tokens" that is where we will get our 4 keys we need.
@@ -43,9 +42,6 @@ All the Code is in one bit of C# So all the References need adding in just one p
 Also within the C# Code you will need to add your keys.
 ![tweetkeys.png](/extensions/twitter/tweetkeys.png)
 You need to make sure each KeyLine has `@` at the start and then delcared as strings by `"`.
-
-You will need to set up the HTTP Server in Streamerbot.
-The `Address` and `Port` needs to match the one you did the prior step of setting up.
 
 # Functions
 

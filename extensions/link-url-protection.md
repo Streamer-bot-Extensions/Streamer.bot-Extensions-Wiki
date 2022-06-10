@@ -1,8 +1,8 @@
 ---
-title: Link/URL Protection (by emongev)
+title: Link/URL Protection (by emongev) 
 description: Protect against links being posted in chat with Streamer.bot.
 published: true
-date: 2022-06-09T05:00:52.983Z
+date: 2022-05-28T19:36:48.202Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T00:16:06.062Z

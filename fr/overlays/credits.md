@@ -2,7 +2,7 @@
 title: Credits (by Nate1280, Lyfesaver74, and https://codepen.io/)
 description: Display credits that thank people for subs, follows, viewing, etc. during the stream.
 published: true
-date: 2022-06-09T05:11:16.177Z
+date: 2022-05-17T02:12:46.816Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T05:39:13.456Z

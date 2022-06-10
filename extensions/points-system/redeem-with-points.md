@@ -2,7 +2,7 @@
 title: Redeem Actions Using Points
 description: This will allow your viewers to redeem actions using points.
 published: true
-date: 2022-06-09T05:08:03.228Z
+date: 2022-05-26T15:21:39.281Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-26T15:21:36.471Z

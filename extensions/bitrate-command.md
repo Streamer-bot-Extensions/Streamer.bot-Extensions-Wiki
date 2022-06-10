@@ -2,7 +2,7 @@
 title: Bitrate Command (by MrWaldo)
 description: Saves the current bitrate when the StreamStatus Event is emitted by the OBS websocket, by assigning an Action to the Event.
 published: true
-date: 2022-06-09T04:59:46.504Z
+date: 2022-05-22T16:54:47.886Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T02:01:22.112Z

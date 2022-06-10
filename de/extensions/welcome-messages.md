@@ -2,7 +2,7 @@
 title: Welcome Messages (by Andilippi)
 description: Create welcome messages with Streamer.Bot.
 published: true
-date: 2022-06-09T05:05:01.099Z
+date: 2022-05-17T02:15:34.813Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T17:59:04.074Z

@@ -2,7 +2,7 @@
 title: Credits (by Nate1280, Lyfesaver74, and https://codepen.io/)
 description: Display credits that thank people for subs, follows, viewing, etc. during the stream.
 published: true
-date: 2022-06-09T05:03:11.221Z
+date: 2022-05-27T02:30:41.186Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T02:36:14.656Z
@@ -22,7 +22,7 @@ Display credits that thank people for subs, follows, viewing, etc. during the st
 
 Download one of the following example overlays:
 
-[Scrolling](/extensions/credits/scrolling.md)
+[Scrolling](https://cdn.discordapp.com/attachments/878288822620782612/878349667174330428/cph-credits-scroll-01.html)
 [Random Fading Names](https://cdn.discordapp.com/attachments/878288822620782612/878349772916936704/cph-credits-fading-names.html)
 [Animated Sections](https://cdn.discordapp.com/attachments/878288822620782612/878349809692602388/cph-credits-slide.html)
 
