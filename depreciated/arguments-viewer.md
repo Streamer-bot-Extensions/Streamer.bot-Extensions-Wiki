@@ -11,7 +11,6 @@ dateCreated: 2022-04-20T01:56:58.430Z
 # Arguments Viewer [(by Silverlink)](https://www.twitch.tv/silverlink)
 
 ## Description
-
 This UI extension by Silverlink opens a UI window that outputs all `Argument` variables that were populated at the time the Sub-Action ran.
 
 This is extremely useful for learning what variables you have available to use and to diagnose when things don't behave as you think they should.
