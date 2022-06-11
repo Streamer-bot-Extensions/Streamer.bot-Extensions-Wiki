@@ -26,7 +26,7 @@ Included:
 
 ## Files
 
-[/credits\_-\_simple\_scrolling.zip](/credits_-_simple_scrolling.zip) 
+[credits\_-\_simple\_scrolling.zip](/extensions/credits/files/credits_-_simple_scrolling.zip) 
 
 Download the files needed by clicking the link above and extract the folder to where you save your files used in your stream
 
