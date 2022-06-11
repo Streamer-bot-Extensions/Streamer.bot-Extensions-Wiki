@@ -12,18 +12,11 @@ dateCreated: 2022-04-27T03:57:24.991Z
 
 ## Description
 
-Display credits that thank people for subs, follows, viewing, etc. during the stream.
+This is a list of all the different credit styles that can be used with Streamer.bot.
 
-## Tutorial
-<br>
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/7DrRWu_Lmu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Points System (Core)
 
-## Installation
-
-Download one of the following example overlays:
-
-[Scrolling](/extensions/overlays/credits/files/cph-credits-scroll-01.html)
-[Random Fading Names](/extensions/overlays/credits/files/cph-credits-fading-names.html)
-[Animated Sections](/extensions/overlays/credits/files/cph-credits-slide.html)
-
-## Configuration
+* [Scrolling *by Nate1280, Lyfesaver74, and https://codepen.io/*](/overlays/credits/scrolling)
+* [Fading *by Nate1280, Lyfesaver74, and https://codepen.io/*](/overlays/credits/fading)
+* [Animated Sections *by Nate1280, Lyfesaver74, and https://codepen.io/*](/overlays/credits/animated-sections)
+{.links-list}
