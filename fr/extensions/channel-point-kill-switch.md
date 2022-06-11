@@ -2,7 +2,7 @@
 title: Channel Point Kill Switch (by iAmLarcyn)
 description: Allow broadcaster or mods to turn on or off channel point rewards.
 published: true
-date: 2022-05-26T04:46:34.454Z
+date: 2022-06-11T04:54:56.184Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T05:37:00.806Z

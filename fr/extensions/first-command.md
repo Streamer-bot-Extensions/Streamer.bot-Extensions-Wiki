@@ -2,7 +2,7 @@
 title: First Command (by emongev)
 description: Let chat know who was first with Streamer.bot.
 published: true
-date: 2022-05-26T04:46:42.241Z
+date: 2022-06-11T05:08:15.143Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T04:40:10.425Z

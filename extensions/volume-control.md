@@ -2,7 +2,7 @@
 title: Volume Control (by slashie101)
 description: Control your OBS volume through Streamer.bot.
 published: true
-date: 2022-05-29T23:56:55.797Z
+date: 2022-06-11T05:05:09.152Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T01:02:08.489Z

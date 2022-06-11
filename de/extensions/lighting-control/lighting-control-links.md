@@ -2,7 +2,7 @@
 title: Lighting Control
 description: List off all the lighting system Streamer.bot can control.
 published: true
-date: 2022-05-17T02:14:39.779Z
+date: 2022-06-11T04:58:44.089Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T17:57:55.687Z

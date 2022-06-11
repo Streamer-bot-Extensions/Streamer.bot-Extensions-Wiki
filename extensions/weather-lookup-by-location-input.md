@@ -2,8 +2,8 @@
 title: Weather Lookup By Location Input (by Web_Mage)
 description: 
 published: true
-date: 2022-05-22T21:04:22.668Z
-tags: API, Extension, OBS, User Input, CodePen, Web_Mage
+date: 2022-06-11T05:07:04.521Z
+tags: api, extension, obs
 editor: markdown
 dateCreated: 2022-05-18T02:07:55.239Z
 ---

@@ -1,8 +1,8 @@
 ---
-title: Message Link to Latest Tweet (by slashie101) 
+title: Message Link to Latest Tweet (by slashie101)
 description: 
 published: true
-date: 2022-05-28T19:53:11.416Z
+date: 2022-06-11T05:06:01.140Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:05:06.398Z

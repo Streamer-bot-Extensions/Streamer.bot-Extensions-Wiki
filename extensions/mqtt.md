@@ -2,7 +2,7 @@
 title: MQTT (Smarthome) Extension
 description: An extension to allow Streamer.bot to talk to an MQTT broker used in most smart home software like Home Assistant, OpenHAB, HomeSeer, etc
 published: true
-date: 2022-06-05T14:18:03.030Z
+date: 2022-06-11T05:11:33.226Z
 tags: smarthome
 editor: markdown
 dateCreated: 2022-06-05T14:16:00.577Z
@@ -15,7 +15,7 @@ This extension will allow you to connect Streamer.bot to any MQTT broker, such a
 With proper a MQTT integration SB will be able to control nearly all smarthome devices and even allow bot to bot communication.
 
 ## Requirements
-File: [mqtt-broker_(1.1).zip](/extensions/mqtt/files/mqtt-broker_(1.1).zip)
+File: [mqtt-broker_(1.1).zip](/mqtt-broker_(1.1).zip)
 
 ## Installation
 1) Extract the zip and put the MQTTnet.dll into the SB folder

@@ -2,7 +2,7 @@
 title: Streamer.bot
 description: Using the plugin in Streamer.bot.
 published: true
-date: 2022-05-17T02:15:56.608Z
+date: 2022-06-11T05:00:06.623Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T17:59:31.190Z

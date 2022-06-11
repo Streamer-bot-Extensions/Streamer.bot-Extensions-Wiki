@@ -2,7 +2,7 @@
 title: Clip and Post to Chat and Discord (by Grizzlage)
 description: Clip last 30 seconds of stream and paste to chat, no API needed.
 published: true
-date: 2022-05-19T04:39:40.221Z
+date: 2022-06-11T05:07:53.169Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T04:39:37.648Z
