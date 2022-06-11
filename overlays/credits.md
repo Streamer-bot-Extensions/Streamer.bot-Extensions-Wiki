@@ -1,29 +1,22 @@
 ---
 title: Credits (by Nate1280, Lyfesaver74, and https://codepen.io/)
-description: Display credits that thank people for subs, follows, viewing, etc. during the stream.
+description: Display credits at the end of stream.
 published: true
-date: 2022-06-11T04:54:15.380Z
+date: 2022-06-11T06:57:44.081Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-27T02:36:14.656Z
+dateCreated: 2022-04-27T03:57:24.991Z
 ---
 
-# Credits (by [Nate1280](https://www.twitch.tv/nate1280), [Lyfesaver74](https://www.twitch.tv/lyfesaver74), and https://codepen.io/)
+# Credits (by Nate1280, Lyfesaver74, and https://codepen.io/)
 
 ## Description
 
-Display credits that thank people for subs, follows, viewing, etc. during the stream.
+This is a list of all the different credit styles that can be used with Streamer.bot.
 
-## Tutorial
-<br>
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/7DrRWu_Lmu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Points System (Core)
 
-## Installation
-
-Download one of the following example overlays:
-
-[Scrolling](/extensions/credits/scrolling.md)
-[Random Fading Names](https://cdn.discordapp.com/attachments/878288822620782612/878349772916936704/cph-credits-fading-names.html)
-[Animated Sections](https://cdn.discordapp.com/attachments/878288822620782612/878349809692602388/cph-credits-slide.html)
-
-## Configuration
+* [Scrolling *by Nate1280, Lyfesaver74, and https://codepen.io/*](/overlays/credits/scrolling)
+* [Fading *by Nate1280, Lyfesaver74, and https://codepen.io/*](/overlays/credits/fading)
+* [Animated Sections *by Nate1280, Lyfesaver74, and https://codepen.io/*](/overlays/credits/animated-sections)
+{.links-list}
