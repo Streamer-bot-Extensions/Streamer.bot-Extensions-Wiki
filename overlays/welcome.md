@@ -1,12 +1,17 @@
 ---
-title: Welcome (by Lyfesaver74)
-description: A good welcome animation for First Words action.
+title: Welcome Messages (by Andilippi)
+description: Create welcome messages with Streamer.Bot.
 published: true
-date: 2022-06-11T05:04:48.161Z
+date: 2022-06-11T04:54:38.152Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-17T00:09:46.977Z
+dateCreated: 2022-05-05T02:13:58.754Z
 ---
 
-# Welcome [(by Lyfesaver74)](https://www.twitch.tv/lyfesaver74)
-Your content here
+# Welcome Messages [(by Andilippi)](https://www.twitch.tv/andilippi)
+## Tutorial
+<br>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/ByBnM7_lh6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Files
+[Andilippi Welcome Message](https://cdn.discordapp.com/attachments/878288822620782612/879757058189176942/Andilippi_Welcome_Message.zip)
