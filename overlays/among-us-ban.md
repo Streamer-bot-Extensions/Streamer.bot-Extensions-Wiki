@@ -44,5 +44,8 @@ Double click on the `Obs Set Browser Source Url` `Subaction` and make sure that 
 >Do NOT remove the `?user=%user%` from the end of the `Obs Set Browser Source Url` `Subaction` or it will NOT work.
 {.is-danger}
 
+>Do NOT check `Local File` in the `OBS Browser Source`.
+{.is-danger}
+
 >`%user%` will only be populated if Streamer.bot has seen the user.  If you ban a random account that hasn't been in your stream while using Streamer.bot it will only display `%user%` instead of populating with the username.
 {.is-warning}
