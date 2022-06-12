@@ -2,7 +2,7 @@
 title: Post to Twitter (by Lyfesaver74 and Nate1280)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-06-11T04:54:26.845Z
+date: 2022-06-12T01:01:32.097Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
@@ -23,15 +23,21 @@ The first thing you need to do is to get the key from the twitter API. You can d
 4. Create yourself an App, you can use `Projects` or `Standalone`.
 5. Give your app a name, Id Suggest something like "MySBTwitterApp" 
 6. Then you will see a load of tokens, at this point you will need to press "App Settings" (We are going to get new tokens in a minute dont worry about those)
-7. When on the Settings Page, you should see "Keys and Tokens" that is where we will get our 4 keys we need.
-8. Under the Consumer Keys Press "Regenerate", Copy the 2 keys into the relevant parts of the C# Code or in a safe place.
-9. Under the Access Token and Secret Press "Regenerate", Copy the 2 Keys into the relevant parts of the C# Code or in a safe place.
+7. You will need to set the app to to `Oauth 1.0a`
+> `Oauth 2.0` uses different endpoints so it will not work. {.is-warning}
+8. Change `Oauth 1.0a Settings` to `Read and Write`
+9. In the Callback Url will need to match as your Websocket is in SB. By default its set as `http://127.0.0.1:7474` and you will need to put Website Url as your twitter address, if any other boxes require a url put in that same address. If done it should look like this -
+
+
+9. When on the Settings Page, you should see "Keys and Tokens" that is where we will get our 4 keys we need.
+10. Under the Consumer Keys Press "Regenerate", Copy the 2 keys into the relevant parts of the C# Code or in a safe place.
+11. Under the Access Token and Secret Press "Regenerate", Copy the 2 Keys into the relevant parts of the C# Code or in a safe place.
 
 Now You should have your app Set up and your 4 keys you will need for the C# code.
 
 If you get stuck you can follow the Twitter Support at [Twitter Developer Support.](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
 
-
+Remember Getting Elevated access is needed however can take a short period of time.
 # Import Code
 ## Code
 ```
