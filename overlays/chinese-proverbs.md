@@ -21,12 +21,12 @@ Source Copy:  [OBS Plugin](https://obsproject.com/forum/resources/source-copy.12
 Chinese Proverbs:  [Resources](/overlays/chinese-proverbs/files/chinese-proverbs.zip)
 
 ### Steamer.bot
-Drag the file 'Chinese Proverbs Import.txt' into the 'Import Pane':
+Drag the file `Chinese Proverbs Import.txt` into the `Import Pane`:
 ![birthday-extension-import](/overlays/chinese-proverbs/images/chinese-proverbs-import.png)
 
 ### OBS Studio
-With Source Copy installed, go to `Tools > Source Copy > Load Scene` and select Birthday Alert.json.
-![chinese-proverbs-import](/overlays/chinese-proverbs/images/birthday-extension-source-copy.png)
+With Source Copy installed, go to `Tools > Source Copy > Load Scene` and `select Chinese Proverbs.json`.
+![chinese-proverbs-import](/overlays/chinese-proverbs/images/chinese-proverbs-source-copy.png)
 
 ## Configuration
 Double click on the `Obs Set Browser Source Url` `Subaction` and make sure that it points to the `index.html` file in `\chinese-proverbs\chinese-proverbs`.
