@@ -28,8 +28,8 @@ The goal of this wiki is to share resources with the community in a ethical mann
 
 # Join The Discord
 
-- [Streamer.bot Extensions Discord *For all you extension help needs.*](https://discord.gg/kfYDu6k5)
-- [Streamer.bot Main Discord *For all things Streamerbot, help, ideas and latest news.*](https://discord.gg/6jBaYeatnZ)
+- [Streamer.bot Discord *For all things Streamerbot, help, ideas and latest news.*](https://discord.gg/6jBaYeatnZ)
+- ["Unofficial" Streamer.bot Extensions Discord *For all your extension help needs.*](https://discord.gg/kfYDu6k5)
 {.links-list}
 
 
