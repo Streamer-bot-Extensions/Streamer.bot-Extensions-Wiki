@@ -26,11 +26,11 @@ Birthday Extension:  [U.S.](/overlays/birthday-extension/files/birthday.rar)
 ## Installation
 
 ### Steamer.bot
-Drag the file 'Birthday Extension Import.txt' into the 'Import Pane':
+Drag the file `Birthday Extension Import.txt` into the `Import Pane`:
 ![birthday-extension-import](/overlays/birthday-extension/images/birthday-extension-import.png)
 
 ### OBS Studio
-With Source Copy installed, go to `Tools > Source Copy > Load Scene` and select Birthday Alert.json.
+With Source Copy installed, go to `Tools > Source Copy > Load Scene` and select `Birthday Alert.json`.
 ![birthday-extension-source-copy](/overlays/birthday-extension/images/birthday-extension-source-copy.png)
 
 ## Configuration
