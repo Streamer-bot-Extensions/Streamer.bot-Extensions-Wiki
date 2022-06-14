@@ -26,7 +26,7 @@ Drag the file `Hydrate Redeem.txt` into the `Import Pane`:
 
 ### OBS Studio
 With Source Copy installed, go to `Tools > Source Copy > Load Scene` and select `Hydrate Redeem.json`.
-![hydrate-redeem-source-copy](/overlays/hydrate-redeeem/images/hydrate-redeem-source-copy.png)
+![hydrate-redeem-source-copy](/overlays/hydrate-redeem/images/hydrate-redeem-source-copy.png)
 
 ## Configuration
 There needs to be 3 `Commands` created:
