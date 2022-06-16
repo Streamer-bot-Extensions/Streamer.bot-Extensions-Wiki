@@ -1,4 +1,14 @@
-# VoteBox Widget
+---
+title: Vote Box Widget by LeBluxTV
+description: 
+published: true
+date: 2022-06-16T06:41:05.015Z
+tags: 
+editor: markdown
+dateCreated: 2022-06-11T08:12:10.045Z
+---
+
+# VoteBox Widget [(by LeBluxTV)](https://www.twitch.tv/lebluxtv)
 
 ## Description
 
