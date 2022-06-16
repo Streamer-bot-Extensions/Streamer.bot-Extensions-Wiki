@@ -1,8 +1,8 @@
 ---
-title: Next Stream From Schedule in Chat (by Shanshoo)
+title: Next Stream From Schedule in Chat (by LeBluxTV)
 description: 
 published: true
-date: 2022-06-16T06:53:06.617Z
+date: 2022-06-16T06:53:26.678Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T01:05:45.252Z
