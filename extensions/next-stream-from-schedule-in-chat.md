@@ -2,13 +2,13 @@
 title: Next Stream From Schedule in Chat (by Shanshoo)
 description: 
 published: true
-date: 2022-06-11T05:10:38.290Z
+date: 2022-06-16T06:53:06.617Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T01:05:45.252Z
 ---
 
-# Next Stream From Schedule in Chat [(by Shansoo)](https://www.twitch.tv/lebluxtv)
+# Next Stream From Schedule in Chat [(by LeBluxTV)](https://www.twitch.tv/lebluxtv)
 
 ## Description
 
