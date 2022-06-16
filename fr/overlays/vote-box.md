@@ -5,7 +5,7 @@
 A basic Yes or No tool to ask anything to your community, not based on predictions, work with commands input (!1 = yes ; !2 = nop )<br>
 Users can't enter a choice 2 times.<br>
 2 other commands : to launch a new vote : !VoteNow ( a new vote will auto reset ) and reset the box ( !resetVoteBox )<br>
-![image](/overlays/vote-box/images/85396423/172442196-cd673f7a-dcb9-49db-b544-cd7633cd98f4.gif)
+![image](/overlays/vote-box/images/172442196-cd673f7a-dcb9-49db-b544-cd7633cd98f4.gif)
 
 ### Required files
 - [OBS StreamFX Plugin](https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/)
