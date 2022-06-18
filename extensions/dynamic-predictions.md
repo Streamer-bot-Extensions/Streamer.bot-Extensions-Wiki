@@ -2,7 +2,7 @@
 title: Dynamic Predictions (by TerrierDarts)
 description: Start, Run and Resolve Predictions with Streamerbot!
 published: true
-date: 2022-06-18T17:10:21.928Z
+date: 2022-06-18T17:10:43.019Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T15:48:16.293Z
@@ -56,7 +56,7 @@ BotAccount: The Prediction was cancelled
 ```
 
 
-## Auto Set Predictions
+## Auto Set Predictions (Coin Flip)
 When you use this Auto Set Predictions you can tie it a channel point and have it start and then resolve the prediction all automatically, in this example I use the idea of flipping a coin, will it be Blue or will it be pink! 
 ### Import Code
 ```
