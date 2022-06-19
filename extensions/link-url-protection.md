@@ -2,7 +2,7 @@
 title: Link/URL Protection (by emongev)
 description: Protect against links being posted in chat with Streamer.bot.
 published: true
-date: 2022-06-11T05:05:28.240Z
+date: 2022-06-19T12:17:23.122Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T00:16:06.062Z
@@ -17,7 +17,7 @@ TlM0RR+LCAAAAAAABADdfFlz21iW5vtEzH9Q5OsUs7AQEtER82BK5mYTStEUSGI8DwAuKJAEQJg72dH/
 ```
 ## Installation
 1. Import Code.
-2. Add the Follows References to the Code in the `Check Url` Action if needed.
+2. Add the Following References to the Code in the `Check Url` Action if needed.
 ```
 mscorlib.dll
 System.Text.RegularExpressions.dll
