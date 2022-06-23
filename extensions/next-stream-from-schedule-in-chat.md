@@ -9,7 +9,7 @@ dateCreated: 2022-05-27T01:05:45.252Z
 ---
 
 
-# Next Stream From Schedule in Chat 
+# Next Stream From Schedule in Chat [(by LeBluxTV)](https://www.twitch.tv/lebluxtv) 
 
 ## Description
 
