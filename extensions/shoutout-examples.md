@@ -2,7 +2,7 @@
 title: Shout Out Examples
 description: You will find several different versions of shout outs, you will find basic ones here to slightly more complicated.
 published: true
-date: 2022-06-11T05:11:24.223Z
+date: 2022-06-23T14:40:28.017Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-02T21:24:37.577Z
@@ -20,7 +20,7 @@ TlM0RR+LCAAAAAAABADFVUtr3DAQvgfyH5SFpZcosb1+5lKSUNpeemjSQyk5yNLYaypLriTHMSH/vZK9
 
 ## Other Examples
 
-- [Mega Shoutout *by TerrierDarts* *A Visual way to pull the users profile pic, game and link onto the screen*](/en/home/)
+- [Mega Shoutout *by TerrierDarts* *A Visual way to pull the users profile picture, game and link onto the screen*](/en/extensions/shout-outs/mega-shoutout)
 - [Awesome Shoutout without Clip *by TerrierDarts* *A Visual Way to show shoutout*](/en/home/)
 - [Awesome Shoutout with Clip *by TerrierDarts* *A Visual Way to show shoutout including C*](/en/home/)
 - [Shoutout Mods or a Group *by VRFlad* *Shoutout all your mods or group in one go*](/en/home)
