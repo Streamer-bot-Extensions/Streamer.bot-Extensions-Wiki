@@ -27,7 +27,7 @@ TlM0RR+LCAAAAAAABADsvdluI0mzJng/wLwDu9DV/f99jtfxNcL9H0wDklKiqFSqUhsp8WSj4FuQTHFR
 
 ## Tutorial 
 <br>
-Don't forget __Set the directory of your OBS__ in the `action`: Follower Goal 1st : Set !createfollowgoal & Subs Goal 1st  : Set !createsubgoal
+Don't forget **Set the directory of your OBS** in the `action`: Follower Goal 1st : Set !createfollowgoal & Subs Goal 1st  : Set !createsubgoal<br>
 Use !createFollowGoal to add a new Nested Scene with the Follow Goal Bar > then set your follower Goal Number use !setFollowGoal <br>
 Use !createSubsGoal to add a new Nested Scene with the Subscriber Goal Bar >then set your subscriber Goal Number use !setSubsGoal  
 
