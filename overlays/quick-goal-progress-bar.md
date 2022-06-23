@@ -8,11 +8,12 @@ editor: markdown
 dateCreated: 2022-05-27T00:34:07.480Z
 ---
 
-# Quick Goal Progress Bar ( Followers / Subscribers ) [(by LeBluxTV)](https://www.twitch.tv/lebluxtv)
+# Quick Goal Progress Bar ( Followers / Subscribers ) (by [LeBluxTV](https://www.twitch.tv/lebluxtv) & [Rondhi](https://www.twitch.tv/rondhi))
 
 ## Description
-
 Show a progress bar on screen with a goal that you setup.
+![miniature youtube](https://user-images.githubusercontent.com/85396423/175262370-c61aca47-2e0d-4595-9c21-c812cff7ba1b.png)
+
 
 ## Installation
 
@@ -26,19 +27,15 @@ TlM0RR+LCAAAAAAABADtvelyG0m2Jvh/zPod0Gmd3VV9y7N8X2qs20ykJC4pMVOkuJbK0nwlIYIgiyAl
 
 ## Tutorial 
 <br>
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/FchbgpSzUDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Use !createFollowGoal to add a new Nested Scene with the Follow Goal Bar > To set your follower Goal Number use !setFollowGoal <br>
+Use !createSubsGoal to add a new Nested Scene with the Subscriber Goal Bar > To set your subscriber Goal Number use !setSubsGoal  
+
 
 ## Configuration
-**Common things to check you would need to check if doesn't work directly :**
-**In `Actions` named :**
-`Follower Goal 1st` : Set `!createfollowgoal` and Subs Goal 1st  : Set `!createsubgoal`
-![170568845-f487abe2-b17c-4315-9384-e2d3771169ef.png](/overlays/quick-goal-progress-bar/images/170568845-f487abe2-b17c-4315-9384-e2d3771169ef.png)
-double click on highlighted `obs Raw` and makes sure the path points to your `.shader` `file`.
-`c:/Program Files/obs-studio/data/obs-plugins/obs-shaderfilter/examples/rounded_rect.shader`
+
 
 **In `Actions` named :**
-`Follower Goal 2nd` : Progress Bar ( see comments ) & Subs Goal 2nd : Progress Bar ( see comments )
-
+`Follower Goal 2nd` : Progress Bar ( see comments ) & `Subs Goal 2nd` : Progress Bar ( see comments )
 >You may need to set the entire path to your settings.json line 57 ( in streamer.bot's folder > data folder )
 >![170580433-4e81df43-2f1c-48e1-ae7e-5cc3ca682daf.png](/overlays/quick-goal-progress-bar/images/170580433-4e81df43-2f1c-48e1-ae7e-5cc3ca682daf.png)
 {.is-info}
