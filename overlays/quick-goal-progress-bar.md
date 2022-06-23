@@ -12,7 +12,7 @@ dateCreated: 2022-05-27T00:34:07.480Z
 
 ## Description
 Show a progress bar on screen with a goal that you setup.
-![miniature youtube](https://user-images.githubusercontent.com/85396423/175262370-c61aca47-2e0d-4595-9c21-c812cff7ba1b.png)
+![img](https://user-images.githubusercontent.com/85396423/175262370-c61aca47-2e0d-4595-9c21-c812cff7ba1b.png)
 
 
 ## Installation
