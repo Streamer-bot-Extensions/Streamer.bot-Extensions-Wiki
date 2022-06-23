@@ -14,7 +14,7 @@ TlM0RR+LCAAAAAAABADsvetuKsm2Jvr/SOcd3KWzpG6tFXNFRF5jS92SwYDBNp4GzG3PLStuCZjkUgZs
 - [OBS Websocket Plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/)
 
 ## Tutorial Video <br>
-[![Everything Is AWESOME](https://img.youtube.com/vi/Y-yKmmbIyTI/0.jpg)](https://www.youtube.com/watch?v=Y-yKmmbIyTI "WHO2RAID TUTORIAL")<br>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/Y-yKmmbIyTI" title="WHO2RAID TUTORIAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
