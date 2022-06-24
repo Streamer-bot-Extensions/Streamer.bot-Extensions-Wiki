@@ -2,7 +2,7 @@
 title: Admin To do List
 description: 
 published: false
-date: 2022-06-11T05:11:21.202Z
+date: 2022-06-24T16:23:56.845Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-02T10:34:40.282Z
@@ -15,7 +15,6 @@ dateCreated: 2022-06-02T10:34:40.282Z
 - Random Action No Repeat
 - TierLists 
 - AwesomeShoutouts (both)
-- Mega Shoutouts
 - Chat Dots
 - Cube Effect
 - User Groups 1 by 1
@@ -26,13 +25,13 @@ dateCreated: 2022-06-02T10:34:40.282Z
 - Building Extensions to Share Advice
 - Dice Overlay
 - Mod/Group Shoutouts
-- 
+
 
 
 
 ## Pages to Edit/Finish
 
-- Free for Alls
+- 
 - Set all points
 - store redeems
 - add ranking system
