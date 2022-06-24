@@ -2,7 +2,7 @@
 title: Weather Lookup By Location Input (by Web_Mage)
 description: 
 published: true
-date: 2022-06-24T18:19:30.096Z
+date: 2022-06-24T18:24:16.571Z
 tags: api, extension, obs
 editor: markdown
 dateCreated: 2022-05-18T02:07:55.239Z
@@ -69,7 +69,7 @@ TlM0RR+LCAAAAAAABADVW2lv20qW/T7A/AdOBkF3A2FS3MlgMoApW5ttvUiyKInjRqM2UrS4tajFcqP/
 
 >You need to have the weather lookup already installed and configured. If you don't have valid data coming back, then this widget will not work.{.is-important}
 
-
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/IeD4yMU1kQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 There are a couple ways to handle this, either online or having the html page locally on your machine. The choice is up to you.
 
