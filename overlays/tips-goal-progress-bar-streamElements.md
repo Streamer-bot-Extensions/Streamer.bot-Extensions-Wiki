@@ -12,7 +12,7 @@ dateCreated: 2022-05-27T00:34:07.480Z
 
 ## Description
 Show a progress bar on screen with a goal that you setup.
-![img](https://user-images.githubusercontent.com/85396423/175286400-2ccb2403-fc06-4ce6-a87a-41e21f4d3b76.png)
+![img](/overlays/tips-goal-progress-bar-streamElements/images/175286400-2ccb2403-fc06-4ce6-a87a-41e21f4d3b76.png)
 
 ## Installation
 

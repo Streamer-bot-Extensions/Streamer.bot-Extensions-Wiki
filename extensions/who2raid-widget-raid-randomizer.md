@@ -29,4 +29,4 @@ WHO2RAID -> RAID RANDOMIZER FOLLOWED CURRENTLY LIVE -> !RaidWho
 {.is-info}
 
 ### References
-![ref who2raid](https://user-images.githubusercontent.com/85396423/175425952-9fff472a-1359-472e-8f4d-8feced4de712.png)
+![ref who2raid](/extensions/who2raid/images/175425952-9fff472a-1359-472e-8f4d-8feced4de712.png)
