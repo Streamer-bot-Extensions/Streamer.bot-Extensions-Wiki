@@ -25,8 +25,8 @@ TlM0RR+LCAAAAAAABADtfdlSY0ma5v2Y9TvQYZ1mVd3lWb4ed0+zuQAyABEEGawCNWVpvh1JgbbSAgFt
 - [OBS Websocket Plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/)
 
 ## Tutorial 
-<br>
-Don't forget **Set the directory of your OBS** in the `action`: StreamElements Tips 1st : !createTipGoal <br>
+
+Don't forget **Set the directory of your OBS** in the `Action`: StreamElements Tips 1st : !createTipGoal <br>
 Use !createTipsGoal to add a new Nested Scene with the Follow Goal Bar > then set your follower Goal Number use !setTipsGoal <br>
 To reset the progress bar use : !resetTips 
 
