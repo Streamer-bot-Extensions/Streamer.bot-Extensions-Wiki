@@ -27,8 +27,8 @@ The first thing you need to do is to get the key from the twitter API. You can d
 > `Oauth 2.0` uses different endpoints so it will not work. {.is-warning}
 8. Change `Oauth 1.0a Settings` to `Read and Write`
 9. In the Callback Url will need to match as your Websocket is in SB. By default its set as `http://127.0.0.1:7474` and you will need to put Website Url as your twitter address, if any other boxes require a url put in that same address. If done it should look like this -
-![twittersettings.png](/extensions/twitter/twittersettings.png)
-![httpservertwitter.png](/extensions/twitter/httpservertwitter.png)
+![twittersettings.png](/extensions/twitter/images/twittersettings.png)
+![httpservertwitter.png](/extensions/twitter/images/httpservertwitter.png)
 
 
 9. When on the Settings Page, you should see "Keys and Tokens" that is where we will get our 4 keys we need.
@@ -47,9 +47,9 @@ TlM0RR+LCAAAAAAABADtXUtz40hyvjvC/0ExEXPaZS8eBElMhA8ixQdICi0+AJKw9gCgAIIiQHL4FLmx
 ```
 ## Set-Up
 All the Code is in one bit of C# So all the References need adding in just one place, they reference you will need are. 
-![tweetrefs.png](/extensions/twitter/tweetrefs.png)
+![tweetrefs.png](/extensions/twitter/images/tweetrefs.png)
 Also within the C# Code you will need to add your keys.
-![tweetkeys.png](/extensions/twitter/tweetkeys.png)
+![tweetkeys.png](/extensions/twitter/images/tweetkeys.png)
 You need to make sure each KeyLine has `@` at the start and then delcared as strings by `"`.
 
 You will need to set up the HTTP Server in Streamerbot.
@@ -58,10 +58,10 @@ The `Address` and `Port` needs to match the one you did the prior step of settin
 # Functions
 
 ## Send a Tweet
-![twittertext.png](/extensions/twitter/twittertext.png)
+![twittertext.png](/extensions/twitter/images/twittertext.png)
 
 ## Send a Tweet With Image
-![tweetimage.png](/extensions/twitter/tweetimage.png)
+![tweetimage.png](/extensions/twitter/images/tweetimage.png)
 ## Streaming Commands
 These 2 Actions will need to be tied to the OBS Events > Stream Starting and OBS Events > Stream Ended
 The Arguments in both sub-actions are exactly the same however you will have a **LIVE** verson and you will have a **Normal** Version for when you are offline. 
@@ -72,9 +72,9 @@ The Arguments in both sub-actions are exactly the same however you will have a *
 |`bannerPath`| This will change the banner at the top of your page, and this is the link to the image file.
 |`tweetText`| This is a Starting only Command, but this is the value you want to tweet out when ou go live, the default message will tell people the game you are playing and post your link.
 ### Stream Starting
-![tweetgoinglive.png](/extensions/twitter/tweetgoinglive.png)
+![tweetgoinglive.png](/extensions/twitter/images/tweetgoinglive.png)
 ### Stream Ending
-![tweetonend.png](/extensions/twitter/tweetonend.png)
+![tweetonend.png](/extensions/twitter/images/tweetonend.png)
 
 > If there is any action you don't want to happen, use the `Enable/Disable` Option in the Sub Action Context Menu. Disabled Sub-Actions will turn Red/Pink. {.is-success}
 

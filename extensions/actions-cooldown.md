@@ -22,7 +22,7 @@ One you have import it should compile without having to add any other refeneces.
 ## Use
 
 To use this in another you will need to use the `Execute Method` Sub-Action. You will need to select the type of cooldown you want.
-![actioncooldownmethod.png](/extensions/actioncooldown/actioncooldownmethod.png)
+![actioncooldownmethod.png](/extensions/actioncooldown/images/actioncooldownmethod.png)
 
 ### Button Cooldown
 This will allow you to add a cooldown to an action that is tied to a button only or to an action that you only want the cooldown to apply if its come from a button. , this is useful for shared decks with multiple people.
@@ -37,4 +37,4 @@ You will need to add the following json to the `Arguments` inside the button set
 
 ### FullActionGlobal
 This will allow you to add a Global Cooldown to an action reguardless of how it is triggered. To add this to an action you will need to set up 2 `Set Arguments` one for `actionName` and one for `actionCooldown`. It should look like this.
-![fullactionexample.png](/extensions/actioncooldown/fullactionexample.png)
+![fullactionexample.png](/extensions/actioncooldown/images/fullactionexample.png)

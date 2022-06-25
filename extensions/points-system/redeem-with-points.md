@@ -17,7 +17,7 @@ TlM0RR+LCAAAAAAABADFVllz4jgQft+q/Q9enscp+eDQvAUngElCwmUTL/ugy8ciH+sDYqbmv69sYBJD
 ## Set-Up
 Once you've imported the code you will need to set up a command to trigger this. In the example I use `!redeemWithPoints` but I would recommend using the name of the redeem. 
 You can change `redeemCost` & `redeemName` to match what you need them to be. Then to add the action just place all the sub-actions you need below the green comment. 
-![exampleredeemactions.png](/extensions/points-system/exampleredeemactions.png)
+![exampleredeemactions.png](/extensions/points-system/images/exampleredeemactions.png)
 ### Using a Single Command Idea
 Something you could do is have a `!redeemWithPoints` command tied to an action which checks the input then runs the action based off that input. To set something like this up you would need to have an action which says. 
 ```js
@@ -25,4 +25,4 @@ if `rawInput` is equal to `Example1` then do `Example1Action` and 'Break'
 if `rawInput` is equal to `Example2` then do `Example2Action` and 'Break'
 ```
 ## Example Use
-![exampleredeemcost.png](/extensions/points-system/exampleredeemcost.png) 
+![exampleredeemcost.png](/extensions/points-system/images/exampleredeemcost.png) 
