@@ -39,7 +39,7 @@ Platforms :arrow_right: Twitch :arrow_right: Predictions
 {.is-info}
 
 If set up correctly it should look like the image below
-![predictcommand.png](/extensions/predictions/predictcommand.png)
+![predictcommand.png](/extensions/predictions/images/predictcommand.png)
 
 ### Example
 When everything is set up it should work like this
@@ -70,7 +70,7 @@ After youve got the codepen into OBS you will need to go into the `ResolvePredic
 > As we are going to need to add info its important that you DO NOT tick local file. {.is-danger}
 
 Then you will need to create a Channel Point Redeem that is pointed to the `TriggerPrediction` Action.
-![coinflipcpr.png](/extensions/predictions/coinflipcpr.png)
+![coinflipcpr.png](/extensions/predictions/images/coinflipcpr.png)
 
 The `Save Variables` Action needs to be tied to the `Created` Event within the Predictions Tab.
 > You can find the Prediction Tab via,
@@ -78,9 +78,9 @@ Platforms :arrow_right: Twitch :arrow_right: Predictions
 {.is-info}
 
 If set up correctly it should look like the image below
-![predictcommand.png](/extensions/predictions/predictcommand.png)
+![predictcommand.png](/extensions/predictions/images/predictcommand.png)
 
 ### Example
-![coinflipexample.png](/extensions/predictions/coinflipexample.png)
+![coinflipexample.png](/extensions/predictions/images/coinflipexample.png)
 
 *Original Pen Comes from html5andblog https://codepen.io/html5andblog/pen/pJZpee*

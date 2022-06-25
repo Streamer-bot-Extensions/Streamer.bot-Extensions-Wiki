@@ -39,18 +39,18 @@ wss://heat-api.j38.net/channel/<YOUR-ID>
 ``` 
 > If you don't know your ID visit the `Viewers` Tab and click on your name, your ID will be there. {.is-info}
 7. Tie the action `Heat Message` to the Message Event, if set up correctly it should look like this. 
-![heatwebsocket.png](/extensions/heat-map/heatwebsocket.png)
+![heatwebsocket.png](/extensions/heat-map/images/heatwebsocket.png)
 
 > Now Basic Heat Should be Set Up! {.is-success}
 
 # How to Use
 
 When you want to add another source you will need to add a folder into the Action `Heat Sources`. In the folder you will need to have the Sub-Actions `OBS Get Scene Item Properties` and `Execute Method(Check if Match, Execute)`. You will want to set this up so the OBS action is pointed to the Source you want to be clickable. Like So, I want the sources `GREEN` and `RED` to be clickable.
-![subactionsheat.png](/extensions/heat-map/subactionsheat.png)
+![subactionsheat.png](/extensions/heat-map/images/subactionsheat.png)
 > It does not matter what you name the groups, however I would recommend keeping them as close to the source name as possible. {.is-warning}
 
 The next thing you want to do is to create a Action that **EXACTLY** matches the source name, and then add the Sub-Actions of what you wish to happen when said source is clicked.
-![actionssourcesheat.png](/extensions/heat-map/actionssourcesheat.png)
+![actionssourcesheat.png](/extensions/heat-map/images/actionssourcesheat.png)
 > IT IS IMPORTANT THAT THE SOURCE NAME IN OBS IS **EXACTLY** THE SAME AS THE ACTION NAME IN STREAMERBOT OTHERWISE IT WILL NOT WORK {.is-danger}
 
 
@@ -62,13 +62,13 @@ In This clip when you press Red, the box turns Red. When you press Green, the Bo
 
 ### Chat
 The Chat from the my actions look like this.
-![heat_chat.png](/extensions/heat-map/heat_chat.png)
+![heat_chat.png](/extensions/heat-map/images/heat_chat.png)
 
 > As you can see one of the `clicks` returns `%user%` this is because the user has not granted access to Heat. To grant access the User needs to do the following. 
 > Click on the Heat Logo at the Side of the screen and then Click Manage Access.
-> ![set_up_heat1.png](/extensions/heat-map/set_up_heat1.png)
+> ![set_up_heat1.png](/extensions/heat-map/images/set_up_heat1.png)
 > You Then need to press Grant Access
-> ![heatgrant.png](/extensions/heat-map/heatgrant.png)
+> ![heatgrant.png](/extensions/heat-map/images/heatgrant.png)
 > If all steps have been followed then your viewer should be set up.
 {.is-warning}
 

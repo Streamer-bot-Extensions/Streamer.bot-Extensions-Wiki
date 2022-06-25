@@ -20,7 +20,7 @@ TlM0RR+LCAAAAAAABADFVUtr3DAQvgfyH5SFpZcosb1+5lKSUNpeemjSQyk5yNLYaypLriTHMSH/vZK9
 
 ## Other Examples
 
-- [Mega Shoutout *by TerrierDarts* *A Visual way to pull the users profile picture, game and link onto the screen*](/en/extensions/shout-outs/mega-shoutout)
+- [Mega Shoutout *by TerrierDarts* *A Visual way to pull the users profile picture, game and link onto the screen*](/en/extensions/shoutouts/mega-shoutout)
 - [Shoutout with Minimum Age *by VRFlad* *Shoutout based on Account Age*](/en/extensions/custom-auto-shout-out-minimum-age-requirements)
 {.links-list}
 
