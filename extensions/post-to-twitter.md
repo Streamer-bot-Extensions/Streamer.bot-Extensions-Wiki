@@ -2,7 +2,7 @@
 title: Post to Twitter (by Lyfesaver74 and Nate1280)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-06-27T23:03:55.445Z
+date: 2022-06-27T23:08:10.028Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
@@ -17,7 +17,7 @@ dateCreated: 2022-04-27T04:14:39.472Z
 # Twitter Developer Set-up
 ## Set Up Instructions
 The first thing you need to do is to get the key from the twitter API. You can do this by doing the following steps.
-> You will need **elevated access** for this to work. You can find out how to do that by clicking [**Here**](#gettingelevatedaccessifneeded) Or Scrolling a bit further down.
+> You will need **elevated access** for this to work. You can find out how to do that by clicking [**Here**](#getting-elevated-access-if-needed) Or Scrolling a bit further down.
 {.is-warning}
 1. Go to - https://developer.twitter.com/en/portal/dashboard
 2. Sign in with Twitter.
