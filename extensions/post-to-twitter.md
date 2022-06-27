@@ -2,7 +2,7 @@
 title: Post to Twitter (by Lyfesaver74 and Nate1280)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-06-27T15:47:18.464Z
+date: 2022-06-27T18:13:59.483Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
@@ -87,6 +87,8 @@ If you find that you've followed all the steps and it still doesn't work here ar
 - The Callback address must be identical to the HTTP server in SB.
 - The Keys in the C# codes are correct and still has the `@` and `"`.
 - The File Paths for images are correct.
+- Make sure the code Compiles.
+- Make sure the HTTP Server is active.
 
 
 
