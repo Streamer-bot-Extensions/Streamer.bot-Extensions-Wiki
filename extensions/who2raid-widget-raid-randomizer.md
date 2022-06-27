@@ -12,7 +12,7 @@ TlM0RR+LCAAAAAAABADsvfluI7mWJ/z/B3zv4C5MAd24l3kZjGBEsIEZwJIlWbKtTGuXOhsGt5BkhZbS
 ### Required files
 - [OBS Shaderfilter 1.21 Plugin](https://github.com/Oncorporation/obs-shaderfilter)
 - [OBS Websocket Plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/)
-- [TV SNOW.webm](https://drive.google.com/file/d/1fNoE36l7jO0sA6G2gghj0iRXsVBE8MNy/view?usp=sharing)
+- [TV SNOW.webm](/extensions/who2raid/files/TV_SNOW_AN_VP8.webm)
 
 ## Tutorial Video <br>
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/Y-yKmmbIyTI" title="WHO2RAID TUTORIAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
