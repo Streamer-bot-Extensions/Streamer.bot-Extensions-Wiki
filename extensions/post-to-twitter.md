@@ -2,7 +2,7 @@
 title: Post to Twitter (by Lyfesaver74 and Nate1280)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-06-25T14:41:32.373Z
+date: 2022-06-27T11:25:13.457Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
@@ -12,7 +12,7 @@ dateCreated: 2022-04-27T04:14:39.472Z
 #### This code was expanded on [by TerrierDarts](https://www.twitch.tv/TerrierDarts)
 
 # Tutorial
-##### Coming Soon
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/nc9edtn75pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Pre-SB Set-Up
 The first thing you need to do is to get the key from the twitter API. You can do this by doing the following steps.
