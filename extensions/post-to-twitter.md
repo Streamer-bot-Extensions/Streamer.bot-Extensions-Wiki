@@ -2,7 +2,7 @@
 title: Post to Twitter (by Lyfesaver74 and Nate1280)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-06-27T18:13:59.483Z
+date: 2022-06-27T23:03:55.445Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
@@ -14,9 +14,11 @@ dateCreated: 2022-04-27T04:14:39.472Z
 # Tutorial
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/nc9edtn75pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Pre-SB Set-Up
+# Twitter Developer Set-up
+## Set Up Instructions
 The first thing you need to do is to get the key from the twitter API. You can do this by doing the following steps.
-> You will need **elevated access** for this to work. {.is-warning}
+> You will need **elevated access** for this to work. You can find out how to do that by clicking [**Here**](#gettingelevatedaccessifneeded) Or Scrolling a bit further down.
+{.is-warning}
 1. Go to - https://developer.twitter.com/en/portal/dashboard
 2. Sign in with Twitter.
 3. Once on the "Developer Portal" you should see on the Left Hand Side "Projects & Apps"
@@ -40,6 +42,22 @@ Now You should have your app Set up and your 4 keys you will need for the C# cod
 If you get stuck you can follow the Twitter Support at [Twitter Developer Support.](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
 
 > Remember Getting Elevated access is needed however can take a short period of time. {.is-info}
+## Getting Elevated Access if Needed
+When you open up the developer portal with `Essential` Access you will be greeted with this.
+![twitterapplyforelevated.png](/extensions/twitter/images/twitterapplyforelevated.png)
+
+You will need to Press Apply and then fill out the `Basic Info` your username and email should be there by default however there are changeable you will however need to add your name, country your based in and your coding experience. The name can not be changed, I am unaware about the others so please be accurate. 
+
+![twitterapplyforelevatedpg1.png](/extensions/twitter/images/twitterapplyforelevatedpg1.png)
+ The next section is where you will explain your use for the bot saying something along the lines of.
+ 
+ 
+> I am a Streamer on Twitch and I would like to update my Name, Profile Picture and Send a Tweet when I go Live
+
+The Next step is to review all your information and then Agree to the terms on the final page.
+
+*Thank you to [4xsample](https://www.twitch.tv/4xsample) for the help in providing images and explaining the application process*
+
 # Import Code
 ## Code
 ```
@@ -82,7 +100,7 @@ The Arguments in both sub-actions are exactly the same however you will have a *
 # Troubleshooting
 If you find that you've followed all the steps and it still doesn't work here are a few things to check.
 - You must have Elevated Access for this to work.
-- You must have auth 2.0 turned off.
+- You must have OAuth 2.0 turned off. (Press on the cog, then Edit under User Authentication Settings)
 - You have it set to `Read and Write`
 - The Callback address must be identical to the HTTP server in SB.
 - The Keys in the C# codes are correct and still has the `@` and `"`.
