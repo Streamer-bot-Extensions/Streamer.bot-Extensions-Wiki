@@ -2,7 +2,7 @@
 title: Post to Twitter (by Lyfesaver74 and Nate1280)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-06-27T11:25:13.457Z
+date: 2022-06-27T15:47:18.464Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
@@ -78,5 +78,15 @@ The Arguments in both sub-actions are exactly the same however you will have a *
 ![tweetonend.png](/extensions/twitter/images/tweetonend.png)
 
 > If there is any action you don't want to happen, use the `Enable/Disable` Option in the Sub Action Context Menu. Disabled Sub-Actions will turn Red/Pink. {.is-success}
+
+# Troubleshooting
+If you find that you've followed all the steps and it still doesn't work here are a few things to check.
+- You must have Elevated Access for this to work.
+- You must have auth 2.0 turned off.
+- You have it set to `Read and Write`
+- The Callback address must be identical to the HTTP server in SB.
+- The Keys in the C# codes are correct and still has the `@` and `"`.
+- The File Paths for images are correct.
+
 
 
