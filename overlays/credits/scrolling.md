@@ -26,7 +26,7 @@ Included:
 
 ## Files
 
-[credits - simple scrolling.zip](/overlays/credits/files/credits_-_simple_scrolling.zip) 
+[credits - simple scrolling.zip](/overlays/credits/files/credits-simple-scrolling.zip) 
 
 Download the files needed by clicking the link above and extract the folder to where you save your files used in your stream
 
