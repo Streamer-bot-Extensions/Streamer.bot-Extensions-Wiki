@@ -2,7 +2,7 @@
 title: Random Action No Repeat (by TerrierDarts)
 description: This extension will allow you to randomly run actions from the same trigger without repeating any.
 published: true
-date: 2022-06-29T05:29:45.270Z
+date: 2022-06-29T05:31:12.201Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-28T23:06:49.076Z
@@ -14,7 +14,7 @@ This extension will all you to create little groups of actions that when trigger
 > If you ever get the same action twice in a row this is just due to the end of the last loop and the start of a new one. {.is-info}
 
 ## Tutorial
-<iframe width="56" height="31" src="https://www.youtube.com/embed/Ey42-dmG-UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/Ey42-dmG-UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Import Code
 ```
