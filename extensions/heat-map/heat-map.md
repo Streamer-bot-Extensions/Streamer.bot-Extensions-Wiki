@@ -2,7 +2,7 @@
 title: Heat Map
 description: Heap Map is a Twitch Extension that allows users to click and interact with your stream.
 published: true
-date: 2022-06-29T14:37:01.700Z
+date: 2022-06-29T20:29:49.672Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-28T17:32:18.959Z
@@ -23,7 +23,7 @@ Heat Map, allows users to click on your stream to trigger actions.
 {.links-list}
 
 ## Heat Map FAQ
-#### Can I return the User who clicked with the Capitals. So TerrierDarts not terrierdarts?
+###### Can I return the User who clicked with the Capitals. So TerrierDarts not terrierdarts?
 Yes by using this c# code and replacing the FetchUrl. This will return the Display name rather than a Login name.
 ```c
 using System;
@@ -46,4 +46,6 @@ public class CPHInline
     }
 }
 ```
-> Microsoft.VisualBasic.dll may need maunually adding {.is-info}
+> Microsoft.VisualBasic.dll may need manually adding {.is-info}
+###### Heat Map Keeps Saying 'Someone' Clicked.. Why?
+This occurs when the user hasn't given the extension access to there information. What you need to do is advice your community that they must give Heat access if they wish to unlock the full potential. To give access your viewers must press on the heat menu which can be found on the right hand side, then Manage Access > Grant. More Information and pictures can be found in the Core install Page.
