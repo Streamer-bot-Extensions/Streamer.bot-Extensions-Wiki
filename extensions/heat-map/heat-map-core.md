@@ -2,7 +2,7 @@
 title: Heat Map Core Installation
 description: Core Installation of Heat Map
 published: true
-date: 2022-07-01T20:15:44.305Z
+date: 2022-07-01T20:16:21.018Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T17:36:34.089Z
@@ -12,7 +12,7 @@ dateCreated: 2022-05-30T17:36:34.089Z
 
 # Tutorial
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/bU3Gwd2JVd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen"></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/bU3Gwd2JVd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 **Tutorial done by [TerrierDarts](https://www.Twitch.tv/TerrierDarts)**
 
