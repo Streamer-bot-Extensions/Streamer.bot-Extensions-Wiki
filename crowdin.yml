@@ -1,3 +1,10 @@
 files:
   - source: '*'
     translation: /%locale%/%original_file_name%%file_extension%
+  - source: '*'
+    ignore:
+      - /de/
+      - /es/
+      - /fr/
+      - /pt-br/
+    translation: /%locale%/%original_file_name%%file_extension%
