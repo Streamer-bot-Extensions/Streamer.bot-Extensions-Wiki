@@ -2,14 +2,13 @@
 title: Streamer.bot Extensions
 description: Streamer.bot Community Made Extensions
 published: true
-date: 2022-06-24T00:42:43.521Z
+date: 2022-07-01T16:28:43.384Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:15:10.917Z
 ---
 
 ![streamerbot.png](./logos/streamerbot.png){.align-abstopright}
-
 # Welcome to Streamer.bot Extensions
 
 Welcome to the Streamer.bot Extensions wiki! This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
