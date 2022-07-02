@@ -14,7 +14,7 @@ dateCreated: 2022-05-27T01:05:45.252Z
 ## Description
 
 Will Display the next scheduled stream in the chat 
-![Next Stream in chat](https://user-images.githubusercontent.com/85396423/175247155-7f89d259-8801-4ceb-976f-e317576e5431.png)
+![Next Stream in chat](/extensions/next-stream-from-schedule-in-chat/images/175247155-7f89d259-8801-4ceb-976f-e317576e5431.png)
 
 ## Installation
 ```text

@@ -2,7 +2,7 @@
 title: Dynamic Predictions (by TerrierDarts)
 description: Start, Run and Resolve Predictions with Streamerbot!
 published: true
-date: 2022-06-18T17:10:43.019Z
+date: 2022-06-24T09:00:56.834Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T15:48:16.293Z
@@ -39,12 +39,12 @@ Platforms :arrow_right: Twitch :arrow_right: Predictions
 {.is-info}
 
 If set up correctly it should look like the image below
-![predictcommand.png](/extensions/predictions/predictcommand.png)
+![predictcommand.png](/extensions/predictions/images/predictcommand.png)
 
 ### Example
 When everything is set up it should work like this
 ```css
-TerrierDarts: !prediction Who Will Win?|Team1|Team2
+TerrierDarts: !prediction Who Will Win?|Team1|Team2|Team3|Team4
 BotAccount: A Prediction has started... Who Will Win?
 <Wait for Prediction to End>
 <Then you can use>
@@ -63,14 +63,14 @@ When you use this Auto Set Predictions you can tie it a channel point and have i
 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
 ```
 ### Set-Up 
-First You will need to get this codepen `<codepen will be here when i get one working>` and download it, extract, and put it somewhere safe and create a browser source with the url of the index file into OBS. 
+First You will need to get this codepen https://codepen.io/terrierdarts/pen/oNEGdJe and download it, to download press `extract` in the bottom right handside, and put it somewhere safe and create a browser source with the url of the index file into OBS. 
 > For more info about codepens check out Lyfesavers Video on Codepens Here {.is-info}
 
 After youve got the codepen into OBS you will need to go into the `ResolvePrediction` Action and make sure the OBS Subactions are pointed to that source that you've just added.
 > As we are going to need to add info its important that you DO NOT tick local file. {.is-danger}
 
 Then you will need to create a Channel Point Redeem that is pointed to the `TriggerPrediction` Action.
-![coinflipcpr.png](/extensions/predictions/coinflipcpr.png)
+![coinflipcpr.png](/extensions/predictions/images/coinflipcpr.png)
 
 The `Save Variables` Action needs to be tied to the `Created` Event within the Predictions Tab.
 > You can find the Prediction Tab via,
@@ -78,7 +78,9 @@ Platforms :arrow_right: Twitch :arrow_right: Predictions
 {.is-info}
 
 If set up correctly it should look like the image below
-![predictcommand.png](/extensions/predictions/predictcommand.png)
+![predictcommand.png](/extensions/predictions/images/predictcommand.png)
 
 ### Example
-![coinflipexample.png](/extensions/predictions/coinflipexample.png)
+![coinflipexample.png](/extensions/predictions/images/coinflipexample.png)
+
+*Original Pen Comes from html5andblog https://codepen.io/html5andblog/pen/pJZpee*

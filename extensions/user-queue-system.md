@@ -20,9 +20,9 @@ TlM0RR+LCAAAAAAABADtXWtv4kq2/T7S/Acm0tHV1XS1ynb5NdLoKtBAIAkd3gm3z4d6GXwwj4MhCRnN
 > This import contains **9 Actions and 8 Commands** {.is-info}
 ## Imports {.tabset}
 ### Imported Actions
-![queueimportactions.png](/extensions/user-queue-system/queueimportactions.png)
+![queueimportactions.png](/extensions/user-queue-system/images/queueimportactions.png)
 ### Imported Commands
-![queueimportcommands.png](/extensions/user-queue-system/queueimportcommands.png)
+![queueimportcommands.png](/extensions/user-queue-system/images/queueimportcommands.png)
 
 
 ## Set Up
@@ -60,13 +60,13 @@ If you want a different output message just change the `Twitch Message` Sub-Acti
 In the Video I use rawInput as an example, in the following images you can see how I use user. 
 ## Examples {.tabset}
 ### Start and End
-![startandendqueue.png](/extensions/user-queue-system/startandendqueue.png)
+![startandendqueue.png](/extensions/user-queue-system/images/startandendqueue.png)
 ### Open and Close
-![openandclosequeue.png](/extensions/user-queue-system/openandclosequeue.png)
+![openandclosequeue.png](/extensions/user-queue-system/images/openandclosequeue.png)
 ### Join
-![joinqueue.png](/extensions/user-queue-system/joinqueue.png)
+![joinqueue.png](/extensions/user-queue-system/images/joinqueue.png)
 ### Pull
-![pullqueue.png](/extensions/user-queue-system/pullqueue.png)
+![pullqueue.png](/extensions/user-queue-system/images/pullqueue.png)
 ### Leave and Position
-![positionleavequeue.png](/extensions/user-queue-system/positionleavequeue.png)
+![positionleavequeue.png](/extensions/user-queue-system/images/positionleavequeue.png)
 

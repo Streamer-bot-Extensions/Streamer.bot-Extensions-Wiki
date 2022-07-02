@@ -19,16 +19,16 @@ First you will need to visit the [Tower Block](/en/overlays/tower-blocks-and-web
 
 So for the heat to work you are going to need create a new folder in the `Heat Sources` Action. Call it some identifiable, I would call the folder the same name as the source, and put the following actions in. `OBS Get Scene Item Properties` link this to the Tower Game Browser Source. Then add a `Execute Method(Check if Match,Execute)` If you already have an example folder in there you can just duplicate and rename and relink to make the process easier.
 
-![towergame1.png](/extensions/heat-map/towergame1.png)
+![towergame1.png](/extensions/heat-map/images/towergame1.png)
 
 The Next set up is to create a duplicate of the action `Game-Tower-Begin`, you will need to rename this action so it is exactly the same as the name of the source. If they are not the same this will not work.
 
-![towergame2.png](/extensions/heat-map/towergame2.png)
+![towergame2.png](/extensions/heat-map/images/towergame2.png)
 
 In the Action `Game-Tower-Launcher` you will need to change variable `%user%` to `%userName%` , also make sure the `OBS Source Visibility State` Sub-Actions in `Game-Tower-Launcher` and `Game-Tower-End` are pointed to the correct source also these Action contain enable and disable Sub-Actions Channel Points. If you wish to use a chat command as a trigger then delete the Channel Enable/Disable Sub-Action and replace with the equivalent for commands.
 
 As Explained in the main Tower Block you need to ensure that Streamer.bot WebSocket is enabled
-![sbwebsocket.png](/extensions/heat-map/sbwebsocket.png)
+![sbwebsocket.png](/extensions/heat-map/images/sbwebsocket.png)
 
 > That should now have the Tower Block Game working with heat. {.is-success}
 

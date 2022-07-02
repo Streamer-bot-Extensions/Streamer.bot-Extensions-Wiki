@@ -1,0 +1,16 @@
+files:
+  - source: /
+    ignore:
+      - /de/
+      - /es/
+      - /fr/
+      - /pt-br/
+      - /logos/
+      - '*.png'
+      - '*.zip'
+      - '*.rar'
+      - '*.gif'
+      - '*.json'
+      - '*.dll'
+      - '*.webm'
+    translation: /%two_letters_code%/%original_file_name%
