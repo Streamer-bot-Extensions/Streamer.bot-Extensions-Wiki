@@ -2,7 +2,7 @@
 title: Elgato Lighting Control (by Geocym)
 description: Change Brightness and Color Temperature of Elgato Lighting.
 published: true
-date: 2022-06-11T04:52:38.228Z
+date: 2022-07-02T22:22:39.580Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:41:06.173Z
@@ -17,31 +17,111 @@ It is tested with `Keylight Air`, `Keylight Pro` and `Ring Light` but it may wor
 
 ## Installation
 
-Copy the codeblock below into the Streamer.bot `Action Import Pane`:
+1. Create an `Execute C# Code` subaction 
+2. Copy the codeblock below and paste it in to the code window, replacing everything:
 
-```text
-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
+
+```cs
+using System;
+using System.Web;
+using System.Net;
+using Newtonsoft.Json.Linq;
+using System.IO;
+using System.Threading.Tasks;
+
+public class CPHInline
+{
+    public bool Execute()
+    {
+// Edit this section to your needs
+
+        // Array for IP addresses of lights
+        string[] ips = {"192.168.1.44", "192.168.1.125"};
+
+		// Payload data for target Brightness and Temperature
+		
+        var payload = new JObject();
+        payload["on"] = 1;				// 1 for on, 0 for off
+        payload["brightness"] = 100;  	// Range 1-100 (Percentage brightness)
+        payload["temperature"] = 160; 	// Range 143-344 (7000K - 2900K)
+
+// Don't edit below here
+
+
+        var data = new JObject();
+        data["numberOfLights"] = 1;
+        var lightsData = new JArray();
+        lightsData.Add(payload);
+        data["lights"] = lightsData;
+
+		//Itterate over array to send same payload to all
+		int ipCount = ips.Length;
+        Parallel.For (0, ipCount, i =>
+        {
+            
+            var url = $"http://{ips[i]}:9123/elgato/lights";
+            
+            var httpRequest = (HttpWebRequest)WebRequest.Create(url);
+            httpRequest.Method = "GET";
+            httpRequest.ContentType = "application/json";
+            using (var streamWriter = new StreamWriter(httpRequest.GetRequestStream()))
+            {
+                streamWriter.Write(data.ToString());
+            }
+
+            var httpResponse = (HttpWebResponse)httpRequest.GetResponse();
+            using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
+            {
+                var result = streamReader.ReadToEnd();
+            }
+
+            Console.WriteLine(httpResponse.StatusCode);
+        });
+
+        return true;
+    }
+}
 ```
 
-> This should work out of the box but the C# may need to compile so it can find the following references.
-![elgato-lighting-references.png](/extensions/elgato-lighting-control/images/elgato-lighting-references.png)
-{.is-warning}
+
+3. Go to the `References` tab and press the `Find Refs` button, it should find everything it needs automatically. If not right click in the white box and ensure the following dll files are listed
+```
+mscorlib.dll
+System.dll
+System.Net.Http.dll
+Newtonsoft.Json.dll
+System.Web.dll
+```
+
+4. Go to the `Compiling Log` tab and press `Compile`. If everything is working correctly it will say `Compiled successfully!`
+
+
+
 
 ## Configuration
 
-![elgato-lighting-action.png](/extensions/elgato-lighting-control/images/elgato-lighting-action.png)
 
-The C# code has everything pre-configured to send the `HTTP PUT` request, all that needs to be done is set the `targetIpAddress`, `targetBrightness` & `targetTemperature` arguments for the code to read in
-***
+The C# code needs to the IP addresses of the lights to control. You can add a single light or multiple, the same payload data will be sent to each one you list.
 
-Variable | Description
-|
-`targetIpAddress` | The IP of the light you wish to control
-`targetBrightness` | Brightness value in % - Valid Range `(1-100)`
-`targetTemperature` | Color Temperature - Valid Range `(143-344)`
+Configure the following lines to match your usecase
+
+
+Line | Data | Notes
+---|---|---
+`line 15` | The IP address list to send control data to | You can get the IP addresses of your Elgato lights from the Elgato Control Center App
+`line 20` | Specify if you want the lights turned on or off | `1 = On`, `0 = Off`
+`line 21` | Specify the brightness you want to set | Range is `3-100` and is the percentage of maximum the device supports
+`line 22` | Specify the colour temperature you want | Range is `143-344`
+
 
 > Color Temperature range represents the values found by adjusting the setting in Elgato Control Center
 143 is 7000 Kelvin,
 249 is 4000 Kelvin,
 344 is 2900 Kelvin
 {.is-info}
+
+Once the subaction is configured, you can duplicate it and configure the copy with other settings as needed.
+
+> It is highly recommended to name the C# code on the `Settings` tab. Not only will this show you what the code does without having to open it but also it allows you to call that same code in other Actions 
+{.is-success}
+
