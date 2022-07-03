@@ -2,7 +2,7 @@
 title: Elgato Lighting Control (by Geocym)
 description: Change Brightness and Color Temperature of Elgato Lighting.
 published: true
-date: 2022-07-03T07:51:36.207Z
+date: 2022-07-03T07:53:19.849Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:41:06.173Z
@@ -62,7 +62,7 @@ public class CPHInline
             var url = $"http://{ips[i]}:9123/elgato/lights";
             
             var httpRequest = (HttpWebRequest)WebRequest.Create(url);
-            httpRequest.Method = "GET";
+            httpRequest.Method = "PUT";
             httpRequest.ContentType = "application/json";
             using (var streamWriter = new StreamWriter(httpRequest.GetRequestStream()))
             {
