@@ -2,7 +2,7 @@
 title: Post to Twitter (by Lyfesaver74 and Nate1280)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-06-28T22:43:32.241Z
+date: 2022-07-03T16:32:23.911Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
@@ -83,13 +83,13 @@ The `Address` and `Port` needs to match the one you did the prior step of settin
 ![tweetimage.png](/extensions/twitter/images/tweetimage.png)
 ## Streaming Commands
 These 2 Actions will need to be tied to the OBS Events > Stream Started and OBS Events > Stream Stopped
-The Arguments in both sub-actions are exactly the same however you will have a **LIVE** verson and you will have a **Normal** Version for when you are offline. 
+The Arguments in both sub-actions are exactly the same however you will have a **LIVE** version and you will have a **Normal** Version for when you are offline. 
 |Argument|Purpose|
 |---|---|
 |`tweetName`|This is the name you want to be seen as on Twitter, ":red_circle: LIVE :red_circle:" would be popular for being live|
 |`imagePath`| This is the profile picture you want, most would add a Red Ring around there current profile pic with the word live on it in some fashion, and the normal for offline|
 |`bannerPath`| This will change the banner at the top of your page, and this is the link to the image file.
-|`tweetText`| This is a Starting only Command, but this is the value you want to tweet out when ou go live, the default message will tell people the game you are playing and post your link.
+|`tweetText`| This is a Starting only Command, but this is the value you want to tweet out when you go live, the default message will tell people the game you are playing and post your link.
 ### Stream Starting
 ![tweetgoinglive.png](/extensions/twitter/images/tweetgoinglive.png)
 ### Stream Ending
