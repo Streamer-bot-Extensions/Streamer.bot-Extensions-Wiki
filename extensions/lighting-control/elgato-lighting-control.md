@@ -2,7 +2,7 @@
 title: Elgato Lighting Control (by Geocym)
 description: Change Brightness and Color Temperature of Elgato Lighting.
 published: true
-date: 2022-07-02T22:22:39.580Z
+date: 2022-07-03T07:51:36.207Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:41:06.173Z
@@ -89,6 +89,7 @@ public class CPHInline
 mscorlib.dll
 System.dll
 System.Net.Http.dll
+System.Net.dll
 Newtonsoft.Json.dll
 System.Web.dll
 ```
