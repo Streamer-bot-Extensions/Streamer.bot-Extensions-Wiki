@@ -2,7 +2,7 @@
 title: Documentation Write Up Advice
 description: 
 published: false
-date: 2022-07-01T00:18:30.446Z
+date: 2022-07-04T07:36:44.027Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T00:18:30.446Z
@@ -28,4 +28,3 @@ This is where you explain a step by step setup on how to get your extension set 
 This is where you explain how your extension works and the user will use it.
 ```
 If you need more advice on markdown you can check out this https://docs.requarks.io/en/editors/markdown
-
