@@ -2,7 +2,7 @@
 title: Additional Commands
 description: Here you will find a few extra commands to go with the point system.
 published: true
-date: 2022-07-10T15:02:53.962Z
+date: 2022-07-10T15:04:32.480Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T13:37:34.417Z
@@ -63,7 +63,7 @@ TlM0RR+LCAAAAAAABACtV1uPokgUft9k/0OnX3e7gyjTMsk8CC2I2kyLAsI6D1RRDbTFZbioOJn/vqfw
 !setAllPointsTo 5000
 ```
 ---
-### Add Points To All 
+## Add Points To All 
 > This will edit the amount of `points` for everyone the bot has seen since based on the user data loaded from when you opened the bot or since the last save which ever is more recent. {.is-info}
 ### Import Code
 ```
