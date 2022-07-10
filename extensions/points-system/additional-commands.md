@@ -2,7 +2,7 @@
 title: Additional Commands
 description: Here you will find a few extra commands to go with the point system.
 published: true
-date: 2022-06-11T04:54:35.406Z
+date: 2022-07-10T15:02:53.962Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-01T13:37:34.417Z
@@ -46,4 +46,34 @@ TlM0RR+LCAAAAAAABADFWFtvo0oSfl9p/0OU1x0irrY50nmISWxjJ8z4BjbH+9AXDMQNeA3YwUfnv281
 ### Example Usage
 ```
 !steal TerrierDarts
+```
+---
+## Set All Users Points
+> This will edit the amount of `points` for everyone the bot has seen since based on the user data loaded from when you opened the bot or since the last save which ever is more recent. {.is-info}
+### Import Code
+```
+TlM0RR+LCAAAAAAABACtV1uPokgUft9k/0OnX3e7gyjTMsk8CC2I2kyLAsI6D1RRDbTFZbioOJn/vqfw0t4mmU3WhADnnDrn+86lKH/8+cfd3f2K5EWUJvef7/i/G0HixQTe7u93rx4uQV2A5B/2fnf3Y3cDVeQzO5Hjua7o+w+YbwsPnRaHH7peR3wQxS7y+FYLo0+dna9m0feKVMx/UlH6ISWJhyhh/sq8IifyDaaVT5Q8jQdRUaZ5DSZvHi1ObA6Ap6TsUfqaRklZzNKTkEGeVhmzkNLyLmv0J1qPrr26MKrk2nPuJX4a95oMXGtxmuAqz0lSXuuusnaWud+C3Rj5pMB5lO0B3F9ol4RkPRqtyBWAHXzyRgAeJhc4GqX8ebEwCyj+YlEmWVouFr0se/ZKb7EYp9iji8W0zAlgzCWm1Mm6BELpW/k4LNLk0af0HMzepR1Bytbg9CXCedrY6/3ZYqHk4Gqd5stPncVi1XnkHttcuyUuFnGB05xG6P/z+GFnRUXlUckrIty4P/X+7TxXqC6JnPpNRfy5nqEYB7PYavuqWGFejH1ZGMG9+rrmRge92aZbX7XKW7LxUl8hdUOdtpEhXtiOlz5FsVV79svT8yRrYZ5Wbi3NyFznXJurpmb3VK57tl6jtr5yk0llxeDTVopJrGxhfWXEtHBN+noa9xbW8XKToaR/M56lhrVrK0vPFpKb+KmR4tgKXZWtE0xnrud4W+hywI3wwIqQSt81VS9AvtUUa+vONV1OQB91Vx96mF1ZWiOI7Q9eAlJLiTufPGkDnfrPRfA24UbsAnxr3x4WwC1w+E2I2y+BwW9WTqwUhqpwDtgQwKjJvUAbSC0n3mROLfUhR5xni5UzHwqvA53DMcO6Dmb88LsLutdISpAqRo692X79D+utuU7xeyfw2T1p6iU+T1Lgd1z7jlRli2vp2eyHQwQyFJt7/hADOB/5xOIKyZJCVOvdnxt0JC8PNuA3DRpMDa5D/A/MTZ0tKfTVIHidSj0tNuBZwe4+N7gWls58Eh25NZfEO3Mt8BLov6gnan03Q6pZmayWfaVAikHJYJIefXBMb02cuZGOZgf8u+usBtMjrj7YhtozF0xZDNbniQt5mlSGyvpgmIFNRmLr1Ykz6P9J98zPrJPusC3P+feNbD8rIU6WXdw2atabY1myMG/VUMsWu+MaOKl+gfhhiPosH/3qo0438xl79oaaENtr+nS4Zdgn8nDJeMwHO9mY5VbWfuXjO5snEzCxtU1dpsKUzc/E3hSWanV8ObyKc5nP6VKMvBj6QJZAb3CMH+ayLeI7rL6jQ9+OqQQ50OlIZTph5g+07KLGMNeTACVW6cCe0vABfD48w+ybiIN5e36pR6pSu20dackw9EEGc8lplM2+CD6HbN7T0fSiDqq7YnPv8EEw6peUWG6IBhbjleH3zXa/rtjP/F+aasFsDwU269o+l6PJGdZz/zvZkSvsIStkt0IUG9vpoWfZ/jCAXoj9vUywoada7mwz+pjtINrXPbrM844HjTU5fEd8q3RsYbnPc9XkCbigRB+782Xq2gIH/VZNeUuAXFz7Gdzw/WsOEoZckynr0UtetziEFCVGTaYCw3JR496tPmR8KsduUVZzhxdLZCsVzHWNY0Ww6+HSm+tr2JuEqzrfytGOB+xhQWXyFtfse9QNcRQe44zlXoRVEfJlbLVofew5mEvIm0Vv+h1wN+phFZg3fzO/3ZWrdgMUi5zHvj838vJ23mO7/fnEz6QlaWOqwzfX0F34Rjm2D3vvUELqOjAPfBToM1kyUd2LNLk4crvkBPPA+fMh9LdR+7Z57Ofd9+vLl4tTWZYTnMZZRH9xLPMJ9epp6eXX58ZGvz9W+0+tp/YT/8C3fPGhI3bbD6LXQg9vT/ybSFCX67S9i8BrEgUhc8o9cueass4YGJH9zjWHs/HZcbzR/OJIvoOY+GTDAn1Ifx4ev12eglUWojmCfjs9PFPqZQXxT7Q7ZeNoZ7n7s3CyFJbFMRzKD/Y//wVYk7gSxAwAAA==
+```
+### Commands
+```
+!setAllPoints = Tied to SetAllPointsTo
+```
+### Example Usage
+```
+!setAllPointsTo 5000
+```
+---
+### Add Points To All 
+> This will edit the amount of `points` for everyone the bot has seen since based on the user data loaded from when you opened the bot or since the last save which ever is more recent. {.is-info}
+### Import Code
+```
+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
+```
+### Commands
+```
+!addpointstoall = Tied to AddPointsToAll
+```
+### Example Usage
+```
+!addpointstoall 5000
 ```
