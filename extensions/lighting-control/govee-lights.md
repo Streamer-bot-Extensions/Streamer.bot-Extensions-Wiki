@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-07-03T11:33:49.214Z
 ---
 
-# Govee Lights Control (by psxboy) (modified by [rondhi](https://twitch.tv/rondhi))
+# Govee Lights Control (by [psxboy](https://www.twitch.tv/psxboy)) (modified by [rondhi](https://twitch.tv/rondhi))
 
 #### Make sure your lights are supported by the Govee API
 [Link to PDF of up-to-date Govee API Documentation](https://govee-public.s3.amazonaws.com/developer-docs/GoveeDeveloperAPIReference.pdf)
