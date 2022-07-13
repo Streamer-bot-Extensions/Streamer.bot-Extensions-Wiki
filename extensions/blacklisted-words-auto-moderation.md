@@ -35,7 +35,7 @@ Create a `Command` to this `Action`
 
 `Check Badword/TimeOut if found [Message Event]`
 
-![Check_Messages_For_BlackListed_Words_Erase_Or_Time_Out](/extensions/blacklisted-words-auto-moderation/images/subactions blacklisted words automoderation.png)
+![Check_Messages_For_BlackListed_Words_Erase_Or_Time_Out](/extensions/blacklisted-words-auto-moderation/images/subactions_blacklisted_words_automoderation.png)
 Enter the Name of your bot
 Set the complete directory to the .txt you created before
 Set the `duration` of the `Time Out` 
