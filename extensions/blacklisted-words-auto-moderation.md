@@ -35,18 +35,11 @@ Create a `Command` to this `Action`
 
 `Check Badword/TimeOut if found [Message Event]`
 
-![Check_Messages_For_BlackListed_Words_Erase_Or_Time_Out](/extensions/blacklisted-words-auto-moderation/images/170508392-9e781c5f-ce7f-4381-845e-e8b7a0ac09cb.png)
+![Check_Messages_For_BlackListed_Words_Erase_Or_Time_Out](/extensions/blacklisted-words-auto-moderation/images/subactions_blacklisted_words_automoderation.png)
 Enter the Name of your bot
 Set the complete directory to the .txt you created before
 Set the `duration` of the `Time Out` 
+set the `timeout`to `False`will erase the message, keep it to `True` to Time Out the user.
 Trigger this `Action` from the `Message Event` `( in settings > events > general )`
 
-By default the `Action` will just erase the last message that contained the badword. If you want to Time Out the user we will need a little extra step. ( Be aware That Timing Out a user will erase all messages they previously wrote )
 
-### Time Out
-Double click on the Execute Code (add rawInput to file wordsBlackList) subaction, go to 30.
-it will show you this code :
-![delete_message_code](/extensions/blacklisted-words-auto-moderation/images/170512742-0e190952-7bd9-4284-8267-bcc6757e6a3d.png)
-
-Change it like this :
-![time_out_user](/extensions/blacklisted-words-auto-moderation/images/170512860-b5b12a1a-00cd-4a59-b8a5-23bbda006853.png)
