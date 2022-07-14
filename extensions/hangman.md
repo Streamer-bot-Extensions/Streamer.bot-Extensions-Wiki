@@ -2,7 +2,7 @@
 title: Hangman
 description: Play Hangman in your Twitch Chat!
 published: true
-date: 2022-07-12T21:17:08.410Z
+date: 2022-07-14T20:14:51.367Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-11T16:45:26.313Z
@@ -10,9 +10,10 @@ dateCreated: 2022-07-11T16:45:26.313Z
 
 # Hangman [(by TerrierDarts)](https://www.twitch.tv/TerrierDarts)
 
-> More Info to Come {.is-warning}
+Last Code Update : 14/07/22
 ## Description
-With this extension you will be able to run games of hangman, you can guess letters or go for gold and guess the whole word. This is set up so it can be ran in several languages, English, German, Italian, Spanish and Chinese.
+With this extension you will be able to run games of hangman, you can guess letters or go for gold and guess the whole word. This is set up so it can be ran in several languages, English, German, Italian, Spanish and Chinese. You can now choose to trigger this from the API Given or create a Text file and use that. Any other Languages have been translated below.
+
 > Only English has be tested. However all others should work fine, if you do run into issues post in the Extensions Discord. (Link can be found on home page) {.is-info}
 ## Import Code and Codepen
 ```
@@ -26,9 +27,20 @@ If you want, you can use the the codepen to show the game on screen. I've provid
 ![hangmanobs.png](/extensions/hangman/images/hangmanobs.png)
 > Its important you dont use `Local File` in OBS. {.is-warning}
 ### Streamerbot Setup
-After you've imported the code you will need to decide how you wish to trigger this, I personally chose `Channel Point Redeems` but `Chat Commands` can be use. You will need to set up 3 triggers, `Start Game`, `Guess Letter` and a `Guess Word`. If you use Channel Points The Guess Redeems will require input. Each one will be pointed to the relevant action.
 
-Next we need to make sure all the C# codes compiles they should pull in the references needed but
+After you've imported the code you will need to decide how you wish to trigger this, I personally chose `Channel Point Redeems` but `Chat Commands` can be use. You will need to set up 3 triggers, one to `Start Game`, `Guess Letter` and a `Guess Word`. If you use Channel Points The 'Guess' Redeems will require input. Each one will be pointed to the relevant action.
+|Action|Purpose|Triggers|
+|---|---|---|
+|`HangmanStartFromApi`| This allows you to start a game from the API.| Start Game Trigger|
+|`HangmanStartFromTextFile`|  This allows you to start a game from a Textfile.| Start Game Trigger|
+|`HangmanGuessLetter`| This allows you to guess a Letter| Guess Letter Trigger|
+|`HangmanGuessWord`| This Allows you to guess a word.| Guess Word Trigger|
+
+> If using this from a text place a new textfile in a safe location and add each word to a new line. 
+{.is-warning}
+
+
+Next we need to make sure C# code compiles they should pull in the references needed but these are the ones needed.
 ```
 system.core.dll
 system.linq.dll
@@ -42,10 +54,20 @@ Finally all you will need to do is have enabling and disabling actions for your 
 All the Settings are in the action `HangManSetWordLimited` 
 |Setting Name|Purpose|
 |---|---|
-|hangmanLives| This is how many chances your viewers get to find the word, each incorrect letter or word guess will remove a life.|
-|minLetters| This is the minimum amount of letters the random word will find.|
-|maxLetters| This is the maximum amount of letters the random word will find.|
-|lang| The Language of the word that will be found, `it, zh, es, de, en`|
+|`hangmanLives`| This is how many chances your viewers get to find the word, each incorrect letter or word guess will remove a life.|
+|`minLetters`| This is the minimum amount of letters the random word will find.|
+|`maxLetters`| This is the maximum amount of letters the random word will find.|
+|`lang`| The Language of the word that will be found, `it, zh, es, de, en`|
+|`howToTrigger`| This is how you want your users to guess so it will either be something like "Use Channel Points" or "Use !letter and !word".
+|`basePath`| This is the same as the link you posted in OBS.|
+|`filePath`| This is the filepath for the text file (StartFromTextFile Only)
 
 > Words range from 5 to 13 letters the last time I tested this. {.is-info}
+
+## Other Languages
+
+### French/français (Translated by [LeBluxTV](https://www.twitch.tv/LeBluxTV))
+> COMING SOON
+{.is-success}
+
 
