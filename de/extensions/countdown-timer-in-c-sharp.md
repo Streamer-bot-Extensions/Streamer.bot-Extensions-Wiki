@@ -2,10 +2,10 @@
 title: Countdown Timer in C# (by rondhi)
 description: create a countdown timer with Streamer.bot.
 published: true
-date: 2022-06-11T05:10:41.285Z
+date: 2022-06-14T23:10:51.692Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-27T02:28:57.585Z
+dateCreated: 2022-06-14T23:10:48.816Z
 ---
 
 # Countdown Timer [(by rondhi)](https://twitch.tv/rondhi)

@@ -2,10 +2,10 @@
 title: Followage Command (by TerrierDarts)
 description: Display followers information in chat through Streamer.bot.
 published: true
-date: 2022-06-11T05:05:16.234Z
+date: 2022-06-14T23:11:28.503Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-17T01:13:10.778Z
+dateCreated: 2022-06-14T23:11:25.637Z
 ---
 
 # Followage Commands

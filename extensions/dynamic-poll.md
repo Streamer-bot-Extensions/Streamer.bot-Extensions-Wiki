@@ -2,7 +2,7 @@
 title: Dynamic Poll by (NotZelda)
 description: 
 published: true
-date: 2022-06-11T05:06:22.217Z
+date: 2022-06-11T16:33:49.099Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:30:19.607Z

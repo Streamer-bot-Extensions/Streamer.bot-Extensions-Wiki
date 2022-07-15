@@ -2,10 +2,10 @@
 title: Steve Gardner's Tower Blocks & Websocket example for WS trigger by action name and WS action on return/end (by Lyfesaver74)
 description: 
 published: true
-date: 2022-06-11T05:07:11.197Z
+date: 2022-06-14T23:31:53.791Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-18T02:11:59.469Z
+dateCreated: 2022-06-14T23:31:51.110Z
 ---
 
 # Steve Gardner's Tower Blocks & Websocket example for WS trigger by action name and WS action on return/end [(by Lyfesaver74)](https://www.twitch.tv/lyfesaver74)

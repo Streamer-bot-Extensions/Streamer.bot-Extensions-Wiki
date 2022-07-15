@@ -2,10 +2,10 @@
 title: SB-Init (by Krayn)
 description: An Action that queues itself when Streamer.bot starts.
 published: true
-date: 2022-06-11T05:10:57.119Z
+date: 2022-06-14T23:14:15.064Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-29T17:27:55.654Z
+dateCreated: 2022-06-14T23:14:12.287Z
 ---
 
 # SB-Init [by Krayn](https://www.twitch.tv/krayn_)

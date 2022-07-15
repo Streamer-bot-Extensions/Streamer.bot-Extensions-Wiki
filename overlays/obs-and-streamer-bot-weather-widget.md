@@ -2,7 +2,7 @@
 title: OBS & SB Weather Widget (by HigherAcer)
 description: 
 published: true
-date: 2022-06-11T05:07:14.095Z
+date: 2022-06-11T16:34:32.375Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T02:15:16.825Z

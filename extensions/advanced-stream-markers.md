@@ -2,7 +2,7 @@
 title: Advanced Stream Markers 2.0 (by NotZelda)
 description: Allow viewers or broadcaster to trigger a stream marker that adds to twitch VOD but also to a .txt file showing timestamp, duration, title and description.
 published: true
-date: 2022-06-11T05:06:28.210Z
+date: 2022-06-11T16:33:54.856Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:36:02.000Z

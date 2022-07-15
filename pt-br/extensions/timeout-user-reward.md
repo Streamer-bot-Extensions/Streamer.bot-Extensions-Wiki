@@ -2,10 +2,10 @@
 title: Timeout User Reward (by iAmLarcyn)
 description: Timeout a chosen user through Streamer.bot.
 published: true
-date: 2022-06-11T05:05:03.227Z
+date: 2022-06-14T23:37:08.670Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-17T00:51:57.800Z
+dateCreated: 2022-06-14T23:37:05.958Z
 ---
 
 # Timeout User Reward [(by iAmLarcyn)](https://www.twitch.tv/iamlarcyn)

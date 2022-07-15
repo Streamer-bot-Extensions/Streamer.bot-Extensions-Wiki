@@ -2,10 +2,10 @@
 title: 20 Second Instant Replay (by MarkusoOoO)
 description: Create a 20 second instant replay with Streamer.bot.
 published: true
-date: 2022-06-11T05:04:54.252Z
+date: 2022-06-14T23:32:43.868Z
 tags: replay, rewind, effect
 editor: markdown
-dateCreated: 2022-05-17T00:31:26.288Z
+dateCreated: 2022-06-14T23:32:41.142Z
 ---
 
 # 20 Second Instant Replay [(by MarkusoOoO)](https://www.twitch.tv/markusoooo)

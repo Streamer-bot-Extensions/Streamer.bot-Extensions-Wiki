@@ -2,7 +2,7 @@
 title: 7 Days To Die Websocket Integration (by KK964)
 description: Streamer.bot extension for 7 Days To Die.
 published: true
-date: 2022-06-11T04:52:59.389Z
+date: 2022-06-11T16:26:54.460Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T03:26:06.613Z

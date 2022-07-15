@@ -2,7 +2,7 @@
 title: Events
 description: Events that Streamer.bot can use.
 published: true
-date: 2022-06-11T04:53:05.413Z
+date: 2022-06-11T16:27:00.506Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T04:24:10.784Z

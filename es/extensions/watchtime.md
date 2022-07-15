@@ -2,10 +2,10 @@
 title: Watchtime (by GoWMan)
 description: 
 published: true
-date: 2022-06-11T05:07:08.141Z
+date: 2022-06-14T23:23:20.219Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-18T02:09:42.575Z
+dateCreated: 2022-06-14T23:23:17.353Z
 ---
 
 # Watchtime [(by GoWMan)](https://www.twitch.tv/gowman)

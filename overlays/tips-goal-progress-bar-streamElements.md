@@ -2,10 +2,10 @@
 title: Tips Goal Progress Bar ( streamElements ) (by LeBluxTV)
 description: Show a progress bar on screen with a goal that you setup.
 published: true
-date: 2022-06-16T06:54:25.827Z
+date: 2022-06-24T00:13:31.982Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-27T00:34:07.480Z
+dateCreated: 2022-06-23T23:48:09.432Z
 ---
 
 # Tips Goal Progress Bar ( streamElements ) (by [LeBluxTV](https://www.twitch.tv/lebluxtv) & [Rondhi](https://www.twitch.tv/rondhi))

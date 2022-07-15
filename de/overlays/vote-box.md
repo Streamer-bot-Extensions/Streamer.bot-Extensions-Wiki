@@ -1,3 +1,13 @@
+---
+title: vote-box
+description: 
+published: true
+date: 2022-06-16T01:11:19.549Z
+tags: 
+editor: markdown
+dateCreated: 2022-06-14T23:16:58.478Z
+---
+
 # VoteBox Widget
 
 ## Description

@@ -2,10 +2,10 @@
 title: OBS Status (by ConfuzzedCat)
 description: Get OBS stream info with a command.
 published: true
-date: 2022-06-11T05:06:58.191Z
+date: 2022-06-14T23:28:15.484Z
 tags: confuzzedcat, obs, status, obs status, info, bitrate, cpuusage, cpu usage, obs stream info
 editor: markdown
-dateCreated: 2022-05-18T02:03:23.084Z
+dateCreated: 2022-05-19T04:41:06.698Z
 ---
 
 # OBS Status [(by ConfuzzedCat)](https://www.twitch.tv/confuzzedcat)

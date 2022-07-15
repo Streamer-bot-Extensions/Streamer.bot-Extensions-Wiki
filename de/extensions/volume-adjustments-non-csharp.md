@@ -2,10 +2,10 @@
 title: Volume Adjustments (Non-C#) (by Artimidorus)
 description: 
 published: true
-date: 2022-06-11T05:06:46.122Z
+date: 2022-06-14T23:15:02.655Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-18T01:50:18.290Z
+dateCreated: 2022-06-14T23:14:59.826Z
 ---
 
 # Volume Adjustments (Non-C#) [(by Artimidorus)](https://www.twitch.tv/artimidorus)

@@ -2,10 +2,10 @@
 title: Post to Twitter (by Lyfesaver74 and Nate1280)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-06-12T21:49:33.329Z
+date: 2022-06-14T23:13:51.488Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-27T04:14:39.472Z
+dateCreated: 2022-06-14T23:13:48.488Z
 ---
 
 # Twitter Actions [(by Lyfesaver74](https://www.twitch.tv/lyfesaver74) and [Nate1280](https://www.twitch.tv/nate1280))

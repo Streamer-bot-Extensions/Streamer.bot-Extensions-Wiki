@@ -2,7 +2,7 @@
 title: Hangman
 description: Play Hangman in your Twitch Chat!
 published: true
-date: 2022-07-14T20:14:51.367Z
+date: 2022-07-14T20:14:55.945Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-11T16:45:26.313Z

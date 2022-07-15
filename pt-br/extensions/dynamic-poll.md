@@ -2,10 +2,10 @@
 title: Dynamic Poll by (NotZelda)
 description: 
 published: true
-date: 2022-06-11T05:06:22.217Z
+date: 2022-06-14T23:33:57.256Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-18T01:30:19.607Z
+dateCreated: 2022-06-14T23:33:54.422Z
 ---
 
 # Dynamic Poll [(by NotZelda)](https://www.twitch.tv/notzelda)

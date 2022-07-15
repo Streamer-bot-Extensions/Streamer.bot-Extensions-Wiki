@@ -2,10 +2,10 @@
 title: Heat Map Core Installation
 description: Core Installation of Heat Map
 published: true
-date: 2022-06-11T05:11:12.216Z
+date: 2022-06-14T23:34:28.699Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-30T17:36:34.089Z
+dateCreated: 2022-06-14T23:34:25.844Z
 ---
 
 # Heat Map Core Installation [(by Farlezz)](https://www.Twitch.tv/Farlezz)

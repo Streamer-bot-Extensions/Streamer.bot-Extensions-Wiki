@@ -2,10 +2,10 @@
 title: SharpOSC Implementation (by Der_Gardine | Julian)
 description: For easy OSC implementation.
 published: true
-date: 2022-06-11T05:07:01.113Z
+date: 2022-06-14T23:36:50.003Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-18T02:05:43.555Z
+dateCreated: 2022-06-14T23:36:47.340Z
 ---
 
 # SharpOSC Implementation [(by Der_Gardine | Julian)](https://www.twitch.tv/der_gardine)
