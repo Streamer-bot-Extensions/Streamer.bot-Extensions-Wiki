@@ -16,7 +16,7 @@ Allow viewers to display their Profile Picture in a Movie Poster with Streamer.b
 ## Resources
 Movie Poster:  [Resources](/overlays/movie-poster/files/movie-poster.zip)
 
-### Steamer.bot
+### Streamer.bot
 Download and drag the `movie-poster.sb` file into the `Import Pane`:
 [movie-poster.sb](/overlays/movie-poster/files/movie-poster.sb)
 ![movie-poster-sb-file](/overlays/movie-poster/images/movie-poster-sb-file.png)
