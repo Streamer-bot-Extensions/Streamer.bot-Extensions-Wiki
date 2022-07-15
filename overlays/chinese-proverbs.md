@@ -20,7 +20,7 @@ Display uplifting and insightful proverbs on your stream with Chinese Proverbs f
 Source Copy:  [OBS Plugin](https://obsproject.com/forum/resources/source-copy.1261/)
 Chinese Proverbs:  [Resources](/overlays/chinese-proverbs/files/chinese-proverbs.zip)
 
-### Steamer.bot
+### Streamer.bot
 Drag the file `Chinese Proverbs Import.txt` into the `Import Pane`:
 ![chinese-proverbs-import](/overlays/chinese-proverbs/images/chinese-proverbs-import.png)
 
