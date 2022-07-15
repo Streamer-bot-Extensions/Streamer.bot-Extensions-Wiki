@@ -2,10 +2,10 @@
 title: Get Cursor Position (by MrWaldo)
 description: 
 published: true
-date: 2022-06-14T23:34:20.521Z
+date: 2022-06-11T05:06:43.184Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T23:34:17.843Z
+dateCreated: 2022-05-18T01:48:15.855Z
 ---
 
 # Get Cursor Position [(by MrWaldo)](https://www.twitch.tv/waldoandfriends)

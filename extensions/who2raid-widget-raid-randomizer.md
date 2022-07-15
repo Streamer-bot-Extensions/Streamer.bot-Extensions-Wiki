@@ -1,13 +1,3 @@
----
-title: who2raid-widget-raid-randomizer
-description: 
-published: true
-date: 2022-06-27T02:56:44.433Z
-tags: 
-editor: markdown
-dateCreated: 2022-06-23T23:48:02.375Z
----
-
 # WHO2RAID widget - Raid Randomizer (by [LeBluxTV](https://www.twitch.tv/lebluxtv))
 
 ## Description

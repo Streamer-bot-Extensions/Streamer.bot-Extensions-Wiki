@@ -2,10 +2,10 @@
 title: Timeout Roulette (by VRFlad)
 description: Picks a random number between 1 and 6 and if 6 then the user times themselves out.
 published: true
-date: 2022-06-14T23:14:34.762Z
+date: 2022-06-11T04:54:02.214Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T23:14:31.941Z
+dateCreated: 2022-04-25T02:41:17.496Z
 ---
 
 # Timeout Roulette [(by VRFlad)](https://www.twitch.tv/vrflad)

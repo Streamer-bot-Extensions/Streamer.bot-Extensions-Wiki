@@ -2,10 +2,10 @@
 title: README
 description: 
 published: true
-date: 2022-06-14T23:17:32.605Z
+date: 2022-06-11T05:12:00.208Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T23:17:29.879Z
+dateCreated: 2022-06-09T04:58:51.324Z
 ---
 
 # Streamer.bot Extensions Wiki

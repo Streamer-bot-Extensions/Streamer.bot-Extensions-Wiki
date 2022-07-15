@@ -2,10 +2,10 @@
 title: Free For Alls (by TerrierDarts)
 description: Allow your viewers to battle it out to win what ever is in the pot!
 published: true
-date: 2022-06-14T23:35:50.549Z
+date: 2022-06-12T23:45:12.249Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-14T18:08:06.691Z
+dateCreated: 2022-04-20T16:05:39.047Z
 ---
 
 # Free For Alls [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)

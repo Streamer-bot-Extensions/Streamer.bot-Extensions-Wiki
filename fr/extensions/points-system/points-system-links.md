@@ -2,10 +2,10 @@
 title: Points System
 description: Links to all the extensions that use Streamer.bot's points system.
 published: true
-date: 2022-06-14T23:28:53.603Z
+date: 2022-06-11T04:52:47.203Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-14T05:38:03.615Z
+dateCreated: 2022-04-20T02:11:37.622Z
 ---
 
 # Points System

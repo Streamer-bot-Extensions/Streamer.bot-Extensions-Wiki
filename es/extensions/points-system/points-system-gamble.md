@@ -2,10 +2,10 @@
 title: Gamble (by TerrierDarts)
 description: Allow Users to gamble there points with the reward of doubling there stake!
 published: true
-date: 2022-06-14T23:21:12.837Z
+date: 2022-06-11T04:53:29.193Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T23:21:09.986Z
+dateCreated: 2022-04-20T16:03:48.675Z
 ---
 
 # Gamble [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)

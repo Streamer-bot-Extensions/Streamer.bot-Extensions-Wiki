@@ -2,10 +2,10 @@
 title: Giveaways (by MrVibes_RSA)
 description: Run Giveaways through Streamer.bot.
 published: true
-date: 2022-06-14T23:34:24.559Z
+date: 2022-06-11T06:27:26.138Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T23:34:21.728Z
+dateCreated: 2022-05-18T00:38:42.993Z
 ---
 
 # Giveaways [(by MrVibes_RSA)](https://www.twitch.tv/mrvibes_rsa)

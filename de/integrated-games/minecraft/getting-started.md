@@ -2,10 +2,10 @@
 title: Getting Started
 description: Start here first.
 published: true
-date: 2022-06-14T23:15:43.555Z
+date: 2022-06-11T04:53:02.319Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T23:15:40.710Z
+dateCreated: 2022-04-20T04:20:25.410Z
 ---
 
 # Getting Started

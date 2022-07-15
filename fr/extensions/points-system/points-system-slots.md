@@ -2,10 +2,10 @@
 title: Slots (by TerrierDarts)
 description: Allow your viewers to bet there points on this fully customisable slot machine!
 published: true
-date: 2022-06-14T23:29:02.271Z
+date: 2022-06-11T04:53:26.129Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-14T05:38:22.720Z
+dateCreated: 2022-04-20T16:02:15.587Z
 ---
 
 # Slots [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)

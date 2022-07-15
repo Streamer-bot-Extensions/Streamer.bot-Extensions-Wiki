@@ -2,10 +2,10 @@
 title: Dynamic Predictions (by TerrierDarts)
 description: Start, Run and Resolve Predictions with Streamerbot!
 published: true
-date: 2022-06-14T23:11:12.217Z
+date: 2022-06-11T05:10:47.404Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T23:11:09.163Z
+dateCreated: 2022-05-27T15:48:16.293Z
 ---
 
 # Dynamic Predictions [(by TerrierDarts)](https://www.twitch.tv/TerrierDarts)

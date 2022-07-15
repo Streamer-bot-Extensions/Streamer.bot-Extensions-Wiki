@@ -2,10 +2,10 @@
 title: VLC Extension
 description: Code and instructions on how to get SB to control VLC
 published: true
-date: 2022-06-14T23:25:58.849Z
+date: 2022-06-11T05:12:06.156Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T23:25:56.040Z
+dateCreated: 2022-06-10T18:26:49.116Z
 ---
 
 # VLC Controls Extension

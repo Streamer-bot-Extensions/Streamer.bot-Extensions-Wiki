@@ -2,10 +2,10 @@
 title: LIFX Lights (by Geocym)
 description: Use the cloud API for LIFX smart bulbs.
 published: true
-date: 2022-06-14T23:27:50.399Z
+date: 2022-06-11T04:54:18.204Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-14T05:37:28.442Z
+dateCreated: 2022-04-27T03:41:36.675Z
 ---
 
 # LIFX Lights [(by Geocym)](https://www.twitch.tv/geocym)

@@ -2,7 +2,7 @@
 title: BlackListed Words Auto-Moderation (by LeBluxTV)
 description: Add Blacklisted Words within Chat Messages, If they are write the message will be erased ( or the user Timed Out ).
 published: true
-date: 2022-07-14T00:09:33.879Z
+date: 2022-07-13T23:06:30.959Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T01:04:41.488Z

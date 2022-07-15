@@ -2,10 +2,10 @@
 title: On Screen Predictions (Elgato StreamDeck) (by p0mz0r)
 description: 
 published: true
-date: 2022-06-14T23:28:18.330Z
+date: 2022-06-11T05:06:19.156Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-19T04:41:14.143Z
+dateCreated: 2022-05-18T01:27:49.283Z
 ---
 
 # On Screen Predictions (Elgato StreamDeck) [(by p0mz0r)](https://www.twitch.tv/p0mz0r)

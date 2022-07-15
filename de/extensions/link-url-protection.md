@@ -2,10 +2,10 @@
 title: Link/URL Protection (by emongev)
 description: Protect against links being posted in chat with Streamer.bot.
 published: true
-date: 2022-06-14T23:12:15.991Z
+date: 2022-06-11T05:05:28.240Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T23:12:13.273Z
+dateCreated: 2022-05-18T00:16:06.062Z
 ---
 
 # Link/URL Protection [(by emongev)](https://www.twitch.tv/emongev)

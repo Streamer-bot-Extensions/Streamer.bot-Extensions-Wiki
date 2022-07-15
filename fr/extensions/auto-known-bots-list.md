@@ -2,10 +2,10 @@
 title: Auto Known Bots List (by PapaBearDoes)
 description: 
 published: true
-date: 2022-06-14T23:26:21.506Z
+date: 2022-06-14T18:41:01.023Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-19T04:39:16.605Z
+dateCreated: 2022-05-18T01:11:33.869Z
 ---
 
 # Auto Known Bots List [(by PapaBearDoes)](https://www.twitch.tv/papabeardoes)

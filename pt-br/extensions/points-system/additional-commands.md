@@ -2,10 +2,10 @@
 title: Additional Commands
 description: Here you will find a few extra commands to go with the point system.
 published: true
-date: 2022-06-14T23:35:36.720Z
+date: 2022-06-11T04:54:35.406Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T23:35:33.919Z
+dateCreated: 2022-05-01T13:37:34.417Z
 ---
 
 # Point System Additional Commands

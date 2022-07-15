@@ -2,10 +2,10 @@
 title: Intermediate Channel Commands (by VRFlad)
 description: Learn how to add intermediate commands in Streamer.bot.
 published: true
-date: 2022-06-14T23:39:43.688Z
+date: 2022-06-11T05:10:17.090Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T23:39:40.983Z
+dateCreated: 2022-05-20T18:12:51.514Z
 ---
 
 # Intermediate Channel Commands (by VRFlad)

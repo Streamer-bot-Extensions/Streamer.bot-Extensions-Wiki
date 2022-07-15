@@ -2,10 +2,10 @@
 title: Post to Discord (by Geocym)
 description: Allow Streamer.bot to post to Discord.
 published: true
-date: 2022-06-14T23:21:48.479Z
+date: 2022-06-11T04:54:32.521Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-14T23:21:45.732Z
+dateCreated: 2022-04-28T02:26:59.131Z
 ---
 
 # Post to Discord [(by Geocym)](https://www.twitch.tv/geocym)

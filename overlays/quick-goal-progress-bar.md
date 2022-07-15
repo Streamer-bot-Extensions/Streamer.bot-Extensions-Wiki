@@ -2,7 +2,7 @@
 title: Quick Goal Progress Bar ( Followers / Subscribers ) (by LeBluxTV)
 description: Show a progress bar on screen with a goal that you setup.
 published: true
-date: 2022-07-02T15:33:03.846Z
+date: 2022-06-16T06:54:25.827Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T00:34:07.480Z
