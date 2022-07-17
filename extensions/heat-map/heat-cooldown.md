@@ -2,7 +2,7 @@
 title: Heat Cooldown (by TerrierDarts)
 description: Allows the user to add User or Global Cooldowns
 published: true
-date: 2022-07-17T01:06:23.001Z
+date: 2022-07-17T01:08:01.820Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-16T17:02:57.754Z
@@ -38,5 +38,3 @@ This will trigger the cooldown check, Select User or Global depending on which c
 > Below these 3 Sub-Actions is where you will put the rest of Sub-Actions {.is-info}
 
 > Remember the 3 Sub-Actions Listed Above **MUST** be at the top of the action. {.is-warning}
-
-~~narf~~
