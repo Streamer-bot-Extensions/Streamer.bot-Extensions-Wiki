@@ -2,14 +2,12 @@
 title: Untitled Page
 description: 
 published: false
-date: 2022-07-17T19:35:52.470Z
+date: 2022-07-17T19:36:31.771Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T18:50:43.167Z
 ---
 
-<html>
-  <body>
   <div class="floating-help">
     <i class="fa fa-lightbulb-o fa-3x" aria-hidden="true"></i>
     <div class="help">          
@@ -19,5 +17,3 @@ dateCreated: 2022-07-17T18:50:43.167Z
 "></iframe>
     </div>
 </div>
-  </body>
-  </html>
