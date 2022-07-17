@@ -2,13 +2,15 @@
 title: Untitled Page
 description: 
 published: false
-date: 2022-07-17T19:18:29.921Z
+date: 2022-07-17T19:19:48.901Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T18:50:43.167Z
 ---
 
-<div class="floating-help">
+<html>
+  <body>
+  <div class="floating-help">
     <i class="fa fa-lightbulb-o fa-3x" aria-hidden="true"></i>
     <div class="help">          
         <iframe src='https://ideas.botextensions.dev/embed/ideas' style="
@@ -17,3 +19,5 @@ dateCreated: 2022-07-17T18:50:43.167Z
 "></iframe>
     </div>
 </div>
+  </body>
+  </html>
