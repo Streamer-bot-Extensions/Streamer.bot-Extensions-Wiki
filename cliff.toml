@@ -41,7 +41,7 @@ commit_parsers = [
     { message = "^.*: support", group = "Added"},
     { message = "^.*: remove", skip = true},
     { message = "^.*: delete", skip = true},
-    { message = "^.*: untracked", skip = true},
+    { message = ".*: untracked", skip = true},
     { message = "^test", group = "Fixed"},
     { message = "^fix", group = "Fixed"},
     { message = "^.*: fix", group = "Fixed"},
