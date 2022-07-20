@@ -39,8 +39,9 @@ filter_unconventional = true
 commit_parsers = [
     { message = "^.*: add", group = "Added"},
     { message = "^.*: support", group = "Added"},
-    { message = "^.*: remove", group = "Removed"},
-    { message = "^.*: delete", group = "Removed"},
+    { message = "^.*: remove", skip = true},
+    { message = "^.*: delete", skip = true},
+    { message = "^.*: untracked", skip = true},
     { message = "^test", group = "Fixed"},
     { message = "^fix", group = "Fixed"},
     { message = "^.*: fix", group = "Fixed"},
