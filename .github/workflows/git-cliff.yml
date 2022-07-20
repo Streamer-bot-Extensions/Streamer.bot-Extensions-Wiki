@@ -33,4 +33,3 @@ jobs:
 
       - name: Print the changelog
         run: cat "${{ steps.git-cliff.outputs.changelog }}"
-        shell: bash
