@@ -32,4 +32,5 @@ jobs:
           OUTPUT: CHANGELOG.md
 
       - name: Print the changelog
+        shell: bash
         run: cat "${{ steps.git-cliff.outputs.changelog }}"
