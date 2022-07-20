@@ -699,6 +699,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create extensions/cooldown-tools
 - Autopublish 2022-07-20T03:57:48Z
 - Autopublish 2022-07-20T04:02:17Z
+- Autopublish 2022-07-20T04:10:20Z
+- Update extensions/clip-and-post-to-chat-and-discord
 
 ### Removed
 
