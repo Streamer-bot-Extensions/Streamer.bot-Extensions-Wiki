@@ -703,6 +703,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update extensions/clip-and-post-to-chat-and-discord
 - Autopublish 2022-07-20T19:25:30Z
 - Create extensions/data-viewer
+- Autopublish 2022-07-20T22:21:18Z
+- Update extensions/data-viewer
 
 ### Removed
 
