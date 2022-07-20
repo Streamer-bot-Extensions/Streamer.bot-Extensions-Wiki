@@ -37,11 +37,11 @@ conventional_commits = true
 filter_unconventional = true
 # regex for parsing and grouping commits
 commit_parsers = [
+    { message = ".*: untracked", skip = true},
     { message = "^.*: add", group = "Added"},
     { message = "^.*: support", group = "Added"},
     { message = "^.*: remove", skip = true},
     { message = "^.*: delete", skip = true},
-    { message = ".*: untracked", skip = true},
     { message = "^test", group = "Fixed"},
     { message = "^fix", group = "Fixed"},
     { message = "^.*: fix", group = "Fixed"},
