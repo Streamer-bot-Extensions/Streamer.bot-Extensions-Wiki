@@ -32,9 +32,9 @@ footer = """
 
 [git]
 # parse the commits based on https://www.conventionalcommits.org
-conventional_commits = false
+conventional_commits = true
 # filter out the commits that are not conventional
-filter_unconventional = false
+filter_unconventional = true
 # regex for parsing and grouping commits
 commit_parsers = [
     { message = "^.*: add", group = "Added"},
@@ -47,7 +47,7 @@ commit_parsers = [
     { message = "^.*", group = "Changed"},
 ]
 # filter out the commits that are not matched by commit parsers
-filter_commits = false
+filter_commits = true
 # glob pattern for matching git tags
 tag_pattern = "v[0-9]*"
 # regex for skipping tags
