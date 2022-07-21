@@ -129,7 +129,7 @@ All added or modified extensions will automatically be populated here.
 - Create integrated-games/minecraft
 - Create extensions/points-system/points-system-add-ranks
 
-### Changed
+### Updated
 
 - Update extensions/data-viewer
 - Update extensions/clip-and-post-to-chat-and-discord
