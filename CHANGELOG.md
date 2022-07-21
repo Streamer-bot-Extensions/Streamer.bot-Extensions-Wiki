@@ -1,9 +1,6 @@
-# Changelog
+# Changelog and Added Extensions
 
-All notable changes to this project will be documented in this file.
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
+All added or modified extensions will automatically be populated here.
 ## [Unreleased]
 
 ### Changed
@@ -16,7 +13,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create extensions/giveaways/giveaway-csharp
 - Update extensions/giveaways
 - Create extensions/giveaways
-- Rename extensions/giveaways to extensions/giveaways/giveaway-timed
 - Update extensions/giveaways
 - Update tutorials/barrel-roll
 - Update extensions/hangman
@@ -86,7 +82,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update extensions/dynamic-predictions
 - Update extensions/dynamic-predictions
 - Update home
-- Rename extensions/shoutout-examples to extensions/shout-outs/shout-out-examples
 - Update extensions/shoutout-examples
 - Create extensions/shout-outs/mega-shoutout
 - Upload extensions/shoutouts/shoutout.json
@@ -148,7 +143,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update extensions/credits/scrolling
 - Create extensions/credits/scrolling
 - Upload credits_-_simple_scrolling.zip
-- Rename extensions/dual-entry-blocker-for-giveaways to extensions/user-queue-system
 - Update extensions/dual-entry-blocker-for-giveaways
 - Update extensions/heat-map/heat-map-core
 - Update extensions/heat-map/heat-map-core
@@ -295,7 +289,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Upload extensions/dice-roll-game/images/battle-commands.png
 - Create extensions/dice-roll-game
 - Create overlays/obs-and-streamer-bot-weather-widget
-- Rename extensions/tower-blocks-and-websocket-example to overlays/tower-blocks-and-websocket-example
 - Update extensions/tower-blocks-and-websocket-example
 - Create extensions/tower-blocks-and-websocket-example
 - Create extensions/watchtime
@@ -364,16 +357,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update extensions/ini-files
 - Create extensions/ini-files
 - Update extensions/lighting-control/lighting-control-links
-- Rename extensions/elgato-lighting-control to extensions/lighting-control/elgato-lighting-control
 - Update extensions/elgato-lighting-control
-- Rename extensions/lifx-lights to extensions/lighting-control/lifx-lights
 - Update extensions/lifx-lights
 - Create extensions/lighting-control/lighting-control-links
 - Create extensions/channel-point-kill-switch
 - Create extensions/welcome-messages
 - Update overlays/fake-news-overlay
 - Update extensions/points-system/points-system-links
-- Rename extensions/points-system/addition-commands to extensions/points-system/additional-commands
 - Update extensions/points-system/addition-commands
 - Update extensions/points-system/points-system-links
 - Update extensions/points-system/points-system-links
@@ -389,7 +379,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update overlays/credits
 - Update extensions/overlays/credits
 - Create extensions/overlays/credits
-- Rename extensions/overlays/credits to extensions/overlays
 - Update extensions/overlays/credits
 - Update extensions/overlays/credits
 - Update extensions/mod-added-commands
@@ -445,8 +434,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update extensions/points-system/points-system-points-reset
 - Update extensions/points-system/points-system-points-reset
 - Update extensions/arguments-viewer
-- Rename extensions/arguments-viewer/images/arguments-viewer_(1).png to extensions/arguments-viewer/images/arguments-viewer.png
-- Rename extensions/arguments-viewer/arguments-viewer_(1).png to extensions/arguments-viewer/arguments-viewer.png
 - Upload extensions/arguments-viewer/arguments-viewer_(1).png
 - Upload extensions/arguments-viewer/images/arguments-viewer_(1).png
 - Update extensions/points-system/points-system-links
@@ -517,23 +504,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update extensions/points-system/points-system-core
 - Update extensions/points-system/points-system-links
 - Update extensions/points-system/points-system-links
-- Rename extensions/points-system/ffa to extensions/points-system/points-system-free-for-alls
 - Update extensions/points-system/ffa
-- Rename extensions/points-system/raffle to extensions/points-system/points-system-raffle
 - Update extensions/points-system/raffle
-- Rename extensions/points-system/gamble to extensions/points-system/points-system-gamble
 - Update extensions/points-system/gamble
-- Rename extensions/points-system/slots to extensions/points-system/points-system-slots
 - Update extensions/points-system/slots
 - Update extensions/points-system/points-system-points-reset
-- Rename extensions/points-system/pointreset to extensions/points-system/points-system-points-reset
 - Update extensions/points-system/pointreset
 - Update extensions/points-system/points-system-leaderboard
-- Rename extensions/points-system/leaderboard to extensions/points-system/points-system-leaderboard
 - Update extensions/points-system/leaderboard
-- Rename extensions/points-system/pointtransfer to extensions/points-system/points-system-points-transfer
 - Update extensions/points-system/pointtransfer
-- Rename extensions/points-system/lotto to extensions/points-system/points-system-lotto
 - Update extensions/points-system/lotto
 - Update extensions/points-system/points-system-links
 - Update extensions/points-system/lotto
@@ -600,11 +579,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Upload extensions/commercial-timer/commercial_timer.png
 - Upload extensions/commercial-timer/commercial_timer6.png
 - Update extensions/arguments-viewer
-- Rename extensions/arguments-viewer/arguments-viewer_(1).png to extensions/arguments-viewer/arguments-viewer.png
 - Upload extensions/arguments-viewer/arguments-viewer_(1).png
 - Update extensions/arguments-viewer
 - Update extensions/arguments-viewer
-- Rename extensions/arguments-viewer_(1).png to extensions/arguments-viewer.png
 - Upload extensions/arguments-viewer_(1).png
 - Update extensions/walkon-sounds
 - Create integrated-games/7-days-to-die
