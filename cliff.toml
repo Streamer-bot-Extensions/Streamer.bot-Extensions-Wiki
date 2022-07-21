@@ -52,7 +52,7 @@ commit_parsers = [
     { message = "^fix", group = "Fixed"},
     { message = "^.*: fix", group = "Fixed"},
     { message = "^.*", group = "Updated"},
-    { pattern = "(.+)\\/([^\\/]+)$", replace = "[$2]($1\\/$2)"},
+    { message = ".*(.+)\\/([^\\/]+)$", replace = "[$2]($1\\/$2)"},
 ]
 # filter out the commits that are not matched by commit parsers
 filter_commits = true
