@@ -1,7 +1,7 @@
 # Changelog and Added Extensions
 
 All added or modified extensions will automatically be populated here.
-## [Unreleased]
+## Released
 
 ### Added
 
