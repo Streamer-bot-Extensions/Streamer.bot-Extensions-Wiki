@@ -39,6 +39,8 @@ filter_unconventional = true
 commit_parsers = [
     { message = "^docs.*untracked", skip = true},
     { message = "^chore", skip = true},
+    { message = "^docs.*test", skip = true},
+    { message = ".*test", skip = true},
     { message = "^.*: add", group = "Added"},
     { message = "^.*: support", group = "Added"},
     { message = "^.*: remove", skip = true},
@@ -59,4 +61,4 @@ ignore_tags = ""
 # sort the tags chronologically
 date_order = false
 # sort the commits inside sections by oldest/newest order
-sort_commits = "oldest"
+sort_commits = "newest"
