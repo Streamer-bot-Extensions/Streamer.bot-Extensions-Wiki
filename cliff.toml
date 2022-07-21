@@ -3,10 +3,8 @@
 [changelog]
 # changelog header
 header = """
-# Changelog\n
-All notable changes to this project will be documented in this file.
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).\n
+# Changelog\Added Extensions\n
+All added or modified extensions will automatically be populated here.
 """
 # template for the changelog body
 # https://tera.netlify.app/docs/#introduction
@@ -40,6 +38,7 @@ commit_parsers = [
     { message = "^docs.*untracked", skip = true},
     { message = "^chore", skip = true},
     { message = "^docs.*test", skip = true},
+    { message = "^docs.*rename", skip = true},
     { message = ".*test", skip = true},
     { message = "^.*: add", group = "Added"},
     { message = "^.*: support", group = "Added"},
