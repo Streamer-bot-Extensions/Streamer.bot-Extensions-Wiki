@@ -125,8 +125,6 @@ All added or modified extensions will automatically be populated here.
 - Create integrated-games/minecraft/streamer-bot
 - Create integrated-games/minecraft/events
 - Create integrated-games/minecraft/getting-started
-- Delete extensions/create-reg-redeem.png
-- Delete walkon-sounds/create-reg-redeem.png
 - Create integrated-games/7-days-to-die
 - Create integrated-games/minecraft
 - Create extensions/points-system/points-system-add-ranks
