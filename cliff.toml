@@ -33,6 +33,9 @@ footer = """
 conventional_commits = true
 # filter out the commits that are not conventional
 filter_unconventional = true
+commit_preprocessors = [
+{ pattern = '(.+)\/([^\/]+)$', replace = '[$2]($1\/$2)'}
+]
 # regex for parsing and grouping commits
 commit_parsers = [
     { message = "^docs.*untracked", skip = true},
