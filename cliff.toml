@@ -3,7 +3,7 @@
 [changelog]
 # changelog header
 header = """
-# Changelog\Added Extensions\n
+# Changelog and Added Extensions\n
 All added or modified extensions will automatically be populated here.
 """
 # template for the changelog body
