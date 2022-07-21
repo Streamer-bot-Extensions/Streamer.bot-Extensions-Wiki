@@ -41,6 +41,7 @@ commit_parsers = [
     { message = "^docs.*rename", skip = true},
     { message = "^docs.*home", skip = true},
     { message = ".*test", skip = true},
+    { message = ".(?!(zip|png|mp4|gif)$)([^.]+$)", skip = true},
     { message = "^docs.*create", group = "Added"},
     { message = "^.*: create", group = "Added"},
     { message = "^.*: add", group = "Added"},
