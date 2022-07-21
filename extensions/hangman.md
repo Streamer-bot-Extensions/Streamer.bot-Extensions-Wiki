@@ -2,7 +2,7 @@
 title: Hangman
 description: Play Hangman in your Twitch Chat!
 published: true
-date: 2022-07-12T21:17:08.410Z
+date: 2022-07-17T20:47:36.893Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-11T16:45:26.313Z
@@ -10,9 +10,10 @@ dateCreated: 2022-07-11T16:45:26.313Z
 
 # Hangman [(by TerrierDarts)](https://www.twitch.tv/TerrierDarts)
 
-> More Info to Come {.is-warning}
+Last Code Update : 14/07/22
 ## Description
-With this extension you will be able to run games of hangman, you can guess letters or go for gold and guess the whole word. This is set up so it can be ran in several languages, English, German, Italian, Spanish and Chinese.
+With this extension you will be able to run games of hangman, you can guess letters or go for gold and guess the whole word. This is set up so it can be ran in several languages, English, German, Italian, Spanish and Chinese. You can now choose to trigger this from the API Given or create a Text file and use that. Any other Languages have been translated below.
+
 > Only English has be tested. However all others should work fine, if you do run into issues post in the Extensions Discord. (Link can be found on home page) {.is-info}
 ## Import Code and Codepen
 ```
@@ -26,9 +27,20 @@ If you want, you can use the the codepen to show the game on screen. I've provid
 ![hangmanobs.png](/extensions/hangman/images/hangmanobs.png)
 > Its important you dont use `Local File` in OBS. {.is-warning}
 ### Streamerbot Setup
-After you've imported the code you will need to decide how you wish to trigger this, I personally chose `Channel Point Redeems` but `Chat Commands` can be use. You will need to set up 3 triggers, `Start Game`, `Guess Letter` and a `Guess Word`. If you use Channel Points The Guess Redeems will require input. Each one will be pointed to the relevant action.
 
-Next we need to make sure all the C# codes compiles they should pull in the references needed but
+After you've imported the code you will need to decide how you wish to trigger this, I personally chose `Channel Point Redeems` but `Chat Commands` can be use. You will need to set up 3 triggers, one to `Start Game`, `Guess Letter` and a `Guess Word`. If you use Channel Points The 'Guess' Redeems will require input. Each one will be pointed to the relevant action.
+|Action|Purpose|Triggers|
+|---|---|---|
+|`HangmanStartFromApi`| This allows you to start a game from the API.| Start Game Trigger|
+|`HangmanStartFromTextFile`|  This allows you to start a game from a Textfile.| Start Game Trigger|
+|`HangmanGuessLetter`| This allows you to guess a Letter| Guess Letter Trigger|
+|`HangmanGuessWord`| This Allows you to guess a word.| Guess Word Trigger|
+
+> If using this from a text place a new textfile in a safe location and add each word to a new line. 
+{.is-warning}
+
+
+Next we need to make sure C# code compiles they should pull in the references needed but these are the ones needed.
 ```
 system.core.dll
 system.linq.dll
@@ -42,10 +54,22 @@ Finally all you will need to do is have enabling and disabling actions for your 
 All the Settings are in the action `HangManSetWordLimited` 
 |Setting Name|Purpose|
 |---|---|
-|hangmanLives| This is how many chances your viewers get to find the word, each incorrect letter or word guess will remove a life.|
-|minLetters| This is the minimum amount of letters the random word will find.|
-|maxLetters| This is the maximum amount of letters the random word will find.|
-|lang| The Language of the word that will be found, `it, zh, es, de, en`|
+|`hangmanLives`| This is how many chances your viewers get to find the word, each incorrect letter or word guess will remove a life.|
+|`minLetters`| This is the minimum amount of letters the random word will find.|
+|`maxLetters`| This is the maximum amount of letters the random word will find.|
+|`lang`| The Language of the word that will be found, `it, zh, es, de, en`|
+|`howToTrigger`| This is how you want your users to guess so it will either be something like "Use Channel Points" or "Use !letter and !word".
+|`basePath`| This is the same as the link you posted in OBS.|
+|`filePath`| This is the filepath for the text file (StartFromTextFile Only)
 
 > Words range from 5 to 13 letters the last time I tested this. {.is-info}
+
+## Other Languages
+
+### French/français (Translated by [LeBluxTV](https://www.twitch.tv/LeBluxTV))
+```
+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
+
+```
+
 

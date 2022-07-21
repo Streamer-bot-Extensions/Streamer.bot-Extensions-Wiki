@@ -2,7 +2,7 @@
 title: Simple Scrolling Credits
 description: Example of credits in Streamer.bot using a simple scrolling style that allows for easy font and color changes in an editor as well as including intro and outro text/images
 published: true
-date: 2022-06-28T01:26:53.027Z
+date: 2022-07-17T20:41:46.058Z
 tags: credits
 editor: markdown
 dateCreated: 2022-06-11T08:13:44.455Z
@@ -36,7 +36,7 @@ Add a browser source to OBS and tick the “Local File” box and then browse to
 
 ## Editing/Styling
 
-The credits are styled using the included CSS and JS files. While some of the more advanced changes will take a basic understanding of web development changing the two colors and (to a certain degree) the fonts are not complicated things to do. You will need a text editor. If you are working with an unaltered style.css you fill find the following sections on the listed line of the editor:
+The credits are styled using the included CSS (styles.css) file. While some of the more advanced changes will take a basic understanding of web development changing the two colors and (to a certain degree) the fonts are not complicated things to do. You will need a text editor. If you are working with an unaltered style.css you fill find the following sections on the listed line of the editor:
 
 -   Font Class Import (Google Font) ---- Line 1
 -   Font Name and Size ------------------- Line 21
