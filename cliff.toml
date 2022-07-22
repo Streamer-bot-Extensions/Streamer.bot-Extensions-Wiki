@@ -34,7 +34,7 @@ conventional_commits = true
 # filter out the commits that are not conventional
 filter_unconventional = true
 link_parsers = [
-    { pattern = "(.+)'\\/'([^\\/]+)", replace = "[$2]($&)"},
+    { pattern = "(.+)\\/([^\\/]+)", replace = "[$2]($&)"},
 ]
 # regex for parsing and grouping commits
 commit_parsers = [
