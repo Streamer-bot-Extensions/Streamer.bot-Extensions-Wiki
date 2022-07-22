@@ -18,6 +18,7 @@ body = """
     ### {{ group | upper_first }}
     {% for commit in commits %}
         - {{ commit.message | upper_first }}\
+        {%- if commit.links %} ({% for link in commit.links %}[{{link.text}}]({{link.href}}){% endfor -%}){% endif %}\
     {% endfor %}
 {% endfor %}\n
 """
