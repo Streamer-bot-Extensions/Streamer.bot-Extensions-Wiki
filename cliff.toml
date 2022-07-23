@@ -48,10 +48,6 @@ footer = """
 conventional_commits = true
 # filter out the commits that are not conventional
 filter_unconventional = true
-
-link_parsers = [
-     { pattern = '/extensions(.+)\/([^\/]+)/gmi', replace = '[$&]($&)'},
-]
 # regex for parsing and grouping commits
 commit_parsers = [
     { message = "^docs.*untracked", skip = true},
@@ -73,7 +69,7 @@ commit_parsers = [
     { message = "^.*", group = "Updated"},
 ]
 # filter out the commits that are not matched by commit parsers
-filter_commits = true
+filter_commits = false
 # glob pattern for matching git tags
 tag_pattern = "v[0-9]*"
 # regex for skipping tags
