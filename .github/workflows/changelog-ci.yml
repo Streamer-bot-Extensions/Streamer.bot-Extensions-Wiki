@@ -16,6 +16,11 @@ on:
         description: 'Set Release Version'
         required: false
         
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+  
 jobs:
   build:
     runs-on: ubuntu-latest
