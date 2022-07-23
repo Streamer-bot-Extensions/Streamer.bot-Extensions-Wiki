@@ -14,7 +14,7 @@ dateCreated: 2022-05-14T15:30:26.979Z
 
 
 
-## Beschrijving
+## Description
 
 
 
@@ -22,21 +22,21 @@ This is a set up to allow you to create a barrel roll effect like the Star Fox m
 
 
 
-## Uitleg
+## Tutorial
 
 
 
 <br>
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/nlNkGBWA1A0" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/nlNkGBWA1A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-# Installatie
+# Installation
 
 Were you ever in a Twitch stream and someone started zooming around like Star Fox and wonder – “how in the holy world of Twitch and all things good did they do that?” No problem, that’s what were here to help with!
 
-### Vereiste bestanden
+### Required files
 - [OBS Move Transition Plugin](https://obsproject.com/forum/resources/move-transition.913/)
 - [OBS Websocket Plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/)
 
