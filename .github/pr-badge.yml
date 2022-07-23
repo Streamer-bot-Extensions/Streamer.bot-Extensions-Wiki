@@ -11,6 +11,10 @@
   color: "green"
   imageUrl: "https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg"
   url: "https://translate.botextensions.dev/project/streamer-bot-extensions-wiki"
+  
+- label: "Changelog CI"
+  color: "green"
+  imageUrl: "https://github.com/Streamer-bot-Extensions/Streamer.bot-Extensions-Wiki/actions/workflows/changelog-ci.yml/badge.svg"
 
 - label: "JIRA"
   message: "$issuePrefix"
