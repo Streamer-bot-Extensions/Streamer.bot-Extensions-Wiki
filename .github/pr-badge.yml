@@ -1,13 +1,12 @@
-
-- label: "Author"
-  message: "$payload.pull_request.user.login"
-  color: "green"
-  
 - label: "Preview"
   message: "PR $prNumber"
   color: "blue"
   url: "https://github.com/Streamer-bot-Extensions/Streamer.bot-Extensions-Wiki/pull/$prNumber"
-  
+   
+- label: "Author"
+  message: "$payload.pull_request.user.login"
+  color: "green"
+   
 - label: "Localized"
   color: "green"
   imageUrl: "https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg"
