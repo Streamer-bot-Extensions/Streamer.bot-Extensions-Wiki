@@ -7,7 +7,7 @@ tags:
 editor: markdown
 dateCreated: 2022-04-20T01:15:10.917Z
 ---
-
+[![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki)
 ![streamerbot.png](./logos/streamerbot.png){.align-abstopright}
 # Welcome to Streamer.bot Extensions
 
