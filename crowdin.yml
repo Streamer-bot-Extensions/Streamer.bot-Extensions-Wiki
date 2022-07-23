@@ -6,6 +6,7 @@ files:
       - /fr/
       - /pt-br/
       - /logos/
+      - /.github/
       - '*.png'
       - '*.zip'
       - '*.rar'
@@ -13,4 +14,7 @@ files:
       - '*.json'
       - '*.dll'
       - '*.webm'
+      - '*.toml'
+      - '*.yml'
+      - '.gitignore'
     translation: /%two_letters_code%/%original_file_name%
