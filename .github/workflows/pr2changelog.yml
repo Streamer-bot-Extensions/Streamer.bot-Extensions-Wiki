@@ -1,14 +1,14 @@
-permissions:
-  pull-requests: write
-  issues: write
-  repository-projects: write
 name: pr2changelog
 on:
     pull_request:
         branches:
             - main
         types: [closed]
-
+permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
+  
 jobs:
     generate:
         if: github.event.pull_request.merged == true
@@ -41,3 +41,4 @@ jobs:
                 uses: ad-m/github-push-action@master
                 with:
                     github_token: ${{ secrets.GITHUB_TOKEN }}
+                    
