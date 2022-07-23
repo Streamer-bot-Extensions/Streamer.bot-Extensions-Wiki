@@ -16,10 +16,24 @@ body = """
 {% endif %}\
 {% for group, commits in commits | group_by(attribute="group") %}
     ### {{ group | upper_first }}
-    {% for commit in commits %}
-        - {{ commit.message | upper_first }}\
-        {%- if commit.links %} ({% for link in commit.links %}[{{link.text}}]({{link.href}}){% endfor -%}){% endif %}\
-    {% endfor %}
+    {% for commit in commits
+    | filter(attribute="scope")
+    | sort(attribute="scope") %}
+        - *({{commit.scope}})* {{ commit.message | upper_first }}
+        {%- if commit.breaking %}
+        {% raw %}  {% endraw %}- **BREAKING**: {{commit.breaking_description}}
+        {%- endif -%}
+    {%- endfor -%}
+    {%- for commit in commits %}
+        {%- if commit.scope -%}
+        {% else -%}
+            - *(No Category)* {{ commit.message | upper_first }}
+            {% if commit.breaking -%}
+            {% raw %}  {% endraw %}- **BREAKING**: {{commit.breaking_description}}
+            {% endif -%}
+        {% endif -%}
+    {% endfor -%}
+    {% raw %}\n{% endraw %}\
 {% endfor %}\n
 """
 # remove the leading and trailing whitespace from the template
