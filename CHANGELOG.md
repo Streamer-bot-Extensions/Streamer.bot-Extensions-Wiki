@@ -1,12 +1,10 @@
-# Changelog
+# Added
 
-## Added
-
-### Extensions
+## Extensions
 [Stream Information at Regular Intervals (Wizebot Replica)](/extensions/stream-infos-at-regular-intervals)
 
-### Overlays
+## Overlays
 
-### Tutorials
+## Tutorials
 
-## Updated
+# Updated
