@@ -1,18 +1,7 @@
-- label: "Setup"
-  message: "Completed"
-  color: "green"
-  
-- label: "Hello"
-  message: "World"
-  color: "green"
-
-- message: "Go yellow"
-  color: "yellow"
-
 - label: "Preview"
   message: "PR $prNumber"
   color: "blue"
-  url: "https://pr-$prNumber.company.com"
+  url: "https://github.com/Streamer-bot-Extensions/Streamer.bot-Extensions-Wiki/pull/$prNumber"
 
 - label: "JIRA"
   message: "$issuePrefix"
@@ -30,10 +19,8 @@
   color: "yellow"
   when: "$additions > 200 && $additions < 500"
 
-- imageUrl: "https://api.qrserver.com/v1/create-qr-code/?size=50x50&data=https://pr-$prNumber.company.com"
-  url: "https://pr-$prNumber.company.com"
-
-- message: "$payload.pull_request.user.login"
+- label: "Author"
+  message: "$payload.pull_request.user.login"
   color: "green"
 
 - label: "Missing"
