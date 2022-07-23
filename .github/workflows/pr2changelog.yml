@@ -38,7 +38,7 @@ jobs:
                     git commit -m "misc: update Changelog" -a
             -   name: Push changes
                 if: ${{ steps.pr2changelog.outputs.generated_changelog == 1}}
-                uses: ad-m/github-push-action@master
+                uses: actions-js/push@master
                 with:
                     github_token: ${{ secrets.GITHUB_TOKEN }}
                     
