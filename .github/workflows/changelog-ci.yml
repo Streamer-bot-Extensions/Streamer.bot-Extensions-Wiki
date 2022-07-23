@@ -31,7 +31,7 @@ jobs:
           # Optional, you can provide any name for your changelog file,
           # We currently support Markdown (.md) and reStructuredText (.rst) files
           # defaults to `CHANGELOG.md` if not provided.
-          changelog_filename: CHANGELOG-TEST.MD
+          changelog_filename: CHANGELOG.md
           # Optional, only required when you want more customization
           # e.g: group your changelog by labels with custom titles,
           # different version prefix, pull request title and version number regex etc.
