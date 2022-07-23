@@ -16,6 +16,8 @@ on:
         description: 'Set Release Version'
         required: false
         
+permissions: write-all
+
 jobs:
   build:
     runs-on: ubuntu-latest
