@@ -50,4 +50,5 @@ jobs:
           # such as environment variable or from output of another action
           release_version: ${{ github.event.inputs.release_version }}
           # Optional
+          permissions: write-all
           github_token: ${{ secrets.GITHUB_TOKEN }}
