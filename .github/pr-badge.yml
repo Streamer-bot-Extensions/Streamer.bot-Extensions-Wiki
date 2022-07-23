@@ -1,7 +1,17 @@
+
+- label: "Author"
+  message: "$payload.pull_request.user.login"
+  color: "green"
+  
 - label: "Preview"
   message: "PR $prNumber"
   color: "blue"
   url: "https://github.com/Streamer-bot-Extensions/Streamer.bot-Extensions-Wiki/pull/$prNumber"
+  
+- label: "Localized"
+  color: "green"
+  imageUrl: "https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg"
+  url: "https://translate.botextensions.dev/project/streamer-bot-extensions-wiki"
 
 - label: "JIRA"
   message: "$issuePrefix"
@@ -18,15 +28,6 @@
   message: "Medium"
   color: "yellow"
   when: "$additions > 200 && $additions < 500"
-
-- label: "Author"
-  message: "$payload.pull_request.user.login"
-  color: "green"
-
-- label: "Missing"
-  message: "Test plan"
-  color: "#ff0000"
-  when: "$payload.pull_request.body.includes('Test plan') === false"
 
 - label: "Label"
   message: "Feature"
