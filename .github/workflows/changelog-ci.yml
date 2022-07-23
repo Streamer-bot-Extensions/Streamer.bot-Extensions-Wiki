@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-    types: [ merged ]
+    types: [closed]
 
   # Optionally you can use `workflow_dispatch` to run Changelog CI Manually
   workflow_dispatch:
@@ -19,6 +19,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true
 
     steps:
       # Checks-out your repository

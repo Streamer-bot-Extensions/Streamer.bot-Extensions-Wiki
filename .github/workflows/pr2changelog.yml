@@ -4,7 +4,12 @@ on:
         branches:
             - main
         types: [closed]
-
+permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
+  contents: write
+  
 jobs:
     generate:
         if: github.event.pull_request.merged == true
@@ -37,3 +42,6 @@ jobs:
                 uses: ad-m/github-push-action@master
                 with:
                     github_token: ${{ secrets.GITHUB_TOKEN }}
+                    ssh: true
+                    branch: ${{ github.ref }}
+                    
