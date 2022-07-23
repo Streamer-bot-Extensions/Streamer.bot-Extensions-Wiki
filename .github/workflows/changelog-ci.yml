@@ -26,6 +26,8 @@ jobs:
     steps:
       # Checks-out your repository
       - uses: actions/checkout@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run Changelog CI
         uses: saadmk11/changelog-ci@v1.0.0
@@ -50,5 +52,4 @@ jobs:
           # such as environment variable or from output of another action
           release_version: ${{ github.event.inputs.release_version }}
           # Optional
-          permissions: write-all
           github_token: ${{ secrets.GITHUB_TOKEN }}
