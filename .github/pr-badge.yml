@@ -2,6 +2,8 @@
   message: "PR $prNumber"
   color: "blue"
   url: "https://github.com/Streamer-bot-Extensions/Streamer.bot-Extensions-Wiki/pull/$prNumber"
+  
+  ![Changelog CI Status](https://github.com/<username>/<repository>/workflows/Changelog%20CI/badge.svg)
 
 - label: "JIRA"
   message: "$issuePrefix"
