@@ -1,5 +1,5 @@
 name: Changelog CI
-
+permissions: write-all
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
@@ -16,8 +16,6 @@ on:
         description: 'Set Release Version'
         required: false
 
-permissions: write-all
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,8 +24,6 @@ jobs:
     steps:
       # Checks-out your repository
       - uses: actions/checkout@v2
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run Changelog CI
         uses: saadmk11/changelog-ci@v1.0.0
