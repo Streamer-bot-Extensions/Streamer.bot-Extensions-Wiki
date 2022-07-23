@@ -1,3 +1,7 @@
+permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
 name: pr2changelog
 on:
     pull_request:
