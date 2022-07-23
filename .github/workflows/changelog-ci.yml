@@ -16,11 +16,12 @@ on:
         description: 'Set Release Version'
         required: false
 
+permissions: write-all
+
 jobs:
   build:
     runs-on: ubuntu-latest
     if: github.event.pull_request.merged == true
-    permissions: write-all
 
     steps:
       # Checks-out your repository
