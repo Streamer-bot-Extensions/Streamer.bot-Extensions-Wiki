@@ -24,6 +24,6 @@ Ce wiki est là pour non seulement vous fournir d'excellentes ressources pour am
 # Rejoignez le Discord
 
 - [<i class="mdi mdi-discord text--discord"></i>**Streamer.bot Discord *Pour tout ce qui concerne Streamerbot, aide, idées et dernières nouvelles.***](https://discord.gg/6jBaYeatnZ)
-- [<i class="mdi mdi-discord text--discord"></i>**Extensions Discord Streamer.bot "Unofficial" *Pour toute aide concernant votre extension. *For all your extension help needs.***](https://discord.gg/a9ttKtkUZ7)
+- [<i class="mdi mdi-discord text--discord"></i>**Extensions Discord Streamer.bot "Unofficial" *Pour toute aide concernant votre extension.***](https://discord.gg/a9ttKtkUZ7)
 {.btn-grid .my-5}
 
