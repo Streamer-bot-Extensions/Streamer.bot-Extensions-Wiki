@@ -16,7 +16,7 @@ dateCreated: 2022-05-19T02:08:54.599Z
 > 
 > {.is-danger}
 
-* [Lurk With Counters *door DanFrmSpace* *A Lurk Command with Counters* *Mislukt met weeken in 0.1.8*](/nl/depreciated/lurk-command-with-counters)
-* [Proces Uptime Controle *door BamBam* *Dit is een proces uptime check hulp* *nieuwere methoden gevonden*](/nl/depreciated/process-uptime-checking)
-* [Argumenten Viewer *door Silverlink* *print in UI alle Argument Variabelen die werden uitgevoerd bij het uitvoeren van een actie.* *Ingebouwd in 0.1.8+*](/nl/depreciated/arguments-viewer)
+* [Lurk With Counters *door DanFrmSpace* *A Lurk Command with Counters* *Mislukt met weeken in 0.1.8*](/depreciated/lurk-command-with-counters)
+* [Proces Uptime Controle *door BamBam* *Dit is een proces uptime check hulp* *nieuwere methoden gevonden*](/depreciated/process-uptime-checking)
+* [Argumenten Viewer *door Silverlink* *print in UI alle Argument Variabelen die werden uitgevoerd bij het uitvoeren van een actie.* *Ingebouwd in 0.1.8+*](/depreciated/arguments-viewer)
 {.links-list}
