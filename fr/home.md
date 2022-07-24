@@ -2,7 +2,7 @@
 title: Extensions de Streamer.bot
 description: Extensions de la communauté Streamer.bot
 published: true
-date: 2022-07-01T16:28:43.384Z
+date: 2022-07-24T15:56:01.195Z
 tags:
 editor: markdown
 dateCreated: 2022-04-20T01:15:10.917Z
@@ -23,7 +23,8 @@ Ce wiki est là pour non seulement vous fournir d'excellentes ressources pour am
 
 # Rejoignez le Discord
 
-- [<i class="mdi mdi-discord text--discord"></i>**Streamer.bot Discord *Pour tout ce qui concerne Streamerbot, aide, idées et dernières nouvelles.***](https://discord.gg/6jBaYeatnZ)
-- [<i class="mdi mdi-discord text--discord"></i>**Extensions Discord Streamer.bot "Unofficial" *Pour toute aide concernant votre extension.***](https://discord.gg/a9ttKtkUZ7)
+- [<i class="mdi mdi-discord text--discord"></i>- [<i class="mdi mdi-discord text--discord"></i>**Streamer.bot Discord *Pour tout ce qui concerne Streamerbot, aide, idées et dernières nouvelles.***](https://discord.gg/6jBaYeatnZ)](https://discord.gg/6jBaYeatnZ)
+- [<i class="mdi mdi-discord text--discord"></i>- [<i class="mdi mdi-discord text--discord"></i>**Extensions Discord Streamer.bot "Unofficial" *Pour toute aide concernant votre extension.***](https://discord.gg/a9ttKtkUZ7)](https://discord.gg/a9ttKtkUZ7)
 {.btn-grid .my-5}
+
 
