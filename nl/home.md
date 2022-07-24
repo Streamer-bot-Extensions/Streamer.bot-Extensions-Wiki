@@ -2,13 +2,14 @@
 title: Streamer.bot Extensies
 description: Streamer.bot Community Gemaakte Extensies
 published: true
-date: 2022-07-01T16:28:43.384Z
-tags:
+date: 2022-07-24T16:16:04.839Z
+tags: 
 editor: markdown
-dateCreated: 2022-04-20T01:15:10.917Z
+dateCreated: 2022-07-24T06:31:39.475Z
 ---
 
-[![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki) ![streamerbot.png](./logos/streamerbot.png) {.align-abstopright}
+[![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki) 
+![streamerbot.png](./logos/streamerbot.png) {.align-abstopright}
 # Welkom bij Streamer.bot Extensies
 
 Welkom bij de Streamer.bot Extensies wiki! Dit is een wiki van alle community gemaakte extensies voor Streamer.bot. Je kunt een van deze extensies gebruiken om je stream verder te uit te breiden.
