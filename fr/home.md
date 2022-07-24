@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-04-20T01:15:10.917Z
 ---
 
-[![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki) ![streamerbot.png](./logos/streamerbot.png) {.align-abstopright}
+[![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki)
 # Bienvenue sur le wiki des extensions Streamer.bot
 
 Bienvenue sur le wiki des extensions Streamer.bot ! Ceci est un dépôt de toutes les extensions faites par la communauté de Streamer.bot. Vous pouvez utiliser ces extensions pour améliorer votre stream.
@@ -23,8 +23,7 @@ Ce wiki est là pour non seulement vous fournir d'excellentes ressources pour am
 
 # Rejoignez le Discord
 
-- [Streamer.bot Discord *Pour tout ce qui concerne Streamerbot, aide, idées et dernières nouvelles.*](https://discord.gg/6jBaYeatnZ)
-- [Extensions Discord Streamer.bot "Unofficial" *Pour toute aide concernant votre extension.*](https://discord.gg/a9ttKtkUZ7)
-{.links-list}
-
+- [<i class="mdi mdi-discord text--discord"></i>**Streamer.bot Discord *Pour tout ce qui concerne Streamerbot, aide, idées et dernières nouvelles.***](https://discord.gg/6jBaYeatnZ)
+- [<i class="mdi mdi-discord text--discord"></i>**Extensions Discord Streamer.bot "Unofficial" *Pour toute aide concernant votre extension. *For all your extension help needs.***](https://discord.gg/a9ttKtkUZ7)
+{.btn-grid .my-5}
 
