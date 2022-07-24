@@ -17,5 +17,7 @@ files:
       - '*.toml'
       - '*.yml'
       - '*.yaml'
-      - '.gitignore'
+      - .gitignore
+      - /nl/
+      - /ar/
     translation: /%two_letters_code%/%original_file_name%
