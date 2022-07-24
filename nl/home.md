@@ -2,13 +2,13 @@
 title: Streamer.bot Extensies
 description: Streamer.bot Community Gemaakte Extensies
 published: true
-date: 2022-07-24T16:16:24.792Z
+date: 2022-07-24T16:16:41.307Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-24T06:31:39.475Z
 ---
 
-![streamerbot.png](./logos/streamerbot.png) {.align-abstopright}
+![streamerbot.png](./logos/streamerbot.png){.align-abstopright}
 [![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki) 
 # Welkom bij Streamer.bot Extensies
 
