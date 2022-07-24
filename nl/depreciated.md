@@ -9,11 +9,12 @@ dateCreated: 2022-05-19T02:08:54.599Z
 ---
 
 # Verouderde Extensies
-> De volgende extensies zijn als verouderd gemarkeerd.  Ze zijn vervangen door een robuuster extensie of ze zijn omgezet in een nieuwere versie van Streamer.bot. Er zal geen ondersteuning worden aangeboden wanneer je deze gebruikt, omdat ze wel of niet werken met de huidige versie van Streamer.bot.  
-{.is-warning}
-
+> De volgende extensies zijn als verouderd gemarkeerd.  Ze zijn vervangen door een robuuster extensie of ze zijn omgezet in een nieuwere versie van Streamer.bot. Er zal geen ondersteuning worden aangeboden wanneer je deze gebruikt, omdat ze wel of niet werken met de huidige versie van Streamer.bot. 
+> 
+> {.is-warning}
 > GEBRUIK OP EIGEN RISICO! 
-{.is-danger}
+> 
+> {.is-danger}
 
 * [Lurk With Counters *door DanFrmSpace* *A Lurk Command with Counters* *Mislukt met weeken in 0.1.8*](/depreciated/lurk-command-with-counters)
 * [Proces Uptime Controle *door BamBam* *Dit is een proces uptime check hulp* *nieuwere methoden gevonden*](/depreciated/process-uptime-checking)
