@@ -9,7 +9,6 @@ dateCreated: 2022-04-20T01:15:10.917Z
 ---
 
 [![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki)
-![streamerbot.png](./logos/streamerbot.png){.align-abstopright}
 # Welcome to Streamer.bot Extensions
 
 Welcome to the Streamer.bot Extensions wiki! This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
