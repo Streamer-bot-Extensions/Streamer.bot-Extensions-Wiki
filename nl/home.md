@@ -24,8 +24,8 @@ Deze wiki is hier om je niet alleen geweldige bronnen te bieden om je stream te 
 
 # Join de Discord
 
-- [Streamer.bot Discord *Voor alle dingen Streamerbot, hulp, ideeën en laatste nieuws.*](https://discord.gg/6jBaYeatnZ)
-- ["Unofficial" Streamer.bot Extensies Discord *Voor al je extensie hulp.*](https://discord.gg/a9ttKtkUZ7)
-{.links-list}
+- [<i class="mdi mdi-discord text--discord"></i>**Streamer.bot Discord *Voor alle dingen Streamerbot, hulp, ideeën en laatste nieuws.***](https://discord.gg/6jBaYeatnZ)
+- [<i class="mdi mdi-discord text--discord"></i>**"Unofficial" Streamer.bot Extensies Discord *Voor al je extensie hulp.****](https://discord.gg/a9ttKtkUZ7)
+{.btn-grid .my-5}
 
 
