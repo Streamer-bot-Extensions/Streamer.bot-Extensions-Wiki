@@ -2,7 +2,7 @@
 title: Depreciated Extensions
 description: List of Extensions That Have Been Depreciated.
 published: true
-date: 2022-07-24T05:22:51.395Z
+date: 2022-07-24T05:23:42.834Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T02:08:54.599Z
@@ -17,6 +17,6 @@ No support will be offered when using these as they may or may not work with the
 {.is-danger}
 
 * [Lurk With Counters *by DanFrmSpace* *A Lurk Command with Counters* *Failed to work in 0.1.8*](/depreciated/lurk-command-with-counters)
-* [Process Uptime Checking *by BamBam* *This is a process uptime checking utility* *Newer Methods Found*](/en/depreciated/process-uptime-checking)
-* [Arguments Viewer *by Silverlink* *In UI printout of all Argument Variables that were populated when an action executed.* *Built into 0.1.8+*](/en/depreciated/arguments-viewer)
+* [Process Uptime Checking *by BamBam* *This is a process uptime checking utility* *Newer Methods Found*](/depreciated/process-uptime-checking)
+* [Arguments Viewer *by Silverlink* *In UI printout of all Argument Variables that were populated when an action executed.* *Built into 0.1.8+*](/depreciated/arguments-viewer)
 {.links-list}
