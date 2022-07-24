@@ -1,11 +1,11 @@
 ---
 title: stream info at regular intervals (by LeBluxTV)
 description: get current viewer count, comparing with previous checks and show uptime at regular intervals.
-published: 
-date: 
+published: true
+date: 2022-07-24T04:48:25.146Z
 tags: 
 editor: markdown
-dateCreated: 
+dateCreated: 2022-07-23T01:44:56.837Z
 ---
 
 # stream info at regular intervals  [(by LeBluxTV)](https://www.twitch.tv/lebluxtv)

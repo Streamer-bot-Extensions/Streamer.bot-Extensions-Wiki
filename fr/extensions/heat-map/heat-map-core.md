@@ -1,0 +1,79 @@
+---
+title: Heat Map Core Installation
+description: Core Installation of Heat Map
+published: true
+date: 2022-07-24T04:41:57.304Z
+tags: 
+editor: markdown
+dateCreated: 2022-06-14T23:27:23.342Z
+---
+
+# Heat Map Core Installation [(by Farlezz)](https://www.Twitch.tv/Farlezz)
+
+# Tutorial
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/bU3Gwd2JVd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Tutorial done by [TerrierDarts](https://www.Twitch.tv/TerrierDarts)**
+
+# Import Code
+```
+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
+```
+
+# Set Up
+ 
+1. Import the Code.
+2. Make sure all the C# Sub-Actions compile.
+3. Codes should compile from Import however if not then `Heat External` Will need the following References:
+```
+mscorlib.dll
+System.Drawing.dll
+System.Globalisation.dll
+```
+4. In `Heat Message` set the `maxWidth` & `maxHeight` to the size of your Canvas!
+5. Set `allowAnom` if you want to allow anonymous clickers or not. **(True or False, True will allow)**
+6. Visit the `Server/Clients Tab` and then go to `Websocket Clients`. Right click and click `Add`. Give it a name, I recommend `HeatMap` so you know for the log what action is been ran. In the `Endpoint` box type :
+```
+wss://heat-api.j38.net/channel/<YOUR-ID>
+``` 
+> If you don't know your ID visit the `Viewers` Tab and click on your name, your ID will be there. {.is-info}
+7. Tie the action `Heat Message` to the Message Event, if set up correctly it should look like this. 
+![heatwebsocket.png](/extensions/heat-map/heatwebsocket.png)
+
+> Now Basic Heat Should be Set Up! {.is-success}
+
+# How to Use
+
+When you want to add another source you will need to add a folder into the Action `Heat Sources`. In the folder you will need to have the Sub-Actions `OBS Get Scene Item Properties` and `Execute Method(Check if Match, Execute)`. You will want to set this up so the OBS action is pointed to the Source you want to be clickable. Like So, I want the sources `GREEN` and `RED` to be clickable.
+![subactionsheat.png](/extensions/heat-map/subactionsheat.png)
+> It does not matter what you name the groups, however I would recommend keeping them as close to the source name as possible. {.is-warning}
+
+The next thing you want to do is to create a Action that **EXACTLY** matches the source name, and then add the Sub-Actions of what you wish to happen when said source is clicked.
+![actionssourcesheat.png](/extensions/heat-map/actionssourcesheat.png)
+> IT IS IMPORTANT THAT THE SOURCE NAME IN OBS IS **EXACTLY** THE SAME AS THE ACTION NAME IN STREAMERBOT OTHERWISE IT WILL NOT WORK {.is-danger}
+
+
+## Twitch Example
+### Clip
+In This clip when you press Red, the box turns Red. When you press Green, the Box turns Green.
+
+<iframe src="https://clips.twitch.tv/embed?clip=ShakingReliableSheepHoneyBadger-lLgjhyYcpyC7x5NZ&parent=extensions.streamsaver.tools" allowfullscreen="true"height="378" width="620"></iframe>
+
+### Chat
+The Chat from the my actions look like this.
+![heat_chat.png](/extensions/heat-map/heat_chat.png)
+
+> As you can see one of the `clicks` returns `%user%` this is because the user has not granted access to Heat. To grant access the User needs to do the following. 
+> Click on the Heat Logo at the Side of the screen and then Click Manage Access.
+> ![set_up_heat1.png](/extensions/heat-map/set_up_heat1.png)
+> You Then need to press Grant Access
+> ![heatgrant.png](/extensions/heat-map/heatgrant.png)
+> If all steps have been followed then your viewer should be set up.
+{.is-warning}
+
+
+
+
+
+

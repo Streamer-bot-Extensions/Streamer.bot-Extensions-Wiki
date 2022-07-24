@@ -2,10 +2,10 @@
 title: Mega Shoutout (by TerrierDarts)
 description: This will show an on screen effect showing the target's profile picture, game and link.
 published: true
-date: 2022-06-23T14:37:41.183Z
+date: 2022-07-24T04:48:01.735Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-23T14:37:41.183Z
+dateCreated: 2022-07-15T03:09:09.771Z
 ---
 
 # Mega Shoutout [(by TerrierDarts)](https://www.twitch.tv/TerrierDarts)

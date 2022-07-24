@@ -1,0 +1,57 @@
+---
+title: Slots (by TerrierDarts)
+description: Allow your viewers to bet there points on this fully customisable slot machine!
+published: true
+date: 2022-07-24T04:54:43.891Z
+tags: 
+editor: markdown
+dateCreated: 2022-07-24T00:36:05.336Z
+---
+
+# Slots [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)
+
+This will allow your users to gamble there points for a spin on the slot machine, you can customise the emotes used, amount of emotes, pay out and default bet amount.
+
+## Import Code
+
+Below is the Streamer.Bot Import Code
+
+```text
+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
+```
+
+When importing you should have 3 actions
+
+```text
+Slot Array Set-up
+Slots
+AddRemoveEmote
+```
+
+## Configuration
+
+You will need the following references to ensure the code compiles.
+
+```text
+mscorelib.dll
+System.Linq.dll
+```
+
+You will need to add the following Commands
+
+```text
+!slotemote    = Tied to AddRemoveEmote (broadcaster)
+!slotsetup    = Tied to Slot Array Set-up (broadcaster)
+!slot,!slots  = Tied to Slots (everyone)
+```
+
+Then you will need to do `!slotsetup` to create the list of emotes, this action is a one time use. You can use `!slotemote` followed by `add` or `remove`and the emote name to Add or Remove Emotes
+
+```text
+!slotemote add Kappa
+!slotemote remove Kappa
+```
+
+## Settings
+
+`numOfEmotes` This is the amount of emotes you want to be avaliable (minus 1) `defaultBet` This is the amount the bet will be if the user doesnt specify `winMulti` This is the amount the user will win of there bet multiplied.

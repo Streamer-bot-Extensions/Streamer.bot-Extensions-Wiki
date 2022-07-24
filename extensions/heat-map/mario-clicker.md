@@ -2,7 +2,7 @@
 title: Mario Clicker
 description: Have Mario Collect Coins on Clicks
 published: true
-date: 2022-07-08T22:12:18.019Z
+date: 2022-07-24T04:47:49.684Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-08T22:06:21.540Z

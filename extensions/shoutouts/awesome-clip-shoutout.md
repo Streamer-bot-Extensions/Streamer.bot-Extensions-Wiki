@@ -1,11 +1,11 @@
 ---
 title: Awesome Clip Shoutout (by TerrierDarts)
 description: This will give a cool Clip Shoutout to the user, add personalisation by changing the text colour and you can also add sound.
-published: false
-date: 2022-06-25T22:02:44.501Z
+published: true
+date: 2022-07-24T04:47:58.617Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-25T22:02:44.501Z
+dateCreated: 2022-07-15T03:09:05.868Z
 ---
 
 # Awesome Clip Shoutout [(by TerrierDarts)](http://www.twitch.tv/TerrierDarts)

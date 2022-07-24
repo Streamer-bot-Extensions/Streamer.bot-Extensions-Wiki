@@ -2,10 +2,10 @@
 title: Extensions de Streamer.bot
 description: Extensions de la communauté Streamer.bot
 published: true
-date: 2022-07-01T16:28:43.384Z
-tags:
+date: 2022-07-24T04:18:33.917Z
+tags: 
 editor: markdown
-dateCreated: 2022-04-20T01:15:10.917Z
+dateCreated: 2022-05-14T04:56:47.587Z
 ---
 
 [![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki) !

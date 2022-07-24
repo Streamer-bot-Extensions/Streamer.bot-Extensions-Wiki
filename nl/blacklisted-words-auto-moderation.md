@@ -1,0 +1,37 @@
+---
+title: BlackListed Words Auto-Moderation (by LeBluxTV)
+description: Add Blacklisted Words within Chat Messages, If they are write the message will be erased ( or the user Timed Out ).
+published: true
+date: 2022-07-24T05:11:30.827Z
+tags: 
+editor: markdown
+dateCreated: 2022-07-24T01:00:02.319Z
+---
+
+# BlackListed Words Auto-Moderation [(by LeBluxTV)](https://www.twitch.tv/lebluxtv)
+
+## Description
+Add Blacklisted Words within Chat Messages, If they are write the message will be erased ( or the user Timed Out ).
+
+## Importation
+
+Copy the text from the code box below into the `Import` box in Streamer.bot to add this to your `Action` library:
+
+```text
+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
+```
+
+## Configuration
+
+There is 2 `Actions` for this Tool : ![Main_Actions_BlackListed_Words_Auto_Moderation](/extensions/blacklisted-words-auto-moderation/images/170503420-d14672f3-ae86-4a4f-b1fd-51a95f06f102.png)
+
+`Add Black-Listed Word To words.txt File`
+
+![SubActions](/extensions/blacklisted-words-auto-moderation/images/170502929-96f26575-1038-4dc0-add9-3ed6b2a09ec9.png) Set the complete directory to a .txt named `words.txt` Create a `Command` to this `Action`
+> (e.g. : !addBadword )
+
+`Check Badword/TimeOut if found [Message Event]`
+
+![Check_Messages_For_BlackListed_Words_Erase_Or_Time_Out](/extensions/blacklisted-words-auto-moderation/images/subactions_blacklisted_words_automoderation.png) Enter the Name of your bot Set the complete directory to the .txt you created before Set the `duration` of the `Time Out` set the `timeout`to `False`will erase the message, keep it to `True` to Time Out the user. Trigger this `Action` from the `Message Event` `( in settings > events > general )`
+
+

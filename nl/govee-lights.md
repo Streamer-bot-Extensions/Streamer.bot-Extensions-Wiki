@@ -1,0 +1,61 @@
+---
+title: Govee Lights Control (by psxboy) (modified by rondhi)
+description: Control your Govee Lights from Streamer.bot.
+published: true
+date: 2022-07-24T05:13:08.318Z
+tags: 
+editor: markdown
+dateCreated: 2022-07-24T01:02:21.853Z
+---
+
+# Govee Lights Control (by [psxboy](https://www.twitch.tv/psxboy)) (modified by [rondhi](https://twitch.tv/rondhi))
+> Make sure your lights are supported by the Govee API. [Link to PDF of up-to-date Govee API Documentation](https://govee-public.s3.amazonaws.com/developer-docs/GoveeDeveloperAPIReference.pdf) 
+> 
+> {.is-danger}
+
+## Getting your Govee API Key
+1. Open the Govee Home mobile app
+2. Go to the "My Profile" tab, press "About us", press "Apply for API key"
+3. Fill out your name and your reason (For the reason you can just write "I would like to control my LEDs with programming" and it should be fine) and submit
+4. You will receive an email with your API key to the email address you entered when registering a Govee account normally within minutes.
+
+## Getting your Govee Device ID
+1. Go to https://www.deanberman.com/govee/smartthings/
+2. Click on the Configuration tab
+3. Paste your API key and click Get Configuration
+
+![getdevid](/extensions/lighting-control/images/177055742-cfeda9f2-92d1-4fe3-8583-cbf590011471.png)
+
+4. Take note of your Device ID and Model Number.
+
+## Installation
+```text
+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
+```
+
+## Add your API Key
+1. In the `Govee Set API !setgoveeapi` action, edit the `Set global "goveeApiKeyGlobal"` subaction and paste in your API key in the `Value` section.
+
+![apikey](/extensions/lighting-control/images/177055759-1f2f4785-1401-43e7-8a55-19e3e892d761.png)
+
+3. Run this action by running !setgoveeapi in your chat or by some other method.
+
+## Changing your lights
+1. Duplicate one of the examples for the function you want to change.
+2. Add in your Device ID and Model Number
+3. Set whatever function you wanna change:
+- Brightness:
+
+![brightness](/extensions/lighting-control/images/177055769-eae3a518-2254-4bb6-8a4d-e06830c48042.png)
+
+- Color change:
+
+![color](/extensions/lighting-control/images/177055780-0eb1f2a6-b05a-4023-8c69-06639e611ed4.png)
+
+- Color temperature:
+
+![colortemp](/extensions/lighting-control/images/177055787-08afeb2b-24ba-4cd0-9bed-6785cf5e5d79.png)
+
+- Turning lights on or off:
+
+![onoff](/extensions/lighting-control/images/177055792-dffc0ed7-ad9b-439b-a796-c6de8b91b750.png)
