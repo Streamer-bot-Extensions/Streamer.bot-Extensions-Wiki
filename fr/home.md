@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-04-20T01:15:10.917Z
 ---
 
-[![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki)
+[![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki) ![streamerbot.png](./logos/streamerbot.png) {.align-abstopright}
 # Bienvenue sur le wiki des extensions Streamer.bot
 
 Bienvenue sur le wiki des extensions Streamer.bot ! Ceci est un dépôt de toutes les extensions faites par la communauté de Streamer.bot. Vous pouvez utiliser ces extensions pour améliorer votre stream.
