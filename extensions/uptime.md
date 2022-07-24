@@ -2,7 +2,7 @@
 title: Uptime Commands (by TerrierDarts)
 description: Here you have 2 examples of uptime. So you can see how long you have been streaming.
 published: true
-date: 2022-07-24T04:27:33.972Z
+date: 2022-07-24T06:10:51.070Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-31T19:05:25.175Z

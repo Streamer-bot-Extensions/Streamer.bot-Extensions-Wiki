@@ -2,7 +2,7 @@
 title: Among Us Ban (by GoWMan)
 description: Some one in chat seem sus?  Need to call an emergency mod meeting?  Want to eject that impostor?  Well now you can with the Among Us Ban Alert for Streamer.bot!
 published: true
-date: 2022-07-24T04:27:11.036Z
+date: 2022-07-24T06:11:36.794Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-28T18:33:30.403Z

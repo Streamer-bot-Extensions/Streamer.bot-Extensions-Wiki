@@ -2,7 +2,7 @@
 title: Data Viewer (by TerrierDarts)
 description: View the Data that is stored in the Streamerbot Files
 published: true
-date: 2022-07-24T04:48:22.277Z
+date: 2022-07-24T06:08:52.350Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-20T22:20:05.859Z

@@ -2,7 +2,7 @@
 title: Cooldown Tools
 description: With these tools you can make the most out of cooldowns!
 published: true
-date: 2022-07-24T04:48:19.395Z
+date: 2022-07-24T06:08:43.459Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-19T15:54:51.993Z

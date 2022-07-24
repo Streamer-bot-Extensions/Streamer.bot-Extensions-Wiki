@@ -2,7 +2,7 @@
 title: Message Link to Latest Tweet (by slashie101)
 description: 
 published: true
-date: 2022-07-24T04:23:50.015Z
+date: 2022-07-24T06:09:40.604Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:05:06.398Z

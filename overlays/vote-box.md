@@ -2,7 +2,7 @@
 title: Vote Box Widget by LeBluxTV
 description: 
 published: true
-date: 2022-07-24T04:28:10.084Z
+date: 2022-07-24T06:12:23.792Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-11T08:12:10.045Z

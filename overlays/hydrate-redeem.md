@@ -2,7 +2,7 @@
 title: Hydrate Redeem (by GoWMan)
 description: Stay Hydrated and keep chat engaged by keeping track of how much beverage you consume on stream with the Hydrate Redeem for Streamer.bot!
 published: true
-date: 2022-07-24T04:27:26.971Z
+date: 2022-07-24T06:11:56.951Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T02:02:41.783Z

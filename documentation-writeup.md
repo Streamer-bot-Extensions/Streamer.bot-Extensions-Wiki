@@ -2,7 +2,7 @@
 title: Documentation Write Up Advice
 description: 
 published: false
-date: 2022-07-24T04:47:46.711Z
+date: 2022-07-24T06:07:38.698Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T00:18:30.446Z

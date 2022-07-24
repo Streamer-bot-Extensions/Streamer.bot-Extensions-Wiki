@@ -2,7 +2,7 @@
 title: SynthRiders Websocket Integration (by KK964)
 description: Streamer.bot extension for Synth Riders.
 published: true
-date: 2022-07-24T04:17:08.630Z
+date: 2022-07-24T06:11:30.597Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T04:54:09.174Z

@@ -2,7 +2,7 @@
 title: Elgato Lighting Control (by Geocym)
 description: Change Brightness and Color Temperature of Elgato Lighting.
 published: true
-date: 2022-07-24T04:16:37.594Z
+date: 2022-07-24T06:13:07.304Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:41:06.173Z

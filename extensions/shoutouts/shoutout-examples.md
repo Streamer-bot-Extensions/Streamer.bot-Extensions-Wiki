@@ -2,7 +2,7 @@
 title: Shout Out Examples
 description: You will find several different versions of shout outs, you will find basic ones here to slightly more complicated.
 published: true
-date: 2022-07-24T04:48:04.799Z
+date: 2022-07-24T06:14:05.901Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-15T03:09:14.122Z

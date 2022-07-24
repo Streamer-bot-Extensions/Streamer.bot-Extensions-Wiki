@@ -2,7 +2,7 @@
 title: Trap Card (by MarkusoOoO)
 description: This is my take for "Trap card" inspired (read stolen) by Nutty (but he approved that I will share it).
 published: true
-date: 2022-07-24T04:23:46.961Z
+date: 2022-07-24T06:10:48.000Z
 tags: trap, trapcard, chat, timeout
 editor: markdown
 dateCreated: 2022-05-18T01:02:57.341Z
