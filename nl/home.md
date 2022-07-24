@@ -1,5 +1,5 @@
 ---
-title: Streamer.bot Extensions
+title: Streamer.bot Extensies
 description: Streamer.bot Community Made Extensions
 published: true
 date: 2022-07-01T16:28:43.384Z
@@ -8,23 +8,23 @@ editor: markdown
 dateCreated: 2022-04-20T01:15:10.917Z
 ---
 
-![streamerbot.png](./logos/streamerbot.png) {.align-abstopright}
-# Welcome to Streamer.bot Extensions
+[![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki) ![streamerbot.png](./logos/streamerbot.png) {.align-abstopright}
+# Welkom bij Streamer.bot Extensies
 
-Welcome to the Streamer.bot Extensions wiki! This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
-> Extensions are provided as is and any alterations to them are done at your own risk! Please make sure you understand this before altering anything in them outside of the directions provided in this wiki! 
+Welkom bij de Streamer.bot Extensies wiki! Dit is een wiki van alle community gemaakte extensies voor Streamer.bot. Je kunt een van deze extensies gebruiken om je stream verder te uit te breiden.
+> Extensies worden aangeboden zoals dat is en eventuele wijzigingen worden gedaan op eigen risico! Begrijp dit asjeblieft voordat u iets buiten de aangegeven richtingen in deze wiki verandert! 
 > 
 > {.is-danger}
 
-This wiki is here to not only provide you with great resources to enhance your stream but also to guide you in configuring each resource provided. You may use any of them and alter them as you like but extensions are provided as is and any alterations to them are done at your own risk. Failure to follow the guides on this wiki may result in resources not functioning properly. Please make sure you understand this before trying to alter things outside of the direction of this wiki.
-> All contributions provided are credited to their respective author. If you decide to alter any of the resources here and release them with additional functionalities to the community feel free to do so. Out of respect for the community and the authors of these resources it is just asked that you credit the original author's work that your resources were derived from. The goal of this wiki is to share resources with the community in a ethical manner that contributes to the Streamer.bot community as a whole. 
+Deze wiki is hier om je niet alleen geweldige bronnen te bieden om je stream te verbeteren, maar ook om je te begeleiden bij het configureren van elke geleverde bron. U kunt elk van deze gebruiken en wijzigen zoals u wilt, maar extensies worden verstrekt zoals is en eventuele wijzigingen worden gedaan op eigen risico. Als de handleidingen op deze wiki niet worden gevolgd, kan dat leiden tot het onfunctioneren van de hulpbronnen. Begrijp dit asjeblieft voordat u iets buiten de aangegeven richtingen in deze wiki verandert.
+> Alle bijdragers worden gecrediteerd aan hun respectievelijke auteur. Als je besluit om een van de bronnen hier te wijzigen en ze met extra functies aan de gemeenschap wilt vrijgeven, voel je je vrij om dit te doen. Uit respect voor de gemeenschap en de auteurs van deze middelen wordt je alleen gevraagd het werk van de oorspronkelijke auteur te vernoemen dat je middelen van gebruikt. Het doel van deze wiki is de materialen te delen met de gemeenschap op een ethische manier die bijdraagt aan de Streamer.bot gemeenschap als een geheel. 
 > 
 > {.is-warning}
 
-# Join The Discord
+# Join de Discord
 
-- [Streamer.bot Discord *For all things Streamerbot, help, ideas and latest news.*](https://discord.gg/6jBaYeatnZ)
-- ["Unofficial" Streamer.bot Extensions Discord *For all your extension help needs.*](https://discord.gg/a9ttKtkUZ7)
+- [Streamer.bot Discord *Voor alle dingen Streamerbot, hulp, ideeën en laatste nieuws.*](https://discord.gg/6jBaYeatnZ)
+- ["Unofficial" Streamer.bot Extensies Discord *Voor al je extensie hulp.*](https://discord.gg/a9ttKtkUZ7)
 {.links-list}
 
 
