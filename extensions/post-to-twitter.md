@@ -2,7 +2,7 @@
 title: Post to Twitter (by Nate1280 and TerrierDarts)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-07-24T06:10:04.457Z
+date: 2022-07-26T16:25:07.731Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
@@ -12,7 +12,7 @@ dateCreated: 2022-04-27T04:14:39.472Z
 #### This code was expanded on [by TerrierDarts](https://www.twitch.tv/TerrierDarts)
 
 # Tutorial
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/nc9edtn75pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen"></iframe>
+<div class=“iframe-container”><iframe src="https://www.youtube.com/embed/nc9edtn75pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
 
 # Twitter Developer Set-up
 ## Set Up Instructions
