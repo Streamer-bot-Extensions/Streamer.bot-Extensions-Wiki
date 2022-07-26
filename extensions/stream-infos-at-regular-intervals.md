@@ -2,7 +2,7 @@
 title: Stream Info at Regular Intervals (by LeBluxTV)
 description: Get current viewer count, comparing with the previous check and show uptime at regular intervals.
 published: true
-date: 2022-07-26T22:52:59.626Z
+date: 2022-07-26T22:53:37.041Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T01:44:56.837Z
@@ -22,8 +22,8 @@ TlM0RR+LCAAAAAAABADFWtuO8sgRvo+Ud0C/9Ee72mXkA2bwSrkABhszDDMYsI0zubDdBnto2yw2x9VK
 ```
 
 ## Installation
-In Streamer.bot in select Import from the top left.
-Copy the Import Code and paste it into the Import String.
+In Streamer.bot in select `Import` from the top left.
+Copy the `Import Code` and paste it into the `Import String`.
 
 Just tie the Imported Action to a Timed Action for best results do set the Interval to 3600 seconds so it posts every hour.
 ![previewTimedAction](/extensions/stream-infos-at-regular-intervals/images/previewTimedAction.png)
