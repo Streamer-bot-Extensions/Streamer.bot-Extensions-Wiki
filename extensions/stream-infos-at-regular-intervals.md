@@ -1,6 +1,6 @@
 ---
-title: stream info at regular intervals (by LeBluxTV)
-description: get current viewer count, comparing with previous checks and show uptime at regular intervals.
+title: Stream Info at Regular Intervals (by LeBluxTV)
+description: Get current viewer count, comparing with the previous check and show uptime at regular intervals.
 published: true
 date: 2022-07-24T06:10:30.628Z
 tags: 
@@ -11,7 +11,7 @@ dateCreated: 2022-07-23T01:44:56.837Z
 # Stream Info at Regular Intervals  [(by LeBluxTV)](https://www.twitch.tv/lebluxtv)
 
 ## Description
-Get current viewer count, comparing with previous checks and show uptime at regular intervals.
+Get current viewer count, comparing with the previous check and show uptime at regular intervals.
 will display in chat only if obs is streaming.
 ![preview](/extensions/stream-infos-at-regular-intervals/images/previewStreamInfo.png)
 

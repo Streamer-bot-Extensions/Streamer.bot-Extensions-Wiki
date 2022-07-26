@@ -15,6 +15,6 @@ dateCreated: 2022-07-15T03:09:05.868Z
 
 ## Tutorial
 ## Import Code
-## Json Scene
-## How to Use
+## Installation
+## Configuration
 One everything is installed you will now have a scene and some actions but what do you do with them? So the beauty of this is 

@@ -19,6 +19,7 @@ TlM0RR+LCAAAAAAABADVlT1v2zAQhvcC/Q+qAW9hIVL8kLoFHYIsQdGmU9HhSB4TIbLkUlIcI8h/LyXZ
 ```
 
 ## Installation
-1. Import the code.
-2. Create a Command point it to "cracked"
+1. In Streamer.bot in select `Import` from the top left.
+Copy the `Import Code` and paste it into the `Import String`. 
+2. Create a Command and point it to "cracked"
 3. If you don't wish to use the term  'cracked' you can change it in the `Message` Sub-Action

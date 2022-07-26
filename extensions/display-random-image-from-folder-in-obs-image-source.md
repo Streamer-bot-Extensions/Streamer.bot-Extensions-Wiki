@@ -16,8 +16,9 @@ TlM0RR+LCAAAAAAABAC1V1tv2kgUfl9p/4OFVGlXqiNfsV2pD4EECklJAwED632Ym43L+FLbQJwq/71n
 ```
 
 ## Installation
-1) in OBS, create an image source and name it.
-2) In Streamerbot, import the code.
-3) Change the arguments to the folder path containing images (only images), and the name of the obs source.
+In Streamer.bot in select `Import` from the top left.
+Copy the `Import Code` and paste it into the `Import String`. 
+In OBS, create an image source and name it.
+Change the arguments to the folder path containing images (only images), and the name of the obs source.
 From there, you can adjust how you show/hide the source however you would like.
 > If it doesn't work, you may have to manually bring in the System.IO and System.Drawing references in the Execute code step {.is-warning}

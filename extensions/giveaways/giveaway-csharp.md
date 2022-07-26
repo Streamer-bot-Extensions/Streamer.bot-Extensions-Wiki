@@ -10,6 +10,7 @@ dateCreated: 2022-07-17T22:31:21.597Z
 
 # C# Giveaway (by [TerrierDarts](https://www.twitch.tv/TerrierDarts))
 
+## Description
 With this extension you can run giveaways that are all built in C# no need for a text file.
 
 ## Import Code
@@ -19,7 +20,10 @@ TlM0RR+LCAAAAAAABADtXFtz4kiyfj8R+x98eh93yiGVSpfaiH0w2IBwm2kbc9PxPNRNoEYCDgJsmJj/
 
 All code should compile, if it does not compile please reach out in discord. (Link found on Home Page)
 
-## Set Up
+## Installation
+In Streamer.bot in select `Import` from the top left.
+Copy the `Import Code` and paste it into the `Import String`. 
+
 The following chat commands will be imported too, if you have any duplicates or wish to change them here how they are set up. 
 |Command|Action Tied to|
 |---|---|
@@ -32,7 +36,7 @@ The following chat commands will be imported too, if you have any duplicates or 
 
 You will need to create a `Timed Action` and tie it to `7. Timed Action` and have it repeat at an interval of your choosing.
 
-## User Configuration
+## Configuration
 
 This giveaway since in C# has settings in most of the actions, if any of these setting are repeated you will need to make sure that they match. All settings are changed by adjusting the Set Argument Sub-Action. Here is a run down of all the settings in each Action.
 

@@ -10,6 +10,10 @@ dateCreated: 2022-05-18T00:25:57.920Z
 
 # Clip and Post to Chat and Discord [(by Grizzlage)](https://www.twitch.tv/grizzlage) 
 
+## Description
+Using this extension you will be able to post your clips directly into discord by using a `!clip` Command.
+
+## Import Code
 ```cs
 using System;
 using System.Net.Http;
@@ -56,9 +60,13 @@ public class CPHInline{
     }
 }
 ```
+## Installation 
+
+You will need to create a new Action, and you can call it what ever you want I would recommend using `Discord Clip`. Then you will need to add a C# Sub-Action. Copy and Paste the C# above into the text box. You will need to add the Following References
 
 References Required
 ```
 System.dll
 System.Net.Http.dll
 ```
+The last thing you will need to do  is to add your Discord Web hook where mentioned in the code.

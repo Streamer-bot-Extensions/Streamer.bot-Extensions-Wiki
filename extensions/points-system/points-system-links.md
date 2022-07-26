@@ -12,7 +12,7 @@ dateCreated: 2022-04-20T02:11:37.622Z
 
 ## Description
 
-Below you can find the core Points System and a list of all the extensions that utilize Streamer.bot's Points System created by VRFlad.
+Below you can find the core Points System and a list of all the extensions that utilize Streamer.bot's Points System created by [VRFlad](https://www.twitch.tv/VRFlad).
 
 ## Points System (Core)
 

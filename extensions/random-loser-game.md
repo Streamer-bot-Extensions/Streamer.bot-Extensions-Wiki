@@ -9,7 +9,9 @@ dateCreated: 2022-05-18T01:38:20.006Z
 ---
 
 # Random Loser Game [(by TheIcemanCometh)](https://www.twitch.tv/theicemancometh360) 
-#### (commonly known by a name with one bullet in a gun) Renamed here as to not offend anyone.
+## Description
+This extension, commonly known by a name with one bullet in a gun renamed here as to not offend anyone, will allow your viewer to risk getting punished or not.
+
 ## Import Code
 
 ```

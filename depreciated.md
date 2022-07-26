@@ -19,4 +19,5 @@ No support will be offered when using these as they may or may not work with the
 * [Lurk With Counters *by DanFrmSpace* *A Lurk Command with Counters* *Failed to work in 0.1.8*](/depreciated/lurk-command-with-counters)
 * [Process Uptime Checking *by BamBam* *This is a process uptime checking utility* *Newer Methods Found*](/depreciated/process-uptime-checking)
 * [Arguments Viewer *by Silverlink* *In UI printout of all Argument Variables that were populated when an action executed.* *Built into 0.1.8+*](/depreciated/arguments-viewer)
+* [Action Cooldown *by TerrirDarts* *Add Cooldowns to Actions* *Rebuilt and Button Cooldown has been added to the Decks*](/depreciated/actions-cooldown)
 {.links-list}
