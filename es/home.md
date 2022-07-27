@@ -2,7 +2,7 @@
 title: Wiki de Extensiones de Streamer.bot
 description: Extensiones de Stramer.bot Hechas por la Comunidad
 published: true
-date: 2022-07-27T23:17:37.364Z
+date: 2022-07-27T23:18:45.946Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T23:16:18.994Z
@@ -23,8 +23,8 @@ Esta wiki no solo existe para darte una gran cantidad de recursos para mejorar t
 
 # Únete a Nuestro Discord
 
-- [<i class="mdi mdi-discord text--discord"></i>***Discord de Streamer.Bot *Para todas las cosas relacionadas con Streamerbot, ayuda, ideas y las más recientes noticias**](https://discord.gg/6jBaYeatnZ)
-- [<i class="mdi mdi-discord text--discord"></i>***Discord "No Oficial" de Extensiones de Streamer.bot *Para todas tus necesidades de ayuda con extensiones**](https://discord.gg/a9ttKtkUZ7)
+- [<i class="mdi mdi-discord text--discord"></i>**Discord de Streamer.Bot *Para todas las cosas relacionadas con Streamerbot, ayuda, ideas y las más recientes noticias***](https://discord.gg/6jBaYeatnZ)
+- [<i class="mdi mdi-discord text--discord"></i>**Discord "No Oficial" de Extensiones de Streamer.bot *Para todas tus necesidades de ayuda con extensiones***](https://discord.gg/a9ttKtkUZ7)
 {.btn-grid .my-5}
 
 
