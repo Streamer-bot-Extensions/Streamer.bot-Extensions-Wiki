@@ -2,7 +2,7 @@
 title: Leaderboard (by TerrierDarts)
 description: This tool will allow you to see which users have the most points, it comes with a codepen for visuals of Top 5 but you can post in chat up to 20 people. Twitch Character Limit may prevent more.
 published: true
-date: 2022-07-27T20:43:02.523Z
+date: 2022-07-27T20:44:22.853Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T15:52:36.015Z
@@ -62,6 +62,7 @@ Once you've got the code pen how you like it, you will need to export it. You ca
 ## Configuration
 `boardSize` This is the amount of users you want it to show when you do `!rank` 
 `filePath` This is the url of the browser Source.
+`ignoredGroup` This is the name of people you want the bot to ignore. So they don't show on the leaderboard. (You will need to create this group)
 
 > It's important to note that if you choose a number too high for boardSize the message may not post due to twitch's own message character limit. 
 {.is-info}
