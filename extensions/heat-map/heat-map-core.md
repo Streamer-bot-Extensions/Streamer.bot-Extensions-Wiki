@@ -2,7 +2,7 @@
 title: Heat Map Core Installation
 description: Core Installation of Heat Map
 published: true
-date: 2022-07-24T06:12:55.648Z
+date: 2022-07-28T15:25:57.625Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T17:36:34.089Z
@@ -49,7 +49,7 @@ wss://heat-api.j38.net/channel/<YOUR-ID>
 7. Tie the action `Heat Message` to the Message Event, if set up correctly it should look like this. 
 ![heatwebsocket.png](/extensions/heat-map/images/heatwebsocket.png)
 
-8. You will need to add an `OBS Event`, Visit the `Stream Apps` Tab >> `OBS` then in the bottom box right click and add a `SceneItemDeselected` Event and tie it to the `Heat Sources[Get Heat Sources]` Action.
+8. You will need to add an `OBS Event`, Visit the `Stream Apps` Tab >> `OBS` then in the bottom box right click and add a `SceneItemDeselected` Event and tie it to the `Heat Sources[GET SOURCE DATA]` Action.
 
 ![heatobsevent](/extensions/heat-map/images/heatobsevent.png)
 
