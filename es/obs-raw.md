@@ -104,7 +104,7 @@ Aquí encontrarás ejemplos de OBS Raw. Estos ejemplos son completamente editabl
 ```
 ### Imagen Fuente
 
-## Reiniciar elemento de escena
+## Eliminar Elemento de Escena
 ```json
 {
   "item": "%giphySource%",

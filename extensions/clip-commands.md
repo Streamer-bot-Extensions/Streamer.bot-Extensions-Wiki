@@ -1,3 +1,13 @@
+---
+title: Clip Commands
+description: Few Examples of how to play with clips in Streamerbot.
+published: true
+date: 2022-07-27T20:05:49.484Z
+tags: 
+editor: markdown
+dateCreated: 2022-07-25T17:02:16.506Z
+---
+
 # Clip Commands
 
 Using these examples you can have actions that work with clips.
@@ -57,7 +67,7 @@ public class CPHInline
 {
     public bool Execute()
     {
-        var user = args["user"].ToString();
+        var user = "TerrierDarts"; //replace you name here.
         int currentCount; // = 0;
         var allClips = CPH.GetClipsForUser(user);
         int viewCount = allClips.Count;
