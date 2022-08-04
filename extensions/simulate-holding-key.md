@@ -1,0 +1,44 @@
+---
+title: Simulate Holding Key (by ConfuzzedCat)
+description: 
+published: true
+date: 2022-08-04T08:35:00.000Z
+tags: confuzzedcat, 
+editor: markdown
+dateCreated: 2022-08-04T08:35:00.000Z
+---
+
+# HoldKey [(by ConfuzzedCat)](https://www.twitch.tv/confuzzedcat)
+## Description
+A way to simulate holding down a key.
+> This only tested on window, and may not work on linux.
+{.is-info}
+
+## Import code
+```
+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
+```
+## Installation
+In Streamer.bot in select `Import` from the top left.
+Copy the `Import Code` and paste it into the `Import String`.
+
+## Configuration
+There is 3 variables or arguments there can be changed. `blacklist`, `whitelist` and `testing`.
+### Blacklist
+A key can be put on the blacklist by simple typing the character into the arguments value input box eg. putting the following `adBc` will disallow those characters from being hold.
+Leave empty if you don't want to blacklist any characters.
+
+### Whitelist
+The whitelist function the same way as the blacklist, just that it wont run if the key isn't include in the whitelist.
+Leave empty if you don't want to whitelist any characters. This will allow all characters, that isn't included in blacklist.
+
+### Testing
+The testing argument while add a 5 seconds delay before holding the key. Set it to false, when you want the action to be instant.
+
+## Usage
+Simple do `!holdkey` with a key and a amount of time(in ms) of how long the key should be pressed, eg. `!holdkey A 4000`, this will hold the `a` key for 4 secs.
+> This will spam the key in the focused window (~600 chars per 1000ms). Make sure you are in the correct window before the command is performed.
+{.is-warning}
+
+### Avalible keys/characters
+0-9 and a-z. The letters can be both upper or lower, doesnt matter as the character will always be lower when pressed.
