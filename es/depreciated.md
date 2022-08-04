@@ -19,5 +19,5 @@ dateCreated: 2022-05-19T02:08:54.599Z
 * [Lurk Con Contadores *por DanFrmSpace* *Un Comando de Lurk con Contadores* *No funcionó en versión 0.1.8*](/depreciated/lurk-command-with-counters)
 * [Proceso de Verificación de Tiempo en Línea *por BamBam* *Esta es una utilidad para verificar y procesar el tiempo en línea* *Nuevos Métodos Encontrados*](/depreciated/process-uptime-checking)
 * [Visualizador de Argumentos *por Silverlink* *Visualización en Interfaz de Usuario de todos los Argumentos y Variables que fueron asignadas cuando una acción ha sido ejecutada.* *Integrado en versión 0.1.8+*](/depreciated/arguments-viewer)
-* [Tiempo de Espera de Acción *por TerrirDarts* *Agrega Tiempos de Espera a Acciones* *Reconstruida y Tiempos de Espera de Botones ha sido agregada a los Decks*](/depreciated/actions-cooldown)
+* [Tiempo de Espera de Acción *por TerrierDarts* *Agrega Tiempos de Espera a Acciones* *Reconstruida y Tiempos de Espera de Botones ha sido agregada a los Decks*](/depreciated/actions-cooldown)
 {.links-list}
