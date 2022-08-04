@@ -29,7 +29,7 @@ System.Net.Http.dll
 After importing code you will need to get authorization header, and hash from payload from your browser where you logged-in in your broadcast account.
 For that you need to go to you Twitch dashboard in stream manager and open ```developer tools``` in the browser (usually F12) and swhitch to ```Network``` tab. Then press ```Snooze``` (you have to be live), and there will be POST request to ```gql.twitch.tv/gql``` with ```operationName:	"SnoozeAd"```. You need to copy this request as cURL and pate it in any text editor. Inside you will find all required data. In code you will find placeholders for your data.
 
-![snooze.png](/extensions/ad-snooze/snooze.png)
+![snooze.png](/extensions/ad-snooze/images/snooze.png)
 
 > After each relogin on Twitch site you wiil have to get this data again.
 {.is-warning}
