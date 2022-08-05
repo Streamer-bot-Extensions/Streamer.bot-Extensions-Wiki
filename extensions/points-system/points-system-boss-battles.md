@@ -1,3 +1,13 @@
+---
+title: Boss Battles [(by TerrierDarts)](https://www.twitch.tv/TerrierDarts)
+description: With Boss Battles you give chance for your viewers to join together to defeat bosses in order to gain rewards in the chat.
+published: true
+date: 2022-08-05T01:08:33.715Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-05T01:08:33.715Z
+---
+
 
 # Boss Battles [(by TerrierDarts)](https://www.twitch.tv/TerrierDarts)
 
