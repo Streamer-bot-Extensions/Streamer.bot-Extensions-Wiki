@@ -2,7 +2,7 @@
 title: Simulate Holding Key (by ConfuzzedCat)
 description: 
 published: true
-date: 2022-08-07T18:22:37.667Z
+date: 2022-08-07T18:22:45.237Z
 tags: confuzzedcat,, key, simulate, hold, holding, keypress
 editor: markdown
 dateCreated: 2022-08-04T19:18:22.435Z
@@ -39,7 +39,7 @@ The testing argument while add a 5 seconds delay before holding the key. Set it 
 If no time is inputted, this will dictate how long the key will be pressed in ms.
 
 ## Usage
-Simple do `!holdkey` with a key and a amount of time(in ms) of how long the key should be pressed, eg. `!holdkey A 4000`, this will hold the `a` key for 4 secs. *Update* amount of time is no longer required and only optional. If empty, then it will use the DefaultTime variable.
+Simple do `!holdkey` with a key and a amount of time(in ms) of how long the key should be pressed, eg. `!holdkey A 4000`, this will hold the `a` key for 4 secs. *Update*: amount of time is no longer required and only optional. If empty, then it will use the DefaultTime variable.
 > This will spam the key in the focused window. Make sure you are in the correct window before the command is performed.
 {.is-warning}
 
