@@ -9,7 +9,7 @@ dateCreated: 2022-04-20T01:15:10.917Z
 ---
 
 [![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki)
-# Bienvenido(a) a la Wiki de Estensiones de Streamer.bot
+# Bienvenido(a) a la Wiki de Extensiones de Streamer.bot
 
 ¡Bienvenido(a) a la Wiki de Extensiones de Streamer.bot! Este es un repositorio de todas las extensiones para Streamer.bot hechas por la comunidad. Puedes usar cualquier de estas extensiones para mejorar tus transmisiones en directo.
 > ¡Las extensiones son provistas tal como están en el repositorio, y cualquier alteración realizada a ellas es bajo tu propio riesgo! ¡Por favor asegúrate de entender esto antes de alterarlas de cualquier manera fuera de las direcciones provistas en esta wiki! 
