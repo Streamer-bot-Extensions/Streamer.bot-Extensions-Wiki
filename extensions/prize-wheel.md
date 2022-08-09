@@ -2,7 +2,7 @@
 title: Prize Wheel (by MarkusoOoO)
 description: Fully customizable "Wheel of fortune / Roulette" working with OBS from v27.1.3
 published: true
-date: 2022-07-24T06:10:10.329Z
+date: 2022-08-09T17:37:50.439Z
 tags: prize, wheel, roulette, template
 editor: markdown
 dateCreated: 2022-05-18T01:56:58.255Z
@@ -29,7 +29,7 @@ TlM0RR+LCAAAAAAABADtXF1vY8cNfS/Q/6AYyFtYDGc4X31LX4o8NAHSIkAR5IEzw0mMeuWtLGezCPLf
 ### Prerequisite
 *Streamer.bot v0.1.4+ (I will refer in this document to Streamer.bot as "SB" for short from now on) >>> https://streamer.bot/
 
-*OBS v27.1.3+ (if you are using v27.2.0+ please make sure to also update Move transition plugin (find link below) to latest version, otherwise your OBS will crash) >>> https://obsproject.com/cs/download
+*OBS v27.1.3+ (if you are using v27.2.0+ please make sure to also update Move transition plugin (find link below) to latest version, otherwise your OBS will crash) >>> https://obsproject.com/download
 
 *OBS Plugins:
 
