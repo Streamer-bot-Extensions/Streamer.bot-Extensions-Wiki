@@ -2,13 +2,13 @@
 title: Ad Snooze (by TheShiningOne)
 description: Snooze the upcoming Twitch Ad with this extension.
 published: true
-date: 2022-08-03T15:33:48.193Z
+date: 2022-08-11T22:02:50.643Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-03T13:05:03.866Z
 ---
 
-Contributors : [TheShiningOne](https://www.youtube.com/c/TheShiningOne)
+
 ## Tutorial
 <div class=“iframe-container”><iframe src="https://www.youtube.com/embed/ORb1EGwZRPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
 
@@ -42,4 +42,4 @@ You will have ```Snooze Ad``` action which you can trigger how you like, for exa
 
 ## Contributors
 
-<i class="fa fa-sm fa-edit grey--text"></i>[TheShiningOne](https://www.youtube.com/c/TheShiningOne)
+<i class="fa fa-sm fa-edit grey--text"></i> [TheShiningOne](https://www.youtube.com/c/TheShiningOne)
