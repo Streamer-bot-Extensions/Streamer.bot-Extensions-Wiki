@@ -2,13 +2,13 @@
 title: Test Page
 description: 
 published: false
-date: 2022-08-11T19:07:38.191Z
+date: 2022-08-11T19:09:41.709Z
 tags: test
 editor: markdown
 dateCreated: 2022-07-17T18:50:43.167Z
 ---
 
-*Made by ik#1497*{.credit-badge}
+*Made by [ik#1497]()*{.credit-badge}
 
 ## Testing Environment
 
