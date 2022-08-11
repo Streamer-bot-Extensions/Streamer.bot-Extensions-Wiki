@@ -1,6 +1,6 @@
 ---
 title: Clip and Post to Chat and Discord (by Grizzlage)
-description: Clip last 30 seconds of stream and paste to chat, no API needed.
+description: Using this extension you will be able to post your clips directly into discord by using a `!clip` Command.
 published: true
 date: 2022-07-24T06:08:37.342Z
 tags: 
@@ -8,10 +8,6 @@ editor: markdown
 dateCreated: 2022-05-18T00:25:57.920Z
 ---
 
-# Clip and Post to Chat and Discord [(by Grizzlage)](https://www.twitch.tv/grizzlage) 
-
-## Description
-Using this extension you will be able to post your clips directly into discord by using a `!clip` Command.
 
 ## Import Code
 ```cs
@@ -70,3 +66,7 @@ System.dll
 System.Net.Http.dll
 ```
 The last thing you will need to do  is to add your Discord Web hook where mentioned in the code.
+
+## Contributors
+
+<i class="fa fa-sm fa-edit grey--text"></i> [by Grizzlage](https://www.twitch.tv/grizzlage) 

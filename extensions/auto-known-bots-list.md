@@ -1,15 +1,12 @@
 ---
 title: Auto Known Bots List (by PapaBearDoes)
-description: 
+description: Using this Extension you will be able to add known bots to a group, this does not ban them however it allows you to exclude them from 	`randomUser` type events.
 published: true
 date: 2022-07-24T06:08:19.518Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:11:33.869Z
 ---
-
-# Auto Known Bots List [(by PapaBearDoes)](https://www.twitch.tv/papabeardoes)
-Using this Extension you will be able to add known bots to a group, this does not ban them however it allows you to exclude them from 	`randomUser` type events. If you use the points System you can exclude this accounts from gaining points.
 
 ## Import Code
 ```
@@ -37,3 +34,6 @@ Then you can create a trigger, you can use a command or a timed action however o
 ![groupbotsfull.png](/extensions/auto-known-bots/images/groupbotsfull.png)
 
 There is a setting if you want to you can save these names to a file, you will just need to make sure that the `saveNames` is set to `True` and you've entered the file path in `savePath` 
+## Contributors
+
+<i class="fa fa-sm fa-edit grey--text"></i> [PapaBearDoes](https://www.twitch.tv/papabeardoes)

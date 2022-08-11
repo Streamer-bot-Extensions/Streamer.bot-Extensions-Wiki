@@ -8,11 +8,6 @@ editor: markdown
 dateCreated: 2022-05-18T01:22:46.750Z
 ---
 
-# Active Chatter List [(by BoomSoMuch)](https://www.twitch.tv/boomsomuch)
-
-## Descripton
-Whenever anyone chats for the first time during the stream this will add their name to a text file.
-
 ## Import Code
 
 ```text
@@ -36,3 +31,7 @@ Now there is always a clean list of only the people who have spoken so far durin
 
 >This can also be used to pull random user names or other fun things in other `Actions`.
 {.is-info}
+
+## Contributors
+
+<i class="fa fa-sm fa-edit grey--text"></i>  [BoomSoMuch](https://www.twitch.tv/boomsomuch)

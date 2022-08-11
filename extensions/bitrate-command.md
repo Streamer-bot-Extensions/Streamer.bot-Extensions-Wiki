@@ -1,5 +1,5 @@
 ---
-title: Bitrate Command (by MrWaldo)
+title: Bitrate Command (by WaldoAndFriends)
 description: Saves the current bitrate when the StreamStatus Event is emitted by the OBS websocket, by assigning an Action to the Event.
 published: true
 date: 2022-07-24T06:08:22.402Z
@@ -7,11 +7,6 @@ tags:
 editor: markdown
 dateCreated: 2022-05-18T02:01:22.112Z
 ---
-
-# Bitrate Command [(by MrWaldo)](https://www.twitch.tv/waldoandfriends)
-
-## Description
-Saves the current bitrate when the `StreamStatus` `Event` is emitted by the OBS websocket, by assigning an `Action` to the `Event`.
 
 ## Installation
 In Streamer.bot in select `Import` from the top left.
@@ -30,3 +25,7 @@ Next create a `Command` called `!bitrate` set to `Exact` and tied to the `!bitra
 
 >Chat will now be able to use `!bitrate` in chat and have the current bitrate displayed.
 {.is-info}
+
+## Contributors
+
+<i class="fa fa-sm fa-edit grey--text"></i>  [WaldoAndFriends](https://www.twitch.tv/waldoandfriends)

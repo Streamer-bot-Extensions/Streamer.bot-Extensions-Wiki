@@ -1,17 +1,12 @@
 ---
 title: Chat Reminder (by NotZelda)
-description: Get a reminder to look at Chat.
+description: Set up an Action on the next chat message, when nothing has been said in chat in a specified amount of time. Get reminded to look at chat after an amount of time!
 published: true
 date: 2022-07-24T06:08:31.057Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:39:48.833Z
 ---
-
-# Chat Reminder [(by NotZelda)](https://www.twitch.tv/notzelda)
-
-## Description
-This allows you to set up an audio reminder (or anything) on the next chat message, when nothing has been said in chat in a specified amount of time. Even the best of us has dead period in chat, and you don't want to miss a message when one does come in. Get reminded to look at chat after an amount of time!
 
 ## Import Code
 ```text
@@ -33,3 +28,7 @@ Change the `Sound File` in the `Action` `ChatWakeUp` to any sound file you want 
 
 >This will now play a sound after so much time has passed with nothing being said in chat.
 {.is-info}
+
+## Contributors
+
+<i class="fa fa-sm fa-edit grey--text"></i> [NotZelda](https://www.twitch.tv/notzelda)

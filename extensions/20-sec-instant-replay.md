@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2022-05-17T00:31:26.288Z
 ---
 
-Contributors: [MarkusoOoO](https://www.twitch.tv/markusoooo)
-
 ## Import Code
 
 ```text
@@ -20,7 +18,7 @@ In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 ![20-sec-instant-replay.png](/extensions/20-sec-instant-replay/images/20-sec-instant-replay.png)
 
-Make sure to follow his [video](https://youtu.be/NuWKrpNCE1k) for setting up OBS at least with `Nested scenes` & `Dynamic Delay Filter`.
+You can follow Nutty's [video](https://youtu.be/NuWKrpNCE1k) for setting up OBS at least with `Nested scenes` & `Dynamic Delay Filter`.
 Whole effect takes about `8GB of your RAM`, so be aware of that.
 
 Also, make sure to check all `Sub-Actions` that they are pointing at your OBS scenes, filters and sound files.
@@ -43,3 +41,7 @@ Fast Backward: -1000%
 Fast Forward OBS hotkey: CTRL+NUM3
 
 Fast Backwards OBS hotkey: CTRL+NUM1
+
+## Contributors
+
+<i class="fa fa-sm fa-edit grey--text"></i>  [MarkusoOoO](https://www.twitch.tv/markusoooo)

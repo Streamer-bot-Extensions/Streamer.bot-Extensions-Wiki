@@ -1,6 +1,6 @@
 ---
 title: Chat Request to Play YouTube (by TerrierDarts)
-description: 
+description: This extension will allow you to play YouTube videos on stream.
 published: true
 date: 2022-07-24T06:08:34.553Z
 tags: 
@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2022-05-18T00:59:07.716Z
 ---
 
-# Chat Request to Play YouTube [(by TerrierDarts)](https://www.twitch.tv/terrierdarts)
-This Contains Modifications based on work done by [Pretty Teddyy](https://www.twitch.tv/PrettyTeddyy)
-## Description
-This extension will allow you to play YouTube videos on stream. This can be triggered in many ways but for this we explanation we will be using channel points.
+## Contributors
+[TerrierDarts](https://www.twitch.tv/terrierdarts)
+[Pretty Teddyy](https://www.twitch.tv/PrettyTeddyy)
+
 
 ## Import Code
 
@@ -49,5 +49,11 @@ If you are using the link protected version its a tiny bit more complicated and 
 `Links are not allowed so to get this to work you will need the Video code, and if you wish to start at a certain time that number too. So for this video 'https://www.youtube.com/watch?v=7MkzsxgfVgg' starting 25 seconds in you would type 7MkzsxgfVgg?start=25` 
 
 As I say it is a tiny bit more but it allows you to do it whilst still having some form of link protection.
+
+## Contributors
+
+<i class="fa fa-sm fa-edit grey--text"></i> [TerrierDarts](https://www.twitch.tv/terrierdarts)
+<i class="fa fa-sm fa-edit grey--text"></i> [Pretty Teddyy](https://www.twitch.tv/PrettyTeddyy)
+
 
 

@@ -1,18 +1,12 @@
 ---
 title: Random Favorite (Synth Riders) (by VRFlad)
-description: Add a random favorite to your Synth Riders queue.
+description: Add a random favorite to your Synth Riders queue to request it automatically.
 published: true
 date: 2022-07-24T06:08:10.782Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T02:11:50.550Z
 ---
-
-# Random Favorite (Synth Riders) (by VRFlad)
-
-## Description
-
-Allows Streamer.bot to pick a random synth riders song from your favourites and to request it automatically.
 
 ## Import Code
 ```text
@@ -36,3 +30,7 @@ Update the path to your synth riders folder (the code will let you know if it is
 
 
 The code will set `Variable` `songrequest` that you can use to do a custom message or Twitchspeaker message.
+
+## Contributors
+
+<i class="fa fa-sm fa-edit grey--text"></i> [VRFlad](https://www.twitch.tv/VRFlad)
