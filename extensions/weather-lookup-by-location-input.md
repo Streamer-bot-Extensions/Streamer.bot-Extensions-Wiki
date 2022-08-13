@@ -1,18 +1,13 @@
 ---
 title: Weather Lookup By Location Input (by Web_Mage)
-description: 
+description: This extension will allow you and your chat to look up weather conditions around the globe.
+
 published: true
 date: 2022-07-25T15:17:21.987Z
 tags: api, extension, obs
 editor: markdown
 dateCreated: 2022-05-18T02:07:55.239Z
 ---
-
-# Weather Lookup By Location Input [(by Web_Mage)](https://www.twitch.tv/web_mage)
-
-## Description
-
-This extension will allow you and your chat to look up weather conditions around the globe.
 
 ## Prerequisites
 
@@ -150,3 +145,7 @@ To use the widget as just an onscreen overlay for your local weather.
 3. Run the widget's action as a timed action set to 5 minutes. This will allow the widget to refresh without user intervention.
 
 </details>
+
+# Contributors
+
+### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Web_Mage*](https://www.twitch.tv/Web_Mage)

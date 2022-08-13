@@ -29,6 +29,6 @@ Next create a `Command` called `!bitrate` set to `Exact` and tied to the `!bitra
 >Chat will now be able to use `!bitrate` in chat and have the current bitrate displayed.
 {.is-info}
 
-## Contributors
+# Contributors
 
-<i class="fa fa-sm fa-edit grey--text"></i>  [WaldoAndFriends](https://www.twitch.tv/waldoandfriends)
+### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*WaldoAndFriends*](https://www.twitch.tv/waldoandfriends)

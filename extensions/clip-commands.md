@@ -8,11 +8,7 @@ editor: markdown
 dateCreated: 2022-07-25T17:02:16.506Z
 ---
 
-# Clip Commands
-
-Using these examples you can have actions that work with clips.
-
-## Create a Clip
+# Create a Clip
 ```cs
 using System;
 
@@ -20,13 +16,13 @@ public class CPHInline
 {
     public bool Execute()
     {
-CPH.CreateClip();
-return true;
+    CPH.CreateClip();
+    return true;
     }
 }
 ```
 
-## Get a Users Clip Count
+# Get a Users Clip Count
 This will need to be to a `chat command` however it can be used if you use video shoutouts.
 ```cs
 using System;
@@ -58,7 +54,7 @@ public class CPHInline
 }
 ```
 
-## Auto-Post when a new clip is created.
+# Auto-Post when a new clip is created.
 This will be need to be tied to a `Timed Action`
 ```cs
 using System;
@@ -96,3 +92,7 @@ public class CPHInline
     }
 }
 ```
+
+# Contributors
+### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/terrierdarts)
+

@@ -8,11 +8,8 @@ editor: markdown
 dateCreated: 2022-07-19T15:54:51.993Z
 ---
 
-# Cooldown Tools
 
-With these tools you can control cooldown.
-
-## Tool to Set a Cooldown Amount
+# Tool to Set a Cooldown Amount
 
 ### Description
 Using this extension you can set global and user cooldowns through chat commands.
@@ -41,7 +38,7 @@ The Final thing you will need to do is create a Command, I would recommend at le
 {.is-warning}
 
 ---
-## Tool to Remove The Current Cooldown 
+# Tool to Remove The Current Cooldown 
 
 ### Description
 This extension will remove both User and Global Cooldowns on the action you tell it to so it can be redeemed again.
@@ -66,7 +63,7 @@ The Final thing you will need to do is create a Command, I would recommend at le
 {.is-warning}
 
 ---
-## Add User Cooldowns to Channel Points
+# Add User Cooldowns to Channel Points
 ### Description
 This code will allow you to add user cooldowns to channel points so the same person cannot redeem the same reward.
 > Note, the redeem will still be triggered but if its under cooldown nothing will happen and the user will just be refunded. {.is-info}
@@ -84,7 +81,7 @@ You will just need to add a `Set Argument %rewardCooldown% to XX` XX is the time
 
 
 ---
-## Heat Cooldown
+# Heat Cooldown
 ### Description
 This will allow you to add cooldowns to your heat clicks and actions.
 ### Import Code
@@ -99,7 +96,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 ---
 
-## Cooldown on Multiple Actions
+# Cooldown on Multiple Actions
 ### Description
 With this extension you will be able to add `Global` or `User` Cooldowns to Multiple Actions all under the same cooldown.
 ### Import Code
@@ -113,3 +110,7 @@ In all the actions you want in there own Cooldown Timer you will need to add 2 `
 You will finally need to add a `Execute Method` and point it to the Newly Imported code. You will then need to select the Global or User Variant depending on what type of cooldown you wish to add. 
 
 Note all Actions inside the same cooldown must match the variant, time and Name. 
+
+# Contributors
+
+### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/terrierdarts)
