@@ -2,7 +2,7 @@
 title: 20 Second Instant Replay (by MarkusoOoO)
 description: Create a 20 second instant replay with Streamer.bot.
 published: true
-date: 2022-08-14T18:03:26.998Z
+date: 2022-08-14T18:04:47.913Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T00:31:26.288Z
@@ -32,6 +32,7 @@ All resources can be found [>here<](/extensions/20-sec-instant-replay/files/Rewi
 # Configuration
 To get timings right with my example action use these settings for `Dynamic Delay` plugin:
 
+Settings | Data
 ---:|:---:
 Duration: | `20s`{.datatype}
 Fast Forward: | `1000%`{.datatype}
