@@ -2,7 +2,7 @@
 title: 20 Second Instant Replay (by MarkusoOoO)
 description: Create a 20 second instant replay with Streamer.bot.
 published: true
-date: 2022-08-14T17:08:17.322Z
+date: 2022-08-14T17:09:07.479Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T00:31:26.288Z
@@ -44,6 +44,6 @@ Fast Backwards OBS hotkey: CTRL+NUM1
 
 # Contributors
 
- ![image](/logos/twitch-6860918_1280.png =25x) [*MarkusoOoO*](https://www.twitch.tv/markusoooo) {.text--twitch:link}
+ ![image](/logos/twitch-6860918_1280.png =25x) [*MarkusoOoO*](https://www.twitch.tv/markusoooo){.text--twitch}
 
 
