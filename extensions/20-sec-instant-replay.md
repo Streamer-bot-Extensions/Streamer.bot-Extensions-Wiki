@@ -2,7 +2,7 @@
 title: 20 Second Instant Replay (by MarkusoOoO)
 description: Create a 20 second instant replay with Streamer.bot.
 published: true
-date: 2022-08-14T17:51:33.065Z
+date: 2022-08-14T18:02:18.126Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T00:31:26.288Z
@@ -32,15 +32,12 @@ All resources can be found [>here<](/extensions/20-sec-instant-replay/files/Rewi
 # Configuration
 To get timings right with my example action use these settings for `Dynamic Delay` plugin:
 
-Duration: 20s
-
-Fast Forward: 1000%
-
-Fast Backward: -1000%
-
-Fast Forward OBS hotkey: CTRL+NUM3
-
-Fast Backwards OBS hotkey: CTRL+NUM1
+---:|:---:
+Duration: | `20s`{.datatype}
+Fast Forward: | `1000%`{.datatype}
+Fast Backward: | `-1000%`{.datatype}
+Fast Forward OBS hotkey: | `CTRL+NUM3`{.datatype}
+Fast Backwards OBS hotkey: | `CTRL+NUM1`{.datatype}
 
 # Contributors
 
