@@ -2,7 +2,7 @@
 title: Followage Command (by TerrierDarts)
 description: Display followers information in chat through Streamer.bot.
 published: true
-date: 2022-08-01T12:23:43.698Z
+date: 2022-08-15T11:19:50.817Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T01:13:10.778Z
@@ -50,5 +50,6 @@ Like the previous examples, this just needs a `!followage` command tied to the a
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/terrierdarts)
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Farlezz*](https://www.twitch.tv/Farlezz)
+- <i class="mdi mdi-twitch"></i>[*TerrierDarts*](https://www.twitch.tv/terrierdarts)
+- <i class="mdi mdi-twitch"></i>[*Farlezz*](https://www.twitch.tv/Farlezz) 
+{.contributors}
