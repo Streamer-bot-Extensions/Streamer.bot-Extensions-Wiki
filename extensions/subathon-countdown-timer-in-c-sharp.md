@@ -79,3 +79,6 @@ Copy the `Import Code` and paste it into the `Import String`.
 ### 8. Action `Subathon Done Action` will be triggered once the timer runs out.
 
 ![subathonDone](/extensions/subathon-timer-in-c-sharp/images/178125514-be9d0361-e8b5-497d-98cb-ed937e226f14.png)
+
+# Contributors
+### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*rondhi*](https://www.twitch.tv/rondhi)
