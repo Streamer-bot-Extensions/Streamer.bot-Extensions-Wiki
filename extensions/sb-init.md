@@ -29,4 +29,5 @@ The rest of the `Action` can be adapted to anything you want done right after SB
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Krayn_*](https://www.twitch.tv/Krayn_)
+ - [<i class="mdi mdi-twitch"></i> Krayn_](https://www.twitch.tv/Krayn_)
+ {.contributors}

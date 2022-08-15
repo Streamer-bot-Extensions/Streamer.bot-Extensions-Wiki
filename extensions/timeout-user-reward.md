@@ -28,4 +28,5 @@ When a user redeems the reward:
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*iAmLarcyn*](https://www.twitch.tv/iAmLarcyn)
+ - [<i class="mdi mdi-twitch"></i> iAmLarcyn](https://www.twitch.tv/iAmLarcyn)
+ {.contributors}

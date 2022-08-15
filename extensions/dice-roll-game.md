@@ -95,4 +95,5 @@ The game can be configured to randomise its reponces for winning and losing too 
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Geocym*](https://www.twitch.tv/Geocym)
+ - [<i class="mdi mdi-twitch"></i> Geocym](https://www.twitch.tv/Geocym)
+ {.contributors}

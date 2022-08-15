@@ -21,4 +21,5 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*GinjaFlame*](https://www.twitch.tv/GinjaFlame)
+ - [<i class="mdi mdi-twitch"></i> GinjaFlame](https://www.twitch.tv/GinjaFlame)
+ {.contributors}

@@ -68,5 +68,6 @@ Once all commands are setup you will need to do `!comfirst` but you will only ne
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/TerrierDarts)
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Farlezz*](https://www.twitch.tv/Farlezz)
+- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/terrierdarts)
+- [<i class="mdi mdi-twitch"></i> Farlezz](https://www.twitch.tv/Farlezz) 
+{.contributors}

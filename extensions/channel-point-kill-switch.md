@@ -46,4 +46,5 @@ I have added in another action called VFX check that you can add to the beginnin
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*iAmLarcyn*](https://www.twitch.tv/iamlarcyn)
+ - [<i class="mdi mdi-twitch"></i> iAmLarcyn](https://www.twitch.tv/iAmLarcyn)
+ {.contributors}

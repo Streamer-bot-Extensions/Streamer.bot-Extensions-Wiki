@@ -27,4 +27,5 @@ Just tie the Imported Action to a Timed Action for best results do set the Inter
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*LeBluxTv*](https://www.twitch.tv/LeBluxTv)
+ - [<i class="mdi mdi-twitch"></i> LeBluxTV](https://www.twitch.tv/LeBluxTV)
+ {.contributors}

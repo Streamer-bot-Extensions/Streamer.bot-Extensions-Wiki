@@ -312,4 +312,5 @@ This is how it works:
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Kleinhalbi*](https://www.twitch.tv/Kleinhalbi)
+ - [<i class="mdi mdi-twitch"></i> Kleinhalbi](https://www.twitch.tv/Kleinhalbi)
+ {.contributors}

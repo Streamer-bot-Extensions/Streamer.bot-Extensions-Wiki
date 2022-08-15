@@ -25,4 +25,5 @@ public class CPHInline
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Der_Gardine*](https://www.twitch.tv/Der_Gardine)
+ - [<i class="mdi mdi-twitch"></i> Der_Gardine](https://www.twitch.tv/Der_Gardine)
+ {.contributors}

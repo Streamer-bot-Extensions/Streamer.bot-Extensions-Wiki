@@ -113,4 +113,5 @@ Note all Actions inside the same cooldown must match the variant, time and Name.
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/terrierdarts)
+ - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ {.contributors}

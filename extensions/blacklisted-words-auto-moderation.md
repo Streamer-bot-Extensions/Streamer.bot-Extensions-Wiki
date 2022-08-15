@@ -41,7 +41,7 @@ Trigger this `Action` from the `Message Event` `( in settings > events > general
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*LeBluxTV*](https://www.twitch.tv/lebluxtv)
-
+ - [<i class="mdi mdi-twitch"></i> LeBluxTv](https://www.twitch.tv/LeBluxTv)
+ {.contributors}
 
 

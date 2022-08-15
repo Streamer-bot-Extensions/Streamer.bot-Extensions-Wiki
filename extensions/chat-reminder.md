@@ -31,4 +31,5 @@ Change the `Sound File` in the `Action` `ChatWakeUp` to any sound file you want 
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*NotZelda*](https://www.twitch.tv/notzelda)
+ - [<i class="mdi mdi-twitch"></i> NotZelda](https://www.twitch.tv/NotZelda)
+ {.contributors}

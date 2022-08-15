@@ -113,4 +113,5 @@ If you want to have more than 12 prizes in the wheel (so, to add more of them, t
 ```
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*MarkusoOoO*](https://www.twitch.tv/markusoooo)
+ - [<i class="mdi mdi-twitch"></i> MarkusoOoO](https://www.twitch.tv/markusoooo)
+ {.contributors}

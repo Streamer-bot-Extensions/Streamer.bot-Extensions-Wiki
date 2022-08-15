@@ -53,4 +53,5 @@ Output: 2.74
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*ConfuzzedCat*](https://www.twitch.tv/ConfuzzedCat)
+- [<i class="mdi mdi-twitch"></i> ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat)
+{.contributors}

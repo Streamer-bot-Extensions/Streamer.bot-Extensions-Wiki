@@ -29,4 +29,5 @@ I should also mention this is based on a MQTT library found here: https://github
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Krayn_*](https://www.twitch.tv/Krayn_)
+- [<i class="mdi mdi-twitch"></i> Krayn_](https://www.twitch.tv/Krayn_)
+{.contributors}

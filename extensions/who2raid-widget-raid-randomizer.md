@@ -39,4 +39,5 @@ Do the same for the WEBM File (video) 'TV SNOW'<br>
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*LeBluxTV*](https://www.twitch.tv/LeBluxTV)
+ - [<i class="mdi mdi-twitch"></i> LeBluxTV](https://www.twitch.tv/LeBluxTV)
+ {.contributors}

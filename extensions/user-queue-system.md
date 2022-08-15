@@ -76,5 +76,6 @@ In the Video I use rawInput as an example, in the following images you can see h
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/TerrierDarts)
-
+ - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [<i class="mdi mdi-twitch"></i> WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends)
+ {.contributors}

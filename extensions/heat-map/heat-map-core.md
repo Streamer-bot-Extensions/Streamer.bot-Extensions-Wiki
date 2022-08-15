@@ -1,6 +1,6 @@
 ---
 title: Heat Map Core Installation
-description: Core Installation of Heat Map
+description: Core Installation of Heat Map, Heat Map allows your viewers to click on the screen and intract with it.
 published: true
 date: 2022-07-28T15:25:57.625Z
 tags: 
@@ -8,15 +8,7 @@ editor: markdown
 dateCreated: 2022-05-30T17:36:34.089Z
 ---
 
-# Heat Map Core Installation [(by Farlezz)](https://www.Twitch.tv/Farlezz)
-
 Code Updated : 28 July 2022
-
-## Description
-
-Heat Map allows your viewers to click on the screen and intract with it.
-
-
 
 # Tutorial
 
@@ -86,8 +78,8 @@ The Chat from the my actions look like this.
 > If all steps have been followed then your viewer should be set up.
 {.is-warning}
 
+# Contributors
 
-
-
-
-
+ - [<i class="mdi mdi-twitch"></i> Farlezz](https://www.twitch.tv/Farlezz)
+ - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ {.contributors}

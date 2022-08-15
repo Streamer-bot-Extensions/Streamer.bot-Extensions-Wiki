@@ -23,4 +23,5 @@ From there, you can adjust how you show/hide the source however you would like.
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*iAmLarcyn*](https://www.twitch.tv/iAmLarcyn)
+ - [<i class="mdi mdi-twitch"></i> iAmLarcyn](https://www.twitch.tv/iAmLarcyn)
+ {.contributors}

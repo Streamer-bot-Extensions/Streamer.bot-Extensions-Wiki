@@ -33,4 +33,5 @@ The code will set `Variable` `songrequest` that you can use to do a custom messa
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*VRFlad*](https://www.twitch.tv/VRFlad)
+ - [<i class="mdi mdi-twitch"></i> VRFlad](https://www.twitch.tv/VRFlad)
+ {.contributors}

@@ -30,4 +30,5 @@ Change the `Set Argument` `Value` for `%randomVideoSource%` to the name of the `
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*VRFlad*](https://www.twitch.tv/VRFlad)
+- [<i class="mdi mdi-twitch"></i> VRFlad](https://www.twitch.tv/VRFlad)
+{.contributors}

@@ -107,8 +107,9 @@ If you find that you've followed all the steps and it still doesn't work here ar
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Nate1280*](https://www.twitch.tv/Nate1280)
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/TerrierDarts)
+- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+- [<i class="mdi mdi-twitch"></i> Nate1280](https://www.twitch.tv/Nate1280)
+{.contributors}
 
 
 

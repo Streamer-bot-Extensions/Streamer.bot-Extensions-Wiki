@@ -27,4 +27,5 @@ Change the `Argument` `%audioSource%` to your audio and assign the `Action` to a
 {.is-info}
 #Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Zerelito*](https://www.twitch.tv/Zerelito)
+ - [<i class="mdi mdi-twitch"></i> Zerelito](https://www.twitch.tv/Zerelito)
+ {.contributors}

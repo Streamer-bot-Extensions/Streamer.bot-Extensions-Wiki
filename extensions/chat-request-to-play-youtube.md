@@ -47,8 +47,9 @@ As I say it is a tiny bit more but it allows you to do it whilst still having so
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/terrierdarts)
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Pretty Teddyy*](https://www.twitch.tv/PrettyTeddyy)
+- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+- [<i class="mdi mdi-twitch"></i> PrettyTeddyy](https://www.twitch.tv/PrettyTeddyy)
+ {.contributors}
 
 
 

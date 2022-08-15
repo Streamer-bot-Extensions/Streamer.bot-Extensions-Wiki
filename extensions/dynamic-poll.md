@@ -73,5 +73,6 @@ public class CPHInline
 ```
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*NotZelda*](https://www.twitch.tv/NotZelda)
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Nate1280*](https://www.twitch.tv/nate1280)
+ - [<i class="mdi mdi-twitch"></i> NotZelda](https://www.twitch.tv/NotZelda)
+ - [<i class="mdi mdi-twitch"></i> Nate1280](https://www.twitch.tv/Nate1280)
+ {.contributors}

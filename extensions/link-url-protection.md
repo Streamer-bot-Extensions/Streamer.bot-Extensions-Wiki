@@ -28,7 +28,8 @@ System.dll
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*emongev*](https://www.twitch.tv/emongev)
+ - [<i class="mdi mdi-twitch"></i> emongev](https://www.twitch.tv/emongev)
+ {.contributors}
 
 
 

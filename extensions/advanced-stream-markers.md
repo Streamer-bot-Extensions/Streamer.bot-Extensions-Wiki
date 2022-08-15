@@ -41,4 +41,5 @@ Create a `Command` called `!marker` and set it to `Start` that is tied to the `M
 {.is-info}
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*NotZelda*](https://www.twitch.tv/notzelda)
+ - [<i class="mdi mdi-twitch"></i> NotZelda](https://www.twitch.tv/NotZelda)
+ {.contributors}

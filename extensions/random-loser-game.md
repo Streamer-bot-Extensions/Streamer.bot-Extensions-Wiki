@@ -20,4 +20,5 @@ There are four actions included. You will want to define a Command and point it 
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TheIcemanCometh*](https://www.twitch.tv/TheIcemanCometh)
+ - [<i class="mdi mdi-twitch"></i> TheIcemanCometh](https://www.twitch.tv/TheIcemanCometh)
+ {.contributors}

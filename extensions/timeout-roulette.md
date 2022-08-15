@@ -34,4 +34,5 @@ Create a `Command` or `Channel Point Reward` tied to the `Action` `Timeout Roule
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*VRFlad*](https://www.twitch.tv/VRFlad)
+ - [<i class="mdi mdi-twitch"></i> VRFlad](https://www.twitch.tv/VRFlad)
+ {.contributors}

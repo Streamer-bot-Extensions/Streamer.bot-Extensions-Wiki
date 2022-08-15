@@ -42,4 +42,5 @@ You will have ```Snooze Ad``` action which you can trigger how you like, for exa
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TheShiningOne*](https://www.youtube.com/c/TheShiningOne)
+ - [<i class="mdi mdi-twitch"></i> TheShiningOne](https://www.twitch.tv/TheShiningOne)
+ {.contributors}

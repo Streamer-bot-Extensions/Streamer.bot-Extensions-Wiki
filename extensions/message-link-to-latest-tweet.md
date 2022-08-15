@@ -24,4 +24,5 @@ To Set this up Change the FetchUrl to Include your Twitter name, and it will ret
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*slashie101*](https://www.twitch.tv/slashie101)
+ - [<i class="mdi mdi-twitch"></i> slashie101](https://www.twitch.tv/slashie101)
+ {.contributors}

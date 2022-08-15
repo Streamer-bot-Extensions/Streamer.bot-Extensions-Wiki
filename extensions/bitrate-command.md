@@ -31,4 +31,5 @@ Next create a `Command` called `!bitrate` set to `Exact` and tied to the `!bitra
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*WaldoAndFriends*](https://www.twitch.tv/waldoandfriends)
+ - [<i class="mdi mdi-twitch"></i> WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends)
+ {.contributors}

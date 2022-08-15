@@ -28,4 +28,5 @@ DLL's To Reference :
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*LeBluxTV*](https://www.twitch.tv/LeBluxTV)
+- [<i class="mdi mdi-twitch"></i> LeBluxTV](https://www.twitch.tv/LeBluxTV)
+{.contributors}

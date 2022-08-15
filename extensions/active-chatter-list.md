@@ -34,4 +34,5 @@ Now there is always a clean list of only the people who have spoken so far durin
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*BoomSoMuch*](https://www.twitch.tv/boomsomuch)
+ - [<i class="mdi mdi-twitch"></i> BoomSoMuch](https://www.twitch.tv/BoomSoMuch)
+ {.contributors}

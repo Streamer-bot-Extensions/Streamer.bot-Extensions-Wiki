@@ -148,4 +148,5 @@ To use the widget as just an onscreen overlay for your local weather.
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Web_Mage*](https://www.twitch.tv/Web_Mage)
+ - [<i class="mdi mdi-twitch"></i> Web_Mage](https://www.twitch.tv/Web_Mage)
+ {.contributors}

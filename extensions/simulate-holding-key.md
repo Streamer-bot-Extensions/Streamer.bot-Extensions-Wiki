@@ -47,5 +47,6 @@ Simple do `!holdkey` with a key and a amount of time(in ms) of how long the key 
 Use the HoldKey_redeem action for that, as it will handle the input correctly.
 
 # Contributors
-
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*ConfuzzedCat*](https://www.twitch.tv/ConfuzzedCat)
+ 
+- [<i class="mdi mdi-twitch"></i> ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat)
+ {.contributors}

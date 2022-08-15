@@ -32,4 +32,5 @@ What is to come:
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*ItsTheBOFH*](https://www.twitch.tv/itsthebofh)
+ - [<i class="mdi mdi-twitch"></i> ItsTheBOFH](https://www.twitch.tv/ItsTheBOFH)
+ {.contributors}

@@ -38,4 +38,5 @@ You will have ```Change go live notification``` action which you can use how you
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TheShiningOne*](https://www.twitch.tv/TheShiningOne)
+ - [<i class="mdi mdi-twitch"></i> TheShiningOne](https://www.twitch.tv/TheShiningOne)
+ {.contributors}
