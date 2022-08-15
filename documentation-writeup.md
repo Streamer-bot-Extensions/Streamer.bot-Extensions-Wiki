@@ -1,30 +1,41 @@
 ---
-title: Documentation Write Up Advice
-description: 
-published: false
-date: 2022-07-24T06:07:38.698Z
+title: Page Template
+description: This is a short Template of How a Page should be written!
+published: true
+date: 2022-08-15T18:33:36.215Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T00:18:30.446Z
 ---
 
-# Documentation Write Up Advice
-If you've created an Extension and you are wanting to write documentation for your new extension but are unsure on how then here's a little system to follow.
+> Page Title and Description Go in the Page Settings. Not on the Page
 
-## Outline
-Each extension follows a guide so when anyone clicks on any extension what they see is roughly the same.
-We recommend using the following guide as your order of text you can copy and paste the below code to get you started.
+
+# Tutorial
+> Add Tutorial here if they is one else remove.
+# Import Code
+> Add Just the import code here and surround them with ``` so they are in a code block
+# Installation
+> This is where you describe how you install the extension,
+Always start with 
 ```
-# Title of Extension
-## Descripton
-DESCRIPTON HERE
-## Tutorial
-Tutorial HTML Code here with width and height of 1120x630 (if avaliable)
-## Import code
-Put your Streamerbot import code here in ``` ``` so it looks like a codeblock
-## Set Up
-This is where you explain a step by step setup on how to get your extension set up
-## How To Use
-This is where you explain how your extension works and the user will use it.
+In Streamer.bot in select `Import` from the top left.
+Copy the `Import Code` and paste it into the `Import String`.
 ```
-If you need more advice on markdown you can check out this https://docs.requarks.io/en/editors/markdown
+
+As you method of how to get the import code.
+(Avoid just saying Import the code)
+
+# Configuration
+> This is where you explain how the extension can be modified to suit the user
+
+# Example Usage 
+> This is where you give an example of how to use if you feel it is needed
+
+# Contributors
+> This is where you can credit yourself and anyone you feel deserves a credit
+ ```
+ - [<i class="mdi mdi-twitch"></i> UserName1](https://www.twitch.tv/Username1)
+ - [<i class="mdi mdi-twitch"></i> UserName2](https://www.twitch.tv/Username2)
+ {.contributors}
+ ```
