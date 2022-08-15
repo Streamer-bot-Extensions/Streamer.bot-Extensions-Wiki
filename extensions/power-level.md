@@ -24,3 +24,7 @@ Create a Channel Point and tie it to the `Power Level` Action.
 
 Download The Assets.
 - [SFX File](/extensions/power-level/files/power-level.zip) {.btn-grid .my-5}
+
+# Contributors
+
+### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Sportiax*](https://www.twitch.tv/sportiax)
