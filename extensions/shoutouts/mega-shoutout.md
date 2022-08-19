@@ -2,7 +2,7 @@
 title: Mega Shoutout (by TerrierDarts)
 description: This will show an on screen effect showing the target's profile picture, game and link.
 published: true
-date: 2022-08-19T13:04:39.990Z
+date: 2022-08-19T13:06:04.556Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-15T03:09:09.771Z
@@ -42,7 +42,7 @@ There is also a `Sub-Action` that allows you to post these to your Discord if yo
 Editing this can be difficult but if you follow the video above it should make the whole process easier, the things to remember is it that if you change the size of something then there is a chance the move filters will be affected to get everything how you want them to look first then edit the filters. If you dont want to do that you can delete the filters and use OBS Show and Hide Transitions.
 
 # Example Uage
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/QyeeIc7iQn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=“iframe-container”><iframe src="https://www.youtube.com/embed/QyeeIc7iQn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
 
 ## Community Examples {.tabset}
 ### TerrierDarts
