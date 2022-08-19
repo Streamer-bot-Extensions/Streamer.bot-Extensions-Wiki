@@ -2,7 +2,7 @@
 title: Page Template
 description: This is a short Template of How a Page should be written!
 published: true
-date: 2022-08-15T18:33:36.215Z
+date: 2022-08-19T13:01:44.699Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T00:18:30.446Z
@@ -10,11 +10,16 @@ dateCreated: 2022-07-01T00:18:30.446Z
 
 > Page Title and Description Go in the Page Settings. Not on the Page
 
-
 # Tutorial
 > Add Tutorial here if they is one else remove.
+>
+> Use this iframe container below, because it gives people access to fullscreen and it let people on mobile even watch the video.
+
+<div class=“iframe-container”><iframe src="https://www.youtube.com/embed/INSERTVIDEOIDHERE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
+
 # Import Code
 > Add Just the import code here and surround them with ``` so they are in a code block
+
 # Installation
 > This is where you describe how you install the extension,
 Always start with 
