@@ -81,4 +81,5 @@ Copy the `Import Code` and paste it into the `Import String`.
 ![subathonDone](/extensions/subathon-timer-in-c-sharp/images/178125514-be9d0361-e8b5-497d-98cb-ed937e226f14.png)
 
 # Contributors
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*rondhi*](https://www.twitch.tv/rondhi)
+
+ - [<i class="mdi mdi-twitch"></i> rondhi](https://www.twitch.tv/rondhi)

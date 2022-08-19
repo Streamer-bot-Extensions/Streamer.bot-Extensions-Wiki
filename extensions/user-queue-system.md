@@ -49,6 +49,8 @@ To answer the 2nd Question you need go into `JoinQueue` and you will need to cha
 
 > By Design this allows users to join more than once, if you do not want this to happen I recommend using a **User Cooldown**. {.is-warning}
 
+# Configuration
+
 If you want a different output message just change the `Twitch Message` Sub-Action or the `SetArgument` Sub-Actions depending on which Action you wish to adjust. In the SetArgument Sub-Actions you can freely use Variables as you would in the `Twitch Message` Sub-Action. However some other variables avaliable which you will need to use. 
 |Action|Variable|Description|Output|
 |---|---|---|---|
@@ -59,6 +61,8 @@ If you want a different output message just change the `Twitch Message` Sub-Acti
 |QueuePosition|`%pos.form%`|This will output the ordinals of all the positions for the user.|`1st,2nd,4th,12th,21st`|
 |QueuePosition|`%next.val%`|This will post the next/most recent postison number of the user.|`5`|
 |QueuePosition|`%next.form%`|This will post the next/most recent postison ordinal of the user.|`5th`|
+
+
 
 
 # Examples User {.tabset}
@@ -74,8 +78,19 @@ In the Video I use rawInput as an example, in the following images you can see h
 ## Leave and Position
 ![positionleavequeue.png](/extensions/user-queue-system/images/positionleavequeue.png)
 
+# Extended Features
+
+## Output The Whole Queue To Logs.
+### Import Code
+```
+TlM0RR+LCAAAAAAABAB9VNuSokgUfN+I/QfD11kNEOyWeRNURG26RSmUpR+oizRjFbBcVJyYf98C1m4vMWsEAZVZJ09WGnV+/vlHq9U+kDQL46j9vdX7qwYinxG+arebpY9yTmcc+btat1o/mxenQlzt6w/ITvax3yG7/nNH3j3hzkDu7ToDRcT9Z9JDkCiNVl30T0GKSj8qKP1CSeRDSiq9PC3IFX5CtMBkksZsGmZ5nJZ8y86n2dWei+FFHCxr8S8qSOMiqbiaaK3KLCfsivfp0S8zq4geVVM/wjEb1qd/ZFEcoSJNSZQ/cg+J3aR2Y/nLSg1jkqE0TP5rec/uCUmGNDyQh5aNYbIj3BAid51rUvvueU7IT3TMPO8lRGmcxbu8a47XnjdJuZtjnO6fZM87yF2hKwmSqHgey1Cc0hB2MaXta8H3286wzIkW4/pEeGMmkKHAlugZ6yB/PQrze2yxNw9QP9GtZCWw1z8v9phCBkrfeXkeLRMR9WjhluqabEzBdYRirdMCrTNTC4Q5moIQ6vSHoZvZdmOejbG5XI1pwbHCXQpzwvsZ2jAwpqq4ZadkW6oh7CmZMQay65gi1u14vrzs4Zohf2vNsxRVY7E/HVyBa7FBbFDTXoKZbYwV3ZhMgAXAxAj33GP8WcNx0d0A+jY1BcR43VkOEJtINsewYwdvK3Vkj4PC6gHB6p0OWzbJAJuUb4913+ba7IQdILp2/wM6drjQVAFFgM7Xtz55Hmc8Op3xdFbl+o1nIaJoRmFkWXX9aqgY09kHFpseC2od6hotSF4v+dSPyqBkBHOeHdbUxBgJwcsoC/zVcPCo2R9BCRS45rP0M8NG5zaTBqvPvdaVaOX0GSw/fuDNrHSdvtBkA6APhHs/Ctf5//9kD14tTX2zQtUCNgDWyrjXKN2NJSImBzwf0f3MrtJOlLs7laQExSwJ6W8uFSbUL1e5nz7e86sRqEhExDKUO+Rp4HdkXxh0IES7jigqCnmWBSyJ4l3jIwmDj0pU6Aq3TF4mlRml+t0yl2l2Mzpr5jfjs7EYYXKqGn2hvy6f7/dTS69a1APk/XrYUeonGcFXbEPWQs3OZrBflfIyxvgQvez/9S/u2on+cAYAAA==
+```
+### Installation
+
+This code will just need a `!viewQueue` command tied to the action and it may need `System.Core` and `System.Linq` if the C# doesn't Compile.
+
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
- - [<i class="mdi mdi-twitch"></i> WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends)
+ - ## [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - ## [<i class="mdi mdi-twitch"></i> WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends)
  {.contributors}
