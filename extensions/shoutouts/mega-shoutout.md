@@ -2,7 +2,7 @@
 title: Mega Shoutout (by TerrierDarts)
 description: This will show an on screen effect showing the target's profile picture, game and link.
 published: true
-date: 2022-07-24T06:14:02.944Z
+date: 2022-08-19T13:04:39.990Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-15T03:09:09.771Z
@@ -10,10 +10,10 @@ dateCreated: 2022-07-15T03:09:09.771Z
 
 # Tutorials
 ## Install
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/fwUJjkFvkPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=“iframe-container”><iframe src="https://www.youtube.com/embed/fwUJjkFvkPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
 
 ## Editing
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/4vHbx5DAlc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class=“iframe-container”><iframe src="https://www.youtube.com/embed/4vHbx5DAlc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
 
 # Import Code
 ```
