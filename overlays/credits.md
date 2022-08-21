@@ -2,7 +2,7 @@
 title: Credits (by Nate1280, Lyfesaver74, and https://codepen.io/)
 description: Display credits at the end of stream.
 published: true
-date: 2022-07-24T06:11:45.260Z
+date: 2022-08-21T19:06:57.145Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T02:36:14.656Z
@@ -16,7 +16,7 @@ This is a list of all the different credit styles that can be used with Streamer
 
 ## Styles of Credits
 
-* [Scrolling *by Nate1280, Lyfesaver74, and https://codepen.io/*](/overlays/credits/scrolling)
-* [Fading *by Nate1280, Lyfesaver74, and https://codepen.io/*](/overlays/credits/fading)
-* [Animated Sections *by Nate1280, Lyfesaver74, and https://codepen.io/*](/overlays/credits/animated-sections)
-{.links-list}
+* [**Scrolling *by Nate1280, Lyfesaver74, and https://codepen.io/***](/overlays/credits/scrolling)
+* [**Fading *by Nate1280, Lyfesaver74, and https://codepen.io/***](/overlays/credits/fading){.disabled}
+* [**Animated Sections *by Nate1280, Lyfesaver74, and https://codepen.io/***](/overlays/credits/animated-sections){.disabled}
+{.btn-grid}
