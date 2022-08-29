@@ -2,6 +2,10 @@
 title: Smaller Projects
 description: A Collection of Smaller Projects built for streamerbot.
 published: true
+date: 2022-08-29T06:10:27.736Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-29T02:05:43.555Z
 ---
 
 # Smaller Projects
