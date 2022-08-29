@@ -1,4 +1,8 @@
-
+---
+title: Smaller Projects
+description: A Collection of Smaller Projects built for streamerbot.
+published: true
+---
 
 # Smaller Projects
 
