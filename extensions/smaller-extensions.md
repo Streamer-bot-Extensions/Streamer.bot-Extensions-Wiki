@@ -13,7 +13,7 @@ dateCreated: 2022-08-29T02:05:43.555Z
 Here you will find some Extensions that are slightly smaller, but still are very useful. They just require less set up and in some cases a bit more unique. 
 
 * [Colour Converter](/exensions/hex-code-and-rgb-value-converter)
-* [First Command] (/extensions/first-command)
+* [First Command](/extensions/first-command)
 * [Latest Youtube Video](/extensions/latest-youtube-video)
 * [Log Viewer Code](/extensions/log-viewer)
 * [Message To Last Tweet](/extensions/message-link-to-latest-tweet)
