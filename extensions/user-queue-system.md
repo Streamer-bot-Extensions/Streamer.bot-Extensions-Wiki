@@ -2,7 +2,7 @@
 title: User Queue Systems(by TerrierDarts)
 description: Apply a Queue system to your stream so Viewers can Join or Line up their Ideas
 published: true
-date: 2022-08-19T14:27:29.590Z
+date: 2022-09-01T21:16:03.494Z
 tags: play with viewers, user queue
 editor: markdown
 dateCreated: 2022-05-17T01:05:41.733Z
@@ -87,7 +87,7 @@ TlM0RR+LCAAAAAAABAB9VNuSokgUfN+I/QfD11kNEOyWeRNURG26RSmUpR+oizRjFbBcVJyYf98C1m4v
 ```
 ### Installation
 
-This code will just need a `!viewQueue` command tied to the action and it may need `System.Core` and `System.Linq` if the C# doesn't Compile.
+This code will just need a `!viewQueue` command tied to the action and it may need `System.Core.dll` and `System.dll` if the C# doesn't Compile.
 
 # Contributors
 
