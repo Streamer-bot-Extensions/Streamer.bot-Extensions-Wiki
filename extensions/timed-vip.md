@@ -2,10 +2,10 @@
 title: Timed VIP
 description: Allow your viewers to claim VIP for a short period of time
 published: true
-date: 2022-08-29T06:10:27.736Z
+date: 2022-09-01T15:20:50.653Z
 tags: 
 editor: markdown
-dateCreated: 2022-08-29T02:05:43.555Z
+dateCreated: 2022-09-01T15:16:38.163Z
 ---
 
 # Import Code
@@ -36,12 +36,6 @@ In the `[Channel Reward] Add user as timed VIP` they are a few settings you can 
 |`allowAdding`| This will control whether a user can stack days up for VIP or not|
 |`maxAllowedVips`| This is how many people you would like to get VIP as they are limited and you may also want some people to have it permanently.| 
 
-# Contributors
-
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/terrierdarts)
-- [<i class="mdi mdi-twitch"></i> Farlezz](https://www.twitch.tv/Farlezz) 
-{.contributors}
-
 # Extended Features
 
 ## Non-Affiliate Redeem
@@ -50,3 +44,9 @@ This non Affilate redeem is exaclty the same as the Channel Point one but instea
 ```
 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
 ```
+
+# Contributors
+
+- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/terrierdarts)
+- [<i class="mdi mdi-twitch"></i> Farlezz](https://www.twitch.tv/Farlezz) 
+{.contributors}
