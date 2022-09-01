@@ -2,7 +2,7 @@
 title: Timed VIP
 description: Allow your viewers to claim VIP for a short period of time
 published: true
-date: 2022-09-01T15:20:50.653Z
+date: 2022-09-01T15:30:42.489Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-01T15:16:38.163Z
@@ -26,6 +26,8 @@ However references should import along side the codes.
 Secondly you will need to ensure all the commands are enabled, Find the Timed VIP group and right click to Enable All.
 
 You will also need to create a Channel Point Reward that is tied to the `[Channel Reward] Add user as timed VIP` Action.
+
+You will also need to tie the "Start Streaming Event" to the `Check/Remove expired timed VIPs`. Depending on which Websocket your using these have 2 different names. `StartedStreaming` or `StreamStateChanged` 
 
 # Configuration
 In the `[Channel Reward] Add user as timed VIP` they are a few settings you can change.
