@@ -18,6 +18,7 @@ Here you will find some Extensions that are slightly smaller, but still are very
 * [Log Viewer Code](/extensions/log-viewer)
 * [Message To Last Tweet](/extensions/message-link-to-latest-tweet)
 * [Power Level](/extensions/power-level)
+* [Random Percentage Meter](/extensions/random-percentage-meter)
 * [Timed VIP](/extensions/timed-vip)
 * [Temp, Dist and Volume](/extensions/temperature-distance-and-volume-converter)
 * [Urban Dictionary](/extensions/urban-dictionary)
