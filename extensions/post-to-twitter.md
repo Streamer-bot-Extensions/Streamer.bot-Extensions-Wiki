@@ -2,7 +2,7 @@
 title: Post to Twitter (by Nate1280 and TerrierDarts)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-07-26T16:25:07.731Z
+date: 2022-09-02T16:32:15.757Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
@@ -12,6 +12,7 @@ dateCreated: 2022-04-27T04:14:39.472Z
 <div class=“iframe-container”><iframe src="https://www.youtube.com/embed/nc9edtn75pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
 
 # Twitter Developer Set-up
+> It looks like Twitter has changed this side of the website, from what I tell you can still use a "Standalone App" as that doesnt use the Oauth 2.0 endpoints, but projects could cause some difficulty. {.is-danger} 
 ## Set Up Instructions
 The first thing you need to do is to get the key from the twitter API. You can do this by doing the following steps.
 > You will need **elevated access** for this to work. You can find out how to do that by clicking [**Here**](#getting-elevated-access-if-needed) Or Scrolling a bit further down.
@@ -79,8 +80,14 @@ The `Address` and `Port` needs to match the one you did the prior step of settin
 ## Send a Tweet With Image
 ![tweetimage.png](/extensions/twitter/images/tweetimage.png)
 ## Streaming Commands
-These 2 Actions will need to be tied to the OBS Events > Stream Started and OBS Events > Stream Stopped
-The Arguments in both sub-actions are exactly the same however you will have a **LIVE** version and you will have a **Normal** Version for when you are offline. 
+To automate this it different depending on which version of WS you are using if you are using WS4.9.XX then you can tie the 2 actions to  OBS Events > Stream Started and OBS > Events > Stream Stopped for the starting and stopping actions respectfully. 
+In WS5 you will need to use the event called `StreamStateChanged`, This is tied to a seperate action, which you will need to create. I called it `StreamCheck`. Then i did an If statement of 
+```
+If 'obsEvent.outputActive' Equals 'True' do 'StreamStarting' else do 'StreamEnding'
+```
+![streamstartcheck.png](/extensions/twitter/images/streamstartcheck.png)
+
+ The Arguments in both sub-actions are exactly the same however you will have a **LIVE** version and you will have a **Normal** Version for when you are offline. 
 |Argument|Purpose|
 |---|---|
 |`tweetName`|This is the name you want to be seen as on Twitter, ":red_circle: LIVE :red_circle:" would be popular for being live|
@@ -97,7 +104,7 @@ The Arguments in both sub-actions are exactly the same however you will have a *
 # Troubleshooting
 If you find that you've followed all the steps and it still doesn't work here are a few things to check.
 - You must have Elevated Access for this to work.
-- You must have OAuth 2.0 turned off. (Press on the cog, then Edit under User Authentication Settings)
+- You must have OAuth 2.0 turned off. (Press on the cog, then Edit under User Authentication Settings) Standalone Apps dont use Oauth 2.0 so that is better!
 - You have it set to `Read and Write`
 - The Callback address must be identical to the HTTP server in SB.
 - The Keys in the C# codes are correct and still has the `@` and `"`.
