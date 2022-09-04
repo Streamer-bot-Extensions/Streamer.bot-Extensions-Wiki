@@ -7,7 +7,7 @@ tags:
 editor: markdown
 dateCreated: 2022-05-27T00:34:07.480Z
 ---
-
+*OBS WS v4.9*{.obs-version-badge} 
 # Quick Goal Progress Bar ( Followers / Subscribers ) (by [LeBluxTV](https://www.twitch.tv/lebluxtv) & [Rondhi](https://www.twitch.tv/rondhi))
 
 ## Description

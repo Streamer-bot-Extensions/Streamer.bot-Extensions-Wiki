@@ -70,4 +70,5 @@ The last thing you will need to do  is to add your Discord Web hook where mentio
 
 # Contributors
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Grizzlage*](https://www.twitch.tv/grizzlage) 
+- [*Grizzlage*](https://www.twitch.tv/grizzlage) 
+{.contributors}
