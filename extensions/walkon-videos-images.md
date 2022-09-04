@@ -2,7 +2,7 @@
 title: Walkon Videos/Images (by GoWMan)
 description: This expands on Geocyms Walkon Sounds to include Videos and Images as well.
 published: true
-date: 2022-07-24T06:11:08.794Z
+date: 2022-09-04T04:03:49.418Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-29T18:34:57.018Z
@@ -16,6 +16,7 @@ TlM0RR+LCAAAAAAABAC9WVmP4kgSfl9p/4PVL/syrvGJ8WhnJXAVYKCo5jLgZR7yMnbjq31AmdH89w3b
 # Installation
 > Requires [Geocyms Walkon Sounds](/extensions/walkon-sounds) to utilize the regular feature!
 {.is-danger}
+
 This setup allows an easy way to acomplish this without needing any complicated setup or maintenence.
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
