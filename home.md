@@ -2,7 +2,7 @@
 title: Streamer.bot Extensions
 description: Streamer.bot Community Made Extensions
 published: true
-date: 2022-09-04T12:04:10.428Z
+date: 2022-09-05T13:32:44.710Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:15:10.917Z
@@ -24,6 +24,8 @@ If you decide to alter any of the resources here and release them with additiona
 Out of respect for the community and the authors of these resources it is just asked that you credit the original author's work that your resources were derived from.
 The goal of this wiki is to share resources with the community in a ethical manner that contributes to the Streamer.bot community as a whole.
 {.is-warning}
+
+> While every effort is made to make extensions avaliable to everyone, some will only work with one version of Websocket. If an extension is locked to one version, it will tell you via a badge at the top of the page. Just note some may have been missed, if this is the case reach out to one of the team and we will rectify this. {.is-info}
 
 # Join The Discord
 
