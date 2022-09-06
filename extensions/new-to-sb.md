@@ -2,7 +2,7 @@
 title: New to Streamer.bot
 description: Here you will find a good collection of Extensions and Tools, for users that are new to Streamer.bot.
 published: true
-date: 2022-09-06T13:21:37.620Z
+date: 2022-09-06T13:25:23.521Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T13:18:09.461Z
@@ -12,17 +12,18 @@ If you are new to Streamer.bot and are looking for extensions to get you started
 
 # VR Flad's Fast Track
 A Complete package to get you started.
-- [Fast Track *The Complete Package*](https://vrflad.com/fasttrack/)
+- [Fast Track *A Complete Package for any level of User showing a wide range of SB examples*](https://vrflad.com/fasttrack/)
 {.links-list}
 
 # Basic Commands
 - [Basic Commands Package *Packed with a few basic commands to get you started*](/extensions/basic-commands-package)
-- [Followage](/extensions/followage-command.md)
-- [Giveaways](/extensions/giveaways.md)
-- [Set Game and Title]()
-- [Shoutouts](/extensions/shoutouts/shoutout-examples)
-- [Uptime](/extensions/uptime.md)
-- [Watchtime](/extensions/watchtime)
+- [Followage *A Few different FollowAge Examples*](/extensions/followage-command.md)
+- [Giveaways *A couple of different ways to run giveaways*](/extensions/giveaways.md)
+- [Points System *Built for SB it's very own currency point system and many games/tools*](/en/extensions/points-system/points-system-links)
+- [Set Game and Title *Allow Mods to change the game and title*]()
+- [Shoutouts *Examples of how to do Shoutouts in SB*](/extensions/shoutouts/shoutout-examples)
+- [Uptime *How long have you been streaming?*](/extensions/uptime.md)
+- [Watchtime *Watchtime built for SB*](/extensions/watchtime)
 {.links-list}
 
 # Moving over to Streamer.bot
