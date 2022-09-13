@@ -70,4 +70,5 @@ Lo último que necesitarás es agregar tu enlace web de Discord en donde el cód
 
 # Colaboradores
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*Grizzlage*](https://www.twitch.tv/grizzlage) 
+- [*Grizzlage*](https://www.twitch.tv/grizzlage)
+{.contributors}

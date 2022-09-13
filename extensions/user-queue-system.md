@@ -2,7 +2,7 @@
 title: User Queue Systems(by TerrierDarts)
 description: Apply a Queue system to your stream so Viewers can Join or Line up their Ideas
 published: true
-date: 2022-09-01T21:16:03.494Z
+date: 2022-09-06T22:02:56.467Z
 tags: play with viewers, user queue
 editor: markdown
 dateCreated: 2022-05-17T01:05:41.733Z
@@ -23,7 +23,7 @@ TlM0RR+LCAAAAAAABADtfWlz4kqW9veJmP/AVMSNNya6dCMztWZ/mTAUYOGlik3YvNUfchNwEYhmsY07
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-> This import contains **9 Actions and 8 Commands** {.is-info}
+> This import contains **11 Actions and 10 Commands** {.is-info}
 # Imports {.tabset}
 ## Imported Actions
 ![queueimportactions.png](/extensions/user-queue-system/images/queueimportactions.png)
