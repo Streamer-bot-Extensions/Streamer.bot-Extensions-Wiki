@@ -2,10 +2,10 @@
 title: Smaller Extensions
 description: A Collection of Smaller Extensions built for Streamer.bot.
 published: true
-date: 2022-08-29T06:10:27.736Z
+date: 2022-09-16T19:57:22.702Z
 tags: 
 editor: markdown
-dateCreated: 2022-08-29T02:05:43.555Z
+dateCreated: 2022-08-29T22:37:35.435Z
 ---
 
 # Smaller Extensions
@@ -13,6 +13,7 @@ dateCreated: 2022-08-29T02:05:43.555Z
 Here you will find some Extensions that are slightly smaller, but still are very useful. They just require less set up and in some cases a bit more unique. 
 
 * [Colour Converter](/extensions/hex-code-and-rgb-value-converter)
+* [Discord Examples](/en/extensions/discord-examples/discord-example-list)
 * [First Command](/extensions/first-command)
 * [Latest Youtube Video](/extensions/latest-youtube-video)
 * [Log Viewer Code](/extensions/log-viewer)
