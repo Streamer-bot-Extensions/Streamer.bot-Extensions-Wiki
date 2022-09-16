@@ -2,7 +2,7 @@
 title: Discord Examples
 description: A Few Examples on how to use Streamer.bot to Post To Discord
 published: true
-date: 2022-09-16T20:00:00.446Z
+date: 2022-09-16T20:16:23.104Z
 tags: post, to, discord
 editor: markdown
 dateCreated: 2022-09-13T13:37:53.318Z
@@ -223,7 +223,6 @@ public class CPHInline
 
         var hexValue = args["embed.html"].ToString().Remove(0, 1); //This is just a hex this is set outside of the code using the Pick Color Sub-action
         long decValue = Convert.ToInt32(hexValue, 16);
-        CPH.SendMessage(decValue.ToString());
         using (HttpClient httpClient = new HttpClient())
         {
             MultipartFormDataContent form = new MultipartFormDataContent();
