@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
-description: 
+title: Football Chat Alerts
+description: Get Chat Alerts for The Latest Events in Football in your Chat!
 published: false
-date: 2022-09-18T11:52:20.611Z
+date: 2022-09-18T11:58:00.500Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-17T21:22:53.775Z
