@@ -2,14 +2,14 @@
 title: Timeout roulette with multiplayer (by TheShiningOne)
 description: Timeout roulette with singlepayer, multiplayer and duel games.
 published: true
-date: 2022-09-21T12:54:40.986Z
+date: 2022-09-21T12:56:08.636Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T11:27:27.379Z
 ---
 
 # Tutorial
-<div class=“iframe-container”><iframe width="560" height="315" src="https://www.youtube.com/embed/SP0VkEmmbpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class=“iframe-container”><iframe src="https://www.youtube.com/embed/SP0VkEmmbpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
 
 # Import code
 ```
