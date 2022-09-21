@@ -2,7 +2,7 @@
 title: Football Chat Alerts
 description: Get Chat Alerts for The Latest Events in Football in your Chat!
 published: false
-date: 2022-09-21T18:47:38.951Z
+date: 2022-09-21T18:54:34.348Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-17T21:22:53.775Z
@@ -11,7 +11,6 @@ dateCreated: 2022-09-17T21:22:53.775Z
 # Import Code
 
 # Installation
-
 
 ## Competition Codes
 These are the current Competition codes we have. More will be added as discovered.
