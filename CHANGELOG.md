@@ -11,7 +11,9 @@ dateCreated: 2022-07-23T22:06:19.698Z
 # Added
 
 ## Extensions
-
+[Latest Youtube Video](/extensions/latest-youtube-video)
+[Log Viewer Code](/extensions/log-viewer)
+[Urban Dictionary](/extensions/urban-dictionary)
 [Cooldown Tools](/en/extensions/cooldown-tools)
 [Clip Commands](/en/extensions/clip-commands)
 [Stream Information at Regular Intervals (Wizebot Replica)](/extensions/stream-infos-at-regular-intervals)

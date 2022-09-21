@@ -2,17 +2,14 @@
 title: Herramientas de Tiempo de Espera
 description: '¡Con estas herramientas podrás sacar el máximo provecho de los tiempos de espera!'
 published: true
-date: 2022-07-24T06:08:43.566Z
+date: 2022-08-13T15:25:36.027Z
 tags:
 editor: markdown
 dateCreated: 2022-07-24T15:54:51.195Z
 ---
 
-# Herramientas de Tiempo de Espera
 
-Con estas herramientas podrás controlar los tiempos de espera.
-
-## Herramienta para Establecer el Tiempo de Espera
+# Herramienta para Establecer el Tiempo de Espera
 
 ### Descripción
 Usando esta extensión podrás establecer tiempos de espera globales o por usuario a través de comandos de chat.
@@ -38,7 +35,7 @@ Lo último que tendrás que hacer es crear un Comando, el cual recomendaría que
 > {.is-warning}
 
 ---
-## Herramienta para Eliminar el Tiempo de Espera Actual
+# Herramienta para Eliminar el Tiempo de Espera Actual
 
 ### Descripción
 Esta extensión eliminará tanto el tiempo de espera para Usuario como Global en la acción que tu especifiques para que pueda ser canjeada de nuevo.
@@ -61,7 +58,7 @@ Lo último que tendrás que hacer es crear un Comando, el cual recomendaría que
 > {.is-warning}
 
 ---
-## Agregar Tiempos de Espera de Usuario a los Puntos de Canal
+# Agregar Tiempos de Espera de Usuario a los Puntos de Canal
 ### Descripción
 Este código te permitirá agregar tiempos de espera de usuario a los puntos de canal, de manera que la misma persona no pueda canjear la misma recompensa.
 > Toma en cuenta que el canje se seguirá activando, pero si está bajo un tiempo de espera, nada ocurrirá y los puntos se le reembolsarán al usuario. {.is-info}
@@ -77,7 +74,7 @@ Solo tendrás que agregar una subacción de establecimiento de argumento `Set Ar
 
 
 ---
-## Tiempo de Espera para Heat
+# Tiempo de Espera para Heat
 ### Descripción
 Esto te permitirá añadir tiempos de espera para tus clicks y acciones referentes a la extensión Heat.
 ### Import Code
@@ -89,14 +86,19 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 
 ---
 
-## Tiempo de Espera en Múltiples Acciones
+# Tiempo de Espera en Múltiples Acciones
 ### Descripción
 Con esta extensión podrás agregar tiempos de espera `Globales` o para `Usuarios` para múltiples acciones bajo el mismo tiempo de espera.
 ### Import Code
 ```
-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
+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
 ```
 ### Instalación
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`. En todas las acciones que desees que tengan su propio Tiempo de Espera, neesitarás agregar dos sub-acciones de tipo `Set Arguments`, una llamada `cooldownTime` que es el lapso del tiempo de espera que deseas en segundos, y otra llamada `cooldoenName`, que será el nombre con el que definiste tus tiempos de espera. Finalmente, necesitarás agregar una subacción de tipo `Execute Method` y apuntarla al código que importaste. Luego tendrás que seleccionar la variante ya sea para Global, o para Usuario dependiendo del tipo de tiempo de espera que desees añadir.
 
-Ten en cuenta que todas las acciones bajo el mismo tiempo de espera deberán coincidir en variante, tiempo y nombre. 
+Ten en cuenta que todas las acciones bajo el mismo tiempo de espera deberán coincidir en variante, tiempo y nombre.
+
+# Colaboradores
+
+ - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ {.contributors}

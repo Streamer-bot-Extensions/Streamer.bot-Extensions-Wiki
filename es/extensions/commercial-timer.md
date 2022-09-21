@@ -8,22 +8,16 @@ editor: markdown
 dateCreated: 2022-04-20T01:26:10.917Z
 ---
 
-# Temporizador de Comercial [(por GoWMan)](https://www.twitch.tv/gowman)
-
-> ¡Esto solo funcionará con Streamer.bot 0.1.5 en adelante! 
-> 
-> {.is-danger}
-
-## Descripción
-
-Este temporizador avisará automáticamente al chat sobre un anuncio entrante y reproducirá un anuncio de 180 segundos automáticamente cada hora.  Una vez configurado no tienes qué hacer nada más y funcionará cada vez que inicies a transmitir.  Este temporizador ha sido creado para reproducir un comercial de 180 segundos, y cambiar la escena a "Vuelvo Pronto" y "En Vivo" de manera automática.  Si desejas ajustarlo de cualquier manera (por ejemplo, reproducir anuncios más cortos, remover alertas, etc.) tendrás que ajustar los retrasos en la acción de manera correspondiente.  El temporizador se basa en funciones de SB 0.1.5 y se activará cada vez que inicies a transmitir, y se desactivará cuando dejes de hacerlo.
-
-## Código de Importación
+# Código de Importación
 ```text
 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
 ```
 
-## Instalación
+# Instalación
+
+> ¡Esto solo funcionará con Streamer.bot 0.1.5 en adelante! 
+> 
+> {.is-danger}
 
 Esta configuración te permitirá una forma fácil de tener un temporizador automático de comerciales sin mantenimiento complicado, y deberá permitir una configuración de única vez.
 
@@ -31,7 +25,7 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 
 ![commercial_timer.png](/extensions/commercial-timer/images/commercial_timer.png)
 
-## Configuración
+# Configuración
 
 Crea una `Acción Temporizada` llamada***Auto Run Commercial*** y configúrala para tener un ***Intervalo de 3600 segundos***, ***Enabled en "No"***, ***0 líneas*** y lígala a la `Acción` llamada ***Run Commercial***.
 
@@ -58,3 +52,11 @@ Con esto finalizado, cada vez que pulses "Empezar a Transmitir" el temporizador 
 > ***Si deseas modificar cualquier cosa a este temporizador, puedes hacerlo.  Como cambiar la duración del anuncia a un lapso más corto o retirar el cambio automático entre escenas.  Si lo haces, DEBERÁS modificar los retrasos también o el temporizador no funcionará correctamente.*** 
 > 
 > {.is-warning}
+
+# Colaboradores
+
+ - [<i class="mdi mdi-twitch"></i> GowMan](https://www.twitch.tv/GowMan)
+ {.contributors}
+
+
+

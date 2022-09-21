@@ -2,12 +2,13 @@
 title: .ini Files (by Robophill)
 description: Read and write to .ini files in Streamer.bot.
 published: true
-date: 2022-07-24T06:09:32.045Z
+date: 2022-09-04T15:30:37.021Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T02:39:37.201Z
 ---
 
+*OBS WS v4.9*{.obs-version-badge} *OBS WS v5*{.obs-version-badge}
 # Import Code
 
 ```text

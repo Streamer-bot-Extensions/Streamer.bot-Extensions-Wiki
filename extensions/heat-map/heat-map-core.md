@@ -2,13 +2,15 @@
 title: Heat Map Core Installation
 description: Core Installation of Heat Map, Heat Map allows your viewers to click on the screen and intract with it.
 published: true
-date: 2022-07-28T15:25:57.625Z
+date: 2022-09-12T15:12:36.819Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T17:36:34.089Z
 ---
 
 Code Updated : 28 July 2022
+
+> This code is currently only working with WS 4.9 {.is-danger}
 
 # Tutorial
 

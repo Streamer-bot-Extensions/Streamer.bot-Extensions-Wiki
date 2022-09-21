@@ -1,6 +1,6 @@
 ---
 title: Crear Clip y Publicar en Chat y Discord (por Grizzlage)
-description: Crear un Clip de los últimos 30 segundos de la transmisión, y pégalos en el chat, no se requiere API.
+description: Usando esta extensión podrás publicar tus clips directamenteen discord usando un comando !clip.
 published: true
 date: 2022-07-24T06:08:37.822Z
 tags:
@@ -8,12 +8,8 @@ editor: markdown
 dateCreated: 2022-05-11T04:25:57.032Z
 ---
 
-# Crear Clip y Publicar en Chat y Discord [(por Grizzlage)](https://www.twitch.tv/grizzlage)
 
-## Descripción
-Usando esta extensión podrás publicar tus clips directamenteen discord usando un comando `!clip`.
-
-## Código de Importación
+# Código de Importación
 ```cs
 using System;
 using System.Net.Http;
@@ -60,7 +56,7 @@ public class CPHInline{
     }
 }
 ```
-## Instalación
+# Instalación
 
 Necesitarás crear una nueva Acción, y la puedes llamar como gustes. Yo recomendaría llamarla `Discord Clip`. Después necesitarás agregar una Sub-Acción de ejecución de código en C#. Copia y pega el código de C# mostrado anteriormente en el cuadro de texto. Necesitarás agregar las siguientes Referencias
 
@@ -70,3 +66,9 @@ System.dll
 System.Net.Http.dll
 ```
 Lo último que necesitarás es agregar tu enlace web de Discord en donde el código lo indica.
+
+
+# Colaboradores
+
+- [*Grizzlage*](https://www.twitch.tv/grizzlage)
+{.contributors}

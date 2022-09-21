@@ -8,10 +8,6 @@ editor: markdown
 dateCreated: 2022-04-02T10:50:52.282Z
 ---
 
-# Protección de "Follow" por Bots [(por Caruha)](https://www.twitch.tv/caruha)
-
-## Descripción
-Verifica si un usuario que empieza a seguir al canal pertenece a los bots de Hoss o a cualquier otro bot para generar "follows" y, de ser así, no continuará con la acción.
 > Hay dos versiones diferentes de esta extensión.  La primera es un simple código de C# que verifica si hay bots para generar "follows", y la otra lee desde un archivo que contiene una lista de nombres de bots. 
 > 
 > {.is-warning}
@@ -154,3 +150,9 @@ Los nombres pueden ser parte de un nombre de usuario completo. En el caso de Hos
 
 ## Bots conocidos hasta el momento:
 hoss h0ss ho5s h05s hos5 h0s5 ho55 h055 h0st host h05t ho5t lunar_ lun4r_ manolia blueberrydogs
+
+
+# Colaboradores
+
+ - [<i class="mdi mdi-twitch"></i> Caruha](https://www.twitch.tv/Caruha)
+ {.contributors}
