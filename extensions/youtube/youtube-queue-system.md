@@ -1,11 +1,11 @@
 ---
-title: Youube - User Queue Systems(by TerrierDarts)
+title: YouTube - User Queue Systems(by TerrierDarts)
 description: Apply a Queue system to your stream so Viewers can Join or Line up their Ideas
 published: true
-date: 2022-09-06T22:02:56.467Z
+date: 2022-09-24T18:18:45.478Z
 tags: play with viewers, user queue
 editor: markdown
-dateCreated: 2022-05-17T01:05:41.733Z
+dateCreated: 2022-09-23T16:31:29.084Z
 ---
 
 # Import Code
