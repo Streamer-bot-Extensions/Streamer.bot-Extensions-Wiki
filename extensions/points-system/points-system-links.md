@@ -2,7 +2,7 @@
 title: Points System
 description: Links to all the extensions that use Streamer.bot's points system.
 published: true
-date: 2022-07-24T06:13:39.387Z
+date: 2022-08-05T00:07:20.802Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T02:11:37.622Z
@@ -33,7 +33,7 @@ Below you can find the core Points System and a list of all the extensions that 
 
 ## Points System (Games)
 
-* [Boss Battles *by TerrierDarts* *Coming Soon*](/extensions/points-system/points-system-boss-battles)
+* [Boss Battles *by TerrierDarts* *Get your viewers to band together to beat the boss*](/extensions/points-system/points-system-boss-battles)
 * [Casino Style Roulette *by TerrierDarts* *Coming Soon*](/extensions/points-system/points-system-roulette)
 * [Free For All's *by TerrierDarts* *Run Free-For-Alls and see who is the winner.*](/extensions/points-system/points-system-free-for-alls)
 * [Gamble *by TerrierDarts* *Gamble your points with this game.*](/extensions/points-system/points-system-gamble)

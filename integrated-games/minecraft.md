@@ -58,11 +58,11 @@ In this guide, you will be setting up the 'basics' of connecting to the WebSocke
 
 3. If you have a authentication token on the server, you need to change the %authenticationBearerToken% to the token.
 
-![Auth Bearer Token](/integrated-games/minecraft/images/AuthBearerToken.PNG)
+![Auth Bearer Token](/integrated-games/minecraft/images/AuthBearerToken.png)
 
 4. Go back to the `Websocket Clients` tab, and edit the `Minecraft WebSocket Server` client. Change the `Message` to the `MC WS Message` action.
 
-![Websocket Client Message](/integrated-games/minecraft/images/WSMessage.PNG)
+![Websocket Client Message](/integrated-games/minecraft/images/WSMessage.png)
 
 5. Connect the websocket client to the server.
 

@@ -8,8 +8,7 @@ editor: markdown
 dateCreated: 2022-05-18T02:05:43.555Z
 ---
 
-# SharpOSC Implementation [(by Der_Gardine | Julian)](https://www.twitch.tv/der_gardine)
-```c
+```cs
 using System;
 
 public class CPHInline
@@ -23,3 +22,8 @@ public class CPHInline
 	}
 }
 ```
+
+# Contributors
+
+ - [<i class="mdi mdi-twitch"></i> Der_Gardine](https://www.twitch.tv/Der_Gardine)
+ {.contributors}

@@ -1,8 +1,8 @@
 ---
 title: Awesome Clip Shoutout (by TerrierDarts)
 description: This will give a cool Clip Shoutout to the user, add personalisation by changing the text colour and you can also add sound.
-published: true
-date: 2022-07-24T06:13:59.845Z
+published: false
+date: 2022-08-30T09:23:54.900Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-15T03:09:05.868Z

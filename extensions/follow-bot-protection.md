@@ -8,11 +8,6 @@ editor: markdown
 dateCreated: 2022-04-25T02:50:52.438Z
 ---
 
-# Follow Bot Protection [(by Caruha)](https://www.twitch.tv/caruha)
-
-## Description
-Checks when a user follows if it is any of the hoss or other follow bots and wont continue sub action if it is.
-
 >There are two different versions of this extension.  The first one is a simple C# code that checks for follow bots and the other reads from a file that contains a list of bot name.
 {.is-warning}
 
@@ -178,3 +173,9 @@ lunar_
 lun4r_
 manolia
 blueberrydogs
+
+
+# Contributors
+
+ - [<i class="mdi mdi-twitch"></i> Caruha](https://www.twitch.tv/Caruha)
+ {.contributors}
