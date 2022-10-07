@@ -11,7 +11,7 @@ dateCreated: 2022-06-09T04:58:51.324Z
 [![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki)
 # Streamer.bot Extensions Wiki
 
-Top contributors
+## Top contributors
 [![Top contributors](https://images.repography.com/29964987/GoWMan813/Streamer.bot-Extensions-Wiki/top-contributors/4a999cd6a0a0198b5d3eea67da7d8c9a_table.svg)](https://github.com/GoWMan813/Streamer.bot-Extensions-Wiki/graphs/contributors)
 
 ## Readme
