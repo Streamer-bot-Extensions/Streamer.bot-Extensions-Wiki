@@ -73,6 +73,7 @@ public class CPHInline
             if (viewCount == currentCount)
             {
              //No New Clip
+             return true;
             }
             else
             {
@@ -94,5 +95,5 @@ public class CPHInline
 ```
 
 # Contributors
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/terrierdarts)
-
+- <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/terrierdarts)
+- {.is-contributor}
