@@ -2,7 +2,7 @@
 title: Spotify To Streamerbot (By LeBluxTV)
 description: Use SB to control and interact with Streamerbot!
 published: true
-date: 2022-10-10T18:04:50.648Z
+date: 2022-10-10T18:06:02.518Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-10T17:47:03.419Z
@@ -13,9 +13,8 @@ dateCreated: 2022-10-10T17:47:03.419Z
 *OBS WS v5.x*{.obs-version-badge} 
 
 # Tutorial
-[![spot 2 sb](https://img.youtube.com/vi/tEMan7s0XAg/0.jpg)](https://www.youtube.com/watch?v=tEMan7s0XAg "SPOT2SB TUTORIAL")
 
-
+<div class=“iframe-container”><iframe src="https://www.youtube.com/embed/tEMan7s0XAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
 
 # Import Code
 ```text
