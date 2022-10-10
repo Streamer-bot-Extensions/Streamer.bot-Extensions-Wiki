@@ -2,7 +2,7 @@
 title: Quick Goal Progress Bar ( Followers / Subscribers ) (by LeBluxTV)
 description: Show a progress bar on screen with a goal that you setup.
 published: true
-date: 2022-10-10T23:26:06.583Z
+date: 2022-10-10T23:26:20.408Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T00:34:07.480Z
@@ -31,7 +31,7 @@ Don't forget **Set the directory of your OBS** in the `action`: Follower Goal 1s
 
 Use !createFollowGoal to add a new Nested Scene with the Follow Goal Bar > then set your follower Goal Number use !setFollowGoal
 
-Use !createSubsGoal to add a new Nested Scene with the Subscriber Goal Bar >then set your subscriber Goal Number use !setSubsGoal  
+Use !createSubsGoal to add a new Nested Scene with the Subscriber Goal Bar > then set your subscriber Goal Number use !setSubsGoal  
 
 ### References
 ![170580644-65749152-2454-42c5-b32e-83b26d43cb78.png](/overlays/quick-goal-progress-bar/images/170580644-65749152-2454-42c5-b32e-83b26d43cb78.png)
