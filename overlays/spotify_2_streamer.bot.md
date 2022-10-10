@@ -31,6 +31,8 @@ On the right side , click on the " edit Settings " green button, under the line 
 ## OBS Scene Importation
 
 Using Source Copy Plugin, go to Tools tab in OBS, source copy > load scene , find the location of [NS] SPOTIFY.json file that you downloaded. 
+[tiny_SPOT_TO_SB_[NS]_SPOTIFY_source_copy.zip](https://github.com/SanshooSenshi/Streamer.bot-Extensions-Wiki/files/9746977/tiny_SPOT_TO_SB_.NS._SPOTIFY_source_copy.zip)
+
 
 3 plugins are needed : 
 
