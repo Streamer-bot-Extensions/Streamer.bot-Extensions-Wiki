@@ -2,7 +2,7 @@
 title: Offline Heatmap Testing
 description: Test Heatmap Offline 
 published: false
-date: 2022-10-10T17:51:39.953Z
+date: 2022-10-10T17:52:59.716Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-10T17:49:55.389Z
@@ -11,6 +11,7 @@ dateCreated: 2022-10-10T17:49:55.389Z
 # HeatMap  Offline Testing
 
 <html>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.0/gsap.min.js"></script>
   <style>
     #contentContainer {
 	position: relative;
