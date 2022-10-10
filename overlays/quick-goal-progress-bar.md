@@ -2,11 +2,12 @@
 title: Quick Goal Progress Bar ( Followers / Subscribers ) (by LeBluxTV)
 description: Show a progress bar on screen with a goal that you setup.
 published: true
-date: 2022-07-24T06:12:11.718Z
+date: 2022-10-10T23:26:06.583Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T00:34:07.480Z
 ---
+
 *OBS WS v4.9*{.obs-version-badge} 
 # Quick Goal Progress Bar ( Followers / Subscribers ) (by [LeBluxTV](https://www.twitch.tv/lebluxtv) & [Rondhi](https://www.twitch.tv/rondhi))
 
@@ -25,10 +26,11 @@ TlM0RR+LCAAAAAAABADsvdluI0mXJng/wLwDK9HZ8/9VZVm2upv9g2lAUkgUFQpliFoosaKRsM1Jhrjo
 - [OBS Shaderfilter 1.21 Plugin](https://github.com/Oncorporation/obs-shaderfilter)
 - [OBS Websocket Plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/)
 
-## Tutorial 
-<br>
-Don't forget **Set the directory of your OBS** in the `action`: Follower Goal 1st : Set !createfollowgoal & Subs Goal 1st  : Set !createsubgoal<br>
-Use !createFollowGoal to add a new Nested Scene with the Follow Goal Bar > then set your follower Goal Number use !setFollowGoal <br>
+## Tutorial
+Don't forget **Set the directory of your OBS** in the `action`: Follower Goal 1st : Set !createfollowgoal & Subs Goal 1st  : Set !createsubgoal
+
+Use !createFollowGoal to add a new Nested Scene with the Follow Goal Bar > then set your follower Goal Number use !setFollowGoal
+
 Use !createSubsGoal to add a new Nested Scene with the Subscriber Goal Bar >then set your subscriber Goal Number use !setSubsGoal  
 
 ### References
