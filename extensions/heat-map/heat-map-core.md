@@ -14,7 +14,7 @@ Code Updated : 28 July 2022
 
 # Tutorial
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/bU3Gwd2JVd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/bU3Gwd2JVd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 **Tutorial done by [TerrierDarts](https://www.Twitch.tv/TerrierDarts)**
 
