@@ -18,7 +18,7 @@ dateCreated: 2022-10-10T17:47:03.419Z
 
 # Import File
 Drag and drop this file into your `Import Pane`.
-[Tiny Spot](/overlays/spotify/files/Tiny%20Spot.sb)
+[Tiny Spot](/overlays/spotify/files/TinySpot.sb)
 
 # Installation
 > In order to get full functionality like song request [command !sr ] to add song to song queue , you MUST be premium spotify user. it's not only because not being premium will cast ads too, but it's also spotify API limitation.
