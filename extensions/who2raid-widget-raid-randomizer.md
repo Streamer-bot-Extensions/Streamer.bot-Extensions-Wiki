@@ -9,8 +9,8 @@ editor: markdown
 dateCreated: 2022-06-23T23:48:02.375Z
 ---
 *OBS WS v4.9*{.obs-version-badge} 
-## Tutorial Video 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/Y-yKmmbIyTI" title="WHO2RAID TUTORIAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen;"></iframe>
+## Tutorial Video
+<iframe src="https://www.youtube.com/embed/Y-yKmmbIyTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 # Import Code
 

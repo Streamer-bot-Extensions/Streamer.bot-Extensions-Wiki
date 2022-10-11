@@ -15,7 +15,7 @@ Easily show the latest sub / follow / raid / tip / cheers with this overlay and 
 
 ## Tutorial
 <br>
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/uRrAa_e_I-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/uRrAa_e_I-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 ## Installation
 To build up the URL, for the browser source, start with URL below (note the /? at the end is required):
