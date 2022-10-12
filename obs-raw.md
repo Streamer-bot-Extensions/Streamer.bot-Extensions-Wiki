@@ -1,19 +1,14 @@
 ---
-title: OBS Raw Help
-description: Here You will have examples of OBS Raw
+title:  Welcome to Streamer.bot Extensions
+description: Welcome to the Streamer.bot Extensions wiki! This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
 published: false
-date: 2022-10-12T19:16:58.841Z
+date: 2022-10-12T21:03:30.274Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T17:41:21.650Z
 ---
 
 [![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki)
-
-
-# Welcome to Streamer.bot Extensions
-
-Welcome to the Streamer.bot Extensions wiki! This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
 
 
 This wiki is here to not only provide you with great resources to enhance your stream but also to guide you in configuring each resource provided. You may use any of them and alter them as you like but extensions are provided as is and any alterations to them are done at your own risk. Failure to follow the guides on this wiki may result in resources not functioning properly. Please make sure you understand this before trying to alter things outside of the direction of this wiki.
