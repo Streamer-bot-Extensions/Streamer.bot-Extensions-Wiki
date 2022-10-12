@@ -2,7 +2,7 @@
 title:  Welcome to Streamer.bot Extensions
 description: This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
 published: false
-date: 2022-10-12T21:04:06.148Z
+date: 2022-10-12T23:27:24.076Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T17:41:21.650Z
@@ -55,4 +55,3 @@ The goal of this wiki is to share resources with the community in a ethical mann
 
 > While every effort is made to make extensions avaliable to everyone, some will only work with one version of Websocket. If an extension is locked to one version, it will tell you via a badge at the top of the page. Just note some may have been missed, if this is the case reach out to one of the team and we will rectify this. {.is-info}
 
-Content is available under the Creative Commons Attribution-ShareAlike License, by Streamer.bot Extensions. | Powered by Wiki.js
