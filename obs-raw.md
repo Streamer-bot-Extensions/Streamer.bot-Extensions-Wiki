@@ -1,8 +1,8 @@
 ---
 title:  Welcome to Streamer.bot Extensions
-description: Welcome to the Streamer.bot Extensions wiki! This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
+description: This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
 published: false
-date: 2022-10-12T21:03:30.274Z
+date: 2022-10-12T21:04:06.148Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T17:41:21.650Z
