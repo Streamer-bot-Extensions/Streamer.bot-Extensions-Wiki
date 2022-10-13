@@ -2,7 +2,7 @@
 title:  Welcome to Streamer.bot Extensions
 description: This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
 published: false
-date: 2022-10-13T01:58:04.329Z
+date: 2022-10-13T02:09:21.706Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T17:41:21.650Z
@@ -21,15 +21,15 @@ This wiki is here to not only provide you with great resources to enhance your s
 # Extensions
 
 
-- [ <i class="mdi mdi-new-box" style="color:#F46BFB"></i> **<span style="color:#F46BFB">New To Streamer.bot</span> *filled with extensions to help you get started when using streamer.bot.*** ](/en/extensions/new-to-sb)
-- [<i class="mdi mdi-dice-6" style="color:#F46BFB"></i> **<span style="color:#F46BFB">Chat Games</span> *Filled with games to keep your viewers entertained.***](/en/extensions/chat-games)
-- [<i class="mdi mdi-cursor-default-click" style="color:#F46BFB"></i> **<span style="color:#F46BFB">Heat Map</span> *Allow your views to interact with your stream via clicks on there screens.***](/en/extensions/heat-map/heat-map)
-- [<i class="mdi mdi-lightbulb-on" style="color:#F46BFB"></i> **<span style="color:#F46BFB">Lighting Control</span> *Control Lights with Streamerbot.***](/en/extensions/lighting-control/lighting-control-links)
-- [<i class="mdi mdi-antenna" style="color:#F46BFB"></i> **<span style="color:#F46BFB">OBS Based</span> *Extensions that get the most out of OBS.***](//en/extensions/obs-based-extensions)
-- [<i class="mdi mdi-shield-half-full" style="color:#F46BFB"></i> **<span style="color:#fa7afa">Protective Extensions</span> *Protect yourself and your views with these extensions.***](/en/extensions/protective-extensions)
-- [<i class="fas fa-coins" style="color:#F46BFB"></i> **<span style="color:#F46BFB">Points System</span> *A Currency System built for streamer.bot along with many tools and games.***](/en/extensions/points-system)
-- [<i class="mdi mdi-bullhorn" style="color:#F46BFB"></i> **<span style="color:#F46BFB">Shoutout Examples</span> *There are many ways to shout people out here are a few!***](/en/extensions/shoutouts/shoutout-examples)
-- [<i class="fas fa-heart" style="color:#F46BFB"></i> **<span style="color:#F46BFB">Smaller Examples</span> *filled with smaller but still amazing extensions!***](/en/extensions/smaller-extensions)
+- [ <i class="mdi mdi-new-box" style="color:#FF66F7"></i> **<span style="color:#FF66F7">New To Streamer.bot</span> *filled with extensions to help you get started when using streamer.bot.*** ](/en/extensions/new-to-sb)
+- [<i class="mdi mdi-dice-6" style="color:#FF66F7"></i> **<span style="color:#FF66F7">Chat Games</span> *Filled with games to keep your viewers entertained.***](/en/extensions/chat-games)
+- [<i class="mdi mdi-cursor-default-click" style="color:#FF66F7"></i> **<span style="color:#FF66F7">Heat Map</span> *Allow your views to interact with your stream via clicks on there screens.***](/en/extensions/heat-map/heat-map)
+- [<i class="mdi mdi-lightbulb-on" style="color:#FF66F7"></i> **<span style="color:#FF66F7">Lighting Control</span> *Control Lights with Streamerbot.***](/en/extensions/lighting-control/lighting-control-links)
+- [<i class="mdi mdi-antenna" style="color:#FF66F7"></i> **<span style="color:#FF66F7">OBS Based</span> *Extensions that get the most out of OBS.***](//en/extensions/obs-based-extensions)
+- [<i class="mdi mdi-shield-half-full" style="color:#FF66F7"></i> **<span style="color:#FF66F7">Protective Extensions</span> *Protect yourself and your views with these extensions.***](/en/extensions/protective-extensions)
+- [<i class="fas fa-coins" style="color:#FF66F7"></i> **<span style="color:#FF66F7">Points System</span> *A Currency System built for streamer.bot along with many tools and games.***](/en/extensions/points-system)
+- [<i class="mdi mdi-bullhorn" style="color:#FF66F7"></i> **<span style="color:#FF66F7">Shoutout Examples</span> *There are many ways to shout people out here are a few!***](/en/extensions/shoutouts/shoutout-examples)
+- [<i class="fas fa-heart" style="color:#FF66F7"></i> **<span style="color:#FF66F7">Smaller Examples</span> *filled with smaller but still amazing extensions!***](/en/extensions/smaller-extensions)
 {.btn-grid .my-5}
 
 
