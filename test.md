@@ -2,7 +2,7 @@
 title: Test Page
 description: 
 published: false
-date: 2022-10-13T14:58:08.232Z
+date: 2022-10-13T14:58:38.715Z
 tags: test
 editor: markdown
 dateCreated: 2022-07-17T18:50:43.167Z
@@ -60,7 +60,7 @@ dateCreated: 2022-07-17T18:50:43.167Z
   line-height: 1.3;
 }
   
-/* Hover (Personal preference not important (also can get adjustings))*/
+/* Hover (Personal preference not important (also can get adjustings)) */
 #root .v-main .contents ul.contributors li a {
   transition: color .1s ease;
 }
