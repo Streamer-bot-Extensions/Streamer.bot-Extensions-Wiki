@@ -2,7 +2,7 @@
 title: Test Page
 description: 
 published: false
-date: 2022-10-13T14:59:24.781Z
+date: 2022-10-13T15:01:06.356Z
 tags: test
 editor: markdown
 dateCreated: 2022-07-17T18:50:43.167Z
@@ -22,12 +22,18 @@ dateCreated: 2022-07-17T18:50:43.167Z
 
 ---
 
-(only works when editing page)
 # Contributors
 - [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
 - [Farlezz](https://www.twitch.tv/Farlezz){.youtube}
 {.contributors}
 
+(One with a bit of extra effort)
+
+# Contributors
+
+- [<i class="mdi mdi-twitch"></i> GoWMan](https://www.twitch.tv/GoWMan)
+- [<i class="mdi mdi-twitch"></i> GoWMan](https://www.twitch.tv/GoWMan)
+{.contributors}
 <style>
 /* Ease Of Use */
 #root .v-main .contents ul.contributors li a.twitch::before {
