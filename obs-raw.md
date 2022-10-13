@@ -2,7 +2,7 @@
 title:  Welcome to Streamer.bot Extensions
 description: This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
 published: false
-date: 2022-10-13T00:44:50.246Z
+date: 2022-10-13T01:01:43.277Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T17:41:21.650Z
@@ -21,15 +21,15 @@ This wiki is here to not only provide you with great resources to enhance your s
 # Extensions
 
 
-- [ <i class="mdi mdi-new-box" style="color:violet"></i> **<span style="color:violet">New To Streamer.bot</span> *filled with extensions to help you get started when using streamer.bot.*** ](/en/extensions/new-to-sb)
-- [<i class="mdi mdi-dice-6" style="color:deeppink"></i> **<span style="color:deeppink">Chat Games</span> *Filled with games to keep your viewers entertained.***](/en/extensions/chat-games)
-- [<i class="mdi mdi-cursor-default-click" style="color:orange"></i> **<span style="color:orange">Heat Map</span> *Allow your views to interact with your stream via clicks on there screens.***](/en/extensions/heat-map/heat-map)
-- [<i class="mdi mdi-lightbulb-on" style="color:yellow"></i> **<span style="color:yellow">Lighting Control</span> *Control Lights with Streamerbot.***](/en/extensions/lighting-control/lighting-control-links)
-- [<i class="mdi mdi-antenna" style="color:dimgray"></i> **<span style="color:dimgray">OBS Based</span> *Extensions that get the most out of OBS.***](//en/extensions/obs-based-extensions)
-- [<i class="mdi mdi-shield-half-full" style="color:maroon"></i> **<span style="color:maroon">Protective Extensions</span> *Protect yourself and your views with these extensions.***](/en/extensions/protective-extensions)
-- [<i class="fas fa-coins" style="color:gold"></i> **<span style="color:gold">Points System</span> *A Currency System built for streamer.bot along with many tools and games.***](/en/extensions/points-system)
-- [<i class="mdi mdi-bullhorn" style="color:coral"></i> **<span style="color:coral">Shoutout Examples</span> *There are many ways to shout people out here are a few!***](/en/extensions/shoutouts/shoutout-examples)
-- [<i class="fas fa-heart" style="color:red"></i> **<span style="color:red">Smaller Examples</span> *filled with smaller but still amazing extensions!***](/en/extensions/smaller-extensions)
+- [ <i class="mdi mdi-new-box" style="color:HotPink"></i> **<span style="color:HotPink">New To Streamer.bot</span> *filled with extensions to help you get started when using streamer.bot.*** ](/en/extensions/new-to-sb)
+- [<i class="mdi mdi-dice-6" style="color:HotPink"></i> **<span style="color:HotPink">Chat Games</span> *Filled with games to keep your viewers entertained.***](/en/extensions/chat-games)
+- [<i class="mdi mdi-cursor-default-click" style="color:HotPink"></i> **<span style="color:HotPink">Heat Map</span> *Allow your views to interact with your stream via clicks on there screens.***](/en/extensions/heat-map/heat-map)
+- [<i class="mdi mdi-lightbulb-on" style="color:HotPink"></i> **<span style="color:HotPink">Lighting Control</span> *Control Lights with Streamerbot.***](/en/extensions/lighting-control/lighting-control-links)
+- [<i class="mdi mdi-antenna" style="color:HotPink"></i> **<span style="color:HotPink">OBS Based</span> *Extensions that get the most out of OBS.***](//en/extensions/obs-based-extensions)
+- [<i class="mdi mdi-shield-half-full" style="color:HotPink"></i> **<span style="color:HotPink">Protective Extensions</span> *Protect yourself and your views with these extensions.***](/en/extensions/protective-extensions)
+- [<i class="fas fa-coins" style="color:HotPink"></i> **<span style="color:HotPink">Points System</span> *A Currency System built for streamer.bot along with many tools and games.***](/en/extensions/points-system)
+- [<i class="mdi mdi-bullhorn" style="color:HotPink"></i> **<span style="color:HotPink">Shoutout Examples</span> *There are many ways to shout people out here are a few!***](/en/extensions/shoutouts/shoutout-examples)
+- [<i class="fas fa-heart" style="color:HotPink"></i> **<span style="color:HotPink">Smaller Examples</span> *filled with smaller but still amazing extensions!***](/en/extensions/smaller-extensions)
 {.btn-grid .my-5}
 
 
