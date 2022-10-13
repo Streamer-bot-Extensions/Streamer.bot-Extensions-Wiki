@@ -2,13 +2,11 @@
 title: Test Page
 description: 
 published: false
-date: 2022-09-02T14:42:09.607Z
+date: 2022-10-13T14:58:08.232Z
 tags: test
 editor: markdown
 dateCreated: 2022-07-17T18:50:43.167Z
 ---
-
-*Made by [ik#1497]()*{.credit-badge}
 
 ## Testing Environment
 
@@ -24,17 +22,54 @@ dateCreated: 2022-07-17T18:50:43.167Z
 
 ---
 
-## Contributors
-- [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/dd70b1ec-b906-416a-8a56-d067bda64514-profile_image-300x300.png"/>**GoWMan *Made something COOL!***]()
-- [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/c53eb11e-d233-4268-b884-058692fe0a4a-profile_image-300x300.png"/>**Lyfesaver74 *Made something Amazing!***]()
-- [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/f632e0c6-38e2-4065-a29e-6ba9b3e8cacf-profile_image-300x300.png"/>**nutty *Here for emotional support!***]()
-{.btn-grid .my-5}
+(only works when editing page)
+# Contributors
+- [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
+- [Farlezz](https://www.twitch.tv/Farlezz){.youtube}
+{.contributors}
 
-### ![image](/logos/twitch-6860918_1280.png =25x) [MarkusoOoO](https://www.twitch.tv/markusoooo) 
-www.google.com {.contributor}
-
-Join the <span class="text--discord">Discord Server</span> down below!
-
-- ![image](/logos/twitch-6860918_1280.png =20x) [*MarkusoOoO*](https://www.twitch.tv/markusoooo)
-- ![image](/logos/twitch-6860918_1280.png =20x) [*TerrierDarts*](https://www.twitch.tv/TerrierDarts)
-{.grid-list}
+<style>
+/* Ease Of Use */
+#root .v-main .contents ul.contributors li a.twitch::before {
+  content: "\F0543";
+  display: inline-block;
+  font: normal normal normal 24px/1 Material Design Icons;
+  font-size: inherit;
+  text-rendering: auto;
+  line-height: inherit;
+  background-color: #6441a5;
+  border-radius: 7px;
+  padding-inline: 2px;
+  margin-right: 5px;
+  font-size: .9em;
+  line-height: 1.3;
+}
+  
+#root .v-main .contents ul.contributors li a.youtube::before {
+  content: "\F05C3";
+  display: inline-block;
+  font: normal normal normal 24px/1 Material Design Icons;
+  font-size: inherit;
+  text-rendering: auto;
+  line-height: inherit;
+  background-color: #FF0000;
+  border-radius: 7px;
+  padding-inline: 2px;
+  margin-right: 5px;
+  font-size: .9em;
+  line-height: 1.3;
+}
+  
+/* Hover (Personal preference not important (also can get adjustings))*/
+#root .v-main .contents ul.contributors li a {
+  transition: color .1s ease;
+}
+  
+#root .v-main .contents ul.contributors li:hover a {
+	color: #ffffff!important;
+}
+  
+#root .v-main .contents ul.contributors li a::before {
+	color: #fff!important;
+}
+</style>  
