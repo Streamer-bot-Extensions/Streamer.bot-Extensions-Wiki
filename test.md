@@ -2,7 +2,7 @@
 title: Test Page
 description: 
 published: false
-date: 2022-10-13T14:58:38.715Z
+date: 2022-10-13T14:59:24.781Z
 tags: test
 editor: markdown
 dateCreated: 2022-07-17T18:50:43.167Z
@@ -58,18 +58,5 @@ dateCreated: 2022-07-17T18:50:43.167Z
   margin-right: 5px;
   font-size: .9em;
   line-height: 1.3;
-}
-  
-/* Hover (Personal preference not important (also can get adjustings)) */
-#root .v-main .contents ul.contributors li a {
-  transition: color .1s ease;
-}
-  
-#root .v-main .contents ul.contributors li:hover a {
-	color: #ffffff!important;
-}
-  
-#root .v-main .contents ul.contributors li a::before {
-	color: #fff!important;
 }
 </style>  
