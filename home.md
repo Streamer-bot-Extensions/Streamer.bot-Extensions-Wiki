@@ -22,7 +22,9 @@ This wiki is here to not only provide you with great resources to enhance your s
 
 
 - [ <i class="mdi mdi-new-box" style="color: deepskyblue;"></i> **<span style="color: deepskyblue;">New To Streamer.bot</span> *Filled with extensions to help you get started when using Streamer.bot.*** ](/en/extensions/new-to-sb)
+-  [<i class="mdi mdi-api" style="color: deepskyblue"></i> **<span style="color: deepskyblue">API Extensions</span> *Use Streamer.bot to interact with other programs and API's***](/en/extensions/api-extensions)
 - [<i class="mdi mdi-dice-6" style="color: deepskyblue"></i> **<span style="color: deepskyblue">Chat Games</span> *Filled with games to keep your viewers entertained.***](/en/extensions/chat-games)
+- [<i class="mdi mdi-chat" style="color: deepskyblue"></i> **<span style="color: deepskyblue">First Words</span> *Welcome your viewer to stream in style.***](/en/extensions/first-words)
 - [<i class="mdi mdi-cursor-default-click" style="color: deepskyblue"></i> **<span style="color: deepskyblue">Heat Map</span> *Allow your views to interact with your stream via clicks on there screens.***](/en/extensions/heat-map/heat-map)
 - [<i class="mdi mdi-lightbulb-on" style="color: deepskyblue"></i> **<span style="color: deepskyblue">Lighting Control</span> *Control Lights with Streamer.bot.***](/en/extensions/lighting-control/lighting-control-links)
 - [<i class="mdi mdi-antenna" style="color: deepskyblue"></i> **<span style="color: deepskyblue">OBS Based</span> *Extensions that get the most out of OBS.***](/en/extensions/obs-based-extensions)
