@@ -25,7 +25,7 @@ The output plugin will be in target/
 ## Simple Getting Started
 
 # Tutorial:
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/UHFVpDVwuIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/UHFVpDVwuIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 <sup>
   <sub>Click me ^</sub>

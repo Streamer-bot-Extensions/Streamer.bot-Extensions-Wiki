@@ -9,7 +9,7 @@ dateCreated: 2022-06-28T23:06:49.076Z
 ---
 
 # Tutorial
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/Ey42-dmG-UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/Ey42-dmG-UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 # Import Code
 ```

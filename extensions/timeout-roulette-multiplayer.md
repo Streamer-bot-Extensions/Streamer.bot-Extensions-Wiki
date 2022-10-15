@@ -21,7 +21,7 @@ TlM0RR+LCAAAAAAABADtXW2Xokiy/r7n7H+Y21/3MpdXhf1WWr6gVXarJSq359wDCSIlgiO+lO6Z/34j
 In Streamer.bot select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`.
 
-After importing code you will need to enable commands, because for security reasons they are disable by default when imported. Reset command should be set to mods only, it resets the game in case it got stuck somehow.
+After importing the code you will need to enable commands, because for security reasons they are disable by default when imported. Reset command should be set to mods only, it resets the game in case it got stuck somehow.
 
 Then you need to set the paths to audio files with gun sounds inside `roulette_Engine` action. All text and timeouts are also configurable.
 
@@ -32,7 +32,7 @@ System.dll
 System.Runtime.dll
 ```
 # Configuration
-Inside `roulette_Engine` action you can find manu class attributes which can be changed to you liking, for example sounds, timeouts and printed text.
+Inside `roulette_Engine` action you can find menu class attributes which can be changed to you liking, for example sounds, timeouts and printed text.
 
 Inside `Reset` method you can set how many players can play by changing `NumberOfChambers` and `MaxNumberOfPlayers`.
 

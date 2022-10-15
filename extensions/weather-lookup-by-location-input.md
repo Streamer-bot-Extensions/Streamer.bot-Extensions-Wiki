@@ -95,7 +95,7 @@ TlM0RR+LCAAAAAAABADVW2lv20qW/T7A/AdOBkF3A2FS3MlgMoApW5ttvUiyKInjRqM2UrS4tajFcqP/
 
 >You need to have the weather lookup already installed and configured. If you don't have valid data coming back, then this widget will not work. {.is-danger}
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/IeD4yMU1kQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/IeD4yMU1kQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 There are a couple ways to handle this, either online or having the html page locally on your machine. The choice is up to you.
 

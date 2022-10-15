@@ -8,7 +8,6 @@ editor: markdown
 dateCreated: 2022-07-15T03:09:14.122Z
 ---
 
-# Shout Out Examples
 You will find several different versions of shout outs here, you will find basic ones to slightly more complicated. You can choose to one or choose to use several, ones for walk-ins or ones for raids. Some with clips and some with out.
 
 ## Basic Shoutout
@@ -20,12 +19,12 @@ TlM0RR+LCAAAAAAABADFVUtr3DAQvgfyH5SFpZcosb1+5lKSUNpeemjSQyk5yNLYaypLriTHMSH/vZK9
 
 ## Other Examples
 
-- [Mega Shoutout *by TerrierDarts* *A Visual way to pull the users profile picture, game and link onto the screen*](/en/extensions/shoutouts/mega-shoutout)
-- [Shoutout with Minimum Age *by VRFlad* *Shoutout based on Account Age*](/en/extensions/custom-auto-shout-out-minimum-age-requirements)
+- [Mega Shoutout *A Visual way to pull the users profile picture, game and link onto the screen*](/en/extensions/shoutouts/mega-shoutout)
+- [Shoutout with Minimum Age *Shoutout based on Account Age*](/en/extensions/custom-auto-shout-out-minimum-age-requirements)
 {.links-list}
 
 **Coming Soon Examples**
-- [Awesome Shoutout without Clip *by TerrierDarts* *A Visual Way to show shoutout* ]
-- [Awesome Shoutout with Clip *by TerrierDarts* *A Visual Way to show shoutout including Clip*]
-- [Shoutout Mods or a Group *by VRFlad* *Shoutout all your mods or group in one go*]
+- [Awesome Shoutout without Clip *A Visual Way to show shoutout* ]
+- [Awesome Shoutout with Clip *A Visual Way to show shoutout including Clip*]
+- [Shoutout Mods or a Group *Shoutout all your mods or group in one go*]
 
