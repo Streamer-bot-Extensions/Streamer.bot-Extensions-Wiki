@@ -23,6 +23,7 @@ Here you will find some Extensions that are slightly smaller, but still are very
 - [Power Level](/extensions/power-level)
 - [Random Line Workaround *A Workaround for allow variables into the %line#%*](/extensions/line-variable)
 - [Random Percentage Meter *Gives viewers a random % value of something*](/extensions/random-percentage-meter)
+- [Scene Change Actions *Run an action when you change scenes*](/extensions/scene-switch)
 - [Temp, Dist and Volume Converter *Convert Temp, dist and Volume*](/extensions/temperature-distance-and-volume-converter)
 - [Urban Dictionary *Search for a meaning of a word or Phrase from Urban Dictionary*](/extensions/urban-dictionary)
 {.links-list}

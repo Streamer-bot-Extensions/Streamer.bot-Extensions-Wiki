@@ -31,6 +31,6 @@ A Complete package to get you started.
 
 # Moving over to Streamer.bot
 - [Points Transfer *Import Points and Watchtime from SLCB or Points from SE into Streamer.bot*](/extensions/points-system/points-system-points-transfer)
-- [SteamElements Watchtime Import *Import watchtime from StreamElements* *Coming Soon*](/extensions/steamelements-watchtime-import)
+- [SteamElements Watchtime Import *Import Watchtime from StreamElements*](/extensions/steamelements-watchtime-import)
 - [Quote Importer *Import Quotes from SLCB* *Coming Soon*](/extensions/quote-importer)
 {.links-list}
