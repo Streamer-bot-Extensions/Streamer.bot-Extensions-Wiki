@@ -10,10 +10,10 @@ dateCreated: 2022-04-19T02:20:44.599Z
 
 # Tutorial
 ### Primer Video - Instalación
-<iframe src="https://www.youtube.com/embed/2zd5UWdX6O0" title="YouTube video player" frameborder="0" allow fullscreen style =border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;></iframe>
+<iframe src="https://www.youtube.com/embed/2zd5UWdX6O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 ### Segundo Video - Actualización
-<iframe src="https://www.youtube.com/embed/LeM-f41WJhY" title="YouTube video player" frameborder="0" allow fullscreen style =border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;></iframe>
+<iframe src="https://www.youtube.com/embed/LeM-f41WJhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 > Este proyecto ha tenido varias actualizaciones, y la última actualización añade una pequeña parte de código, por lo que solo será necesario agregar las referencias en un solo lugar. Esto no se menciona en los videos tutoriales. 
 > 

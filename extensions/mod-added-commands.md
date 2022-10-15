@@ -10,10 +10,10 @@ dateCreated: 2022-04-25T13:20:44.129Z
 
 # Tutorial
 ### First Video - Installation
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/2zd5UWdX6O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/2zd5UWdX6O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 ### Second Video - Update
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/LeM-f41WJhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/LeM-f41WJhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 > This project has had several updates, the latest update means there is one single bit of code so you only need to add references in one place. This is not mentioned in the tutorial videos.
 {.is-info}

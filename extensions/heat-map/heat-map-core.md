@@ -2,7 +2,7 @@
 title: Heat Map Core Installation
 description: Core Installation of Heat Map, Heat Map allows your viewers to click on the screen and intract with it.
 published: true
-date: 2022-07-28T15:25:57.625Z
+date: 2022-09-12T15:12:36.819Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-30T17:36:34.089Z
@@ -10,9 +10,11 @@ dateCreated: 2022-05-30T17:36:34.089Z
 
 Code Updated : 28 July 2022
 
+> This code is currently only working with WS 4.9 {.is-danger}
+
 # Tutorial
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/bU3Gwd2JVd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/bU3Gwd2JVd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 **Tutorial done by [TerrierDarts](https://www.Twitch.tv/TerrierDarts)**
 

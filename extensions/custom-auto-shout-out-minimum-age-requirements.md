@@ -10,7 +10,7 @@ dateCreated: 2022-05-17T00:41:22.246Z
 
 # Tutorial
 <br>
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/oRIMafDpP-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/oRIMafDpP-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 # Installation
 >REQUIRES Streamer.bot 0.1.4 or later for account age!

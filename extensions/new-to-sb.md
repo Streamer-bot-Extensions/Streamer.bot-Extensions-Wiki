@@ -2,7 +2,7 @@
 title: New to Streamer.bot
 description: Here you will find a good collection of Extensions and Tools, for users that are new to Streamer.bot.
 published: true
-date: 2022-09-06T14:59:41.243Z
+date: 2022-10-15T13:58:45.123Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T13:18:09.461Z
@@ -20,13 +20,17 @@ A Complete package to get you started.
 - [Followage *A Few different FollowAge Examples*](/extensions/followage-command.md)
 - [Giveaways *A couple of different ways to run giveaways*](/extensions/giveaways.md)
 - [Points System *Built for SB it's very own currency point system and many games/tools*](/en/extensions/points-system/points-system-links)
+- [Mod Added Commands *Allow Mods to Create chat based commands*](/extensions/mod-added-commands)
+- [Scene Specific Actions *Run Actions for when you swap Scene Easily*  *Coming Soon*](/extensions/scene-switch)
 - [Set Game and Title *Allow Mods to change the game and title* *Coming Soon*]()
 - [Shoutouts *Examples of how to do Shoutouts in SB*](/extensions/shoutouts/shoutout-examples)
 - [Uptime *How long have you been streaming?*](/extensions/uptime.md)
+- [User Queue System *A queue system for Streamer.Bot, play with viewers ect..*](/extensions/user-queue-system)
 - [Watchtime *Watchtime built for SB*](/extensions/watchtime)
 {.links-list}
 
 # Moving over to Streamer.bot
-- [Points Transfer *Move Points from SLCB or SE into Streamer.bot*](/extensions/points-system/points-system-points-transfer)
-- [Quote Importer *Import Quotes from SLCB* *Coming Soon*]()
+- [Points Transfer *Import Points and Watchtime from SLCB or Points from SE into Streamer.bot*](/extensions/points-system/points-system-points-transfer)
+- [SteamElements Watchtime Import *Import watchtime from StreamElements* *Coming Soon*](/extensions/steamelements-watchtime-import)
+- [Quote Importer *Import Quotes from SLCB* *Coming Soon*](/extensions/quote-importer)
 {.links-list}
