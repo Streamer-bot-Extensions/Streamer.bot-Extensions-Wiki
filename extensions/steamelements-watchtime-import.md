@@ -1,8 +1,8 @@
 ---
 title: Streamelements Watchtime Import (by GoWMan)
 description: Import Watchtime from Streamelements into Streamerbot
-published: false
-date: 2022-10-10T17:46:26.090Z
+published: true
+date: 2022-10-15T20:06:38.115Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-10T17:46:26.090Z
