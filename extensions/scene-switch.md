@@ -1,12 +1,18 @@
 ---
 title: Scene Switch Actions
 description: Run Actions for When you Swap Scenes
-published: false
-date: 2022-10-15T14:00:04.837Z
+published: true
+date: 2022-10-15T23:12:19.967Z
 tags: scene, swap, change, scenes
 editor: markdown
 dateCreated: 2022-10-15T14:00:04.837Z
 ---
+
+> This extension requires SB 0.1.14 to work.
+{.is-info}
+
+
+
 
 # Tutorial
 
