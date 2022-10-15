@@ -2,7 +2,7 @@
 title: Test Page
 description: 
 published: false
-date: 2022-10-15T23:36:15.553Z
+date: 2022-10-15T23:41:19.501Z
 tags: test
 editor: markdown
 dateCreated: 2022-07-17T18:50:43.167Z
@@ -42,25 +42,25 @@ dateCreated: 2022-07-17T18:50:43.167Z
 
 #root .v-main .contents ul.contributors li a.twitch::before {
   content: "\F0543";
-  color: "#fff";
-  background-color: #6441a5;
+  color: #FFF;
+  background-color: #6441A5;
 }
   
 #root .v-main .contents ul.contributors li a.youtube::before {
   content: "\F05C3";
-  color: "#fff";
+  color: #FFF;
   background-color: #FF0000;
 }
   
 #root .v-main .contents ul.contributors li a.twitter::before {
   content: "\F0544";
-  color: "#fff";
+  color: #FFF;
   background-color: #1DA1F2;
 }
   
 #root .v-main .contents ul.contributors li a.github::before {
   content: "\F02A4";
-  color: "#fff";
+  color: #FFF";
   background-color: #171515;
 }
 </style>  
