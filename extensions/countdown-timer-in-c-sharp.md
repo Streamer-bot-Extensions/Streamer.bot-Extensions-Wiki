@@ -2,7 +2,7 @@
 title: Countdown Timer in C# (by rondhi)
 description: Using this extension you will be able to create countdown timers in Streamerbot.
 published: true
-date: 2022-08-14T00:45:46.596Z
+date: 2022-10-16T01:45:24.396Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T02:28:57.585Z
@@ -39,5 +39,6 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> rondhi](https://www.twitch.tv/rondhi)
+- [<i class="mdi mdi-twitch"></i> rondhi](https://www.twitch.tv/rondhi)
+{.contributors}
 
