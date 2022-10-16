@@ -2,7 +2,7 @@
 title: Point System
 description: A point System Built fully for the use in Streamerbot
 published: true
-date: 2022-08-22T12:08:23.983Z
+date: 2022-10-16T13:59:02.004Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-22T12:07:44.998Z
@@ -34,10 +34,10 @@ Below you can find the core Points System and a list of all the extensions that 
 ## Points System (Games)
 
 * [Boss Battles *Get your viewers to band together to beat the boss*](/extensions/points-system/points-system-boss-battles)
-* [Casino Style Roulette *Coming Soon*](/extensions/points-system/points-system-roulette)
+* [Casino Style Roulette *Coming Soon*](/extensions/points-system/points-system-roulette){.disabled}
 * [Free For All's *Run Free-For-Alls and see who is the winner.*](/extensions/points-system/points-system-free-for-alls)
 * [Gamble *Gamble your points with this game.*](/extensions/points-system/points-system-gamble)
-* [Heist *Coming Soon*](/extensions/points-system/points-system-heist)
+* [Heist *Coming Soon*](/extensions/points-system/points-system-heist){.disabled}
 * [Lotto *Run Lotto Draws on your Stream.*](/extensions/points-system/points-system-lotto)
 * [Raffle *Run Raffles on your stream with plenty of control.*](/extensions/points-system/points-system-raffle)
 * [Slots *A Classic Slots Game.*](/extensions/points-system/points-system-slots)
