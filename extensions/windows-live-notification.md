@@ -2,7 +2,7 @@
 title: Windows Live Notification
 description: Have a Windows Live Notification to welcome first time chatters into stream. 
 published: true
-date: 2022-10-16T14:53:09.747Z
+date: 2022-10-16T14:54:05.433Z
 tags: first, words, overlay, windows, live, notification
 editor: markdown
 dateCreated: 2022-10-16T14:53:09.747Z
@@ -17,7 +17,7 @@ There is no Import Code for this what you need to do is create a blank action ca
 The important Sub-Action is `Action(WLN)` as the pop-up will trigger when that Sub-Action runs. 
 
 
-Next thing to do is to download the files, this contains
+Next thing to do is to download the files, this contains all the files you will need for this overlay.
 - [<i class="mdi mdi-file-document"></i> Windows Live Notification Download](/extensions/windows-live/windows-live-notif.zip)
 {.btn-grid .my-5}
 
