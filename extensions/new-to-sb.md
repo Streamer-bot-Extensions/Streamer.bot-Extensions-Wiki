@@ -2,7 +2,7 @@
 title: New to Streamer.bot
 description: Here you will find a good collection of Extensions and Tools, for users that are new to Streamer.bot.
 published: true
-date: 2022-10-16T14:00:12.753Z
+date: 2022-10-16T15:03:48.615Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T13:18:09.461Z
@@ -21,7 +21,7 @@ A Complete package to get you started.
 - [Giveaways *A couple of different ways to run giveaways*](/extensions/giveaways.md)
 - [Points System *Built for SB it's very own currency point system and many games/tools*](/en/extensions/points-system/points-system-links)
 - [Mod Added Commands *Allow Mods to Create chat based commands*](/extensions/mod-added-commands)
-- [Scene Specific Actions *Run Actions for when you swap Scene Easily*  *Coming Soon*](/extensions/scene-switch){.disabled}
+- [Scene Specific Actions *Run Actions for when you swap Scene Easily*](/extensions/scene-switch)
 - [Set Game and Title *Allow Mods to change the game and title* *Coming Soon*](){.disabled}
 - [Shoutouts *Examples of how to do Shoutouts in SB*](/extensions/shoutouts/shoutout-examples)
 - [Uptime *How long have you been streaming?*](/extensions/uptime.md)
