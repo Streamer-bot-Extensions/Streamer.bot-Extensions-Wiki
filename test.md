@@ -2,7 +2,7 @@
 title: Test Page
 description: 
 published: false
-date: 2022-10-16T00:06:26.895Z
+date: 2022-10-16T00:08:32.564Z
 tags: test
 editor: markdown
 dateCreated: 2022-07-17T18:50:43.167Z
@@ -61,6 +61,6 @@ dateCreated: 2022-07-17T18:50:43.167Z
 #root .v-main .contents ul.contributors li a.github::before {
   content: "\F02A4";
   color: #FFF;
-  background-color: #151517;
+  background-color: #171515;
 }
 </style>  
