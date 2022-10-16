@@ -2,7 +2,7 @@
 title: Timed VIP
 description: Allow your viewers to claim VIP for a short period of time
 published: true
-date: 2022-10-16T18:18:42.516Z
+date: 2022-10-16T18:32:43.557Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-01T15:16:38.163Z
@@ -37,12 +37,13 @@ You will also need to tie the "Start Streaming Event" to the `Check/Remove expir
 
 # Configuration
 In the `[Channel Reward] Add user as timed VIP` they are a few settings you can change.
-|Argument|Purpose|
-|---|---|
-|`vipDays`| This is the number of days a user will have VIP as standard|
-|`subscriberVipDays`| This is the number of days a Sub will get if they redeem|
-|`allowAdding`| This will control whether a user can stack days up for VIP or not|
-|`maxAllowedVips`| This is how many people you would like to get VIP as they are limited and you may also want some people to have it permanently.| 
+
+Argument|Purpose
+-------:|:-------
+`vipDays`| This is the number of days a user will have VIP as standard
+`subscriberVipDays`| This is the number of days a Sub will get if they redeem
+`allowAdding`| This will control whether a user can stack days up for VIP or not
+`maxAllowedVips`| This is how many people you would like to get VIP as they are limited and you may also want some people to have it permanently.
 
 # Extended Features
 
