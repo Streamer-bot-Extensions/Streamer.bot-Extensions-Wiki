@@ -2,7 +2,7 @@
 title: Heat Map
 description: Heap Map is a Twitch Extension that allows users to click and interact with your stream.
 published: true
-date: 2022-07-24T06:12:58.416Z
+date: 2022-10-16T14:01:06.858Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-28T17:32:18.959Z
@@ -18,9 +18,9 @@ Heat Map, allows users to click on your stream to trigger actions.
 
 ## Heat Games
 
-- [Create Disk/Pointer *Coming Soon*]()
+- [Create Disk/Pointer *Coming Soon*](){.disabled}
 - [Mario Clicker *by TerrierDarts*  *Allow Users to click on your screen and gain lives!*](/en/extensions/heat-map/mario-clicker)
-- [Tower Block Game *Coming Soon*]()
+- [Tower Block Game *Coming Soon*](){.disabled}
 
 {.links-list}
 
