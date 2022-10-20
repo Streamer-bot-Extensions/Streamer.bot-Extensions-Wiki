@@ -2,13 +2,13 @@
 title:  Welcome to Streamer.bot Extensions
 description: This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
 published: false
-date: 2022-10-20T11:48:39.664Z
+date: 2022-10-20T11:49:45.335Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T17:41:21.650Z
 ---
 
-*OBS WS v5.x*{.obs-version-badge} 
+*OBS WS v5.x*{.obs-version-badge} *OBS WS v4.9.x (with browser source widgets)*{.obs-version-badge} 
 
 # Tutorial
 <div class=“iframe-container”><iframe src="https://www.youtube.com/embed/tEMan7s0XAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
