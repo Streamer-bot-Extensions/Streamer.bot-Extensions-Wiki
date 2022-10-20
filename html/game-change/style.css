@@ -1,0 +1,334 @@
+:root {
+  --oldGame: url("");
+}
+
+.box {
+  position: relative;
+  display: block;
+  margin: auto;
+  margin-top: 6%;
+  height: 400px;
+  width: 600px;
+}
+
+.shell {
+  position: absolute;
+  width: 40%;
+  height: 90%;
+  top: 5%;
+  left: 30%;
+  background: #4F5DB6;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.cartridge-indent {
+  position: absolute;
+  width: 70%;
+  height: 20%;
+  left: 15%;
+  background: #34438E;
+  z-index: 2;
+}
+
+.cartridge-indent-copy {
+  position: absolute;
+  width: 100%;
+  height: 40%;
+  bottom: -30%;
+  background: #4F5DB6;
+  z-index: 2;
+}
+
+.info-indent {
+  position: absolute;
+  width: 90%;
+  height: 30%;
+  left: 5%;
+  top: 26%;
+  background: #4251A3;
+  z-index: 2;
+  border-radius: 5px;
+}
+
+.sticker {
+  width: 95%;
+  height: 90%;
+  top: 5%;
+  left: 2.5%;
+  position: absolute;
+  background: #A9B3BC;
+  border-radius: 5px;
+}
+
+.battery-indent {
+  position: absolute;
+  width: 80%;
+  height: 30%;
+  left: 10%;
+  bottom: 10%;
+  background: #4251A3;
+  z-index: 2;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.logo-indent {
+  position: absolute;
+  width: 50%;
+  height: 30%;
+  left: 25%;
+  top: 35%;
+  opacity: 0.2;
+  background: black;
+  z-index: 2;
+  border-radius: 5px;
+}
+
+.hole-1 {
+  position: absolute;
+  top: 15%;
+  left: 5%;
+  background: black;
+  border-radius: 50%;
+  width: 5.5%;
+  height: 4%;
+  opacity: 0.2;
+}
+
+.hole-2 {
+  position: absolute;
+  top: 15%;
+  right: 5%;
+  background: black;
+  border-radius: 50%;
+  width: 5.5%;
+  height: 4%;
+  opacity: 0.2;
+}
+
+.hole-3 {
+  position: absolute;
+  top: 40%;
+  right: 0%;
+  background: black;
+  border-radius: 50%;
+  width: 5.1%;
+  height: 4.5%;
+  opacity: 0.2;
+  z-index: 3;
+}
+
+.hole-4 {
+  position: absolute;
+  top: 40%;
+  left: 0%;
+  background: black;
+  border-radius: 50%;
+  width: 5.1%;
+  height: 4.5%;
+  opacity: 0.2;
+  z-index: 3;
+}
+
+.battery-clip-indent {
+  position: absolute;
+  width: 20%;
+  height: 30%;
+  left: 40%;
+  bottom: -15%;
+  background: #34438E;
+  z-index: 2;
+  border-radius: 0px;
+}
+
+.clip {
+  position: absolute;
+  height: 30%;
+  width: 60%;
+  top: 35%;
+  left: 20%;
+  opacity: 0.3;
+  background: black;
+  border-radius: 2px;
+}
+
+.cartridge {
+  position: absolute;
+  width: 99%;
+  left: 0.75%;
+  top: -5%;
+  height: 240%;
+  background: #DC1429;
+  z-index: -1;
+}
+
+.do-slide-in {
+  animation: slide-in 10s 1;
+}
+
+.cartridge-logo-indent {
+  position: absolute;
+  width: 70%;
+  height: 18%;
+  left: 15%;
+  background: black;
+  opacity: 0.1;
+  top: 5%;
+  border-radius: 40px;
+}
+
+.cartridge-cover {
+  position: absolute;
+  background: #CE0E1E;
+  width: 75%;
+  left: 12.5%;
+  height: 60%;
+  top: 28%;
+  border-radius: 5px;
+}
+
+.stripe-left {
+  position: absolute;
+  height: 100%;
+  width: 10%;
+  background: #BBC4D7;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.cover-art {
+  position: absolute;
+  background: var(--oldGame);
+  height: 100%;
+  width: 80%;
+  left: 10%;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+
+.stripe-right {
+  position: absolute;
+  height: 100%;
+  width: 10%;
+  right: 0%;
+  background: #BBC4D7;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.triangle {
+  position: absolute;
+  height: 10%;
+  width: 15%;
+  left: 42.5%;
+  transform: rotate(180deg);
+  bottom: -1%;
+  opacity: 0.2;
+  background: black;
+  -webkit-clip-path: polygon(50% 37%, 0% 100%, 100% 100%);
+  clip-path: polygon(50% 37%, 0% 100%, 100% 100%);
+}
+
+.indent-1 {
+  position: absolute;
+  background: black;
+  opacity: 0.1;
+  left: 0%;
+  top: 7%;
+  width: 15%;
+  height: 2.75%;
+  border-bottom-right-radius: 5px;
+}
+
+.indent-2 {
+  position: absolute;
+  background: black;
+  opacity: 0.1;
+  left: 0%;
+  top: 12%;
+  width: 15%;
+  height: 2.75%;
+  border-bottom-right-radius: 5px;
+}
+
+.indent-3 {
+  position: absolute;
+  background: black;
+  opacity: 0.1;
+  left: 0%;
+  top: 17%;
+  width: 15%;
+  height: 2.75%;
+  border-bottom-right-radius: 5px;
+}
+
+.indent-4 {
+  position: absolute;
+  background: black;
+  opacity: 0.1;
+  right: 0%;
+  top: 7%;
+  width: 15%;
+  height: 2.75%;
+  border-bottom-left-radius: 5px;
+}
+
+.indent-5 {
+  position: absolute;
+  background: black;
+  opacity: 0.1;
+  right: 0%;
+  top: 12%;
+  width: 15%;
+  height: 2.75%;
+  border-bottom-left-radius: 5px;
+}
+
+.indent-6 {
+  position: absolute;
+  background: black;
+  opacity: 0.1;
+  right: 0%;
+  top: 17%;
+  width: 15%;
+  height: 2.75%;
+  border-bottom-left-radius: 5px;
+}
+
+@keyframes slide-in {
+  0% {
+    top: -5%;
+  }
+  50% {
+    top: -500%;
+  }
+  100% {
+    top: -5%;
+  }
+}
+@media all and (max-width: 600px) {
+  .box {
+    margin-top: 100px;
+    width: 250px;
+    height: 175px;
+  }
+
+  .shell {
+    position: absolute;
+    width: 40%;
+    height: 90%;
+    top: 5%;
+    left: 30%;
+    background: #4F5DB6;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+}
