@@ -2,39 +2,65 @@
 title: Test Page
 description: 
 published: false
-date: 2022-09-02T14:42:09.607Z
+date: 2022-10-16T00:08:32.564Z
 tags: test
 editor: markdown
 dateCreated: 2022-07-17T18:50:43.167Z
 ---
 
-*Made by [ik#1497]()*{.credit-badge}
+# Contributors
+- [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
+- [Farlezz](https://www.twitch.tv/Farlezz){.youtube}
+- [Farlezz](https://www.twitch.tv/Farlezz){.twitter}
+- [Farlezz](https://www.twitch.tv/Farlezz){.github}
+{.contributors}
 
-## Testing Environment
+# Contributors
+- [<i class="mdi mdi-twitch"></i> GoWMan](https://www.twitch.tv/GoWMan)
+- [<i class="mdi mdi-twitch"></i> GoWMan](https://www.twitch.tv/GoWMan)
+{.contributors}
 
-<div id="floatingHelp" class="floating-help">
-    <i class="fa fa-lightbulb-o fa-3x" aria-hidden="true"></i>
-    <div class="help">          
-        <iframe src='https://ideas.botextensions.dev/embed/ideas' style="
-  width: 100%;
-  height: 100%;
-"></iframe>
-    </div>
-</div>
+<br>
 
----
+<style>
+/* Ease Of Use */
+#root .v-main .contents ul.contributors li a.twitch::before,
+#root .v-main .contents ul.contributors li a.youtube::before,
+#root .v-main .contents ul.contributors li a.twitter::before,
+#root .v-main .contents ul.contributors li a.github::before {
+  font: normal normal normal 24px/1 Material Design Icons;
+  display: inline-block;
+  font-size: inherit;
+  text-rendering: auto;
+  line-height: inherit;
+  border-radius: 7px;
+  padding-inline: 2px;
+  margin-right: 5px;
+  font-size: .9em;
+  line-height: 1.3;
+}
 
-## Contributors
-- [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/dd70b1ec-b906-416a-8a56-d067bda64514-profile_image-300x300.png"/>**GoWMan *Made something COOL!***]()
-- [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/c53eb11e-d233-4268-b884-058692fe0a4a-profile_image-300x300.png"/>**Lyfesaver74 *Made something Amazing!***]()
-- [<img src="https://static-cdn.jtvnw.net/jtv_user_pictures/f632e0c6-38e2-4065-a29e-6ba9b3e8cacf-profile_image-300x300.png"/>**nutty *Here for emotional support!***]()
-{.btn-grid .my-5}
-
-### ![image](/logos/twitch-6860918_1280.png =25x) [MarkusoOoO](https://www.twitch.tv/markusoooo) 
-www.google.com {.contributor}
-
-Join the <span class="text--discord">Discord Server</span> down below!
-
-- ![image](/logos/twitch-6860918_1280.png =20x) [*MarkusoOoO*](https://www.twitch.tv/markusoooo)
-- ![image](/logos/twitch-6860918_1280.png =20x) [*TerrierDarts*](https://www.twitch.tv/TerrierDarts)
-{.grid-list}
+#root .v-main .contents ul.contributors li a.twitch::before {
+  content: "\F0543";
+  color: #FFF;
+  background-color: #6441A5;
+}
+  
+#root .v-main .contents ul.contributors li a.youtube::before {
+  content: "\F05C3";
+  color: #FFF;
+  background-color: #FF0000;
+}
+  
+#root .v-main .contents ul.contributors li a.twitter::before {
+  content: "\F0544";
+  color: #FFF;
+  background-color: #1DA1F2;
+}
+  
+#root .v-main .contents ul.contributors li a.github::before {
+  content: "\F02A4";
+  color: #FFF;
+  background-color: #171515;
+}
+</style>  
