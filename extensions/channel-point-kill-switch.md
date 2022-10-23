@@ -18,7 +18,7 @@ In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
 
-![channel-point-kill-switch-import.png](../assets/channel-point-kill-switch/images/channel-point-kill-switch-import.png)
+![channel-point-kill-switch-import.png](/assets/channel-point-kill-switch/images/channel-point-kill-switch-import.png)
 
 # Configuration
 ```text

@@ -21,35 +21,35 @@ TlM0RR+LCAAAAAAABADtV2lv8lYW/j7S/AeUT1NNibywuVI/BAeMCXEDBBs8vB98Fy/heqkXiKn633ts
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`.
 
-![points-system-points-transfer-import.png](../assets/points-system/images/points-system-points-transfer-import.png)
+![points-system-points-transfer-import.png](/assets/points-system/images/points-system-points-transfer-import.png)
 
 For Streamelements points [Streamelements-CSV](https://github.com/Slikrick/streamelements-csv) is needed to export points to a CSV file.
 
 For Streamlabs click on connections in the bottom left corner.  Next click on cloud and then click Export Currency CSV and save the CSV file on a local readable drive.
-![points-system-stream-labs-chat-bot.png](../assets/points-system/images/points-system-stream-labs-chat-bot.png)
+![points-system-stream-labs-chat-bot.png](/assets/points-system/images/points-system-stream-labs-chat-bot.png)
 
 Set the file path in the appropriate `Action` to point to the exported CSV file.
-![points-system-points-transfer-set-file-path.png](../assets/images/points-system-points-transfer-set-file-path.png)
+![points-system-points-transfer-set-file-path.png](/assets/images/points-system-points-transfer-set-file-path.png)
 
 Add a new `Command` called `!transferse` for Streamelements or `!transfersl` for Streamlabs and point to the appropriate action.
-![points-system-points-transfer-create-command-se.png](../assets/points-system/images/points-system-points-transfer-create-command-se.png)
-![points-system-points-transfer-create-command-sl.png](../assets/points-system/images/points-system-points-transfer-create-command-sl.png)
+![points-system-points-transfer-create-command-se.png](/assets/points-system/images/points-system-points-transfer-create-command-se.png)
+![points-system-points-transfer-create-command-sl.png](/assets/points-system/images/points-system-points-transfer-create-command-sl.png)
 
 ## C# References
 In both `Actions` there is an `Execute Code`.
-![points-system-points-transfer-execute-code.png](../assets/points-system/images/points-system-points-transfer-execute-code.png)
+![points-system-points-transfer-execute-code.png](/assets/points-system/images/points-system-points-transfer-execute-code.png)
 
 Each `Execute Code` will display errors when hitting `Compile`.
-![points-system-points-transfer-c-sharp-errors.png](../assets/points-system/images/points-system-points-transfer-c-sharp-errors.png)
+![points-system-points-transfer-c-sharp-errors.png](/assets/points-system/images/points-system-points-transfer-c-sharp-errors.png)
 
 To add the references needed `Right Click` in the `References` tab.
-![points-system-points-transfer-add-reference-from-file.png](../assets/points-system/images/points-system-points-transfer-add-reference-from-file.png)
+![points-system-points-transfer-add-reference-from-file.png](/assets/points-system/images/points-system-points-transfer-add-reference-from-file.png)
 
 Click `Add reference from file...` then type `Microsoft.Visual.Basic.dll` and hit `Open`.
-![points-system-points-transfer-visual-basic.png](../assets/points-system/images/points-system-points-transfer-visual-basic.png)
+![points-system-points-transfer-visual-basic.png](/assets/points-system/images/points-system-points-transfer-visual-basic.png)
 
 Next click `Compile` and a message saying `Compiled Succesful!` should appear.
-![points-system-points-transfer-compile-success.png](../assets/points-system/images/points-system-points-transfer-compile-success.png)
+![points-system-points-transfer-compile-success.png](/assets/points-system/images/points-system-points-transfer-compile-success.png)
 
 Hit `Save and Compile` and the `Action` is ready to be executed.
 

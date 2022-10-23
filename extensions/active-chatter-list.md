@@ -17,14 +17,14 @@ TlM0RR+LCAAAAAAABADFlctu3CAUhveV+g7WSNmFCDBgyK6t1CibLhIpXXS64HKcWPLYUwy5KMq719iZ
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![active-chatter-import.png](../assets/active-chatter-list/images/active-chatter-import.png)
+![active-chatter-import.png](/assets/active-chatter-list/images/active-chatter-import.png)
 
 # Configuration
 Double click the `Subaction` `Write to file` and then change the `File Path` to point to a valid text file.
-![active-chatter-write-to-file.png](../assets/active-chatter-list/images/active-chatter-write-to-file.png)
+![active-chatter-write-to-file.png](/assets/active-chatter-list/images/active-chatter-write-to-file.png)
 
 Next tie the `First Words` `Action` to the `First Words Event`.
-![active-chatter-first-words-event.png](../assets/active-chatter-list/images/active-chatter-first-words-event.png)
+![active-chatter-first-words-event.png](/assets/active-chatter-list/images/active-chatter-first-words-event.png)
 
 Now there is always a clean list of only the people who have spoken so far during stream. 
 

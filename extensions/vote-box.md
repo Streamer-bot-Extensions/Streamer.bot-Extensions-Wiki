@@ -15,7 +15,7 @@ dateCreated: 2022-06-11T08:12:10.045Z
 A basic Yes or No tool to ask anything to your community, not based on predictions, work with commands input (!1 = yes ; !2 = nop )<br>
 Users can't enter a choice 2 times.<br>
 2 other commands : to launch a new vote : !VoteNow ( a new vote will auto reset ) and reset the box ( !resetVoteBox )<br>
-![image](../assets/vote-box/images/172442196-cd673f7a-dcb9-49db-b544-cd7633cd98f4.gif)
+![image](/assets/vote-box/images/172442196-cd673f7a-dcb9-49db-b544-cd7633cd98f4.gif)
 
 ### Required files
 - [OBS StreamFX Plugin](https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/)
@@ -34,11 +34,11 @@ TlM0RR+LCAAAAAAABADtvdlSHMuWIPreZv0PWbI6Zqesju/r83DM+kGwBQJJaIsZSmUyHyE3OXDIBAmV
 ## Configuration
 
 The only information that need to be entered is the path of your obs in the action " VOTEBOX creator " , so the widget can check if you have necessary plugins. If you don't have them a like will be write in your chat. after that , you will use the !createVoteBox command and the constructor will create a new scene with all elements. <br>
-![image](../assets/vote-box/images/172441672-610ea0bd-649e-4153-88af-d9d5fb088ca6.png)
+![image](/assets/vote-box/images/172441672-610ea0bd-649e-4153-88af-d9d5fb088ca6.png)
 
 DLL's To Reference :
 In the action VOTEBOX Launch Vote : open the Execute Code called ' Voters ' , and add references the image is showing. <br>
-![image](../assets/vote-box/images/172444096-9a69a57f-3024-423c-be85-2a09b027d594.png)
+![image](/assets/vote-box/images/172444096-9a69a57f-3024-423c-be85-2a09b027d594.png)
 
 2 more actions to check : 'VOTEBOX YEP add+1' and 'VOTEBOX NOP add+1', on both of these actions, open the Execute Code Named " Check Voters " and add same references as above. 
 

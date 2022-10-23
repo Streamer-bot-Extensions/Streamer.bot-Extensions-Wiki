@@ -21,18 +21,18 @@ Copy the `Import Code` and paste it into the `Import String`.
 # Configuration
 
 There are 2 `Actions` for this tool :
-![Main_Actions_BlackListed_Words_Auto_Moderation](../assets/blacklisted-words-auto-moderation/images/170503420-d14672f3-ae86-4a4f-b1fd-51a95f06f102.png)
+![Main_Actions_BlackListed_Words_Auto_Moderation](/assets/blacklisted-words-auto-moderation/images/170503420-d14672f3-ae86-4a4f-b1fd-51a95f06f102.png)
 
 `Add Black-Listed Word To words.txt File`
 
-![SubActions](../assets/blacklisted-words-auto-moderation/images/170502929-96f26575-1038-4dc0-add9-3ed6b2a09ec9.png)
+![SubActions](/assets/blacklisted-words-auto-moderation/images/170502929-96f26575-1038-4dc0-add9-3ed6b2a09ec9.png)
 Set the complete directory to a .txt named `words.txt`
 Create a `Command` to this `Action` 
 >(e.g. : !addBadword ) 
 
 `Check Badword/TimeOut if found [Message Event]`
 
-![Check_Messages_For_BlackListed_Words_Erase_Or_Time_Out](../assets/blacklisted-words-auto-moderation/images/subactions_blacklisted_words_automoderation.png)
+![Check_Messages_For_BlackListed_Words_Erase_Or_Time_Out](/assets/blacklisted-words-auto-moderation/images/subactions_blacklisted_words_automoderation.png)
 Enter the Name of your bot account.
 Set the complete directory to the .txt you created before
 Set the `duration` of the `Time Out` 

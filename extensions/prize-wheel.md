@@ -17,7 +17,7 @@ TlM0RR+LCAAAAAAABADtXF1vY8cNfS/Q/6AYyFtYDGc4X31LX4o8NAHSIkAR5IEzw0mMeuWtLGezCPLf
 # Installation
 ## Prerequisite
 
-You can find all files together in this [link](../assets/prize-wheel/files/Roulette-by-MarkusoOoO.zip) in zip folder and all guide informations are in `Readme.txt` file. 
+You can find all files together in this [link](/assets/prize-wheel/files/Roulette-by-MarkusoOoO.zip) in zip folder and all guide informations are in `Readme.txt` file. 
 
 *OBS v27.1.3+ (if you are using v27.2.0+ please make sure to also update Move transition plugin (find link below) to latest version, otherwise your OBS will crash) >>> https://obsproject.com/download
 
@@ -99,11 +99,11 @@ let index = weightedRand12({0:0.25, 1:0.0, 2:0.0, 3:0.0, 4:0.0, 5:0.0, 6:0.50, 7
 ## Add / Remove number of prizes / items
 In `script.js` starting on line 9, is array of `prizes`. Just delete/add how many prizes you want to have in your wheel (example with 3 prizes is on image below).
 
-![prize-wheel.png](../assets/prize-wheel/images/prize-wheel.png)
+![prize-wheel.png](/assets/prize-wheel/images/prize-wheel.png)
 
 In `style.css` I did a little change to make this easier to modify. On line 94, there is css selector for class `bg`. On line 95 you need to change `transform` value to this > `rotate(calc(360deg/X));` where X is presents number of prizes you want to have in your wheel (look at the second screenshot below for my example with 3 prizes).
 
-![prize-wheel.png](../assets/prize-wheel/images/prize-wheel1.png)
+![prize-wheel.png](/assets/prize-wheel/images/prize-wheel1.png)
 
 If you want to have more than 12 prizes in the wheel (so, to add more of them, then what is in default template), you also need to add more code, because in `style.css` starting from lines 75, there are classes specified only for 12 prizes. So just copy code from below as many times as you need to, to manipulate those backgrounds (otherwise those backgrounds will stay white). Just change X for each prize number starting with 13 and put your RGB value in background-color.
 ```

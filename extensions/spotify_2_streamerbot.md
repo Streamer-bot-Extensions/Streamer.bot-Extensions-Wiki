@@ -16,7 +16,7 @@ dateCreated: 2022-10-10T17:47:03.419Z
 
 # Import File
 Drag and drop this file into your `Import Pane`.
-[Tiny Spot](../assets/spotify/files/TinySpot.sb)
+[Tiny Spot](/assets/spotify/files/TinySpot.sb)
 
 # Installation
 > In order to get full functionality like song request [command !sr ] to add song to song queue , you MUST be premium spotify user. it's not only because not being premium will cast ads too, but it's also spotify API limitation.
@@ -39,7 +39,7 @@ On the right side , click on the " edit Settings " green button, under the line 
 ## OBS Scene Importation
 
 Using Source Copy Plugin, go to Tools tab in OBS, source copy > load scene , find the location of [NS] SPOTIFY.json file that you downloaded. 
-[Tiny Spot Source Copy](../assets/spotify/files/Tiny%20Spot%20Source%20Copy.zip)
+[Tiny Spot Source Copy](/assets/spotify/files/Tiny%20Spot%20Source%20Copy.zip)
 
 
 3 plugins are needed : 

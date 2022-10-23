@@ -21,12 +21,12 @@ In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
 
-![add-favorite-synth-riders-import.png](../assets/add-favorite-synth-riders/images/add-favorite-synth-riders-import.png)
+![add-favorite-synth-riders-import.png](/assets/add-favorite-synth-riders/images/add-favorite-synth-riders-import.png)
 
 # Configuration
 Update the path to your synth riders folder (the code will let you know if it is incorrect). 
 
-![add-favorite-synth-riders-path.png](../assets/add-favorite-synth-riders/images/add-favorite-synth-riders-path.png)
+![add-favorite-synth-riders-path.png](/assets/add-favorite-synth-riders/images/add-favorite-synth-riders-path.png)
 
 
 The code will set `Variable` `songrequest` that you can use to do a custom message or Twitchspeaker message.

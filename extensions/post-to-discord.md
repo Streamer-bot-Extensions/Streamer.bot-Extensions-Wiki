@@ -21,16 +21,16 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 ## Discord
 Go to your Discord Server `Settings > Integrations` and click new `Web Hook`.
-![post-to-discord-1.png](../assets/post-to-discord/images/post-to-discord-1.png)
+![post-to-discord-1.png](/assets/post-to-discord/images/post-to-discord-1.png)
 
 Choose a channel for it to post to and give it a name, anything will do.
-![post-to-discord-1.png](../assets/post-to-discord/images/post-to-discord-2.png)
+![post-to-discord-1.png](/assets/post-to-discord/images/post-to-discord-2.png)
 
 Copy the Webhook URL - you will need this for the c# code later so save it somewhere for now.
 
 ## Streamer.bot
 Change the `Sub-action` `OBS Raw (Take Screenshot)` to match your setup.
-![post-to-discord-obs-raw.png](../assets/post-to-discord/images/post-to-discord-obs-raw.png)
+![post-to-discord-obs-raw.png](/assets/post-to-discord/images/post-to-discord-obs-raw.png)
 
 In the `C# Execute Code` insert the Discord Webhook and change the file path where it says to.
 ```cs
@@ -40,7 +40,7 @@ string Webhook_link = "PASTE YOUR WEBHOOK URL HERE";
  ```
 
  Make sure you have the following references added to the `Execute C# Code` and then hit `Save and Compile`.
- ![post-to-discord-obs-references.png](../assets/post-to-discord/images/post-to-discord-references.png)
+ ![post-to-discord-obs-references.png](/assets/post-to-discord/images/post-to-discord-references.png)
 
 # Contributors
 

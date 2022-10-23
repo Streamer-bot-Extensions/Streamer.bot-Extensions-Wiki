@@ -16,14 +16,14 @@ TlM0RR+LCAAAAAAABACtVctuo0gU3Y/U/4CymN6MLTA4NtkFkhBIQrdf2GbIgnoYV1w8mgKTcqv/fQqw
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![get-cursor-position-import.png](../assets/get-cursor-position/images/get-cursor-position-import.png)
+![get-cursor-position-import.png](/assets/get-cursor-position/images/get-cursor-position-import.png)
 
 Make sure to add the following references to the `Execute Code`:
 ```
 System.dll
 System.Drawing.dll
 ```
-![get-cursor-position-references.png](../assets/get-cursor-position/images/get-cursor-position-references.png)
+![get-cursor-position-references.png](/assets/get-cursor-position/images/get-cursor-position-references.png)
 
 # Contributors
 

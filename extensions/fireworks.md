@@ -19,19 +19,19 @@ Originally on [Codepen](https://codepen.io/MillerTime/pen/XgpNwb) and modified a
 
 Just ensure you have the websockets enabled!
 
-![fireworks-websocket.png](../assets/fireworks/images/fireworks-websocket.png)
+![fireworks-websocket.png](/assets/fireworks/images/fireworks-websocket.png)
 
 ## Adding into OBS
 
-Unzip [fireworks.zip](../assets/fireworks/files/fireworks.zip) to a folder that you want.
+Unzip [fireworks.zip](/assets/fireworks/files/fireworks.zip) to a folder that you want.
 Add in the fireworks.html as a browser source.
 Add a Colour Key (or Color key if you spell it that way) filter on the source with the settings below
 
-![fireworks-obscolorkey.png](../assets/fireworks/images/fireworks-obscolorkey.png)
+![fireworks-obscolorkey.png](/assets/fireworks/images/fireworks-obscolorkey.png)
 
 Set audio up (by modifying advanced audio properties for the browser source)
 
-![fireworks-audio.png](../assets/fireworks/images/fireworks-audio.png)
+![fireworks-audio.png](/assets/fireworks/images/fireworks-audio.png)
 
 ## Usage
 

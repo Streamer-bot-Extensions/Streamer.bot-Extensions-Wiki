@@ -17,7 +17,7 @@ TlM0RR+LCAAAAAAABADVmEtvJDUQx+8r7XdojRRxicHutts2t4gDWiT2gJZcEIeyXU5a9HQP/ciD1X4H
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![trap-card.png](../assets/trap-card/images/trap-card.png)
+![trap-card.png](/assets/trap-card/images/trap-card.png)
 
 It is made from two actions:
 

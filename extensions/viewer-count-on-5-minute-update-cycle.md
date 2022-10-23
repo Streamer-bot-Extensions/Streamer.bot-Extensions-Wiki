@@ -18,7 +18,7 @@ TlM0RR+LCAAAAAAABADtVD1v2zAQ3Qv0PwgGspkFKVKW1K0I0CJLhhboEng4kadEKC25lGjHCPzfS4pW
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![viewer-count-on-5-minute-update-cycle.png](../assets/viewer-count-on-5-minute-update-cycle/images/viewer-count-on-5-minute-update-cycle.png)
+![viewer-count-on-5-minute-update-cycle.png](/assets/viewer-count-on-5-minute-update-cycle/images/viewer-count-on-5-minute-update-cycle.png)
 
 Here are my two actions. Both of them are just pointing to same Text GDI in OBS.
 

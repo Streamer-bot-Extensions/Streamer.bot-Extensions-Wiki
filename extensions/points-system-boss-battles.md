@@ -41,7 +41,7 @@ The Boss Battle Extension is designed so no matter how many people join, there i
 |`bossCPPrize`| This is just the payout if the users win and has 0 impact on the difficulty of the boss|
 
 You can add Multiple bosses by just duplicating one of the folders already in there and changing the end number to the number of the boss.
-![bossnewboss](../assets/points-system/images/bossnewboss.png)
+![bossnewboss](/assets/points-system/images/bossnewboss.png)
 
 As you can see from the image the arguments all end in `3` as this is the 3rd boss. 
 

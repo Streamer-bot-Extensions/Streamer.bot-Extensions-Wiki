@@ -25,7 +25,7 @@ dateCreated: 2022-05-17T00:27:27.214Z
 2. Click on the Configuration tab
 3. Paste your API key and click Get Configuration
 
-![getdevid](../assets/lighting-control/images/177055742-cfeda9f2-92d1-4fe3-8583-cbf590011471.png)
+![getdevid](/assets/lighting-control/images/177055742-cfeda9f2-92d1-4fe3-8583-cbf590011471.png)
 
 4. Take note of your Device ID and Model Number.
 
@@ -37,7 +37,7 @@ TlM0RR+LCAAAAAAABADtXFt32ki6fZ+15j9w8nq6ekql+6x1Hgw2N9skgBGYk36om0BBSAwIbNyr//v5
 ## Add your API Key
 1. In the `Govee Set API !setgoveeapi` action, edit the `Set global "goveeApiKeyGlobal"` subaction and paste in your API key in the `Value` section.
 
-![apikey](../assets/lighting-control/images/177055759-1f2f4785-1401-43e7-8a55-19e3e892d761.png)
+![apikey](/assets/lighting-control/images/177055759-1f2f4785-1401-43e7-8a55-19e3e892d761.png)
 
 3. Run this action by running !setgoveeapi in your chat or by some other method.
 
@@ -47,16 +47,16 @@ TlM0RR+LCAAAAAAABADtXFt32ki6fZ+15j9w8nq6ekql+6x1Hgw2N9skgBGYk36om0BBSAwIbNyr//v5
 3. Set whatever function you wanna change:
 - Brightness:
 
-![brightness](../assets/lighting-control/images/177055769-eae3a518-2254-4bb6-8a4d-e06830c48042.png)
+![brightness](/assets/lighting-control/images/177055769-eae3a518-2254-4bb6-8a4d-e06830c48042.png)
 
 - Color change:
 
-![color](../assets/lighting-control/images/177055780-0eb1f2a6-b05a-4023-8c69-06639e611ed4.png)
+![color](/assets/lighting-control/images/177055780-0eb1f2a6-b05a-4023-8c69-06639e611ed4.png)
 
 - Color temperature:
 
-![colortemp](../assets/lighting-control/images/177055787-08afeb2b-24ba-4cd0-9bed-6785cf5e5d79.png)
+![colortemp](/assets/lighting-control/images/177055787-08afeb2b-24ba-4cd0-9bed-6785cf5e5d79.png)
 
 - Turning lights on or off:
 
-![onoff](../assets/lighting-control/images/177055792-dffc0ed7-ad9b-439b-a796-c6de8b91b750.png)
+![onoff](/assets/lighting-control/images/177055792-dffc0ed7-ad9b-439b-a796-c6de8b91b750.png)

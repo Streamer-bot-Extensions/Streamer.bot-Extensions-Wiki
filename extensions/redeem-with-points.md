@@ -17,7 +17,7 @@ In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`.
 Once you've imported the code you will need to set up a command to trigger this. In the example I use `!redeemWithPoints` but I would recommend using the name of the redeem. 
 You can change `redeemCost` & `redeemName` to match what you need them to be. Then to add the action just place all the sub-actions you need below the green comment. 
-![exampleredeemactions.png](../assets/points-system/images/exampleredeemactions.png)
+![exampleredeemactions.png](/assets/points-system/images/exampleredeemactions.png)
 ### Using a Single Command Idea
 Something you could do is have a `!redeemWithPoints` command tied to an action which checks the input then runs the action based off that input. To set something like this up you would need to have an action which says. 
 ```js
@@ -25,7 +25,7 @@ if `rawInput` is equal to `Example1` then do `Example1Action` and 'Break'
 if `rawInput` is equal to `Example2` then do `Example2Action` and 'Break'
 ```
 # Example Usage
-![exampleredeemcost.png](../assets/points-system/images/exampleredeemcost.png) 
+![exampleredeemcost.png](/assets/points-system/images/exampleredeemcost.png) 
 
 # Contributors
 

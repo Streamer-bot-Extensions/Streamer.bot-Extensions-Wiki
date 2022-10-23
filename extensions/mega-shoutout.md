@@ -23,7 +23,7 @@ TlM0RR+LCAAAAAAABADtXetTG7my/36r7v/gompv3Vu1InqPtFXnAxBwnAckvOFwKqWncTLYPvYYh5za
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`.
 
-[**SCENE .JSON File**](../assets/shoutouts/files/shoutout.json)
+[**SCENE .JSON File**](/assets/shoutouts/files/shoutout.json)
 
 ## OBS Plug-Ins
 ### Plug-Ins needed for this.
@@ -46,7 +46,7 @@ Editing this can be difficult but if you follow the video above it should make t
 
 ## Community Examples {.tabset}
 ### TerrierDarts
-![screenshot_2022-06-23_13-28-58.png](../assets/shoutouts/images/terrierdarts-example.png)
+![screenshot_2022-06-23_13-28-58.png](/assets/shoutouts/images/terrierdarts-example.png)
 
 # Contributors
 

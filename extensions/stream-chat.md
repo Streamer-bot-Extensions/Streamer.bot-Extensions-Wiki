@@ -13,7 +13,7 @@ dateCreated: 2022-04-24T18:51:29.459Z
 ## Description
 Chat Overlay for OBS based on [Streamer.bot](https://streamer.bot/)'s websocket, using pronouns from [pronouns.alejo.io](https://pronouns.alejo.io/).
 
-![stream-chat-example.png](../assets/stream-chat/images/stream-chat-example.png)
+![stream-chat-example.png](/assets/stream-chat/images/stream-chat-example.png)
 
 ## Installation
 

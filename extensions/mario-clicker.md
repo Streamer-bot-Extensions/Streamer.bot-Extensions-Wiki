@@ -17,15 +17,15 @@ In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 ### Assets
 Download the Assets here, extract them and put it somewhere safe.
-[interactive-super-mario.zip](../assets/mario-clicker/interactive-super-mario.zip)
+[interactive-super-mario.zip](/assets/mario-clicker/interactive-super-mario.zip)
 
 Here is the codepen Version https://codepen.io/terrierdarts/pen/ZErVvXV
 Here is the Original Pen by MercheDev https://codepen.io/merchedev/pen/BaYqyNx. Thank You for the work.
 
 Once you've imported the code and downloaded the assets you will need to add a browser source in OBS called Mario-Click. (This will be the index.html file found in the dist folder that has been extracted. 
-![marioclick.png](../assets/mario-clicker/marioclick.png)
+![marioclick.png](/assets/mario-clicker/marioclick.png)
 Then in The `Heat Sources Logic` you will need to add actions that get the properties of the source it should look like this.
-![mariosources.png](../assets/mario-clicker/mariosources.png)
+![mariosources.png](/assets/mario-clicker/mariosources.png)
 
 You will then need to add the 1up Gif to OBS if you wish to have it. 
 Then finally tie all the Sub-Actions inside the `Mario1Up` Action to the correct sources and sound file.

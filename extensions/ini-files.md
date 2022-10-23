@@ -19,16 +19,16 @@ TlM0RR+LCAAAAAAABADtWtty4kgSfd+I/QfCEfO0rZ7SXTUR82CwwcJt2hgjgZZ5qJuEjLgMAgyemH/f
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`.
 
-![INI_File_Import.png](../assets/ini-files/images/INI_File_Import.png)
+![INI_File_Import.png](/assets/ini-files/images/INI_File_Import.png)
 
 >(Disclaimer: This was made using Streamer.bot v0.1.4, should still work with updated versions)
 {.is-warning}
 
 The INI - Get Action
-![INI_File_Get_Action.png](../assets/ini-files/images/INI_File_Get_Action.png)
+![INI_File_Get_Action.png](/assets/ini-files/images/INI_File_Get_Action.png)
 
 and INI - Set Action
-![INI_File_Set_Action.png](../assets/ini-files/images/INI_File_Set_Action.png)
+![INI_File_Set_Action.png](/assets/ini-files/images/INI_File_Set_Action.png)
 
 are both example actions to help demonstrate and let you experiment with how INIFile - Get Data, and INIFile - Set Data are used.
 
@@ -44,7 +44,7 @@ There are four global variables that are used for the following purposes:
 
 An example of how an ini file is structured is
 
-![INI_File_Structure.png](../assets/ini-files/images/INI_File_Structure.png)
+![INI_File_Structure.png](/assets/ini-files/images/INI_File_Structure.png)
 
 So we have a Section named "Robophill", a Key named "Points", and the Content as "123".
 If we wanted to Get this information we would set the global variables to

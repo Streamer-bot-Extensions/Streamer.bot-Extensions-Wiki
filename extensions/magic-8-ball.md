@@ -16,12 +16,12 @@ TlM0RR+LCAAAAAAABADlWVtvGzcWfl9g/8PAL7sLhF7eL32zldaxnLi13fi27gOv0qxHM6pmZEcp+t/3
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`.
 
-![magic-8-ball-import.png](../assets/magic-8-ball/images/magic-8-ball-import.png)
+![magic-8-ball-import.png](/assets/magic-8-ball/images/magic-8-ball-import.png)
 
 # Configuration
 Create a `Command` called `!8ball` set to `Start` and tie it to the `Action` 8ball.
 Point the `Cooldown` `Action` to the `Action` `8ball - cool down` with a `User Cooldown` of `600` seconds.
-![magic-8-ball-command.png](../assets/magic-8-ball/images/magic-8-ball-command.png)
+![magic-8-ball-command.png](/assets/magic-8-ball/images/magic-8-ball-command.png)
 
 # Contributors
 

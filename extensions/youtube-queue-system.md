@@ -20,9 +20,9 @@ Copy the `Import Code` and paste it into the `Import String`.
 > This import contains **11 Actions and 10 Commands** {.is-info}
 # Imports {.tabset}
 ## Imported Actions
-![queueimportactions.png](../assets/user-queue-system/images/queueimportactions.png)
+![queueimportactions.png](/assets/user-queue-system/images/queueimportactions.png)
 ## Imported Commands
-![queueimportcommands.png](../assets/user-queue-system/images/queueimportcommands.png)
+![queueimportcommands.png](/assets/user-queue-system/images/queueimportcommands.png)
 
 Once the code is imported you will need to make sure the code inside the `QueueCode` Action compiles, it should compile from import however if it does not make sure the following references are added.
 ```
@@ -64,22 +64,22 @@ If you want a different output message just change the `Twitch Message` Sub-Acti
 In the Video I use rawInput as an example, in the following images you can 
 ## Start and End
 Start and End Queue Will open the Queue fresh with no data, and when you end the queue that will remove all the data currently in the queue.
-![startandendqueue.png](../assets/user-queue-system/images/startandendqueue.png)
+![startandendqueue.png](/assets/user-queue-system/images/startandendqueue.png)
 ## Open and Close
 Opening and Closing is your way of temporarily stopping users from joining, this will not effect the data already in the queue.
-![openandclosequeue.png](../assets/user-queue-system/images/openandclosequeue.png)
+![openandclosequeue.png](/assets/user-queue-system/images/openandclosequeue.png)
 ## Join
 This is how a user can join the queue.
-![joinqueue.png](../assets/user-queue-system/images/joinqueue.png)
+![joinqueue.png](/assets/user-queue-system/images/joinqueue.png)
 ## Pull
 This will pull out what ever is at the top of the queue system.
-![pullqueue.png](../assets/user-queue-system/images/pullqueue.png)
+![pullqueue.png](/assets/user-queue-system/images/pullqueue.png)
 ## Leave and Position
 Leave is will allow a user to exit the queue and position will show where the user is in the queue. Remember this will only work if you are just adding `%user%` to the queue.
-![positionleavequeue.png](../assets/user-queue-system/images/positionleavequeue.png)
+![positionleavequeue.png](/assets/user-queue-system/images/positionleavequeue.png)
 ## Peak
 The `!peak` command will allow you to see the next X amount of people in the queue, if the queue isn't that full it will output the whole queue meaning if you `!peak 5` and they are only 3 people it will show 3.
-![peak](../assets/user-queue-system/images/peak.png)
+![peak](/assets/user-queue-system/images/peak.png)
 
 # Contributors
 

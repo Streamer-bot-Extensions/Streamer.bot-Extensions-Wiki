@@ -18,19 +18,19 @@ Stay Hydrated and keep chat engaged by keeping track of how much beverage you co
 
 ## Resources
 Source Copy:  [OBS Plugin](https://obsproject.com/forum/resources/source-copy.1261/)
-Hydrate Redeem:  [Resources](../assets/hydrate-redeem/files/hydrateredeem.rar)
+Hydrate Redeem:  [Resources](/assets/hydrate-redeem/files/hydrateredeem.rar)
 
 ### Steamer.bot
 Drag the file `Hydrate Redeem.txt` into the `Import Pane`:
-![hydrate-redeem-import](../assets/hydrate-redeem/images/hydrate-redeem-import.png)
+![hydrate-redeem-import](/assets/hydrate-redeem/images/hydrate-redeem-import.png)
 
 ### OBS Studio
 With Source Copy installed, go to `Tools > Source Copy > Load Scene` and select `Hydrate Redeem.json`.
-![hydrate-redeem-source-copy](../assets/hydrate-redeem/images/hydrate-redeem-source-copy.png)
+![hydrate-redeem-source-copy](/assets/hydrate-redeem/images/hydrate-redeem-source-copy.png)
 
 ## Configuration
 There needs to be 3 `Commands` created:
-![hydrate-redeem-commands](../assets/hydrate-redeem/images/hydrate-redeem-commands.png)
+![hydrate-redeem-commands](/assets/hydrate-redeem/images/hydrate-redeem-commands.png)
 #### Chat Commands
 `!hydratetotal` - Allows users to see the total amount of set beverage the streamer has had during stream..
 #### Moderator Commands
@@ -38,4 +38,4 @@ There needs to be 3 `Commands` created:
 `!hydratereset` - Allows Moderators to reset the Hydrate Redeem tracker.
 #### Channel Point Reward
 Create a `Channel Point Reward` called `Hydrate` and then tie it to the `Action` `Hydrate`.
-![hydrate-redeem-channel-point-reward](../assets/hydrate-redeem/images/hydrate-redeem-channel-point-reward.png)
+![hydrate-redeem-channel-point-reward](/assets/hydrate-redeem/images/hydrate-redeem-channel-point-reward.png)

@@ -21,14 +21,14 @@ Once imported check that the code inside does compiles ( if it doesn't compile r
 
 To add this to an action you are going to need 3 new Sub-Actions at the top of any of your heat actions.
 A Heat Cooldown Set Args, A Cooldown Name Set Args and an Execute Method. It should look something like this.
-![heatcooldown.png](../assets/heat-map/images/heatcooldown.png)
+![heatcooldown.png](/assets/heat-map/images/heatcooldown.png)
 Here is a small breakdown of each action.
 This is how long you want the cooldown to be in Seconds.
-![heatcooldownaction1.png](../assets/heat-map/images/heatcooldownaction1.png)
+![heatcooldownaction1.png](/assets/heat-map/images/heatcooldownaction1.png)
 This is the Name of the cooldown, if you want multiple actions in the same cooldown just add the same name.
-![heatcooldownaction2.png](../assets/heat-map/images/heatcooldownaction2.png)
+![heatcooldownaction2.png](/assets/heat-map/images/heatcooldownaction2.png)
 This will trigger the cooldown check, Select User or Global depending on which cooldown you want.
-![heatcooldownaction3.png](../assets/heat-map/images/heatcooldownaction3.png)
+![heatcooldownaction3.png](/assets/heat-map/images/heatcooldownaction3.png)
 
 > Below these 3 Sub-Actions is where you will put the rest of Sub-Actions {.is-info}
 

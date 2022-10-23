@@ -28,7 +28,7 @@ TlM0RR+LCAAAAAAABADFV22PokgQ/n7J/Qcyn+5yy6QBUdnkPvgyOjCj68sIynkfmu4WmWlelhcRN/vf
 Firstly you will need a blank browser source that this code can change into the video when called upon.
 
 When you import you will receive one action. This will have things you will need to edit in order to get this set up.
-![argsyt.png](../assets/chat-request-youtube/images/argsyt.png)
+![argsyt.png](/assets/chat-request-youtube/images/argsyt.png)
 `scene` This is where you tell Streamer.bot what scene the browser source is on.
 `source` This is where you tell Streamer.bot what source the browser source is.
 `maxLength` This is where you tell Streamer.bot how long of the video you wish to play

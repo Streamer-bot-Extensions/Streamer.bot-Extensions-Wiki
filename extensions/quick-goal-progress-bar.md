@@ -34,4 +34,4 @@ Use !createFollowGoal to add a new Nested Scene with the Follow Goal Bar > then 
 Use !createSubsGoal to add a new Nested Scene with the Subscriber Goal Bar > then set your subscriber Goal Number use !setSubsGoal  
 
 ### References
-![170580644-65749152-2454-42c5-b32e-83b26d43cb78.png](../assets/quick-goal-progress-bar/images/170580644-65749152-2454-42c5-b32e-83b26d43cb78.png)
+![170580644-65749152-2454-42c5-b32e-83b26d43cb78.png](/assets/quick-goal-progress-bar/images/170580644-65749152-2454-42c5-b32e-83b26d43cb78.png)

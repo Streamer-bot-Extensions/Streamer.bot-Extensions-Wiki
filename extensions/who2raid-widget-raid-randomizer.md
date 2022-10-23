@@ -24,7 +24,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 ## Required files
 - [OBS Shaderfilter 1.21 Plugin](https://github.com/Oncorporation/obs-shaderfilter)
 - [OBS Websocket Plugin](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/)
-- [TV SNOW.webm](../assets/who2raid/files/TV_SNOW_AN_VP8.webm)
+- [TV SNOW.webm](/assets/who2raid/files/TV_SNOW_AN_VP8.webm)
 
 
 
@@ -35,7 +35,7 @@ Do the same for the WEBM File (video) 'TV SNOW'<br>
 
 
 ## References
-![ref who2raid](../assets/who2raid/images/175425952-9fff472a-1359-472e-8f4d-8feced4de712.png)
+![ref who2raid](/assets/who2raid/images/175425952-9fff472a-1359-472e-8f4d-8feced4de712.png)
 
 # Contributors
 

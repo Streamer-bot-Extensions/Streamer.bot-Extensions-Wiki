@@ -22,7 +22,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 2. Streamer Bot > Actions > `TimerStart` > double-click `Execute Code (Countdown Timer)` > in the `References` tab > right-click and `Add reference from file...` > add `System.dll` > click `Save and Compile`
 
-  ![image](../assets/countdown-timer/countdownTimer.png)
+  ![image](/assets/countdown-timer/countdownTimer.png)
 
 ### Commands to create in Streamer Bot and which action to point them to
 

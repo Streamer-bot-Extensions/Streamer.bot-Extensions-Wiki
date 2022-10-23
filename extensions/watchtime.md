@@ -19,19 +19,19 @@ TlM0RR+LCAAAAAAABADdWNuOo0gSfV9p/8Hq1x2XuJi2PdI8YFzG+MK08QXDuh8gEwPlxDAG7IJR//tE
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![watchtime-import.png](../assets/watchtime/images/watchtime-import.png)
+![watchtime-import.png](/assets/watchtime/images/watchtime-import.png)
 
 # Configuration
 
 Add the `Action` `Auto Add Watchtime` to the `Present Viewers Event`.
-![watchtime-present-viewers-event.png](../assets/watchtime/images/watchtime-present-viewers-event.png)
+![watchtime-present-viewers-event.png](/assets/watchtime/images/watchtime-present-viewers-event.png)
 
 If there is something tied to the event already, i.e. Flad's Point System, then add a `Subaction` `Add Action > Actions > Action` and select `Auto Add Watchtime` then hit Ok, under the `Action` associated to the `Event`.  Make sure `Run Action Immediately` is `Checked`.
-![watchtime-action-menu.png](../assets/watchtime/images/watchtime-action-menu.png)
-![watchtime-action.png](../assets/watchtime/images/watchtime-action.png)
+![watchtime-action-menu.png](/assets/watchtime/images/watchtime-action-menu.png)
+![watchtime-action.png](/assets/watchtime/images/watchtime-action.png)
 
 Create a `Command` called `!watchtime` set to `Exact` and tie it to the `Get Watchtime User` `Action`.
-![watchtime-present-user-command.png](../assets/watchtime/images/watchtime-present-user-command.png)
+![watchtime-present-user-command.png](/assets/watchtime/images/watchtime-present-user-command.png)
 
 >This will NOT work for the `Broadcast User` and will only add `Watchtime` while the stream is live.
 {.is-warning}

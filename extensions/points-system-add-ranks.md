@@ -21,7 +21,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 
 
-![points-system-points-add-ranks-import.png](../assets/points-system/images/points-system-points-add-ranks-import.png)
+![points-system-points-add-ranks-import.png](/assets/points-system/images/points-system-points-add-ranks-import.png)
 
 # Configuration
 
@@ -32,7 +32,7 @@ If a `Command` is not setup for `!points` from the [Points System (by VRFlad)](.
 > This will allow for a user to use `!points` to see their total points and current rank.
 {.is-info}
 
-![points-system-points-add-ranks-points-command.png](../assets/points-system/images/points-system-points-add-ranks-points-command.png)
+![points-system-points-add-ranks-points-command.png](/assets/points-system/images/points-system-points-add-ranks-points-command.png)
 
 # Contributors
 

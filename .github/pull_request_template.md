@@ -1,5 +1,5 @@
 [] Included all images in documentation. (if using images please try use proper names)
-[] Used relative pathing. i.e (../assets/hydrate/channelpointredeem.png)
+[] Used relative pathing. i.e (/assets/hydrate/channelpointredeem.png)
 [] Included import file. (not Code but File)
 [] All Images/Files or anything else related go in there own folder inside "Assets"
 [] Heading Names are the same as on the documentation writeup page

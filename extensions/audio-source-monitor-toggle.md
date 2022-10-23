@@ -23,11 +23,11 @@ TlM0RR+LCAAAAAAABADlWN1r3DgQfz+4/0EslHvJFH1Zku8tcCX0odejDQdHNxR9JgavnfNH0xDyv59k
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![audio-source-toggle-import.png](../assets/audio-source-monitor-toggle/images/audio-source-toggle-import.png)
+![audio-source-toggle-import.png](/assets/audio-source-monitor-toggle/images/audio-source-toggle-import.png)
 
 # Configuration
 Change the `Argument` `%audioSource%` to your audio and assign the `Action` to a hotkey/command/button of your preference.
-![audio-source-toggle-argument.png](../assets/audio-source-monitor-toggle/images/audio-source-toggle-argument.png)
+![audio-source-toggle-argument.png](/assets/audio-source-monitor-toggle/images/audio-source-toggle-argument.png)
 
 >You can make copies of this `Action` to make toggles for all your audio sources.
 {.is-info}

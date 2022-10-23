@@ -17,7 +17,7 @@ TlM0RR+LCAAAAAAABACtVVtvokAUft9k/4PhuZjhJtKkDxZbq03doPVSlz4MMwNlO1yWi2ib/vedgboi
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![sb-init-import.png](../assets/sb-init/images/sb-init-import.png)
+![sb-init-import.png](/assets/sb-init/images/sb-init-import.png)
 
 # Configuration
 In the `Action` it waits 10 sec to give Streamer.bot time to connect to twitch and then send a `"streamerbot connected"` message.

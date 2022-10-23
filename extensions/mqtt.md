@@ -12,7 +12,7 @@ With proper a MQTT integration SB will be able to control nearly all smarthome d
 
 # Installation
 1) Extract the zip and put the MQTTnet.dll into the SB folder
-File: [mqtt-broker_(1.1).zip](../assets/mqtt/files/mqtt-broker_(1.1).zip)
+File: [mqtt-broker_(1.1).zip](/assets/mqtt/files/mqtt-broker_(1.1).zip)
 
 2) Import the Action(s) included with the mqtt.txt file (you might need to remove an extra line at the end of the import code)
 3) Edit the Action "MQTT-Broker"

@@ -26,18 +26,18 @@ Copy the `Import Code` and paste it into the `Import String`.
 This setup allows an easy way to have a points system in Streamer.bot without any complicated maintenence and should allow for a one and done setup.
 
 
-![points-system-import.png](../assets/points-system/images/points-system-import.png)
+![points-system-import.png](/assets/points-system/images/points-system-import.png)
 
 # Configuration
 
 To automatically give points to your viewers while watching set the `Action` `Points-timed` to the `Event` `Present Viewers`.
 
-![points-system-present-viewers.png](../assets/points-system/images/points-system-present-viewers.png)
+![points-system-present-viewers.png](/assets/points-system/images/points-system-present-viewers.png)
 
 To award points to users when they raid and/or host you set the `Action` `events trigger to add points to user (host / raid)` to the `Event` `Raid` and/or the `Event` `Host`.
 
-![points-system-raid.png](../assets/points-system/images/points-system-raid.png)
-![points-system-host.png](../assets/points-system/images/points-system-host.png)
+![points-system-raid.png](/assets/points-system/images/points-system-raid.png)
+![points-system-host.png](/assets/points-system/images/points-system-host.png)
 
 ## Moderator and/or Broadcaster Only Commands
 
@@ -45,13 +45,13 @@ Create a `Command` called `!pointsname` that is tied to the `Action` `pointsname
 >For example using `!pointsname UFO's` will set your points name to UFO's.
 {.is-info}
 
-![points-system-points-name-command.png](../assets/points-system/images/points-system-points-name-command.png)
+![points-system-points-name-command.png](/assets/points-system/images/points-system-points-name-command.png)
 
 To retrieve the name of the points setup a `Command` called `!getpointsname` that is tied to the `Action` `getpointsname` and set to `Exact`.
 >For example using `!getpointsname` will return the name of the points you have set from using `!pointsname`.
 {.is-info}
 
-![points-system-get-points-name-command.png](../assets/points-system/images/points-system-get-points-name-command.png)
+![points-system-get-points-name-command.png](/assets/points-system/images/points-system-get-points-name-command.png)
 
 To set a user's points manually setup a `Command` called `!setpoints` that is tied to the `Action` `Setpoints (for Streamer / Mod)` and set to `Start`.
 >For example using `!setpoints VRFlad 100` will set VRFlad's points to a total of 100 points.
@@ -60,14 +60,14 @@ To set a user's points manually setup a `Command` called `!setpoints` that is ti
 > This will overwrite a user's total points!
 {.is-danger}
 
-![points-system-set-points-command.png](../assets/points-system/images/points-system-set-points-command.png)
+![points-system-set-points-command.png](/assets/points-system/images/points-system-set-points-command.png)
 
 To be able to give users points setup a `Command` called `!addpoints` that is tied to the `Action` `Addpoints (for Streamer / Mod)` and set to `Start`.
 
 >For example using `!addpoints VRFlad 100` will give VRFlad 100 points.
 {.is-info}
 
-![points-system-add-points-command.png](../assets/points-system/images/points-system-add-points-command.png)
+![points-system-add-points-command.png](/assets/points-system/images/points-system-add-points-command.png)
 
 ## User Commands
 
@@ -76,13 +76,13 @@ To allow users to view their total points setup a `Command` called `!points` tha
 > (i.e `VRFlad, you have 100 UFO's.`)
 {.is-info}
 
-![points-system-points-command.png](../assets/points-system/images/points-system-points-command.png)
+![points-system-points-command.png](/assets/points-system/images/points-system-points-command.png)
 
 ### !buywithpoints Sample
 
 The `Action` `Points-sampleredeem` is an example `Action` you can use to allow users to redeem things on stream while you are live.  The `Commands` made need to be called `!buywithpoints <Name>` and set to `Exact`.  The following image shows how to do this with the `Action` `Points-sampleredeem`:
 
-![points-system-buywithpoints-sample-command.png](../assets/points-system/images/points-system-buywithpoints-sample-command.png)
+![points-system-buywithpoints-sample-command.png](/assets/points-system/images/points-system-buywithpoints-sample-command.png)
 
 ## Community Challenge (Optional)
 
@@ -94,19 +94,19 @@ Create a `Command` called `!pointsccsetname` that is tied to the `Action` `point
 >For example using `!pointsccsetname This month's Community Challenge will benefit UNICEF!` will set your Community Challenge Description to `This month's Community Challenge will benefit UNICEF!`
 {.is-info}
 
-![points-system-cc-set-name.png](../assets/points-system/images/points-system-cc-set-name.png)
+![points-system-cc-set-name.png](/assets/points-system/images/points-system-cc-set-name.png)
 
 Create a `Command` called `!pointssetcctotal` that is tied to the `Action` `points-cc-totalpoints` and set to `Start`.
 >For example using `!pointssetcctotal 10000` will set your Community Challenge Goal to 10,000 points.
 {.is-info}
 
-![points-system-cc-totalpoints.png](../assets/points-system/images/points-system-cc-totalpoints.png)
+![points-system-cc-totalpoints.png](/assets/points-system/images/points-system-cc-totalpoints.png)
 
 Create a `Command` called `!pointsccreset` that is tied to the `Action` `points-cc-reset` and set to `Exact`.
 >Using `!pointsccreset` will reset your Community Challenge and clear out the all the points contributed!
 {.is-danger}
 
-![points-system-cc-reset.png](../assets/points-system/images/points-system-cc-reset.png)
+![points-system-cc-reset.png](/assets/points-system/images/points-system-cc-reset.png)
 
 ## User Commands (Community Challenge)
 
@@ -114,13 +114,13 @@ To allow users to view the community challenge status setup a `Command` called `
 >For example when a user uses `!pointscc` in chat it will return `The` `pointsname` `challenge -` `communitychallengename` `is at` `communitychallengecurrpoints` `out of` `communitychallengetotalpoints.` if there is a Community Challenge active.  Otherwise, it will return `There is no current` `pointsname` `community challenge.`
 {.is-info}
 
-![points-system-cc-status.png](../assets/points-system/images/points-system-cc-status.png)
+![points-system-cc-status.png](/assets/points-system/images/points-system-cc-status.png)
 
 To allow users to contribute points to the community challenge setup a `Command` called `!contribute` that is tied to the `Action` `points-cc-contribute` and set to `Start`.
 >For example when a user uses `!contribute 100` in chat it will add 100 points to the Community Challenge and deduct the points from the user's points total.
 {.is-info}
 
-![points-system-cc-contribute.png](../assets/points-system/images/points-system-cc-contribute.png)
+![points-system-cc-contribute.png](/assets/points-system/images/points-system-cc-contribute.png)
 
 # Contributors
 

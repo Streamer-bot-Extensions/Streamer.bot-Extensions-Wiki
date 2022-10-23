@@ -20,7 +20,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 Once the code is imported the next step is to make sure the code compiles this should be fine, however you may need to add `system.dll` to the references. 
 
 The next step is to get your StreamElements id or Account Id as it is labeled on the StreamElements Site. This ID is on the users accounts page access in the top left and clicking on the user.
-![accountPage](../assets/se-watchtime/SE-Watchtime.png)
+![accountPage](/assets/se-watchtime/SE-Watchtime.png)
 
 Then the final thing to do is to create a command that runs the action. 
 

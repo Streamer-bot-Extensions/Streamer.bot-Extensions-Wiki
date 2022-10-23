@@ -28,10 +28,10 @@ System.IO.dll
 ```
 
 After you've imported the code you will need to create a group called `Bots` if you call it anything else you will need to adjust it in the Action.
-![groupbots.png](../assets/auto-known-bots/images/groupbots.png)
+![groupbots.png](/assets/auto-known-bots/images/groupbots.png)
 
 Then you can create a trigger, you can use a command or a timed action however once it is set up and triggered it will add the bots to the group.
-![groupbotsfull.png](../assets/auto-known-bots/images/groupbotsfull.png)
+![groupbotsfull.png](/assets/auto-known-bots/images/groupbotsfull.png)
 
 There is a setting if you want to you can save these names to a file, you will just need to make sure that the `saveNames` is set to `True` and you've entered the file path in `savePath` 
 # Contributors

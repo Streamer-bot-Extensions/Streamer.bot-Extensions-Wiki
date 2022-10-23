@@ -16,7 +16,7 @@ TlM0RR+LCAAAAAAABADdWltvG7cSfi/Q/7DQazMF75e+nbh1UpzGLuK0xUEVFLwMbSHrXXcl2TGC/PfO
 # Installation
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
-![20-sec-instant-replay.png](../assets/20-sec-instant-replay/images/20-sec-instant-replay.png)
+![20-sec-instant-replay.png](/assets/20-sec-instant-replay/images/20-sec-instant-replay.png)
 
 You can follow Nutty's [video](https://youtu.be/NuWKrpNCE1k) for setting up OBS at least with `Nested scenes` & `Dynamic Delay Filter`.
 Whole effect takes about `8GB of your RAM`, so be aware of that.
@@ -26,7 +26,7 @@ Also, make sure to check all `Sub-Actions` that they are pointing at your OBS sc
 
 
 ## Resources
-All resources can be found [>here<](../assets/20-sec-instant-replay/files/Rewind-Effect.zip)!
+All resources can be found [>here<](/assets/20-sec-instant-replay/files/Rewind-Effect.zip)!
 
 
 # Configuration
