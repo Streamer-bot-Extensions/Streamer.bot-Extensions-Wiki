@@ -14,26 +14,26 @@ dateCreated: 2022-04-20T01:15:10.917Z
 This wiki is here to not only provide you with great resources to enhance your stream but also to guide you in configuring each resource provided. You may use any of them and alter them as you like but extensions are provided as is and any alterations to them are done at your own risk. Failure to follow the guides on this wiki may result in resources not functioning properly. Please make sure you understand this before trying to alter things outside of the direction of this wiki.
 # Platforms
 
-- [<i class="mdi mdi-twitch text--twitch"></i> **Twitch *Extensions that are built solely for use on Twitch.***](/en/extensions/twitch)
-- [<i class="mdi mdi-youtube text--youtube" ></i> **Youtube *Extensions that are built solely for use on Youtube.***](/en/extensions/youtube/youtube)
+- [<i class="mdi mdi-twitch text--twitch"></i> **Twitch *Extensions that are built solely for use on Twitch.***](./extensions/twitch)
+- [<i class="mdi mdi-youtube text--youtube" ></i> **Youtube *Extensions that are built solely for use on Youtube.***](./extensions/youtube)
 {.btn-grid .my-5}
 
 # Extensions
 
 
-- [ <i class="mdi mdi-new-box" style="color: deepskyblue;"></i> **New To Streamer.bot *Filled with extensions to help you get started when using Streamer.bot.*** ](/en/extensions/new-to-sb)
--  [<i class="mdi mdi-api" style="color: deepskyblue"></i> **API Extensions *Use Streamer.bot to interact with other programs and API's***](/en/extensions/api-extensions)
-- [<i class="mdi mdi-dice-6" style="color: deepskyblue"></i> **Chat Games *Filled with games to keep your viewers entertained.***](/en/extensions/chat-games)
-- [<i class="mdi mdi-chat" style="color: deepskyblue"></i> **First Words *Welcome your viewer to stream in style.***](/en/extensions/first-words)
-- [<i class="fas fa-heart" style="color: deepskyblue"></i> **Heart Rate Extensions *Use Streamer.bot to interact with hypeRate or Pulsoid to create cool effects based on your heart rate.***](/en/extensions/heart-rate/)
-- [<i class="mdi mdi-cursor-default-click" style="color: deepskyblue"></i> **Heat Map *Allow your views to interact with your stream via clicks on there screens.***](/en/extensions/heat-map/heat-map)
-- [<i class="mdi mdi-lightbulb-on" style="color: deepskyblue"></i> **Lighting Control *Control Lights with Streamer.bot.***](/en/extensions/lighting-control/lighting-control-links)
-- [<i class="mdi mdi-antenna" style="color: deepskyblue"></i> **OBS Based *Extensions that get the most out of OBS.***](/en/extensions/obs-based-extensions)
-- [<i class="mdi mdi-shield-half-full" style="color: deepskyblue"></i> **Protective Extensions *Protect yourself and your views with these extensions.***](/en/extensions/protective-extensions)
-- [<i class="fas fa-coins" style="color: deepskyblue"></i> **Points System *A Currency System built for Streamer.bot along with many tools and games.***](/en/extensions/points-system)
-- [<i class="mdi mdi-bullhorn" style="color: deepskyblue"></i> **Shoutout Example *There are many ways to shout people out here are a few!***](/en/extensions/shoutouts/shoutout-examples)
-- [<i class="fas fa-heart" style="color: deepskyblue"></i> **Smaller Examples *Filled with smaller but still amazing extensions!***](/en/extensions/smaller-extensions)
-- [<i class="mdi mdi-reload" style="color: deepskyblue"></i> **Workaround Extensions *Extensions to help you do things that aren't native in Streamer.bot***](/en/extensions/workarounds)
+- [ <i class="mdi mdi-new-box" style="color: deepskyblue;"></i> **New To Streamer.bot *Filled with extensions to help you get started when using Streamer.bot.*** ](./extensions/new-to-sb)
+-  [<i class="mdi mdi-api" style="color: deepskyblue"></i> **API Extensions *Use Streamer.bot to interact with other programs and API's***](./extensions/api-extensions)
+- [<i class="mdi mdi-dice-6" style="color: deepskyblue"></i> **Chat Games *Filled with games to keep your viewers entertained.***](./extensions/chat-games)
+- [<i class="mdi mdi-chat" style="color: deepskyblue"></i> **First Words *Welcome your viewer to stream in style.***](./extensions/first-words)
+- [<i class="fas fa-heart" style="color: deepskyblue"></i> **Heart Rate Extensions *Use Streamer.bot to interact with hypeRate or Pulsoid to create cool effects based on your heart rate.***](./extensions/heart-rate/){.disabled}
+- [<i class="mdi mdi-cursor-default-click" style="color: deepskyblue"></i> **Heat Map *Allow your views to interact with your stream via clicks on there screens.***](./extensions/heat-map/heat-map)
+- [<i class="mdi mdi-lightbulb-on" style="color: deepskyblue"></i> **Lighting Control *Control Lights with Streamer.bot.***](./extensions/lighting-control/lighting-control-links)
+- [<i class="mdi mdi-antenna" style="color: deepskyblue"></i> **OBS Based *Extensions that get the most out of OBS.***](./extensions/obs-based-extensions)
+- [<i class="mdi mdi-shield-half-full" style="color: deepskyblue"></i> **Protective Extensions *Protect yourself and your views with these extensions.***](./extensions/protective-extensions)
+- [<i class="fas fa-coins" style="color: deepskyblue"></i> **Points System *A Currency System built for Streamer.bot along with many tools and games.***](./extensions/points-system)
+- [<i class="mdi mdi-bullhorn" style="color: deepskyblue"></i> **Shoutout Example *There are many ways to shout people out here are a few!***](./extensions/shoutouts/shoutout-examples)
+- [<i class="fas fa-heart" style="color: deepskyblue"></i> **Smaller Examples *Filled with smaller but still amazing extensions!***](./extensions/smaller-extensions)
+- [<i class="mdi mdi-reload" style="color: deepskyblue"></i> **Workaround Extensions *Extensions to help you do things that aren't native in Streamer.bot***](./extensions/workarounds){.disabled}
 {.btn-grid .my-5}
 
 
