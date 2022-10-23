@@ -1,6 +1,0 @@
-{
-    "[markdown]": {
-        "diffEditor.wordWrap": "on"
-    },
-    "nuxt.isNuxtApp": false
-}
