@@ -12,10 +12,10 @@ The following extensions were have originally built for twitch users, however th
 This list will grow as more extensions are transferred over for those who wish to use Streamer.Bot while streaming to Youtube.
 
 - [Basic Commands  *Coming Soon*](){.disabled}
-- [Hangman](./youtube-hangman)
-- [Mod Added Commands](./youtube-mod-added-commands)
-- [Queue System](./youtube-queue-system)
-- [Urban Dictionary](./youtube-urban-dict)
+- [Hangman](/extensions/youtube-hangman)
+- [Mod Added Commands](/extensions/youtube-mod-added-commands)
+- [Queue System](/extensions/youtube-queue-system)
+- [Urban Dictionary](/extensions/youtube-urban-dict)
 - [Subathon Timer  *Coming Soon*](){.disabled}
 - [Walk-On Sounds *Coming Soon*](){.disabled}
 {.links-list}

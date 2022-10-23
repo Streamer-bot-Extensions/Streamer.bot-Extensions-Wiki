@@ -21,7 +21,7 @@ Allows you to set the limit of entries per viewer.
 Allows you to set the duration the giveaway runs for in minute. Has a 5 minutes left warning (won’t recommend days).
 Allows you to pick a single or multiple winners, saves them in a Winner.txt file with DateTime for later review.
 
-- [ Go To Page](/en/extensions/giveaways/giveaway-timed)
+- [ Go To Page](extensions/giveaway-timed)
 {.btn-grid .my-5}
 
 
@@ -35,7 +35,7 @@ Allows you to Pause and Resume Draws
 Allows you to set if a Winner is pulled out should they be removed
 Allows you to give more entries to Subs, Vips/Mods
 
-- [Go To Page](/en/extensions/giveaways/giveaway-csharp)
+- [Go To Page](/extensions/giveaway-csharp)
 {.btn-grid .my-5} 
 
 ---

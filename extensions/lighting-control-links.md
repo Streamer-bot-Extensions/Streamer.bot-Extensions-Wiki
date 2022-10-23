@@ -11,7 +11,7 @@ dateCreated: 2022-05-17T23:51:49.381Z
 Below you can find a list of all the lighting systems that Streamer.bot can control.
 
 
-* [Elgato Lighting Control *Change Brightness and Color Temperature of Elgato Lighting.*](./elgato-lighting-control)
-* [LIFX Lights  *Use the cloud API for LIFX smart bulbs.*](./lifx-lights)
-* [Govee Lights  *Use the cloud API for Govee Lights.*](./govee-lights)
+* [Elgato Lighting Control *Change Brightness and Color Temperature of Elgato Lighting.*](/extensions/elgato-lighting-control)
+* [LIFX Lights  *Use the cloud API for LIFX smart bulbs.*](/extensions/lifx-lights)
+* [Govee Lights  *Use the cloud API for Govee Lights.*](/extensions/govee-lights)
 {.links-list}

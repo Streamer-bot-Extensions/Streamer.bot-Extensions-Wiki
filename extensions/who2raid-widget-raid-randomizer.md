@@ -1,7 +1,6 @@
 ---
 title: who2raid-widget-raid-randomizer
 description: Automatised Raid randomly choosen from streams you follow.
-
 published: true
 date: 2022-07-24T06:11:17.776Z
 tags: 

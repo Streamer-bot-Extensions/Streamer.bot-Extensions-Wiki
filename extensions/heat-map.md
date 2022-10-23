@@ -13,19 +13,19 @@ Heat Map, allows users to click on your stream to trigger actions.
 
 ## Core Installation
 
-- [Core Install  *by Farlezz* *Infomation on how to install heat and set up your first actions.*](./heat-map-core)
+- [Core Install  *by Farlezz* *Infomation on how to install heat and set up your first actions.*](/extensions/heat-map-core)
 {.links-list}
 
 ## Heat Games
 
 - [Create Disk/Pointer *Coming Soon*](){.disabled}
-- [Mario Clicker *by TerrierDarts*  *Allow Users to click on your screen and gain lives!*](./mario-clicker)
+- [Mario Clicker *by TerrierDarts*  *Allow Users to click on your screen and gain lives!*](/extensions/mario-clicker)
 - [Tower Block Game *Coming Soon*](){.disabled}
 
 {.links-list}
 
 ## Heat Tools
-- [Heat Cooldown *by TerrierDarts* *Add Global or User Cooldowns to your actions*](./heat-cooldown)
+- [Heat Cooldown *by TerrierDarts* *Add Global or User Cooldowns to your actions*](/extensions/heat-cooldown)
 
 {.links-list}
 

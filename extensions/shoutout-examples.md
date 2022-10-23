@@ -19,8 +19,8 @@ TlM0RR+LCAAAAAAABADFVUtr3DAQvgfyH5SFpZcosb1+5lKSUNpeemjSQyk5yNLYaypLriTHMSH/vZK9
 
 ## Other Examples
 
-- [Mega Shoutout *A Visual way to pull the users profile picture, game and link onto the screen*](./mega-shoutout)
-- [Shoutout with Minimum Age *Shoutout based on Account Age*](./custom-auto-shout-out-minimum-age-requirements)
+- [Mega Shoutout *A Visual way to pull the users profile picture, game and link onto the screen*](/extensions/mega-shoutout)
+- [Shoutout with Minimum Age *Shoutout based on Account Age*](/extensions/custom-auto-shout-out-minimum-age-requirements)
 {.links-list}
 
 **Coming Soon Examples**
