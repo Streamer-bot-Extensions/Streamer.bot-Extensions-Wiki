@@ -38,5 +38,5 @@ You will have ```Change go live notification``` action which you can use how you
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TheShiningOne](https://www.twitch.tv/TheShiningOne)
+ - [<i class="mdi mdi-twitch"></i> TheShiningOne](https://www.twitch.tv/ShiningOne)
  {.contributors}

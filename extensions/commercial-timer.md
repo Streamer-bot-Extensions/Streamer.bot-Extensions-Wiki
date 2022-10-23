@@ -1,6 +1,6 @@
 ---
 title: Commercial Timer (by GoWMan)
-description: This allows you to create a timer in SB that auto plays a 180 second commercial every hour on the hour.
+description: This allows you to create a timer in Streamer.bot that auto plays a 180 second commercial every hour on the hour.
 published: true
 date: 2022-07-24T06:08:40.509Z
 tags: 
@@ -23,27 +23,27 @@ This setup allows an easy way to have an auto commercial timer without any compl
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![commercial_timer.png](/extensions/commercial-timer/images/commercial_timer.png)
+![commercial_timer.png](../asssets/commercial-timer/images/commercial_timer.png)
 
 # Configuration
 
 Create a `Timed Action` called ***Auto Run Commercial*** and set it to ***3600 Interval***, ***Enabled No***, ***0 Lines*** and then tie it to the ***Run Commercial*** `Action`.
 
-![commercial_timer2.png](/extensions/commercial-timer/images/commercial_timer2.png)
+![commercial_timer2.png](../asssets/commercial-timer/images/commercial_timer2.png)
 
 Create an OBS Event for `StreamStarted` and tie it to the **Stream Started** `Action` and make sure it is **Enabled**.
 Create an OBS Event for `StreamStopped` and tie it to the **Stream Ending** `Action` and make sure it is **Enabled**.
 
-![commercial_timer3.png](/extensions/commercial-timer/images/commercial_timer3.png)
+![commercial_timer3.png](../asssets/commercial-timer/images/commercial_timer3.png)
 
 Make sure to change the `OBS Set Active Scene` in the ***Run Commercial*** `Action` to your ***BRB Scene*** and your ***Live Scene*** for *Auto Switching* scenes on Commercial.
 
-![commercial_timer4.png](/extensions/commercial-timer/images/commercial_timer4.png)
+![commercial_timer4.png](../asssets/commercial-timer/images/commercial_timer4.png)
 
 Make sure the Timer subaction in both the ***Stream Started*** `Action` and ***Stream Ending*** `Action` are pointed to the ***Auto Run Commercial*** `Timed Action`.
 
-![commercial_timer6.png](/extensions/commercial-timer/images/commercial_timer6.png)
-![commercial_timer5.png](/extensions/commercial-timer/images/commercial_timer5.png)
+![commercial_timer6.png](../asssets/commercial-timer/images/commercial_timer6.png)
+![commercial_timer5.png](../asssets/commercial-timer/images/commercial_timer5.png)
 
 ***
 

@@ -17,13 +17,13 @@ TlM0RR+LCAAAAAAABADFWVtv6kgSfl9p/wOKNG/jI1/BHmkfwAnEJJDDzYCXfWh3t42DjRnb4Jij+e9b
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![advanced-stream-markers-import.png](/extensions/advanced-stream-markers/images/advanced-stream-markers-import.png)
+![advanced-stream-markers-import.png](../assets/advanced-stream-markers/images/advanced-stream-markers-import.png)
 
 # Configuration
 This extension also takes the input from a command if there was one as the description. It also creates a new file every stream so that it isn't one big long list. This example can be used to speed up editing post streams as it provides context to moments.
 
 Double click the `Execute Code (Code - Marker Command)` in the `Marker Command` `Subaction`.
-![advanced-stream-markers-c-sharp-code.png](/extensions/advanced-stream-markers/images/advanced-stream-markers-c-sharp-code.png)
+![advanced-stream-markers-c-sharp-code.png](../assets/advanced-stream-markers/images/advanced-stream-markers-c-sharp-code.png)
 
 On `Line 76` change
 ```cs
@@ -35,7 +35,7 @@ string path = @"<Your File Path Here>" + date + "_markers.txt";
 ```
 
 Create a `Command` called `!marker` and set it to `Start` that is tied to the `Marker Command` `Subaction`.
-![advanced-stream-markers-command.png](/extensions/advanced-stream-markers/images/advanced-stream-markers-command.png)
+![advanced-stream-markers-command.png](../assets/advanced-stream-markers/images/advanced-stream-markers-command.png)
 
 >There is an `Action` called `Show Navi` that can be used to display an animation everytime the command is run.
 {.is-info}

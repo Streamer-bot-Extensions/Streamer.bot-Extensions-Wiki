@@ -17,14 +17,14 @@ TlM0RR+LCAAAAAAABADVV1tv6kgSfl9p/4OVp11pHNltG+x5AxNuJ5ADJFy8rEZ9s3FobK8vOGQ0/32r
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![chat-reminder-import.png](/extensions/chat-reminder/images/chat-reminder-import.png)
+![chat-reminder-import.png](../assets/chat-reminder/images/chat-reminder-import.png)
 
 # Configuration
 Tie the `Action` `Chat Reminder` to the `Event` `Chat Message`.
-![chat-reminder-event.png](/extensions/chat-reminder/images/chat-reminder-event.png)
+![chat-reminder-event.png](../assets/chat-reminder/images/chat-reminder-event.png)
 
 Change the `Sound File` in the `Action` `ChatWakeUp` to any sound file you want to use.
-![chat-reminder-sound.png](/extensions/chat-reminder/images/chat-reminder-sound.png)
+![chat-reminder-sound.png](../assets/chat-reminder/images/chat-reminder-sound.png)
 
 >This will now play a sound after so much time has passed with nothing being said in chat.
 {.is-info}

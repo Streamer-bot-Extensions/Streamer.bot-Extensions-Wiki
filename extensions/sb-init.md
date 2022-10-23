@@ -17,10 +17,10 @@ TlM0RR+LCAAAAAAABACtVVtvokAUft9k/4PhuZjhJtKkDxZbq03doPVSlz4MMwNlO1yWi2ib/vedgboi
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![sb-init-import.png](/extensions/sb-init/images/sb-init-import.png)
+![sb-init-import.png](../assets/sb-init/images/sb-init-import.png)
 
 # Configuration
-In the `Action` it waits 10 sec to give SB time to connect to twitch and then send a "streamerbot connected" message.
+In the `Action` it waits 10 sec to give Streamer.bot time to connect to twitch and then send a `"streamerbot connected"` message.
 The only important part is the name of the `Action` being `"SB-Init"` and the code `Subaction` which should **NOT** be changed...
 The rest of the `Action` can be adapted to anything you want done right after SB starts.
 

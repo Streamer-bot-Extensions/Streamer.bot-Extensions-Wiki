@@ -34,7 +34,7 @@ In my example I am using the file `D:\testList.txt` but any file name and path c
 Open the `Attendance Register` Action and <kbd>Double-Click</kbd> the `Set Argument` subaction.
 You will need to set the path of the text file as the value of the `attendance` variable. 
 
-![present-viewers-attendance.png](/extensions/dice-roll-game/images//present-viewers-attendance.png)
+![present-viewers-attendance.png](../assets/dice-roll-game/images/present-viewers-attendance.png)
 
 > You will need to use double backslashes between folders
 > e.g `d:\\somefolder\\textfile.txt`
@@ -42,7 +42,7 @@ You will need to set the path of the text file as the value of the `attendance` 
 
 Repeat the same for the `Battle` Action
 
-![battle-action-attendance.png](/extensions/dice-roll-game/images//battle-action-attendance.png)
+![battle-action-attendance.png](../assets/dice-roll-game/images/battle-action-attendance.png)
 
 ---
 
@@ -55,7 +55,7 @@ Attach `!decline` to the `Decline Battle` Action
 
 Set the `!accept` and `!decline` commands to `Disabled` 
 
-![battle-commands.png](/extensions/dice-roll-game/images//battle-commands.png)
+![battle-commands.png](../assets/dice-roll-game/images/battle-commands.png)
 
 ---
 

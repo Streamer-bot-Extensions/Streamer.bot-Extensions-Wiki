@@ -22,16 +22,16 @@ TlM0RR+LCAAAAAAABACdVtuOm0gQfV9p/8Ga53gExoxNpDwYxmA8Y498A8M6D91NGwjNZbl5cJR/32qw
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![follow-bot-protection-import.png](/extensions/follow-bot-protection/images/follow-bot-protection-import.png)
+![follow-bot-protection-import.png](../assets/follow-bot-protection/images/follow-bot-protection-import.png)
 
 ## Configuration
 Tie the `Action` `BotCheckFollow` to the `Follows` `Event`.
 
-![follow-bot-protection-event.png](/extensions/follow-bot-protection/images/follow-bot-protection-event.png)
+![follow-bot-protection-event.png](../assets/follow-bot-protection/images/follow-bot-protection-event.png)
 
 Insert the `Follows` `Action` after the `Comment` in `BotCheckFollow`.
 
-![follow-bot-protection-comment.png](/extensions/follow-bot-protection/images/follow-bot-protection-comment.png)
+![follow-bot-protection-comment.png](../assets/follow-bot-protection/images/follow-bot-protection-comment.png)
 
 # File Version
 
@@ -43,46 +43,46 @@ TlM0RR+LCAAAAAAABADtWtuS4kYSfd+I/Qd2nk2HLtAgR/gBqUGI2wzQSKBtP6ikQlLrhpGAFg7/+2ZV
 ## Installation
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
-![follow-bot-protection-import2.png](/extensions/follow-bot-protection/images/follow-bot-protection-import2.png)
-![follow-bot-protection-import3.png](/extensions/follow-bot-protection/images/follow-bot-protection-import3.png)
+![follow-bot-protection-import2.png](../assets/follow-bot-protection/images/follow-bot-protection-import2.png)
+![follow-bot-protection-import3.png](../assets/follow-bot-protection/images/follow-bot-protection-import3.png)
 
 They will now be in the `Actions` tab.
 
-![follow-bot-protection-actions.png](/extensions/follow-bot-protection/images/follow-bot-protection-actions.png)
+![follow-bot-protection-actions.png](../assets/follow-bot-protection/images/follow-bot-protection-actions.png)
 
 ### Check References
 
 #### BotCheck Refs
 
-![follow-bot-protection-references1.png](/extensions/follow-bot-protection/images/follow-bot-protection-references1.png)
+![follow-bot-protection-references1.png](../assets/follow-bot-protection/images/follow-bot-protection-references1.png)
 
 #### BotCheckAdd Refs
 
-![follow-bot-protection-references2.png](/extensions/follow-bot-protection/images/follow-bot-protection-references2.png)
+![follow-bot-protection-references2.png](../assets/follow-bot-protection/images/follow-bot-protection-references2.png)
 
 #### BotCheckRem Refs
 
-![follow-bot-protection-references3.png](/extensions/follow-bot-protection/images/follow-bot-protection-references3.png)
+![follow-bot-protection-references3.png](../assets/follow-bot-protection/images/follow-bot-protection-references3.png)
 
 #### BotCheckBanToggle Refs (should be there by default)
 
-![follow-bot-protection-references4.png](/extensions/follow-bot-protection/images/follow-bot-protection-references4.png)
+![follow-bot-protection-references4.png](../assets/follow-bot-protection/images/follow-bot-protection-references4.png)
 
 Open `Execute Code (******)` by double clicking or right click and choose edit action.
 
 Press `Find Refs` if Streamer.bot won't automatically find the references then they need to be added manually. Right click and press `Add reference from file...`
 
-![follow-bot-protection-find-refs.png](/extensions/follow-bot-protection/images/follow-bot-protection-find-refs.png)
+![follow-bot-protection-find-refs.png](../assets/follow-bot-protection/images/follow-bot-protection-find-refs.png)
 
 Reference files can be located at:  
 `C:\Windows\Microsoft.NET\Framework\v4.0.30319` or `C:\Windows\Microsoft.NET\assembly\GAC_MSIL\`
 It is recommended to search both folders and use the one that works for compiling.
 
-![follow-bot-protection-references5.png](/extensions/follow-bot-protection/images/follow-bot-protection-references5.png)
+![follow-bot-protection-references5.png](../assets/follow-bot-protection/images/follow-bot-protection-references5.png)
 
 After adding it should show in the `References`!  Hit `Compile` to see if all is fine in the `Compiling Log` tab.
 
-![follow-bot-protection-compile-log.png](/extensions/follow-bot-protection/images/follow-bot-protection-compile-log.png)
+![follow-bot-protection-compile-log.png](../assets/follow-bot-protection/images/follow-bot-protection-compile-log.png)
 
 After successful compile hit `Save and Compile`!
 
@@ -90,13 +90,13 @@ Copy the `sub-action` and paste it to your `Follows` `sub-actions`.
 >**Skip this part if there is no follower action or use another bot to show them!**
 {.is-warning}
 
-![follow-bot-protection-copy-action.png](/extensions/follow-bot-protection/images/follow-bot-protection-copy-action.png)
-![follow-bot-protection-subaction.png](/extensions/follow-bot-protection/images/follow-bot-protection-subaction.png)
+![follow-bot-protection-copy-action.png](../assets/follow-bot-protection/images/follow-bot-protection-copy-action.png)
+![follow-bot-protection-subaction.png](../assets/follow-bot-protection/images/follow-bot-protection-subaction.png)
 
 or add with `Add Action` -> `Action` and choose the `Action` `BotCheck`.
 
-![follow-bot-protection-add-action.png](/extensions/follow-bot-protection/images/follow-bot-protection-add-action.png)
-![follow-bot-protection-subaction2.png](/extensions/follow-bot-protection/images/follow-bot-protection-subaction2.png)
+![follow-bot-protection-add-action.png](../assets/follow-bot-protection/images/follow-bot-protection-add-action.png)
+![follow-bot-protection-subaction2.png](../assets/follow-bot-protection/images/follow-bot-protection-subaction2.png)
 
  >Make sure the bot check is at the top!
  {.is-danger}
@@ -104,11 +104,11 @@ or add with `Add Action` -> `Action` and choose the `Action` `BotCheck`.
  ## Events
 Set `Action` `BotCheck` to trigger on `Follows` `Event`. 
 
-![follow-bot-protection-events1.png](/extensions/follow-bot-protection/images/follow-bot-protection-events1.png)
+![follow-bot-protection-events1.png](../assets/follow-bot-protection/images/follow-bot-protection-events1.png)
 
 or if there is no `Follows` `Action` just put `BotCheck` `Action` in the `Follows` `Event`.
 
-![follow-bot-protection-events2.png](/extensions/follow-bot-protection/images/follow-bot-protection-events2.png)
+![follow-bot-protection-events2.png](../assets/follow-bot-protection/images/follow-bot-protection-events2.png)
 
 Press test and a file will be created with a few bot names (all �hoss� variants).
 
@@ -117,14 +117,14 @@ Add a `Command` called `!addbot` tied to the `Action` `BotCheckAdd` set to `Star
 
 Whenever a Moderator does `!addbot <Username>` it will get added to the `botlist.txt` file as a new line.
 
-![follow-bot-protection-add-bot.png](/extensions/follow-bot-protection/images/follow-bot-protection-add-bot.png)
+![follow-bot-protection-add-bot.png](../assets/follow-bot-protection/images/follow-bot-protection-add-bot.png)
 
 ## Removing bot names with command
 Add a `Command` called `!rembot` tied to the `Action` `BotCheckRem` set to `Start` and set `Group Permissions` to `Moderators`.
 
 Whenever a Moderator does `!rembot <Username>` it will get removed from the `botlist.txt` file..
 
-![follow-bot-protection-remove-bot.png](/extensions/follow-bot-protection/images/follow-bot-protection-remove-bot.png)
+![follow-bot-protection-remove-bot.png](../assets/follow-bot-protection/images/follow-bot-protection-remove-bot.png)
 
 ## Add Ban Toggle (Off by Default)
 Add a `Command` called `!toggleban` tied to the `Action` `BotCheckBanToggle` set to `Start` and set `Group Permissions` to `Moderators`.
@@ -134,7 +134,7 @@ Whenever a Moderator does `!toggleban` it will toggle auto ban on or off.
 >False = Off and True = On
 {.is-warning}
 
-![follow-bot-protection-toggle-ban.png](/extensions/follow-bot-protection/images/follow-bot-protection-toggle-ban.png)
+![follow-bot-protection-toggle-ban.png](../assets/follow-bot-protection/images/follow-bot-protection-toggle-ban.png)
 
 ## Botlist File Info and example of false ban
 Names can be part of the whole username in case of hoss these cover them all that are known so far.
@@ -143,15 +143,15 @@ It is **recommended** to add as much of the name as possible, so there won't be 
 >Hoss uses all variants of hoss00312 / h0ss00312 and that is why it has only 4 first letters added.
 {.is-warning}
 
-![follow-bot-protection-toggle-text-file.png](/extensions/follow-bot-protection/images/follow-bot-protection-toggle-text-file.png)
+![follow-bot-protection-toggle-text-file.png](../assets/follow-bot-protection/images/follow-bot-protection-toggle-text-file.png)
 
 **Here is a case of false ban**: If a user named `�hasselhoss�` for example comes to the stream and follows, they will get banned (if ban is set to true) as part of the name is in the list of bots!
 
 >botlist.txt file will be located in the data folder!
 {.is-danger}
 
-![follow-bot-protection-toggle-folder1.png](/extensions/follow-bot-protection/images/follow-bot-protection-toggle-folder1.png)
-![follow-bot-protection-toggle-folder2.png](/extensions/follow-bot-protection/images/follow-bot-protection-toggle-folder2.png)
+![follow-bot-protection-toggle-folder1.png](../assets/follow-bot-protection/images/follow-bot-protection-toggle-folder1.png)
+![follow-bot-protection-toggle-folder2.png](../assets/follow-bot-protection/images/follow-bot-protection-toggle-folder2.png)
 
 >The file can manually be created but the file name must be botlist.txt and names are one (1) on each line!
 {.is-danger}

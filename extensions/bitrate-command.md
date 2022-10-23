@@ -17,14 +17,14 @@ TlM0RR+LCAAAAAAABADNVLFu2zAQ3Qv0H1QB2cyAlChZ7JYURYYCLVAXWYoMR/IUC5UlV6ScBIH/vaRk
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![bitrate-command-import.png](/extensions/bitrate-command/images/bitrate-command-import.png)
+![bitrate-command-import.png](../assets/bitrate-command/images/bitrate-command-import.png)
 
 ## Configuration
 Assign the `Action` `OBS Event - StreamStatus` to a `StreamStatus` `Event` in the `OBS` tab.
-![bitrate-command-obs-event.png](/extensions/bitrate-command/images/bitrate-command-obs-event.png)
+![bitrate-command-obs-event.png](../assets/bitrate-command/images/bitrate-command-obs-event.png)
 
 Next create a `Command` called `!bitrate` set to `Exact` and tied to the `!bitrate` `Action.
-![bitrate-command-command.png](/extensions/bitrate-command/images/bitrate-command-command.png)
+![bitrate-command-command.png](../assets/bitrate-command/images/bitrate-command-command.png)
 
 >Chat will now be able to use `!bitrate` in chat and have the current bitrate displayed.
 {.is-info}

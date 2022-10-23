@@ -23,14 +23,14 @@ This will just need a `!followage` command tied to it to work, this will get the
 
 > If the user doesn't follow it will not work. {.is-warning} 
 ## Example Use
-![followagesimple.png](/extensions/followage/images/followagesimple.png)
+![followagesimple.png](../assets/followage/images/followagesimple.png)
 
 # Followage (with targets and fail)
 ## Import Code
 ```
 TlM0RR+LCAAAAAAABADtV8Fu3DYQvRfoPwgL+BYWJEVSZG/uwa2Booc0PRU9DMnhWoBW2lJSbCPIv5eSvLZWXqe7ycJJgZ4kcYbk8PHNm9GH77/LstV7jG3Z1KsfM/5mHKhhg+lrtZo+wXXJ3KaRP4fvLPswPZKp9IMfIvi8yHPifIFE5CCIVt4QCRqNEcpwNNNa46S/e+yH9eu+qp5GsQZb4bBeF3ucjd+5qvd4FZvNL2XbNfE+uQSo2pnPLuCrpqqa28s1znZbx6bfDsafoC3dzADVLdy3b/v6+XoRat9sLsdzP7e6pnZ9jFh3z23PsNrDa3Rpmz46fHe/xUfEH23vIZYDDE/oP5omqHVhjZaGkRy4IILmnhgLjgiUiisRbGB2MfEWy/XNECr9ge5buikGuRjeIbZ3P5+6oym+2uPdsMvT6Mc3L2GwO+dvDxcX4fa63vbdIvRmixEeLoEukar6QzBNF3A9gmULJiQCEstDgkgaSWwhLAkFh+AZl0VYghX7+nqzQV9Ch9X9wYNC6DA+coMtEEpsuHwK4QCEyeHtv28yrrO3ET1Ih5wHpRkQ7kWig2E0nZVSYpzHxAbvVFGcSgfGz8oHdgwfOrwbQlpdhDGD+xbjRXYDbWYR62waLOt1eovZg0/K8l+ben2xON42YsCUnP7SuaYfU5QdQo6j9ToRgHhlB80KNGlWUERp7VAyVhjpTkburMCJz0mkPWw+kU3q9GwShZOeUUEoFQmxYIBYaZAUjhlljLJB4H87m3Kl0HmTChcFmU5YOGKt8ERqRjEo9Gjys2XTEupjKJEfQ4m9+pK/XF86iGvs/kipdrjS5FQx6lMp59YTAUOlQaVT4QGVC+ktCnpypWHnw4LPsNi9/rUsxD8PG4zVeGZyKUdg26KfWSfjDtRlg3Ma9V+jwbmCsvqWm5ydoL+7Kdts4FjmG2yzuuke1Dy7sLEB76AdKXiEjB9M2RC8AhYkAQM8FUCeZBy8IsByz0IuUHP/dWWcviJPT2t4XoOnv2MVvmWe7onlQp3mYjmR9gWpBKED5IUl3DlGhEqIg9VAlAQGBWVMO/k1pfKolvz1WzAsKKR/Q04s06nCUJneisBJyltllaUJupNheyl3v7TC/N+AvUYDxqTMg/dAdMCk5iL1HNrlnHChC43aKydP/rs9awM2/5k5m5gPj8lzUuTZ1DRts0n6t/P/+A9uKKRsshEAAA==
 ```
-![followage_actions.png](/extensions/followage/images/followage_actions.png)
+![followage_actions.png](../assets/followage/images/followage_actions.png)
 ## Installation
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
@@ -38,12 +38,12 @@ Copy the `Import Code` and paste it into the `Import String`.
 This action has a few Get info/followage Sub actions you will need to check that these match. In `FollowAge` you need to `get target info from input` and `Add follow age info from targetUser`. Then `FollowAgeSelf` you need to `Add follow age info from who redeemed`
 
 This will just need a `!followage` command tied to the FollowAge action. 
-![followage_command.png](/extensions/followage/images/followage_command.png)
+![followage_command.png](../assets/followage/images/followage_command.png)
 > This command is set up to allow an input after the command you will need to make sure the command location is set to start. {.is-info}
 
 ## Example Use
 This command has a slight bit more than the previous example, so a user can just do `!followage` to get their own follow age, however the user can now do targeted followages (as seen below) to get the followage of another user. It will also throw an error if the user does not follow the broadcaster.
-![followage_fail.png](/extensions/followage/images/followage_fail.png)
+![followage_fail.png](../assets/followage/images/followage_fail.png)
 
 # C# Followage
 ## Import Code

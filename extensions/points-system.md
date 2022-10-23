@@ -1,6 +1,6 @@
 ---
 title: Point System
-description: A point System Built fully for the use in Streamerbot
+description: A point System Built fully for the use in Streamer.bot
 published: true
 date: 2022-08-22T12:08:23.983Z
 tags: 

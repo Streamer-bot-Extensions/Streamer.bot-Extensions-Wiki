@@ -19,11 +19,11 @@ In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`.
 
 Just tie the Imported Action to a Timed Action for best results do set the Interval to 3600 seconds so it posts every hour.
-![previewTimedAction](/extensions/stream-infos-at-regular-intervals/images/previewTimedAction.png)
+![previewTimedAction](../assets/stream-infos-at-regular-intervals/images/previewTimedAction.png)
 
 # Example Use
 
-![preview](/extensions/stream-infos-at-regular-intervals/images/previewStreamInfo.png)
+![preview](../assets/stream-infos-at-regular-intervals/images/previewStreamInfo.png)
 
 # Contributors
 

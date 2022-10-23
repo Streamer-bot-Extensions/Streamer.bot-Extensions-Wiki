@@ -20,11 +20,11 @@ In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
 Once you've imported the code you will notice you have 6 new actions, the first thing you will want to do it rename you queue, you can do this by editing the `Set Argument` in the `exampleQueue-Main` Action. Also set how many actions are going to be in this Queue.
-![ranr-subactions.png](/extensions/random-actions-no-repeat/images/ranr-subactions.png)
+![ranr-subactions.png](../assets/random-actions-no-repeat/images/ranr-subactions.png)
 > I would highly recommend using camelCase when naming your Queue {.is-warning}
 
 Once you've set on a name you can rename the action, and then you will need to create the randomActions you will be triggering with the queueName plus a number up to as many as you have. In my example my queue was called `exampleQueue` and I have `5` Actions. So my naming scheme was like this.
-![ranr-actions.png](/extensions/random-actions-no-repeat/images/ranr-actions.png)
+![ranr-actions.png](../assets/random-actions-no-repeat/images/ranr-actions.png)
 
 You will now just need to choose how this queue is triggered, but if you was going to set this up as a chat command you would tie it to the Main Sub-Action and all that to do the set of the work.
 

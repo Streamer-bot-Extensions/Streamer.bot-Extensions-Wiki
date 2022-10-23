@@ -21,7 +21,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 Create a Channel Point and tie it to the `Power Level` Action.
 
 Download The Assets.
-- [SFX File](/extensions/power-level/files/power-level.zip) {.btn-grid .my-5}
+- [SFX File](../assets/power-level/files/power-level.zip) {.btn-grid .my-5}
 
 # Contributors
 

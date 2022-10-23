@@ -16,10 +16,12 @@ With User Controlled Predictions you can use chat commands to start a prediction
 ```
 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
 ```
-> You may need to add `System.Core.dll` to get the codes to compile {.is-info}
+
 ## Installation
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
+
+> You may need to add `System.Core.dll` to get the codes to compile {.is-info}
 
 When you import you will get 3 actions.
 - Prediction Create
@@ -40,7 +42,7 @@ Platforms :arrow_right: Twitch :arrow_right: Predictions
 {.is-info}
 
 If set up correctly it should look like the image below
-![predictcommand.png](/extensions/predictions/images/predictcommand.png)
+![predictcommand.png](../assets/predictions/images/predictcommand.png)
 
 ## Example
 When everything is set up it should work like this
@@ -75,7 +77,7 @@ After youve got the codepen into OBS you will need to go into the `ResolvePredic
 > As we are going to need to add info its important that you DO NOT tick local file. {.is-danger}
 
 Then you will need to create a Channel Point Redeem that is pointed to the `TriggerPrediction` Action.
-![coinflipcpr.png](/extensions/predictions/images/coinflipcpr.png)
+![coinflipcpr.png](../assets/predictions/images/coinflipcpr.png)
 
 The `Save Variables` Action needs to be tied to the `Created` Event within the Predictions Tab.
 > You can find the Prediction Tab via,
@@ -83,10 +85,10 @@ Platforms :arrow_right: Twitch :arrow_right: Predictions
 {.is-info}
 
 If set up correctly it should look like the image below
-![predictcommand.png](/extensions/predictions/images/predictcommand.png)
+![predictcommand.png](../assets/predictions/images/predictcommand.png)
 
 ## Example
-![coinflipexample.png](/extensions/predictions/images/coinflipexample.png)
+![coinflipexample.png](../assets/predictions/images/coinflipexample.png)
 
 *Original Pen Comes from html5andblog https://codepen.io/html5andblog/pen/pJZpee*
 

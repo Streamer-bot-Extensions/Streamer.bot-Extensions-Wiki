@@ -14,14 +14,14 @@ TlM0RR+LCAAAAAAABADNWVlz4kgSft+I/Q8Kv+zLqKd0AZrY3QjABgQ2bi4BWs+D6tDR6BoJgcXE/PfJ
 ```
 
 # Installation
-> Requires [Geocyms Walkon Sounds](/extensions/walkon-sounds) to utilize the regular feature!
+> Requires [Geocyms Walkon Sounds](./walkon-sounds) to utilize the regular feature!
 {.is-danger}
 
 This setup allows an easy way to acomplish this without needing any complicated setup or maintenence.
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![walkon-videos-images-import.png](/extensions/walkon-videos-images/images/walkon-videos-images-import.png)
+![walkon-videos-images-import.png](../assets/walkon-videos-images/images/walkon-videos-images-import.png)
 
 # Configuration
 
@@ -30,25 +30,25 @@ The first thing you will want to do is set the folder path that will contain all
 To set the path, open up the `Set Argument %walkOns%` `Sub-action`.
 Change the `Value` to match your setup.
 
-![walkons-path.png](/extensions/walkon-sounds/images/walkons-path.png)
+![walkons-path.png](../assets/walkon-sounds/images/walkons-path.png)
 
 Next create a new `Browser Source` in OBS and check `Control Audio in OBS`.
 Change the `Set Argument %walkonScene%` `Value` to your `OBS Browser Source Scene` name.
-![walkon-videos-images-scene.png](/extensions/walkon-videos-images/images/walkon-videos-images-scene.png)
+![walkon-videos-images-scene.png](../assets/walkon-videos-images/images/walkon-videos-images-scene.png)
 
 Change the `Set Argument %walkonSource%` `Value` to your `OBS Browser Source` name.
-![walkon-videos-images-source.png](/extensions/walkon-videos-images/images/walkon-videos-images-source.png)
+![walkon-videos-images-source.png](../assets/walkon-videos-images/images/walkon-videos-images-source.png)
 
 ### References
 You will need this DLL file and the following references in order for the `Execute C# Code` to compile correctly:
-[Interop.WMPLib.dll](/extensions/walkon-videos-images/files/Interop.WMPLib.dll)
-![walkon-videos-images-references.png](/extensions/walkon-videos-images/images/walkon-videos-images-references.png)
+[Interop.WMPLib.dll](../assets/walkon-videos-images/files/Interop.WMPLib.dll)
+![walkon-videos-images-references.png](../assets/walkon-videos-images/images/walkon-videos-images-references.png)
 
 With this complete, set the `Create Regular` action to either a chat command or point redeem to allow your users to register.
 
 If you are using Channel point option, you can enable the `User Input Required` if you want, that way users can speficy the sound they want in the message
 
-![create-reg-redeem.png](/extensions/walkon-sounds/images/create-reg-redeem.png)
+![create-reg-redeem.png](../assets/walkon-sounds/images/create-reg-redeem.png)
 
 The only thing this action does is create a subfolder with the same username as the person redeming the reward, so you can create the folders manually if you wish.
 *All folders should be lowercase*
@@ -59,7 +59,7 @@ The only thing this action does is create a subfolder with the same username as 
 
 Finally the `Walk on Videos and Images` `Action` should be assigned to the `First Words` `Event` in Settings
 
-![walkon-videos-images-event.png](/extensions/walkon-videos-images/images/walkon-videos-images-event.png)
+![walkon-videos-images-event.png](../assets/walkon-videos-images/images/walkon-videos-images-event.png)
 
 # Contributors
 

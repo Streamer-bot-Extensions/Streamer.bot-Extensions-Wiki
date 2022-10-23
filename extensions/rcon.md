@@ -28,7 +28,7 @@ Here is my template for the custom points redeem.   I took the template redeem f
 If you have any questions on how I'm using this please feel free to reach out.  Right now I'm using this for just 7 Days to die, but plan to expand to Minecraft, and potentially Farm Sim 22.
 
 What is to come: 
-  I am trying to update this so that I do not have to use an external program to make the call to the game server, however at this Time my C# is a little (very) lacking.  I am going to be trying to write C# code for streamer.bot to be able to do this but do not know how long that will take.   If you have any questions please feel free to reach out on the streamer.bot discord or my discord.  https://discord.io/itsthebofh.
+  I am trying to update this so that I do not have to use an external program to make the call to the game server, however at this Time my C# is a little (very) lacking.  I am going to be trying to write C# code for Streamer.bot to be able to do this but do not know how long that will take.   If you have any questions please feel free to reach out on the Streamer.bot discord or my discord.  https://discord.io/itsthebofh.
 
 # Contributors
 

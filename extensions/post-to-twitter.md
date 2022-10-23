@@ -27,8 +27,8 @@ The first thing you need to do is to get the key from the twitter API. You can d
 > `Oauth 2.0` uses different endpoints so it will not work. {.is-warning}
 8. Change `Oauth 1.0a Settings` to `Read and Write`
 9. In the Callback Url will need to match as your Websocket is in SB. By default its set as `http://127.0.0.1:7474` and you will need to put Website Url as your twitter address, if any other boxes require a url put in that same address. If done it should look like this -
-![twittersettings.png](/extensions/twitter/images/twittersettings.png)
-![httpservertwitter.png](/extensions/twitter/images/httpservertwitter.png)
+![twittersettings.png](../assets/twitter/images/twittersettings.png)
+![httpservertwitter.png](../assets/twitter/images/httpservertwitter.png)
 
 
 9. When on the Settings Page, you should see "Keys and Tokens" that is where we will get our 4 keys we need.
@@ -42,11 +42,11 @@ If you get stuck you can follow the Twitter Support at [Twitter Developer Suppor
 > Remember Getting Elevated access is needed however can take a short period of time. {.is-info}
 ## Getting Elevated Access if Needed
 When you open up the developer portal with `Essential` Access you will be greeted with this.
-![twitterapplyforelevated.png](/extensions/twitter/images/twitterapplyforelevated.png)
+![twitterapplyforelevated.png](../assets/twitter/images/twitterapplyforelevated.png)
 
 You will need to Press Apply and then fill out the `Basic Info` your username and email should be there by default however there are changeable you will however need to add your name, country your based in and your coding experience. The name can not be changed, I am unaware about the others so please be accurate. 
 
-![twitterapplyforelevatedpg1.png](/extensions/twitter/images/twitterapplyforelevatedpg1.png)
+![twitterapplyforelevatedpg1.png](../assets/twitter/images/twitterapplyforelevatedpg1.png)
  The next section is where you will explain your use for the bot saying something along the lines of.
  
  
@@ -63,29 +63,29 @@ TlM0RR+LCAAAAAAABADtXcty40py3TvC/6DoiLu6gx48SeJGzEJk8wGSYosvkIQ1MQGgAAIiSGL4FDkx
 ```
 # Installation
 All the Code is in one bit of C# So all the References need adding in just one place, they reference you will need are. 
-![tweetrefs.png](/extensions/twitter/images/tweetrefs.png)
+![tweetrefs.png](../assets/twitter/images/tweetrefs.png)
 Also within the C# Code you will need to add your keys.
-![tweetkeys.png](/extensions/twitter/images/tweetkeys.png)
+![tweetkeys.png](../assets/twitter/images/tweetkeys.png)
 You need to make sure each Key Line has `@` at the start and then declared as a string by `"`.
 
 You will need to set up the HTTP Server in Streamerbot.
 The `Address` and `Port` needs to match the one you did the prior step of setting up.
-![httpservertwitter.png](/extensions/twitter/images/httpservertwitter.png)
+![httpservertwitter.png](../assets/twitter/images/httpservertwitter.png)
 
 # Example Use
 
 ## Send a Tweet
-![twittertext.png](/extensions/twitter/images/twittertext.png)
+![twittertext.png](../assets/twitter/images/twittertext.png)
 
 ## Send a Tweet With Image
-![tweetimage.png](/extensions/twitter/images/tweetimage.png)
+![tweetimage.png](../assets/twitter/images/tweetimage.png)
 ## Streaming Commands
 To automate this it different depending on which version of WS you are using if you are using WS4.9.XX then you can tie the 2 actions to  OBS Events > Stream Started and OBS > Events > Stream Stopped for the starting and stopping actions respectfully. 
 In WS5 you will need to use the event called `StreamStateChanged`, This is tied to a seperate action, which you will need to create. I called it `StreamCheck`. Then i did an If statement of 
 ```
 If 'obsEvent.outputActive' Equals 'True' do 'StreamStarting' else do 'StreamEnding'
 ```
-![streamstartcheck.png](/extensions/twitter/images/streamstartcheck.png)
+![streamstartcheck.png](../assets/twitter/images/streamstartcheck.png)
 
  The Arguments in both sub-actions are exactly the same however you will have a **LIVE** version and you will have a **Normal** Version for when you are offline. 
 |Argument|Purpose|
@@ -95,9 +95,9 @@ If 'obsEvent.outputActive' Equals 'True' do 'StreamStarting' else do 'StreamEndi
 |`bannerPath`| This will change the banner at the top of your page, and this is the link to the image file.
 |`tweetText`| This is a Starting only Command, but this is the value you want to tweet out when you go live, the default message will tell people the game you are playing and post your link.
 ### Stream Starting
-![tweetgoinglive.png](/extensions/twitter/images/tweetgoinglive.png)
+![tweetgoinglive.png](../assets/twitter/images/tweetgoinglive.png)
 ### Stream Ending
-![tweetonend.png](/extensions/twitter/images/tweetonend.png)
+![tweetonend.png](../assets/twitter/images/tweetonend.png)
 
 > If there is any action you don't want to happen, use the `Enable/Disable` Option in the Sub Action Context Menu. Disabled Sub-Actions will turn Red/Pink. {.is-success}
 

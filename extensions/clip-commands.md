@@ -1,6 +1,6 @@
 ---
 title: Clip Commands
-description: Few Examples of how to play with clips in Streamerbot.
+description: Few Examples of how to play with clips in Streamer.bot.
 published: true
 date: 2022-07-27T20:05:49.484Z
 tags: 
@@ -70,7 +70,7 @@ public class CPHInline
         bool success = int.TryParse((CPH.GetGlobalVar<string>("clipCount")), out currentCount);
         if (success)
         {
-            if (viewCount == currentCount)
+            if (viewCount <= currentCount)
             {
              //No New Clip
              return true;
@@ -95,5 +95,5 @@ public class CPHInline
 ```
 
 # Contributors
-- <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/terrierdarts)
+- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/terrierdarts)
 - {.is-contributor}

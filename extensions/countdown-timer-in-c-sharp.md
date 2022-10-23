@@ -1,6 +1,6 @@
 ---
 title: Countdown Timer in C# (by rondhi)
-description: Using this extension you will be able to create countdown timers in Streamerbot.
+description: Using this extension you will be able to create countdown timers in Streamer.bot.
 published: true
 date: 2022-08-14T00:45:46.596Z
 tags: 
@@ -22,7 +22,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 2. Streamer Bot > Actions > `TimerStart` > double-click `Execute Code (Countdown Timer)` > in the `References` tab > right-click and `Add reference from file...` > add `System.dll` > click `Save and Compile`
 
-  ![image](https://user-images.githubusercontent.com/8848167/170428954-f38da1d2-6fb5-4306-a8cb-5cd5c6e3d02b.png)
+  ![image](../assets/countdown-timer/countdownTimer.png)
 
 ### Commands to create in Streamer Bot and which action to point them to
 

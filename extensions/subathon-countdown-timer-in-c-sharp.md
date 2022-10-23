@@ -29,19 +29,19 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 ### 2. Streamer Bot > Actions > `Subathon Timer Code` > Double-click `Execute Code (Subathon Timer)` > add `System.dll` as a reference
 
-![addReference](/extensions/subathon-timer-in-c-sharp/images/178125433-7b545f22-f4ea-4c75-a9a2-0e80a20992be.png)
+![addReference](../assets/subathon-timer-in-c-sharp/images/178125433-7b545f22-f4ea-4c75-a9a2-0e80a20992be.png)
 
 #### Click the Compiling Log tab, click Compile to make sure the code compiles correctly, and then click Save and Compile
 
-![compile](/extensions/subathon-timer-in-c-sharp/images/178125549-f1546cef-9cd1-4ca7-ae4f-13c469f32962.png)
+![compile](../assets/subathon-timer-in-c-sharp/images/178125549-f1546cef-9cd1-4ca7-ae4f-13c469f32962.png)
 
 ### 3. Point the `Cheer Generic > Cheer Type > Generic (Either)` event to your `Subathon Add Time Cheers` action.
 
 - Streamer Bot > Platforms > Twitch > Events > Cheers
 
-![Event](/extensions/subathon-timer-in-c-sharp/images/178125591-e481564e-6706-495f-adc6-022e465424fb.png)
+![Event](../assets/subathon-timer-in-c-sharp/images/178125591-e481564e-6706-495f-adc6-022e465424fb.png)
 
-![cheersEventTab](/extensions/subathon-timer-in-c-sharp/images/178125313-a3622276-8c91-499a-acf0-deb5cfce32b3.png)
+![cheersEventTab](../assets/subathon-timer-in-c-sharp/images/178125313-a3622276-8c91-499a-acf0-deb5cfce32b3.png)
 
 ### 4. Point the Sub, Re-Sub, Gift Sub, and Gift Bomb Generic events each to the `Subathon Add Time Sub` action.
 
@@ -50,9 +50,9 @@ Copy the `Import Code` and paste it into the `Import String`.
 - Streamer Bot > Platforms > Twitch > Events > Gift Sub
 - Streamer Bot > Platforms > Twitch > Events > Gift Bomb
 
-![subsEventTab](/extensions/subathon-timer-in-c-sharp/images/178125479-c3a5d0c8-501f-4183-9ce5-522cef213ba4.png)
+![subsEventTab](../assets/subathon-timer-in-c-sharp/images/178125479-c3a5d0c8-501f-4183-9ce5-522cef213ba4.png)
 
-![SubAction](/extensions/subathon-timer-in-c-sharp/images/178125419-7aa18090-989a-4933-ad6b-ff595be8f969.png)
+![SubAction](../assets/subathon-timer-in-c-sharp/images/178125419-7aa18090-989a-4933-ad6b-ff595be8f969.png)
 
 ### 5. Configure action `Subathon Configuration and Start !startsubathon`
 
@@ -60,7 +60,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 - You can edit the max limit lengh of the subathon in hours
 - If you want to change the names of the scene and text source in OBS, make sure it matches here too.
 
-![Configure](/extensions/subathon-timer-in-c-sharp/images/178125667-05e1ccd4-9e1f-46f2-817d-efd9bdd6df26.png)
+![Configure](../assets/subathon-timer-in-c-sharp/images/178125667-05e1ccd4-9e1f-46f2-817d-efd9bdd6df26.png)
 
 ### 6. You can edit how many minutes each tier sub adds to the timer.
 
@@ -68,7 +68,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 - Subathon Tier 2 Config MInutes
 - Subathon Tier 3 Config Minutes
 
-![subTierAddMinutes](/extensions/subathon-timer-in-c-sharp/images/178126447-f9851483-b88e-481f-9d17-293d7cdae9d6.png)
+![subTierAddMinutes](../assets/subathon-timer-in-c-sharp/images/178126447-f9851483-b88e-481f-9d17-293d7cdae9d6.png)
 
 ### 7. Subathon Chat Commands
 
@@ -78,7 +78,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 ### 8. Action `Subathon Done Action` will be triggered once the timer runs out.
 
-![subathonDone](/extensions/subathon-timer-in-c-sharp/images/178125514-be9d0361-e8b5-497d-98cb-ed937e226f14.png)
+![subathonDone](../assets/subathon-timer-in-c-sharp/images/178125514-be9d0361-e8b5-497d-98cb-ed937e226f14.png)
 
 # Contributors
 

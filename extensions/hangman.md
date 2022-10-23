@@ -23,9 +23,9 @@ Copy the `Import Code` and paste it into the `Import String`.
 https://codepen.io/terrierdarts/pen/qBpQExw Here is the Pen, its not necessary but its here if you want it.
 ## OBS Setup (Optional)
 If you want, you can use the the codepen to show the game on screen. I've provided the codepen link so if you wish to make any styling adjustments you can. The best way to do this is to `Fork` the pen and then make edits. Once you've got it looking the way you wish you can `Export` once its downloaded extract the folder into somewhere safe. Then you will need to go into the dist folder and open the index.html. You will need to copy the url from the address bar and then create a browser source in OBS with that url and add 500 for Width and Height. It should look something like this.
-![hangmanobs.png](/extensions/hangman/images/hangmanobs.png)
+![hangmanobs.png](../assets/hangman/images/hangmanobs.png)
 > Its important you dont use `Local File` in OBS. {.is-warning}
-## Streamerbot Setup
+## Streamer.bot Setup
 
 After you've imported the code you will need to decide how you wish to trigger this, I personally chose `Channel Point Redeems` but `Chat Commands` can be use. You will need to set up 3 triggers, one to `Start Game`, `Guess Letter` and a `Guess Word`. If you use Channel Points The 'Guess' Redeems will require input. Each one will be pointed to the relevant action.
 |Action|Purpose|Triggers|

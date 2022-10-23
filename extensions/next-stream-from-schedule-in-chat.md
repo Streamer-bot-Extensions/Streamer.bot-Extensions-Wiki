@@ -21,10 +21,10 @@ Make sure, you set up Category & EndTime in the schedule: without it, it won't w
 ( editing the C# code to erase classes and variables used could bypass this restriction ) 
 
 DLL's To Reference :
-![image](/extensions/next-stream-from-schedule-in-chat/images/170585445-3af591c3-bf5d-437e-a311-90bd8457ac3e.png)
+![image](../assets/next-stream-from-schedule-in-chat/images/170585445-3af591c3-bf5d-437e-a311-90bd8457ac3e.png)
 
 # Example Use
-![Next Stream in chat](/extensions/next-stream-from-schedule-in-chat/images/175247155-7f89d259-8801-4ceb-976f-e317576e5431.png)
+![Next Stream in chat](../assets/next-stream-from-schedule-in-chat/images/175247155-7f89d259-8801-4ceb-976f-e317576e5431.png)
 
 # Contributors
 

@@ -16,11 +16,11 @@ TlM0RR+LCAAAAAAABAC9VktvGyEQvkfKf0ArRUokEwELmO2tyiHqpYdE7aWuImAH2+p6cfdh14ry38s+
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-![volume-control-import.png](/extensions/volume-control/images/volume-control-import.png)
+![volume-control-import.png](../assets/volume-control/images/volume-control-import.png)
 
 # Configuration
 Set the `Source Name` in the first `Set Argument" subaction.
-![volume-control-source.png](/extensions/volume-control/images/volume-control-source.png)
+![volume-control-source.png](../assets/volume-control/images/volume-control-source.png)
 
 >Uses a "get volume" request to get the source's current volume and stores it in the variable "obsRaw.volume"
 >- Then increments the variable by some amount (positive to make it louder, negative to make it quieter. Do some experiments to decide how big this number should be by monitoring sources and checking the difference. (edit: keep this value very small - too large and it will break the action. The import defaults to 0.1)

@@ -17,7 +17,7 @@ TlM0RR+LCAAAAAAABADtXF1vY8cNfS/Q/6AYyFtYDGc4X31LX4o8NAHSIkAR5IEzw0mMeuWtLGezCPLf
 # Installation
 ## Prerequisite
 
-You can find all files together in this [link](/extensions/prize-wheel/files/Roulette-by-MarkusoOoO.zip) in zip folder and all guide informations are in `Readme.txt` file. 
+You can find all files together in this [link](../assets/prize-wheel/files/Roulette-by-MarkusoOoO.zip) in zip folder and all guide informations are in `Readme.txt` file. 
 
 *OBS v27.1.3+ (if you are using v27.2.0+ please make sure to also update Move transition plugin (find link below) to latest version, otherwise your OBS will crash) >>> https://obsproject.com/download
 
@@ -33,37 +33,37 @@ You can find all files together in this [link](/extensions/prize-wheel/files/Rou
 1/	In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
-2/	In SB in Actions tab should appear new actions in group `Roulette by MarkusoOoO`. Look for action called `Roulette Answer`, right click on it and select copy `Copy Action Id`.
+2/	In Streamer.bot in Actions tab should appear new actions in group `Roulette by MarkusoOoO`. Look for action called `Roulette Answer`, right click on it and select copy `Copy Action Id`.
 We will need this ID in step 4/, so store it somewhere, or keep in copy universe.
 
-3/	Again, in SB navigate to tab `Servers/Clients` > `Websocket Server`. You can keep default setting (`Address: 127.0.0.1`, `Port: 8080`, `Endpoint: /`, !IF you NEED to change them for some reason, 
+3/	Again, in Streamer.bot navigate to tab `Servers/Clients` > `Websocket Server`. You can keep default setting (`Address: 127.0.0.1`, `Port: 8080`, `Endpoint: /`, !IF you NEED to change them for some reason, 
 you will have to change those settings also in file `../Roulette Example Horizontal(Vertical) Text/Roulette Source/script.js` on line 3, which we will modify in step 4/ of guide). 
 You can tick `Auto Start`, to stop worrying about this server not starting and hit `Start Server`. All done here.
 
 4/	Now, we need to paste our Action ID from step 2/ into `../Roulette Example Horizontal(Vertical) Text/Roulette Source/script.js` on line 4 between '' (replace text `PUT YOUR ACTION ID IN HERE`).
-Now is our roulette comunicating with SB. Which is, I guess great success, or something.
+Now is our roulette comunicating with Streamer.bot. Which is, I guess great success, or something.
 
 5/	We can now open OBS and using Exeldro's plugin `Copy Source` import scene `\[NS] Roulette by MarkusoOoO` into OBS. In OBS navigate to `Tools` > `Source Copy` > `Load Scene` and select
 `../Roulette Example Horizontal(Vertical) Text/OBS Source/[NS] Roulette by MarkusoOoO.json`. In OBS should this scene appear with one hidden browser source called `[BS] Roulette`. Nice! Make sure to right click this source
 and select `../Roulette Example Horizontal(Vertical) Text/Roulette Source/index.html`. When you click show source, you should see roulette spining. If roulette does not appear from center with zoom effect, you probably
 do not have `Move transition` plugin installed correctly. On roulette is 12 options (which can be modified ôater too), currently called from Test1 to Test12. Ok, hide this source again.
 
-6/	Back in SB, lets have a look at action called `Roulette redeem`. Check that Subactions `OBS Source Visibility State` are pointing at our browser source `[BS] Roulette` in OBS. One is on top,
+6/	Back in Streamer.bot, lets have a look at action called `Roulette redeem`. Check that Subactions `OBS Source Visibility State` are pointing at our browser source `[BS] Roulette` in OBS. One is on top,
 which is making this source visible and one is second from bottom hiding this source again. Just double click on them and make sure, they are pointing on `Scene: [NS] Roulette by MarkusoOoO`
 and `Source: [BS] Roulette`. When you click on dropdown menu and do not see anything (or if you click test and source does not hide or appear, depending on subaction), 
-you probably do not have connected OBS and SB with `Websocket server` plugin.
+you probably do not have connected OBS and Streamer.bot with `Websocket server` plugin.
 
-7/	Only thing to do now, is to test if everything works as expected. You can create new command in SB for that. In SB navigate to `Commands`, right click > `Add`. 
+7/	Only thing to do now, is to test if everything works as expected. You can create new command in Streamer.bot for that. In Streamer.bot navigate to `Commands`, right click > `Add`. 
 In `Commands` section fill in `!test` for example (this is command which will trigger our action via twitch chat) and in `Action` select `Roulette Redeem` action.
 Now, if you write `!test` into your twitch chat, you should see roulette appear and after it stops spinning, you should see text in your chat appear. It says what redeem you hit
 and what is actual result on roulette. If everything matches, congrats, you made this work! Now you can customize it for your needs and desires (or make out with your favorite unicorn plushie) <3
 
-!IMPORTANT - I suggest to put action `Roulette Redeem` into its own blocking queue in SB, since it would not work properly if it would get spammed and overlapped! Or put at least 5 seconds global cooldown on command 
+!IMPORTANT - I suggest to put action `Roulette Redeem` into its own blocking queue in Streamer.bot, since it would not work properly if it would get spammed and overlapped! Or put at least 5 seconds global cooldown on command 
 or channel point redeem which is triggering this action!
 
 
 # Configuration
-1/  Obviously, you have 12 actions in SB, and those can be changed to your needs, if you want to change titles of those options, you have to do TWO things:
+1/  Obviously, you have 12 actions in Streamer.bot, and those can be changed to your needs, if you want to change titles of those options, you have to do TWO things:
 
 - Change title in `../Roulette Example Horizontal(Vertical) Text/Roulette Source/script.js` on lines 10 to 21 (in `prizes` VUE  variables list)
 - Change value in coresponding IF statements in Action `Roulette Redeem` (double click coresponding `if` statement and in field `value` change one of `Test#` to your desired title)
@@ -99,11 +99,11 @@ let index = weightedRand12({0:0.25, 1:0.0, 2:0.0, 3:0.0, 4:0.0, 5:0.0, 6:0.50, 7
 ## Add / Remove number of prizes / items
 In `script.js` starting on line 9, is array of `prizes`. Just delete/add how many prizes you want to have in your wheel (example with 3 prizes is on image below).
 
-![prize-wheel.png](/extensions/prize-wheel/images/prize-wheel.png)
+![prize-wheel.png](../assets/prize-wheel/images/prize-wheel.png)
 
 In `style.css` I did a little change to make this easier to modify. On line 94, there is css selector for class `bg`. On line 95 you need to change `transform` value to this > `rotate(calc(360deg/X));` where X is presents number of prizes you want to have in your wheel (look at the second screenshot below for my example with 3 prizes).
 
-![prize-wheel.png](/extensions/prize-wheel/images/prize-wheel1.png)
+![prize-wheel.png](../assets/prize-wheel/images/prize-wheel1.png)
 
 If you want to have more than 12 prizes in the wheel (so, to add more of them, then what is in default template), you also need to add more code, because in `style.css` starting from lines 75, there are classes specified only for 12 prizes. So just copy code from below as many times as you need to, to manipulate those backgrounds (otherwise those backgrounds will stay white). Just change X for each prize number starting with 13 and put your RGB value in background-color.
 ```

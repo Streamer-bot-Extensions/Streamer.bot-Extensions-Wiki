@@ -20,17 +20,17 @@ In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
 
-![timeout-roulette-import.png](/extensions/timeout-roulette/images/timeout-roulette-import.png)
+![timeout-roulette-import.png](../assets/timeout-roulette/images/timeout-roulette-import.png)
 
 # Configuration
 Download a bang sound file and then double click on the `Subaction` `Play Sound` in the `Action` `Timeout roulette-fail` and point it to your downloaded sound file.
 
-![timeout-roulette-sound.png](/extensions/timeout-roulette/images/timeout-roulette-sound.png)
+![timeout-roulette-sound.png](../assets/timeout-roulette/images/timeout-roulette-sound.png)
 
 Create a `Command` or `Channel Point Reward` tied to the `Action` `Timeout Roulette`.
 
-![timeout-roulette-command.png](/extensions/timeout-roulette/images/timeout-roulette-command.png)
-![timeout-roulette-reward.png](/extensions/timeout-roulette/images/timeout-roulette-reward.png)
+![timeout-roulette-command.png](../assets/timeout-roulette/images/timeout-roulette-command.png)
+![timeout-roulette-reward.png](../assets/timeout-roulette/images/timeout-roulette-reward.png)
 
 # Contributors
 

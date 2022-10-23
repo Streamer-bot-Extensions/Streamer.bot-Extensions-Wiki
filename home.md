@@ -25,6 +25,7 @@ This wiki is here to not only provide you with great resources to enhance your s
 -  [<i class="mdi mdi-api" style="color: deepskyblue"></i> **API Extensions *Use Streamer.bot to interact with other programs and API's***](/en/extensions/api-extensions)
 - [<i class="mdi mdi-dice-6" style="color: deepskyblue"></i> **Chat Games *Filled with games to keep your viewers entertained.***](/en/extensions/chat-games)
 - [<i class="mdi mdi-chat" style="color: deepskyblue"></i> **First Words *Welcome your viewer to stream in style.***](/en/extensions/first-words)
+- [<i class="fas fa-heart" style="color: deepskyblue"></i> **Heart Rate Extensions *Use Streamer.bot to interact with hypeRate or Pulsoid to create cool effects based on your heart rate.***](/en/extensions/heart-rate/)
 - [<i class="mdi mdi-cursor-default-click" style="color: deepskyblue"></i> **Heat Map *Allow your views to interact with your stream via clicks on there screens.***](/en/extensions/heat-map/heat-map)
 - [<i class="mdi mdi-lightbulb-on" style="color: deepskyblue"></i> **Lighting Control *Control Lights with Streamer.bot.***](/en/extensions/lighting-control/lighting-control-links)
 - [<i class="mdi mdi-antenna" style="color: deepskyblue"></i> **OBS Based *Extensions that get the most out of OBS.***](/en/extensions/obs-based-extensions)
@@ -32,6 +33,7 @@ This wiki is here to not only provide you with great resources to enhance your s
 - [<i class="fas fa-coins" style="color: deepskyblue"></i> **Points System *A Currency System built for Streamer.bot along with many tools and games.***](/en/extensions/points-system)
 - [<i class="mdi mdi-bullhorn" style="color: deepskyblue"></i> **Shoutout Example *There are many ways to shout people out here are a few!***](/en/extensions/shoutouts/shoutout-examples)
 - [<i class="fas fa-heart" style="color: deepskyblue"></i> **Smaller Examples *Filled with smaller but still amazing extensions!***](/en/extensions/smaller-extensions)
+- [<i class="mdi mdi-reload" style="color: deepskyblue"></i> **Workaround Extensions *Extensions to help you do things that aren't native in Streamer.bot***](/en/extensions/workarounds)
 {.btn-grid .my-5}
 
 

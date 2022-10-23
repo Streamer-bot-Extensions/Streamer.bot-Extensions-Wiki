@@ -8,11 +8,11 @@ editor: markdown
 dateCreated: 2022-10-08T21:24:53.540Z
 ---
 
-- [Random Loser Game](/extensions/random-loser-game)
-- [Timeout with multiplayer options](/extensions/timeout-roulette-multiplayer)
-- [Timeout with backfire](/extensions/timeout-user-reward)
-- [Timeout Roulette](/extensions/timeout-roulette)
+- [Random Loser Game](./random-loser-game)
+- [Timeout with multiplayer options](./timeout-roulette-multiplayer)
+- [Timeout with backfire](./timeout-user-reward)
+- [Timeout Roulette](./timeout-roulette)
 - [Thanos Snap *Coming Soon*]()
-- [Trap Card Timeout](/extensions/trap-card)
+- [Trap Card Timeout](./trap-card)
 
 {.links-list}

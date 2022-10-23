@@ -17,16 +17,17 @@ TlM0RR+LCAAAAAAABAC9V21v2kgQ/n7S/YcVUqWeVEd+xbhSPzQkcU0bWqAB4vPptC9j42Pt9fkFQqv8
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`.
 
-![random-video-from-folder-import.png](/extensions/play-random-video-from-folder/images/random-video-from-folder-import.png)
+![random-video-from-folder-import.png](../assets/play-random-video-from-folder/images/random-video-from-folder-import.png)
 
 # Configuration
 Change the `Set Argument` `Value` for `%randomVideoFolder%` to the folder you want to use.
-![random-video-from-folder-folder.png](/extensions/play-random-video-from-folder/images/random-video-from-folder-folder.png)
+![random-video-from-folder-folder.png](../assets/play-random-video-from-folder/images/random-video-from-folder-folder.png)
+
 >Make sure you use `\\` instead of `\` in the file path.
 {.is-warning}
 
 Change the `Set Argument` `Value` for `%randomVideoSource%` to the name of the `Image Source` in OBS.
-![random-video-from-folder-source.png](/extensions/play-random-video-from-folder/images/random-video-from-folder-source.png)
+![random-video-from-folder-source.png](../assets/play-random-video-from-folder/images/random-video-from-folder-source.png)
 
 # Contributors
 

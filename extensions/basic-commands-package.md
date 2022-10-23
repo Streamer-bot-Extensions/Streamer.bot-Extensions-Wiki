@@ -19,7 +19,7 @@ In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`.
 
 This will import 9 Actions and 8 Commands, you will need to visit the commands tab and enable all the commands in there. You can do that by right clicking on the group title, then going `Group` and `Enable All`
-![enablecommands](/extensions/images-ungrouped/enablecommands.png)
+![enablecommands](../assets/basic-commands/enablecommands.png)
 
 This will turn on all the commands.
 # Configuration

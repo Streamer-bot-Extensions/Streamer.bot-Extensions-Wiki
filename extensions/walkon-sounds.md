@@ -21,7 +21,7 @@ Copy the text from the code box below into the `Import` box in Streamer.bot to a
 
 
 
-![import-walkon.png](/extensions/walkon-sounds/images/import-walkon.png)
+![import-walkon.png](../assets/walkon-sounds/images/import-walkon.png)
 
 # Configuration
 
@@ -30,7 +30,7 @@ The first thing you will want to do is set the folder path that will contain all
 To set the path, open up the `Set argument` sub-action in each of the actions
 Change the `Value` to match your setup
 
-![walkons-path.png](/extensions/walkon-sounds/images/walkons-path.png)
+![walkons-path.png](../assets/walkon-sounds/images/walkons-path.png)
 
 You will also need to create a folder named `Generic` inside your main `"walkOns"`
 This folder will be used for any username that does not match any other folder. You can leave this empty if you do not want a sound for everyone
@@ -40,7 +40,7 @@ With this complete, set the `Create Regular` action to either a chat command or 
 
 If you are using Channel point option, you can enable the `User Input Required` if you want, that way users can speficy the sound they want in the message
 
-![create-reg-redeem.png](/extensions/walkon-sounds/images/create-reg-redeem.png)
+![create-reg-redeem.png](../assets/walkon-sounds/images/create-reg-redeem.png)
 
 The only thing this action does is create a subfolder with the same username as the person redeming the reward, so you can create the folders manually if you wish.
 *All folders should be lowercase*
@@ -51,7 +51,7 @@ The only thing this action does is create a subfolder with the same username as 
 
 Finally the `Walk on Sounds` action should be assigned to the `First Words` event in Settings
 
-![walk-on-first-words.png](/extensions/walkon-sounds/images/walk-on-first-words.png)
+![walk-on-first-words.png](../assets/walkon-sounds/images/walk-on-first-words.png)
 
 # Contributors
 
