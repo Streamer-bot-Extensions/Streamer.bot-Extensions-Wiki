@@ -1,12 +1,18 @@
 ---
 title: Scene Switch Actions
 description: Run Actions for When you Swap Scenes
-published: false
-date: 2022-10-15T14:00:04.837Z
+published: true
+date: 2022-10-18T15:48:22.714Z
 tags: scene, swap, change, scenes
 editor: markdown
 dateCreated: 2022-10-15T14:00:04.837Z
 ---
+
+> This extension requires SB 0.1.14 to work. However there is a 0.1.12 Version at the bottom this wll be more like the example in the video.
+{.is-info}
+
+
+
 
 # Tutorial
 
@@ -31,6 +37,17 @@ If you are using Websocket 5 you will need to set up the OBS event not like in t
 ![SceneSwitchWS5](../assets/scene-switch/SceneSwitchWS5.png)
 
 After then you will need to create an actions that are named identically to your scenes. This will mean when you switch to a scene Streamer.bot will try run an action of the same name. If you switch to a scene called `Just Chatting` then Steamer.bot will try look for an action called `Just Chatting` if it exists it will run it. If the action doesnt exist it will run the action called `SceneDefault`. If you don't want a default action to happen this action can be deleted or disabled.
+
+> The same effect can be acheived in UI with if statements as explained here https://wiki.streamer.bot/en/Broadcasters/OBS/Events/Scene-Events/CurrentProgramSceneChanged
+{.is-success}
+
+# Extended Feature
+
+**0.1.12 or lower Version**
+```
+TlM0RR+LCAAAAAAABADlV+tT2zgQ/34z9z948rliZEl+qDP9AKGFwDQ0hBDgwgc91o6pHzk/CCnD/36y3ZQ84Kbc0E7vTpPE1u5qd/XT7mpz//tvltW5hbyIsrTz1iJvGkIqEjCzTqedClUadmEof9Rzy7pvH4YV6VqOehq4ixmizAfEBJWIM4chLqnjEupJX3itrmbRnxVUtf60iuNHKqRCxlDrK/MKVuh3Kq40fMiz5DAqyixfGJFAxMWKzNLho6oore5UlGWUhisWwzyrZrXAUEEKw3lUqukKW8RzsShOq3Rbcy5SnSW7DQLbXJWlqspzSMtt3hZqa8g1IiXc1Qs7Z9OosMznGfcb2VkOARhTeleprGoM4nWJ9iwCJgzmHkHCEwFiyjVvFFxkYxA+YM9m3NlQPYconDYKdzZUlotZjau9QV7CuXaAf3eIrX+phrvayiP14c1z0NyKuImRzjBLoMYkTSG2PmVRWhbWSdp5ausgHRCMaUSYKxCTmCNuc4k8rhUmhBPHdV++dcxfc/P292y+KEUJdeTcP6xr0VFRm+hnZTdLgyis8sbceuStIkKxyz2gyPG0axIz8BDHkiAqOXFdLzA8eCkiBNPXBISsALJ8vd7MooPaRJNK16vJF8diVoBe4bbMJWqbdcrmri2Aa+RThyDmmGIluTLAcMEZtzXTjP+UOvV0GfpFq5RZnkIj1mtQxF8HeuJnOZ7Mz4BzAjblyObMR4wyB0nKbCSxLYWW1FQs9dJoZK8ajN9VmtZvx29kDYXKo9nXI9jkfgaY7cbRLTydrk1xh1TBxkk0zO7byWRsXMzmxWTyMVJ5VmRBudN/fzaZfMiNN/Ms/+yyyeSW7eAdiqnNJ5OkUFkeR3JHx3FnVeH1umW5KKGb6WZH+qI/k4kKRzT+og/Oy5M5Pt4fzOZ6fFSI8cfwktxNFf0YDuy93nDsGJoTG763P8jCXnc3VIfnkTyIb3oHR7eSzMPTi2l8Sc/x1TCcLWXA6Kyf7XePXF70QkX6sUxG4afh3lQl+st4cXSjL44WV2MHj1pedDF0RtLuY5XE1dUinJ2s69kfvQ+rUXpeDcZ9LMa8Oj7s35j18fFZ0e9GSznjY3KOje6qd3i60OPRN9+DAT4OBu/ebV+7KktmUfzMwWmIxWJYinw7t9rIaiLftW0ICDV1WBET+cS2ke+YKWjlCqUxVezFNxOvx4+6mn50JaaOozhjLiJSmEoswHSM3PNMTQ6wr32HMM/9OZW4PjrTbVnDLEt//Vq82TGWU7Aet1C7+g/bRuJoJpTACBzH9E4AgHzf50hpgZkLygYe/Jvaxs2OMdj0vt22YwcafE2RrbRJTM83cYgZQVI5WKiAmeH9v1pGav7IcbN7hG1cN9HSR7xumYgMAmxA8n1G/ostY/1oJdtqs7LULEsSk9VL+Ye/AIEsEY03DwAA
+```
+
 
 # Contributors
 - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/terrierdarts)

@@ -2,7 +2,7 @@
 title: New to Streamer.bot
 description: Here you will find a good collection of Extensions and Tools, for users that are new to Streamer.bot.
 published: true
-date: 2022-10-15T13:58:45.123Z
+date: 2022-10-16T15:03:48.615Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T13:18:09.461Z
@@ -32,5 +32,5 @@ A Complete package to get you started.
 # Moving over to Streamer.bot
 - [Points Transfer *Import Points and Watchtime from SLCB or Points from SE into Streamer.bot*](./points-system-points-transfer)
 - [SteamElements Watchtime Import *Import Watchtime from StreamElements*](./steamelements-watchtime-import)
-- [Quote Importer *Import Quotes from SLCB* *Coming Soon*](./quote-importer)
+- [Quote Importer *Import Quotes from SLCB* *Coming Soon*](./quote-importer){.disabled}
 {.links-list}

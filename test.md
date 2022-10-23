@@ -2,29 +2,17 @@
 title: Test Page
 description: 
 published: false
-date: 2022-10-13T15:02:10.696Z
+date: 2022-10-16T00:08:32.564Z
 tags: test
 editor: markdown
 dateCreated: 2022-07-17T18:50:43.167Z
 ---
 
-## Testing Environment
-
-<div id="floatingHelp" class="floating-help">
-    <i class="fa fa-lightbulb-o fa-3x" aria-hidden="true"></i>
-    <div class="help">          
-        <iframe src='https://ideas.botextensions.dev/embed/ideas' style="
-  width: 100%;
-  height: 100%;
-"></iframe>
-    </div>
-</div>
-
----
-
 # Contributors
 - [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
 - [Farlezz](https://www.twitch.tv/Farlezz){.youtube}
+- [Farlezz](https://www.twitch.tv/Farlezz){.twitter}
+- [Farlezz](https://www.twitch.tv/Farlezz){.github}
 {.contributors}
 
 # Contributors
@@ -34,37 +22,45 @@ dateCreated: 2022-07-17T18:50:43.167Z
 
 <br>
 
-^^ (One with a bit of extra effort)
-
 <style>
 /* Ease Of Use */
-#root .v-main .contents ul.contributors li a.twitch::before {
-  content: "\F0543";
-  display: inline-block;
+#root .v-main .contents ul.contributors li a.twitch::before,
+#root .v-main .contents ul.contributors li a.youtube::before,
+#root .v-main .contents ul.contributors li a.twitter::before,
+#root .v-main .contents ul.contributors li a.github::before {
   font: normal normal normal 24px/1 Material Design Icons;
+  display: inline-block;
   font-size: inherit;
   text-rendering: auto;
   line-height: inherit;
-  background-color: #6441a5;
   border-radius: 7px;
   padding-inline: 2px;
   margin-right: 5px;
   font-size: .9em;
   line-height: 1.3;
 }
+
+#root .v-main .contents ul.contributors li a.twitch::before {
+  content: "\F0543";
+  color: #FFF;
+  background-color: #6441A5;
+}
   
 #root .v-main .contents ul.contributors li a.youtube::before {
   content: "\F05C3";
-  display: inline-block;
-  font: normal normal normal 24px/1 Material Design Icons;
-  font-size: inherit;
-  text-rendering: auto;
-  line-height: inherit;
+  color: #FFF;
   background-color: #FF0000;
-  border-radius: 7px;
-  padding-inline: 2px;
-  margin-right: 5px;
-  font-size: .9em;
-  line-height: 1.3;
+}
+  
+#root .v-main .contents ul.contributors li a.twitter::before {
+  content: "\F0544";
+  color: #FFF;
+  background-color: #1DA1F2;
+}
+  
+#root .v-main .contents ul.contributors li a.github::before {
+  content: "\F02A4";
+  color: #FFF;
+  background-color: #171515;
 }
 </style>  
