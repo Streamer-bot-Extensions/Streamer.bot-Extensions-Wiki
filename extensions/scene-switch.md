@@ -2,7 +2,7 @@
 title: Scene Switch Actions
 description: Run Actions for When you Swap Scenes
 published: true
-date: 2022-10-18T15:48:22.714Z
+date: 2022-10-23T19:28:45.089Z
 tags: scene, swap, change, scenes
 editor: markdown
 dateCreated: 2022-10-15T14:00:04.837Z
@@ -30,11 +30,11 @@ Copy the `Import Code` and paste it into the `Import String`.
 Next thing to do is it tie the Action `SceneSwitch` to the swapping scene event in OBS which is differnet depending if you are using Websocket 4.9x or Websocket 5. 
 
 If you use Websocket 4.9x you will need to set up the OBS event like in the video it should look like this. You will tie the `SwitchScenes` OBS Event.
-![SceneSwitchWS4](../assets/scene-switch/SceneSwitchWS4.png)
+![SceneSwitchWS4](/assets/scene-switch/SceneSwitchWS4.png)
 
 If you are using Websocket 5 you will need to set up the OBS event not like in the video, instead you will use the Event `CurrentProgramSceneChanged`
 
-![SceneSwitchWS5](../assets/scene-switch/SceneSwitchWS5.png)
+![SceneSwitchWS5](/assets/scene-switch/SceneSwitchWS5.png)
 
 After then you will need to create an actions that are named identically to your scenes. This will mean when you switch to a scene Streamer.bot will try run an action of the same name. If you switch to a scene called `Just Chatting` then Steamer.bot will try look for an action called `Just Chatting` if it exists it will run it. If the action doesnt exist it will run the action called `SceneDefault`. If you don't want a default action to happen this action can be deleted or disabled.
 
