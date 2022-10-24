@@ -2,7 +2,7 @@
 title: Streamer.bot Extensions
 description: Streamer.bot Community Made Extensions
 published: true
-date: 2022-10-23T20:09:14.095Z
+date: 2022-10-24T14:39:38.193Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:15:10.917Z
@@ -33,7 +33,7 @@ This wiki is here to not only provide you with great resources to enhance your s
 - [<i class="fas fa-coins" style="color: deepskyblue"></i> **Points System *A Currency System built for Streamer.bot along with many tools and games.***](/extensions/points-system)
 - [<i class="mdi mdi-bullhorn" style="color: deepskyblue"></i> **Shoutout Example *There are many ways to shout people out here are a few!***](/extensions/shoutouts/shoutout-examples)
 - [<i class="fas fa-heart" style="color: deepskyblue"></i> **Smaller Examples *Filled with smaller but still amazing extensions!***](/extensions/smaller-extensions)
-- [<i class="fas fa-eye" style="color: deepskyblue"></i> **Visual Extensions *Extensions controlled by Streamer.bot with an added Visual Element***](/extensions/visual-extensions){.disabled}
+- [<i class="fas fa-eye" style="color: deepskyblue"></i> **Visual Extensions *Extensions controlled by Streamer.bot with an added Visual Element***](/extensions/visual-extensions)
 - [<i class="mdi mdi-reload" style="color: deepskyblue"></i> **Workaround Extensions *Extensions to help you do things that aren't native in Streamer.bot***](/extensions/workarounds)
 {.btn-grid .my-5}
 
