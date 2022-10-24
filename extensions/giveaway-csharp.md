@@ -1,5 +1,5 @@
 ---
-title: Giveaway in C#
+title: Giveaway in C# (by TerrierDarts)
 description: This giveaway is all ran in C# with no text file
 published: true
 date: 2022-07-24T06:12:46.835Z
