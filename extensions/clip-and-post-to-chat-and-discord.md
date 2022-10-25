@@ -70,5 +70,5 @@ The last thing you will need to do  is to add your Discord Web hook where mentio
 
 # Contributors
 
-- [*Grizzlage*](https://www.twitch.tv/grizzlage) 
+- [<i class="mdi mdi-twitch"></i> Grizzlage](https://www.twitch.tv/grizzlage) 
 {.contributors}
