@@ -44,4 +44,5 @@ Do the same for the WEBM File (video) 'TV SNOW'<br>
 # Contributors
 
  - [<i class="mdi mdi-twitch"></i> LeBluxTV](https://www.twitch.tv/LeBluxTV)
+ - [<i class="mdi mdi-twitch"></i> Surakage](https://www.twitch.tv/surakage)
  {.contributors}
