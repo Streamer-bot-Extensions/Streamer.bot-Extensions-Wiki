@@ -2,7 +2,7 @@
 title: 20 Second Instant Replay (by MarkusoOoO)
 description: Create a 20 second instant replay with Streamer.bot.
 published: true
-date: 2022-10-23T19:34:46.702Z
+date: 2022-10-26T22:28:57.782Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T00:31:26.288Z
@@ -11,7 +11,7 @@ dateCreated: 2022-05-17T00:31:26.288Z
 *OBS WS v4.9*{.obs-version-badge} 
 # Import File
 
-- [<i class="mdi mdi-file-document"></i> Import Code *Click to Download*](/assets/20-sec-instant-replay/files/rewind-import.sb)
+- [<i class="mdi mdi-file-document"></i> **Import Code *Click to Download***](/assets/20-sec-instant-replay/files/rewind-import.sb)
 {.btn-grid .my-5}
 
 # Installation
