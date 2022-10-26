@@ -2,10 +2,10 @@
 title: Youtube - Mod Added Commands (by TerrierDarts)
 description: This extension will allow your mods to add simple chat commands in via chat, you will also have access to many variables if you wish.
 published: true
-date: 2022-07-24T06:09:43.495Z
+date: 2022-10-23T19:38:28.818Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-25T13:20:44.129Z
+dateCreated: 2022-10-23T19:38:26.230Z
 ---
 
 # Import Code

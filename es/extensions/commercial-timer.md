@@ -2,10 +2,10 @@
 title: Temporizador de Comercial (por GoWMan)
 description: Esto te permitirá crear un temporizador en SB que reproduce automáticamente un comercial de 180 segundos cada hora.
 published: true
-date: 2022-07-24T06:08:40.566Z
-tags:
+date: 2022-08-31T00:39:46.566Z
+tags: 
 editor: markdown
-dateCreated: 2022-04-20T01:26:10.917Z
+dateCreated: 2022-07-31T00:42:00.048Z
 ---
 
 # Código de Importación

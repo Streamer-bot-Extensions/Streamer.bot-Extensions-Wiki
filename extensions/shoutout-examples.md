@@ -2,10 +2,10 @@
 title: Shout Out Examples
 description: You will find several different versions of shout outs, you will find basic ones here to slightly more complicated.
 published: true
-date: 2022-08-30T09:23:29.301Z
+date: 2022-10-23T19:59:00.260Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-15T03:09:14.122Z
+dateCreated: 2022-10-23T19:58:57.690Z
 ---
 
 You will find several different versions of shout outs here, you will find basic ones to slightly more complicated. You can choose to one or choose to use several, ones for walk-ins or ones for raids. Some with clips and some with out.

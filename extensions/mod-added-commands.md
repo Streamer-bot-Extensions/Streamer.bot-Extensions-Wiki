@@ -2,7 +2,7 @@
 title: Mod Added Commands (by TerrierDarts)
 description: This extension will allow your mods to add simple chat commands in via chat, you will also have access to many variables if you wish.
 published: true
-date: 2022-07-24T06:09:43.495Z
+date: 2022-08-31T00:34:55.534Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T13:20:44.129Z
@@ -10,10 +10,10 @@ dateCreated: 2022-04-25T13:20:44.129Z
 
 # Tutorial
 ### First Video - Installation
-<iframe src="https://www.youtube.com/embed/2zd5UWdX6O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/2zd5UWdX6O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Second Video - Update
-<iframe src="https://www.youtube.com/embed/LeM-f41WJhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/LeM-f41WJhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > This project has had several updates, the latest update means there is one single bit of code so you only need to add references in one place. This is not mentioned in the tutorial videos.
 {.is-info}

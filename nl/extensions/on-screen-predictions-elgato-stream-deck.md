@@ -1,11 +1,11 @@
 ---
 title: Op het scherm voorspellingen (Elgato StreamDeck) (door p0mz0r)
-description:
+description: 
 published: true
-date: 2022-06-11T05:06:19.155Z
-tags:
+date: 2022-08-31T00:43:58.524Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-18T01:27:49.589Z
+dateCreated: 2022-07-25T22:38:55.165Z
 ---
 
 # Op het scherm voorspellingen (Elgato StreamDeck) [(door p0mz0r)](https://www.twitch.tv/p0mz0r)

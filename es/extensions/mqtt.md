@@ -2,10 +2,10 @@
 title: Extensión MQTT (Casa Inteligente) (por Krayn_)
 description: Una extensión que permite a Streamer.bot comunicarse con un broker MQTT usado en la mayoría del software de casas inteligentes como Home Assistant, OpehHAB, HomeSeer, etc.
 published: true
-date: 2022-07-24T06:09:46.445Z
+date: 2022-08-31T00:40:58.056Z
 tags: smarthome
 editor: markdown
-dateCreated: 2022-06-17T18:16:00.167Z
+dateCreated: 2022-08-25T02:42:01.976Z
 ---
 
 Con una integración apropiada a MQTT, SB puede controlar casi cualquier dispositivo para hogar inteligente e incluso permitir comunicación de bot a bot.

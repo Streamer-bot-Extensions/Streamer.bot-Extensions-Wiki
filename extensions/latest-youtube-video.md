@@ -2,12 +2,11 @@
 title: Latest Youtube Video (by TerrierDarts)
 description: This will post your latest youtube video to chat.
 published: true
-date: 2022-08-30T13:01:44.699Z
+date: 2022-08-31T00:34:40.368Z
 tags: 
 editor: markdown
-dateCreated: 2022-08-29T00:18:30.446Z
+dateCreated: 2022-08-31T00:32:19.972Z
 ---
-
 
 # Tutorial
 

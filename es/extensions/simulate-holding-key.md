@@ -2,10 +2,10 @@
 title: Simular Mantener Presionada Tecla (por ConfuzzedCat)
 description: Una forma de simular el mantener presionada una tecla.
 published: true
-date: 2022-08-11T15:53:12.727Z
+date: 2022-08-31T00:41:44.442Z
 tags: confuzzedcat,, key, simulate, hold, holding, keypress
 editor: markdown
-dateCreated: 2022-08-04T19:18:22.435Z
+dateCreated: 2022-08-25T02:42:53.510Z
 ---
 
 > Esto solo está probado en Windows, y puede no funcionar en Linux. 

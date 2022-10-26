@@ -2,10 +2,10 @@
 title: SB-Init (por Krayn)
 description: Una acción que se pone en la cola a sí misma cuando Streamer.bot inicia.
 published: true
-date: 2022-07-24T06:10:24.834Z
-tags:
+date: 2022-08-31T00:41:38.192Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-29T17:27:55.654Z
+dateCreated: 2022-08-25T02:42:45.563Z
 ---
 
 # Código de Importación

@@ -1,11 +1,11 @@
 ---
-title: 'C# Gewinnspiel'
-description: 'Dieses Gewinnspiel ist komplett in C# geschrieben.'
+title: C# Gewinnspiel
+description: Dieses Gewinnspiel ist komplett in C# geschrieben.
 published: true
-date: 24.07.20T06:12:46.835Z
-tags:
+date: 2022-08-31T00:44:37.370Z
+tags: 
 editor: markdown
-dateCreated: 2022-07-19T02:31:21.599Z
+dateCreated: 2022-08-01T01:28:40.717Z
 ---
 
 # C# Gewinnspiel (von [TerrierDarts](https://www.twitch.tv/TerrierDarts))

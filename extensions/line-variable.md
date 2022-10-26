@@ -2,10 +2,10 @@
 title: Create %line%variable%%
 description: This is a short example of how you can create a workaround for %line%variable%%
 published: true
-date: 2022-08-19T13:01:44.699Z
+date: 2022-09-06T14:48:40.099Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-01T00:18:30.446Z
+dateCreated: 2022-09-06T14:48:37.076Z
 ---
 
 # Import Code

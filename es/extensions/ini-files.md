@@ -2,10 +2,10 @@
 title: Archivos .ini (por Robophil)
 description: Lee y escribe en archivos .ini en Streamer.bot.
 published: true
-date: 2022-09-04T15:30:37.021Z
-tags:
+date: 2022-09-11T15:25:41.026Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-02T10:39:37.282Z
+dateCreated: 2022-08-09T03:56:05.558Z
 ---
 
 *OBS WS v4.9*{.obs-version-badge} *OBS WS v5*{.obs-version-badge}

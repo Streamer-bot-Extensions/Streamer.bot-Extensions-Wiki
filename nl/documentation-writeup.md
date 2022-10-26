@@ -1,11 +1,11 @@
 ---
 title: Advies voor het opstellen van documenten
-description:
-published: false
-date: 2022-07-24T06:07:38.698Z
-tags:
+description: 
+published: true
+date: 2022-08-31T00:37:17.150Z
+tags: 
 editor: markdown
-dateCreated: 2022-07-01T00:18:30.446Z
+dateCreated: 2022-07-24T16:09:46.402Z
 ---
 
 # Advies voor het opstellen van documenten

@@ -1,11 +1,11 @@
 ---
 title: Visualizador de Datos (por TerrierDarts)
 description: Visualiza los datos que se almacenan en los archivos de Streamer.bot
-published: false
-date: 2022-07-24T06:08:52.350Z
-tags:
+published: true
+date: 2022-08-31T00:39:58.932Z
+tags: 
 editor: markdown
-dateCreated: 2022-07-20T22:20:05.772Z
+dateCreated: 2022-08-04T02:33:05.232Z
 ---
 
 # Visualizador de Datos (por TerrierDarts)

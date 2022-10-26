@@ -2,10 +2,10 @@
 title: Stream Chat (by izzy)
 description: OBS Chat Overlay for Streamer.bot.
 published: true
-date: 2022-07-24T06:12:14.887Z
+date: 2022-10-23T19:37:35.986Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-24T18:51:29.459Z
+dateCreated: 2022-10-23T19:37:33.213Z
 ---
 
 # Stream Chat [(by izzy)](https://www.twitch.tv/itsizzy)

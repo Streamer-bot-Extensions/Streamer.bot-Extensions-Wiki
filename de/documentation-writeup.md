@@ -2,10 +2,10 @@
 title: Seitenvorlage
 description: Dies ist eine Vorlage dafür, wie eine Seite geschrieben werden sollte!
 published: true
-date: 2022-08-19T13:01:44.699Z
-tags:
+date: 2022-08-31T00:32:06.835Z
+tags: 
 editor: markdown
-dateCreated: 2021-07-17T00:18:22.011Z
+dateCreated: 2022-08-29T00:56:49.156Z
 ---
 
 > Seitentitel und Beschreibung sind in den Seiteneinstellungen. Nicht auf der Seite

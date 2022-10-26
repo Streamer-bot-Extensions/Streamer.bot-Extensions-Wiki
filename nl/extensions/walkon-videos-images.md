@@ -2,10 +2,10 @@
 title: Walkon Video's/Afbeeldingen (door GoWMan)
 description: Dit breidt uit op Geocyms Walkon geluiden om ook video's en afbeeldingen te bevatten.
 published: true
-date: 2022-06-11T05:11:00.321Z
-tags:
+date: 2022-08-31T00:44:01.591Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-29T18:34:57.018Z
+dateCreated: 2022-07-25T22:38:59.368Z
 ---
 
 # Walkon Video's/Afbeeldingen [(door GoWMan)](https://www.twitch.tv/gowman)

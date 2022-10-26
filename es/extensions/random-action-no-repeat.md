@@ -2,14 +2,14 @@
 title: Acción Aleatoria Sin Repetición (por TerrierDarts)
 description: Esta extensión te permitirá ejecutar acciones de manera aleatoria desde el mismo activador sin repetir ninguna de ellas.
 published: true
-date: 2022-07-24T06:10:13.566Z
-tags:
+date: 2022-08-31T00:41:25.947Z
+tags: 
 editor: markdown
-dateCreated: 2022-06-17T21:06:49.071Z
+dateCreated: 2022-08-25T02:42:29.575Z
 ---
 
 # Tutorial
-<iframe src="https://www.youtube.com/embed/Ey42-dmG-UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/Ey42-dmG-UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen"></iframe>
 
 # Código de Importación
 ```

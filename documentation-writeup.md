@@ -2,7 +2,7 @@
 title: Page Template
 description: This is a short Template of How a Page should be written!
 published: true
-date: 2022-08-19T13:01:44.699Z
+date: 2022-08-31T00:31:51.665Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T00:18:30.446Z

@@ -2,10 +2,10 @@
 title: Protección de enlaces/URL (por emongev)
 description: Con esta extensión puedes bloquear enlaces en tu chat, también puedes agregar una pequeña lista de sitios aprobados para cosas como enlaces de Discord, Clips y otras redes sociales.
 published: true
-date: 2022-07-24T06:09:34.566Z
-tags:
+date: 2022-08-31T00:40:45.701Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-11T04:16:06.032Z
+dateCreated: 2022-08-09T03:56:09.464Z
 ---
 
 # Código de Importación

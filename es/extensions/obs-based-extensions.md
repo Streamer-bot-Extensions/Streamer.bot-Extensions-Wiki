@@ -2,10 +2,10 @@
 title: Extensiones basadas en OBS
 description: Extensiones que interactuarán de alguna manera con OBS, de forma administrativa.
 published: true
-date: 2022-09-03T23:22:20.244Z
-tags:
+date: 2022-09-11T15:25:51.967Z
+tags: 
 editor: markdown
-dateCreated: 2022-09-03T13:36:12.934Z
+dateCreated: 2022-09-11T15:25:49.121Z
 ---
 
 Estas son extensiones que te ayudarán a controlar OBS con Streamer.bot.

@@ -2,10 +2,10 @@
 title: Redeem Actions Using Points
 description: With this extension, your users will be able to redeem items with there points, from VRFlad's Point System.
 published: true
-date: 2022-07-24T06:13:56.933Z
+date: 2022-10-23T19:37:19.905Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-26T15:21:36.471Z
+dateCreated: 2022-10-23T19:37:17.239Z
 ---
 
 # Import Code

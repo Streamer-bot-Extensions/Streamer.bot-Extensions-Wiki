@@ -1,11 +1,11 @@
 ---
 title: Comando Lurk con Contadores (por DanFrmSpace)
-description:
+description: 
 published: true
-date: 2022-07-24T06:07:53.566Z
-tags:
+date: 2022-08-31T00:38:54.553Z
+tags: 
 editor: markdown
-dateCreated: 2022-06-11T04:04:29.032Z
+dateCreated: 2022-07-28T23:22:52.897Z
 ---
 
 # Comando Lurk con Contadores [(por DanFrmSpace)](https://www.twitch.tv/danfrmspace)

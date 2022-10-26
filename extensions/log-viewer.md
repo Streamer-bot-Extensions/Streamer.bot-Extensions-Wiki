@@ -2,10 +2,10 @@
 title: Log Viewer (by TerrierDarts)
 description: This extension will let you quickly open the log file.
 published: true
-date: 2022-08-30T03:01:44.699Z
+date: 2022-08-31T00:34:46.448Z
 tags: 
 editor: markdown
-dateCreated: 2022-08-29T00:18:30.446Z
+dateCreated: 2022-08-31T00:32:27.355Z
 ---
 
 # Import Code

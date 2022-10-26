@@ -1,11 +1,11 @@
 ---
 title: README
-description:
+description: 
 published: true
-date: 2022-07-24T06:07:29.822Z
-tags:
+date: 2022-08-31T00:37:08.478Z
+tags: 
 editor: markdown
-dateCreated: 2022-06-09T04:58:51.324Z
+dateCreated: 2022-07-24T16:09:30.742Z
 ---
 
 [![Crowdin](https://badges.crowdin.net/streamer-bot-extensions-wiki/localized.svg)](https://translate.botextensions.dev/project/streamer-bot-extensions-wiki)

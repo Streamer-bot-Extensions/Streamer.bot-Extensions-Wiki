@@ -2,10 +2,10 @@
 title: Nicht mehr unterstützte Erweiterungen
 description: Liste der nicht mehr unterstützte Erweiterungen.
 published: true
-date: 2022-08-19T22:10:16.556Z
-tags:
+date: 2022-08-31T00:32:03.994Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-19T02:08:54.599Z
+dateCreated: 2022-08-29T00:56:42.801Z
 ---
 
 # Nicht mehr unterstützte Erweiterungen

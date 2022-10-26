@@ -2,12 +2,11 @@
 title: Basic Commands
 description: These are some very basic commands for Streamer.bot
 published: true
-date: 2022-08-19T13:01:44.699Z
+date: 2022-10-23T19:35:09.576Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-01T00:18:30.446Z
+dateCreated: 2022-09-06T13:18:03.890Z
 ---
-
 
 # Import Code
 ```

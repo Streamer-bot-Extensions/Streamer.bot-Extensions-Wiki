@@ -1,0 +1,56 @@
+---
+title: Raffle
+description: Allow your viewers to enter raffles to try and win some big rewards, this has plenty of customisation options to give you total control!
+published: true
+date: 2022-09-23T11:19:46.059Z
+tags: 
+editor: markdown
+dateCreated: 2022-04-20T16:04:47.155Z
+---
+
+# Import Code
+
+```text
+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
+```
+
+# Installation
+In Streamer.bot in select `Import` from the top left.
+Copy the `Import Code` and paste it into the `Import String`.
+
+You will need the following references in order to get the code to compile.
+
+```text
+mscorlib.dll
+```
+
+You will need to set up the following commands.
+
+```text
+!raffle = Tied to Raffle Start
+!join = Tied to Raffle Join
+```
+
+> **You can use this with timed actions if you wish, it will just use the `defaultprize` as the payout!**
+{.is-info}
+>
+> **You may want to enable the command `!join` on starting a raffle and then disable it on a raffle ending.**
+{.is-info}
+
+# Configuration
+
+## Raffle Start
+
+`defaultprize` This is the default prize if one isnt specified.
+`length` This is how long the raffle will last for in seconds.
+`trigger` This is the command people will use to join the raffle.
+`raffleCost` This is how many points it will cost to enter the raffle, set it to 0 if you want it to be  free.
+
+## Raffle End
+
+`multiWinners` This controls how many people you want to win per 'X' amount of entrants. Setting it at 10 would mean if 10 people entered you would get 1 winner but 11 would give 2 winners. All winners win the same amount set via `prize`
+
+# Contributors
+
+ - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ {.contributors}

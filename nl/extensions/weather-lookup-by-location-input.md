@@ -1,11 +1,11 @@
 ---
 title: Weer Opzoeken Per Locatie (door Web_Mage)
-description:
+description: 
 published: true
-date: 2022-07-25T15:17:21.987Z
-tags: api, extensie, obs
+date: 2022-08-31T00:44:08.486Z
+tags: api, obs, extensie
 editor: markdown
-dateCreated: 2022-05-18T02:07:55.239Z
+dateCreated: 2022-07-25T22:39:07.795Z
 ---
 
 # Weer Opzoeken Per Locatie [(door Web_Mage)](https://www.twitch.tv/web_mage)
@@ -87,7 +87,7 @@ TlM0RR+LCAAAAAAABADVW2lv20qW/T7A/AdOBkF3A2FS3MlgMoApW5ttvUiyKInjRqM2UrS4tajFcqP/
 ## Optionele Widget
 > U moet het weer al geïnstalleerd en geconfigureerd hebben. Als je geen geldige gegevens terug hebt, dan zal deze widget niet werken. {.is-danger}
 
-<iframe src="https://www.youtube.com/embed/IeD4yMU1kQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/IeD4yMU1kQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Er zijn een aantal manieren om dit online of lokaal op je machine te verwerken. De keuze is aan jou.
 

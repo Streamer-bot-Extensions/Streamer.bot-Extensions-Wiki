@@ -1,8 +1,8 @@
 ---
 title: Next Stream From Schedule in Chat (by LeBluxTV)
-description: Will Display the next scheduled stream in the chat 
+description: Will Display the next scheduled stream in the chat
 published: true
-date: 2022-07-24T06:09:49.308Z
+date: 2022-10-23T19:36:41.666Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T01:05:45.252Z

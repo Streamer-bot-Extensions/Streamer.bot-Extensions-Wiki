@@ -2,7 +2,7 @@
 title: Barrel Roll (by IRLCreate)
 description: Gives you a channel point redemption for doing a barrel roll
 published: true
-date: 2022-07-24T06:12:29.519Z
+date: 2022-08-31T00:38:27.971Z
 tags: fun, barrel roll, channel point
 editor: markdown
 dateCreated: 2022-05-14T15:30:26.979Z
@@ -28,7 +28,7 @@ This is a set up to allow you to create a barrel roll effect like the Star Fox m
 
 <br>
 
-<iframe src="https://www.youtube.com/embed/nlNkGBWA1A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/nlNkGBWA1A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 

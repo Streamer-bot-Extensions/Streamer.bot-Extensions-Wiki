@@ -2,10 +2,10 @@
 title: Argumenten Viewer (door Silverlink)
 description: In UI druk uit van alle Argument Variabelen die werden gevuld bij het uitvoeren van een actie.
 published: true
-date: 2022-07-24T06:07:50.475Z
-tags:
+date: 2022-08-31T00:43:46.710Z
+tags: 
 editor: markdown
-dateCreated: 2022-06-11T07:56:57.511Z
+dateCreated: 2022-07-24T16:09:38.515Z
 ---
 
 # Argumenten Viewer [(door Silverlink)](https://www.twitch.tv/silverlink)

@@ -1,11 +1,11 @@
 ---
 title: Predicciones Dinámicas (por TerrierDarts)
-description: '¡Inicia, Ejecuta y Finaliza Predicciones con Streamer.bot!'
+description: ¡Inicia, Ejecuta y Finaliza Predicciones con Streamer.bot!
 published: true
-date: 2022-07-24T06:09:04.566Z
-tags:
+date: 2022-08-31T00:40:11.576Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-24T15:48:16.195Z
+dateCreated: 2022-08-04T02:33:21.299Z
 ---
 
 # Predicciones Controladas por el Usuario

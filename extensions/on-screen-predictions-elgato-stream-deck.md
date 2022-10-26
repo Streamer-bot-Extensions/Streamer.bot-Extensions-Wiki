@@ -1,9 +1,8 @@
 ---
 title: On Screen Predictions (Elgato StreamDeck) (by p0mz0r)
 description: This extension allows you to use your StreamDeck to run on-screen Predictions.
-
 published: true
-date: 2022-07-24T06:09:55.196Z
+date: 2022-08-31T00:35:07.909Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:27:49.283Z

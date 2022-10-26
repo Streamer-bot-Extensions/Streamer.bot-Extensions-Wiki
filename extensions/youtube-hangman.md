@@ -2,10 +2,10 @@
 title: Hangman (by TerrierDarts)
 description: Play A Classic Game of Hangman in your YouTube Chat!
 published: true
-date: 2022-09-24T17:52:16.824Z
+date: 2022-10-23T19:38:25.089Z
 tags: 
 editor: markdown
-dateCreated: 2022-09-23T16:31:20.190Z
+dateCreated: 2022-10-23T19:38:22.428Z
 ---
 
 # Import Code

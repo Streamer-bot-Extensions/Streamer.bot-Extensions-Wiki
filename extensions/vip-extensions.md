@@ -2,7 +2,7 @@
 title: VIP Extensions
 description: Add an extra bit of fun to your VIP's
 published: true
-date: 2022-10-08T23:28:27.827Z
+date: 2022-10-23T19:59:06.613Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-08T22:20:25.110Z

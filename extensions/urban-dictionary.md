@@ -1,11 +1,11 @@
 ---
 title: Urban Dictionary (by TerrierDarts)
-description: Search Urban Dictionary for a Specific Word, or leave it to fate and pull something Random. 
+description: Search Urban Dictionary for a Specific Word, or leave it to fate and pull something Random.
 published: true
-date: 2022-08-30T05:10:51.070Z
+date: 2022-08-31T00:36:18.457Z
 tags: 
 editor: markdown
-dateCreated: 2022-08-29T06:05:25.175Z
+dateCreated: 2022-08-31T00:34:01.291Z
 ---
 
 # Import Code

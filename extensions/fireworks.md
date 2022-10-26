@@ -2,10 +2,10 @@
 title: Fireworks (by Nate1280, VRFlad and Caleb Miller on Codepen)
 description: Display fireworks on stream!
 published: true
-date: 2022-07-24T06:11:54.095Z
+date: 2022-10-23T19:35:45.841Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-17T01:15:28.568Z
+dateCreated: 2022-10-23T19:35:43.047Z
 ---
 
 # Fireworks (by [Nate1280](https://www.twitch.tv/nate1280), [VRFlad](https://www.twitch.tv/vrflad) and [Caleb Miller](https://codepen.io/MillerTime) on Codepen)

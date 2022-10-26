@@ -2,18 +2,18 @@
 title: Comandos Añadidos por Moderadores (por TerrierDarts)
 description: Esta extensión permitirá a tus moderadores agregar comandos de chat simples vía el mismo chat, y tendrás acceso a muchas variables si así lo deseas.
 published: true
-date: 2022-07-24T06:09:43.566Z
-tags:
+date: 2022-08-31T00:40:55.004Z
+tags: 
 editor: markdown
-dateCreated: 2022-04-19T02:20:44.599Z
+dateCreated: 2022-08-09T03:56:21.423Z
 ---
 
 # Tutorial
 ### Primer Video - Instalación
-<iframe src="https://www.youtube.com/embed/2zd5UWdX6O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/2zd5UWdX6O0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Segundo Video - Actualización
-<iframe src="https://www.youtube.com/embed/LeM-f41WJhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/LeM-f41WJhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Este proyecto ha tenido varias actualizaciones, y la última actualización añade una pequeña parte de código, por lo que solo será necesario agregar las referencias en un solo lugar. Esto no se menciona en los videos tutoriales. 
 > 

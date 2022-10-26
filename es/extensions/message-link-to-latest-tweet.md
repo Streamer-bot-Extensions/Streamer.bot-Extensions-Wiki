@@ -2,10 +2,10 @@
 title: Mensaje con Enlace a Último Tweet (por slashie101)
 description: Muestra un enlace a tu último tweet.
 published: true
-date: 2022-07-24T06:09:40.698Z
-tags:
+date: 2022-08-31T00:40:51.792Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-18T01:05:06.750Z
+dateCreated: 2022-08-09T03:56:17.595Z
 ---
 
 # Código de Importación

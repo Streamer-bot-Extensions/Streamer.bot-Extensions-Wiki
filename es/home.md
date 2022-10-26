@@ -2,7 +2,7 @@
 title: Wiki de Extensiones de Streamer.bot
 description: Extensiones de Stramer.bot Hechas por la Comunidad
 published: true
-date: 2022-09-18T19:07:46.708Z
+date: 2022-09-18T19:07:51.305Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T23:16:18.994Z

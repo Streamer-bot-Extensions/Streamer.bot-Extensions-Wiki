@@ -2,10 +2,10 @@
 title: Comando de "Primero" (by emongev)
 description: Deja que el chat sepa quien fue el primero con Streamer.bot.
 published: true
-date: 2022-07-24T06:09:10.443Z
-tags:
+date: 2022-08-31T00:40:17.790Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-02T10:48:40.282Z
+dateCreated: 2022-08-04T02:33:29.493Z
 ---
 
 # Import Code

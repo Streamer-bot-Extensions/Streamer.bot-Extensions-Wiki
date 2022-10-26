@@ -2,10 +2,10 @@
 title: Implementación SharpOSC (por Der_Gardine | Julian)
 description: Para una implementación fácil de OSC.
 published: true
-date: 2022-07-24T06:10:27.736Z
-tags:
+date: 2022-08-31T00:41:41.233Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-18T02:05:43.555Z
+dateCreated: 2022-08-25T02:42:49.469Z
 ---
 
 ```cs

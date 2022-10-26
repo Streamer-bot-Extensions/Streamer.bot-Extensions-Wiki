@@ -2,7 +2,7 @@
 title: API Extensions
 description: These Extension allow Streamer.bot to work with other API's or Programs in order for you to control them.
 published: true
-date: 2022-10-13T16:29:55.585Z
+date: 2022-10-23T19:37:30.364Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-13T13:53:53.130Z

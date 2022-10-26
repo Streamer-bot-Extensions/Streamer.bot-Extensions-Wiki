@@ -2,11 +2,12 @@
 title: Active Chatter List (by BoomSoMuch)
 description: Whenever anyone chats for the first time during the stream this will add their name to a text file.
 published: true
-date: 2022-07-24T06:08:07.868Z
+date: 2022-10-23T19:34:49.435Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:22:46.750Z
 ---
+
 # Import Code
 
 ```text
