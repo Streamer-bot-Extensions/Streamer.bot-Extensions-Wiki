@@ -18,7 +18,7 @@ The important Sub-Action is `Action(WLN)` as the pop-up will trigger when that S
 
 
 Next thing to do is to download the files, this contains all the files you will need for this overlay.
-- [<i class="mdi mdi-file-document"></i> Windows Live Notification Download](/assets/windows-live/windows-live-notif.zip)
+- [<i class="mdi mdi-folder-arrow-down"></i> Required Assets *Click to Download*](/assets/windows-live/windows-live-notif.zip)
 {.btn-grid .my-5}
 
 Once download it will need extracting and putting somewhere safe. You will then need to add the index.html file contained to OBS. If all is done correctly it should run when someone chats for the first time in stream.
