@@ -1,11 +1,11 @@
 ---
 title: Ayuda de OBS Raw
 description: Aquí encontrarás ejemplos de OBS Raw
-published: false
-date: 2022-06-11T05:11:30.171Z
-tags:
+published: true
+date: 2022-08-31T00:32:49.501Z
+tags: 
 editor: markdown
-dateCreated: 2022-06-03T17:41:21.650Z
+dateCreated: 2022-07-27T01:10:14.654Z
 ---
 
 # OBS Raw

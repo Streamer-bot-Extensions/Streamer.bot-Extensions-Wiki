@@ -2,10 +2,10 @@
 title: Estado de OBS (por ConfuzzedCat)
 description: Obtiene la información de la transmisión de OBS con un comando.
 published: true
-date: 2022-07-24T06:09:52.566Z
+date: 2022-08-31T00:41:04.193Z
 tags: confuzzedcat, obs, status, obs status, info, bitrate, cpuusage, cpu usage, obs stream info
 editor: markdown
-dateCreated: 2022-05-11T04:03:23.032Z
+dateCreated: 2022-08-09T03:56:29.321Z
 ---
 
 # Código de importación

@@ -1,8 +1,8 @@
 ---
 title: Uptime Commands (by TerrierDarts)
-description: Uptime is a way of showing your chat how long you have been streaming, usually triggered by a `!uptime` command. 
+description: Uptime is a way of showing your chat how long you have been streaming, usually triggered by a `!uptime` command.
 published: true
-date: 2022-07-24T06:10:51.070Z
+date: 2022-08-31T00:36:15.472Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-31T19:05:25.175Z

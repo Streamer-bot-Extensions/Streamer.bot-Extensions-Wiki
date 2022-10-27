@@ -2,10 +2,10 @@
 title: Notificación de Inicio de Transmisión (por TheShiningOne)
 description: Cambia tu notificación de inicio de transmisión sin necesidad de ir al panel de control
 published: true
-date: 2022-08-03T15:36:43.592Z
-tags:
+date: 2022-08-31T00:40:33.283Z
+tags: 
 editor: markdown
-dateCreated: 2022-08-03T13:08:33.972Z
+dateCreated: 2022-08-09T03:55:52.480Z
 ---
 
 # Código de importación

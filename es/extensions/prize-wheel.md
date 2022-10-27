@@ -1,11 +1,11 @@
 ---
 title: Ruleta de La Fortuna (por MarkusoOoO)
-description: '"Ruleta de La Fortuna/Ruleta" completamente personalizabla y funcional con OBS desde la versión 27.1.3'
+description: "Ruleta de La Fortuna/Ruleta" completamente personalizabla y funcional con OBS desde la versión 27.1.3
 published: true
-date: 2022-08-09T17:37:50.439Z
+date: 2022-08-31T00:41:22.934Z
 tags: prize, wheel, roulette, template
 editor: markdown
-dateCreated: 2022-05-18T01:56:58.750Z
+dateCreated: 2022-08-15T14:31:06.366Z
 ---
 
 # Código de Importación

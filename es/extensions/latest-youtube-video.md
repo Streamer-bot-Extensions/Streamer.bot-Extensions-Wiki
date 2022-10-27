@@ -2,12 +2,11 @@
 title: Último Video de YouTube (por TerrierDarts)
 description: Esto publicará tu último video de YouTube en el chat.
 published: true
-date: 2022-08-30T13:01:44.699Z
-tags:
+date: 2022-09-11T15:25:43.909Z
+tags: 
 editor: markdown
-dateCreated: 2022-08-29T00:18:30.446Z
+dateCreated: 2022-09-11T15:25:41.082Z
 ---
-
 
 # Tutorial
 

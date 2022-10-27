@@ -1,8 +1,8 @@
 ---
 title: RCON (by ItsTheBOFH)
-description: This is extension for Streamer.bot which allows you to use a RCON Client to connect go Game Servers via RCON Protocols to run commands. 
+description: This is extension for Streamer.bot which allows you to use a RCON Client to connect go Game Servers via RCON Protocols to run commands.
 published: true
-date: 2022-07-24T06:10:21.956Z
+date: 2022-10-23T16:07:38.031Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:44:31.853Z

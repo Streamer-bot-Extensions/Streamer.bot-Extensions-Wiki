@@ -2,10 +2,10 @@
 title: Barrel Roll (por IRLCreate)
 description: Te da una recompensa de puntos de canal para realizar un barrel roll
 published: true
-date: 2022-07-17T21:37:25.071Z
-tags: divertido, barrel roll, punto de canal
+date: 2022-08-31T00:41:47.508Z
+tags: barrel roll, divertido, punto de canal
 editor: markdown
-dateCreated: 2022-05-24T15:30:26.195Z
+dateCreated: 2022-08-04T02:33:33.528Z
 ---
 
   
@@ -28,7 +28,7 @@ Esta es una configuración que te permitirá crear un efecto de barrel roll como
 
 <br>
 
-<iframe src="https://www.youtube.com/embed/nlNkGBWA1A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/nlNkGBWA1A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

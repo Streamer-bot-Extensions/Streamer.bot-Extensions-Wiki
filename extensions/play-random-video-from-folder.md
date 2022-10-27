@@ -2,7 +2,7 @@
 title: Play Random Video from Folder (by VRFlad)
 description: Play a random video from a folder using Streamer.bot.
 published: true
-date: 2022-07-24T06:09:58.148Z
+date: 2022-10-23T19:36:44.252Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:01:12.163Z

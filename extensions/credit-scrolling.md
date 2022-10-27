@@ -2,7 +2,7 @@
 title: Simple Scrolling Credits
 description: Example of credits in Streamer.bot using a simple scrolling style that allows for easy font and color changes in an editor as well as including intro and outro text/images
 published: true
-date: 2022-07-24T06:14:17.858Z
+date: 2022-10-23T16:06:31.998Z
 tags: credits
 editor: markdown
 dateCreated: 2022-06-11T08:13:44.455Z

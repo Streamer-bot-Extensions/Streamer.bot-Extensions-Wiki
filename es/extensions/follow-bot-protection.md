@@ -2,10 +2,10 @@
 title: Protección de "Follow" por Bots (por Caruha)
 description: Verifica si un usuario que empieza a seguir al canal pertenece a los bots de Hoss o a cualquier otro bot para generar "follows" y, de ser así, no continuará con la acción.
 published: true
-date: 2022-07-24T06:09:13.698Z
-tags:
+date: 2022-08-31T00:40:21.072Z
+tags: 
 editor: markdown
-dateCreated: 2022-04-02T10:50:52.282Z
+dateCreated: 2022-08-09T03:55:36.223Z
 ---
 
 > Hay dos versiones diferentes de esta extensión.  La primera es un simple código de C# que verifica si hay bots para generar "follows", y la otra lee desde un archivo que contiene una lista de nombres de bots. 

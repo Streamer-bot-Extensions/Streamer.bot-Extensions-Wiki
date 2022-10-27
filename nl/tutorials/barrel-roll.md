@@ -2,10 +2,10 @@
 title: Barrel Roll (van IRLCreate)
 description: Geeft je een kanaalpunt van een barrel roll
 published: true
-date: 2022-07-17T21:37:25.692Z
-tags: leuke, barrel roll, kanaalpunt
+date: 2022-08-31T00:44:17.265Z
+tags: barrel roll, leuke, kanaalpunt
 editor: markdown
-dateCreated: 2022-05-14T15:30:26.979Z
+dateCreated: 2022-07-24T16:10:00.948Z
 ---
 
   
@@ -28,7 +28,7 @@ Dit is een instelling om een roleffect te maken zoals de Ster Fox meme.
 
 <br>
 
-<iframe src="https://www.youtube.com/embed/nlNkGBWA1A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/nlNkGBWA1A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

@@ -2,11 +2,12 @@
 title: who2raid-widget-raid-randomizer
 description: Automatised Raid randomly choosen from streams you follow.
 published: true
-date: 2022-07-24T06:11:17.776Z
+date: 2022-10-23T19:59:14.908Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-23T23:48:02.375Z
 ---
+
 *OBS WS v4.9*{.obs-version-badge} 
 ## Tutorial Video
 <iframe src="https://www.youtube.com/embed/Y-yKmmbIyTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>

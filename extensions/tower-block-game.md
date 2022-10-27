@@ -2,10 +2,10 @@
 title: Heat Map and Tower Block Game
 description: Use Heatmap with the Tower Block Game
 published: true
-date: 2022-07-24T06:13:04.357Z
+date: 2022-10-23T19:37:51.758Z
 tags: 
 editor: markdown
-dateCreated: 2022-06-03T13:30:38.150Z
+dateCreated: 2022-10-23T19:37:49.065Z
 ---
 
 # Heat (Tower Block Game)

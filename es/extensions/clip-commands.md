@@ -1,3 +1,13 @@
+---
+title: clip-commands
+description: 
+published: true
+date: 2022-08-31T00:39:43.595Z
+tags: 
+editor: markdown
+dateCreated: 2022-07-31T00:41:56.092Z
+---
+
 - - -
 title: Comandos de Clips. published: true date: 2022-07-27T20:05:49.484Z tags: editor: markdown dateCreated: 2022-07-25T17:02:16.506Z
 - - -

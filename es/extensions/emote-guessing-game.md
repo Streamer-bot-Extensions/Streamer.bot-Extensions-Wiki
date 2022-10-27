@@ -1,14 +1,12 @@
 ---
 title: Juego de Adivinizanza de Emotes (por @Kleinhalbi)
-description: '¡Un juego de chat en el cual necesitan adivinar el emote secreto!'
+description: ¡Un juego de chat en el cual necesitan adivinar el emote secreto!
 published: true
-date: 2022-07-24T06:09:07.566Z
-tags:
+date: 2022-08-31T00:40:14.709Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-18T01:25:14.750Z
+dateCreated: 2022-08-04T02:33:25.511Z
 ---
-
-
 
 # Código de Importación
 ```

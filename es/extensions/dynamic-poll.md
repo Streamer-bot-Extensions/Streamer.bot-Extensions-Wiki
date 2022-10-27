@@ -1,11 +1,11 @@
 ---
 title: Encuesta Dinámica (por NotZelda)
-description: '¡Crea encuestas simples usando esta Extensión!'
+description: ¡Crea encuestas simples usando esta Extensión!
 published: true
-date: 2022-07-24T06:09:01.566Z
-tags:
+date: 2022-09-11T15:25:38.074Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-18T01:30:19.750Z
+dateCreated: 2022-08-04T02:33:17.364Z
 ---
 
 # Código de Importación

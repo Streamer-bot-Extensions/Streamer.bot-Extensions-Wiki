@@ -2,10 +2,10 @@
 title: Govee Lights Control (by psxboy) (modified by rondhi)
 description: Control your Govee Lights from Streamer.bot.
 published: true
-date: 2022-07-24T06:13:10.277Z
+date: 2022-10-23T19:36:01.607Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-17T00:27:27.214Z
+dateCreated: 2022-10-23T19:35:58.789Z
 ---
 
 # Govee Lights Control (by [psxboy](https://www.twitch.tv/psxboy)) (modified by [rondhi](https://twitch.tv/rondhi))

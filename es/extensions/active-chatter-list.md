@@ -2,10 +2,10 @@
 title: Lista de conversadores Activos (por BoomSoMuch)
 description: Cuando cualquiera conversa por primera vez durante la transmisión, esto añadiré su nombre a un archivo de texto.
 published: true
-date: 2022-07-24T06:08:07.566Z
-tags:
+date: 2022-08-31T00:39:06.961Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-18T01:22:46.750Z
+dateCreated: 2022-07-30T04:40:38.409Z
 ---
 
 # Código de Importación

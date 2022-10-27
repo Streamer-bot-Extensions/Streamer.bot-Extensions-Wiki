@@ -2,10 +2,10 @@
 title: Juego de Perdedor Aleatorio (por TheIcemanCometh)
 description: Comúnmente conocido como "una bala en un arma", o "ruleta rusa". Renombrado aquí para no ofender a nadie.
 published: true
-date: 2022-07-24T06:10:16.822Z
-tags:
+date: 2022-08-31T00:41:28.986Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-18T01:38:20.750Z
+dateCreated: 2022-08-25T02:42:33.728Z
 ---
 
 # Código de Importación

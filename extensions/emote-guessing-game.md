@@ -1,14 +1,12 @@
 ---
 title: Emote Guessing Game (by Kleinhalbi)
-description: A Chat Game where they need to guess the secret emote! 
+description: A Chat Game where they need to guess the secret emote!
 published: true
-date: 2022-07-24T06:09:07.463Z
+date: 2022-08-31T00:34:09.500Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:25:14.682Z
 ---
-
-
 
 # Import Code
 ```

@@ -2,10 +2,10 @@
 title: Predicciones en Pantalla (Elgato StreamDeck) (por p0mz0r)
 description: Esta extensión te permite usar tu StreamDeck para ejecutar Predicciones en pantalla.
 published: true
-date: 2022-07-24T06:09:55.566Z
-tags:
+date: 2022-08-31T00:41:07.289Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-18T01:27:49.750Z
+dateCreated: 2022-08-09T03:56:37.112Z
 ---
 
 # Código de Importación

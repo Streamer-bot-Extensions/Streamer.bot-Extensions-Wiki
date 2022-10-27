@@ -2,10 +2,10 @@
 title: Heat Map
 description: Heap Map is a Twitch Extension that allows users to click and interact with your stream.
 published: true
-date: 2022-10-16T14:01:06.858Z
+date: 2022-10-23T19:58:44.699Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-28T17:32:18.959Z
+dateCreated: 2022-10-23T19:58:41.971Z
 ---
 
 # Heat Map

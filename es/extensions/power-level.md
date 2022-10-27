@@ -1,11 +1,11 @@
 ---
 title: Nivel de Poder (por Sportiax)
-description:
+description: 
 published: true
-date: 2022-07-24T06:10:07.566Z
-tags:
+date: 2022-08-31T00:41:19.611Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-18T01:09:47.750Z
+dateCreated: 2022-08-15T14:31:02.300Z
 ---
 
 ## Código de Importación

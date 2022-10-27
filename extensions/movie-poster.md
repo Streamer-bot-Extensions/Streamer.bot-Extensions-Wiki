@@ -2,10 +2,10 @@
 title: Movie Poster (by GoWMan)
 description: Allow viewers to display their Profile Picture in a Movie Poster with Streamer.bot.
 published: true
-date: 2022-07-24T06:11:59.922Z
+date: 2022-10-23T19:36:35.182Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-15T02:58:15.475Z
+dateCreated: 2022-10-23T19:36:32.464Z
 ---
 
 # Movie Poster [(by GoWMan)](https://www.twitch.tv/gowman)

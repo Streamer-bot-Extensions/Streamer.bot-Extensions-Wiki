@@ -1,11 +1,11 @@
 ---
 title: Página de Prueba
-description:
-published: false
-date: 2022-08-14T17:51:04.991Z
+description: 
+published: true
+date: 2022-08-31T00:32:52.575Z
 tags: test
 editor: markdown
-dateCreated: 2022-07-17T18:50:43.167Z
+dateCreated: 2022-07-27T23:16:25.960Z
 ---
 
 *Made by [ik#1497]()*{.credit-badge}

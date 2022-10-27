@@ -2,10 +2,10 @@
 title: Verificación de Tiempo en Línea de Proceso (por BamBam)
 description: Esta es una utilidad para verificar el tiempo en línea de un proceso.
 published: true
-date: 2022-07-24T06:07:56.698Z
-tags:
+date: 2022-08-31T00:38:57.612Z
+tags: 
 editor: markdown
-dateCreated: 2022-06-11T04:29:47.032Z
+dateCreated: 2022-07-28T23:22:56.714Z
 ---
 
 # Verificación de Tiempo En Línea de Proceso [(por BamBam)](https://www.twitch.tv/bambam4275)

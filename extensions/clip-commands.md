@@ -2,7 +2,7 @@
 title: Clip Commands
 description: Few Examples of how to play with clips in Streamer.bot.
 published: true
-date: 2022-07-27T20:05:49.484Z
+date: 2022-10-23T16:06:22.404Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T17:02:16.506Z

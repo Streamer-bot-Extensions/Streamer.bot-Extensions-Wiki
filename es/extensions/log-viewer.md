@@ -2,10 +2,10 @@
 title: Visualizador de Log (por TerrierDarts)
 description: Esta extensión te permitirá abrir rápidamente el archivo de log.
 published: true
-date: 2022-08-30T03:01:44.699Z
-tags:
+date: 2022-09-11T15:25:47.946Z
+tags: 
 editor: markdown
-dateCreated: 2022-08-29T00:18:30.446Z
+dateCreated: 2022-09-11T15:25:45.122Z
 ---
 
 # Código de Importación

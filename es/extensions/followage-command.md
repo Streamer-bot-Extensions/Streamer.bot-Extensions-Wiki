@@ -2,10 +2,10 @@
 title: Comando de Antigüedad de Seguimiento (por TerrierDarts)
 description: Despliega la información de los seguidores en chat a través de Streamer.bot.
 published: true
-date: 2022-08-15T12:41:20.694Z
-tags:
+date: 2022-08-31T00:40:24.218Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-02T10:13:10.282Z
+dateCreated: 2022-08-09T03:55:40.321Z
 ---
 
 # Seguimiento Simple

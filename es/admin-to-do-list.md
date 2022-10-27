@@ -1,11 +1,11 @@
 ---
 title: Lista "Por Hacer" de Administradores
-description:
-published: false
-date: 2022-07-24T06:07:32.701Z
-tags:
+description: 
+published: true
+date: 2022-08-31T00:32:37.428Z
+tags: 
 editor: markdown
-dateCreated: 2022-06-02T10:34:40.282Z
+dateCreated: 2022-07-27T23:16:10.666Z
 ---
 
 # Lista "Por Hacer" de Administradores

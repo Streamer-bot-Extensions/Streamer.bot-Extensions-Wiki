@@ -2,7 +2,7 @@
 title: Point System
 description: A point System Built fully for the use in Streamer.bot
 published: true
-date: 2022-10-16T13:59:02.004Z
+date: 2022-10-23T16:07:18.635Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-22T12:07:44.998Z

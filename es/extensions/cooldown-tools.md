@@ -1,13 +1,12 @@
 ---
 title: Herramientas de Tiempo de Espera
-description: '¡Con estas herramientas podrás sacar el máximo provecho de los tiempos de espera!'
+description: ¡Con estas herramientas podrás sacar el máximo provecho de los tiempos de espera!
 published: true
-date: 2022-08-13T15:25:36.027Z
-tags:
+date: 2022-08-31T00:39:49.879Z
+tags: 
 editor: markdown
-dateCreated: 2022-07-24T15:54:51.195Z
+dateCreated: 2022-08-01T01:28:53.617Z
 ---
-
 
 # Herramienta para Establecer el Tiempo de Espera
 

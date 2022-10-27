@@ -2,10 +2,10 @@
 title: Mario Clicker
 description: A Cool Mario Effect that is clickable with heat, it will also give your viewers a life every `x` amount of clicks.
 published: true
-date: 2022-07-24T06:13:01.310Z
+date: 2022-10-23T19:36:27.390Z
 tags: 
 editor: markdown
-dateCreated: 2022-07-08T22:06:21.540Z
+dateCreated: 2022-10-23T19:36:24.679Z
 ---
 
 # Import Code
