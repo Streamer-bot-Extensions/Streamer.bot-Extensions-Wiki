@@ -2,7 +2,7 @@
 title: Active Chatter List (by BoomSoMuch)
 description: Whenever anyone chats for the first time during the stream this will add their name to a text file.
 published: true
-date: 2022-10-23T19:34:49.435Z
+date: 2022-10-26T22:32:37.027Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:22:46.750Z
@@ -10,7 +10,7 @@ dateCreated: 2022-05-18T01:22:46.750Z
 
 # Import File
 
-- [<i class="mdi mdi-file-document"></i> Import Code *Click to Download*](/assets/active-chatter-list/images/active-chatter-list.sb)
+- [<i class="mdi mdi-file-download"></i> **Import Code *Click to Download***](/assets/active-chatter-list/images/active-chatter-list.sb)
 {.btn-grid .my-5}
 
 
