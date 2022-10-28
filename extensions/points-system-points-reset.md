@@ -45,7 +45,7 @@ You will also need to create the following command.
 !resetVariable Tokens 
 >>Output = Tokens have been reset.
 ```
-> Remember when using the `!resetVariable` command that it may need to case match, it may work either way but it's better to be safe.
+> Remember when using the `!resetVariable` command that it may need to case match, it may work either way but it's better to be safe. Please note for best results press Save before running this action.
 {.is-warning}
 
 # Contributors
