@@ -26,7 +26,7 @@ A Complete package to get you started.
 - [Progress Bar *A Progress bar for Follower or Subscribers*](/extensions/quick-goal-progress-bar)
 - [Mod Added Commands *Allow Mods to Create chat based commands*](/extensions/mod-added-commands)
 - [Scene Specific Actions *Run Actions for when you swap Scene Easily*  *Coming Soon*](/extensions/scene-switch)
-- [Set Game and Title *Allow Mods to change the game and title* *Coming Soon*]()
+- [Set Game and Title *Allow Mods to change the game and title* *Coming Soon*](){.disabled}
 - [Shoutouts *Examples of how to do Shoutouts in Streamer.bot*](/extensions/shoutout-examples)
 - [Tip Goals *Tip Goals Progress Bar*](/extensions/tips-goal-progress-bar-streamElements)
 - [Uptime *How long have you been streaming?*](/extensions/uptime)

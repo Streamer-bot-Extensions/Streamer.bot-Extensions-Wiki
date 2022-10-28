@@ -25,8 +25,7 @@ Below you can find the core Points System and a list of all the extensions that 
 * [Add Ranks  *Add user ranks to the Points System.*](/extensions/points-system-add-ranks)
 * [Additional Commands *A few additional commands to use with the points system*](/extensions/additional-commands)
 * [Increase Points For Followers *Give users points for following.*](/extensions/points-system-followers)
-* [Leaderboard *Show the Users with the Top Points.*](/extensions
-m/points-system-leaderboard)
+* [Leaderboard *Show the Users with the Top Points.*](/extensions/points-system-leaderboard)
 * [Points Reset *Reset points for all users back to zero.*](/extensions/points-system-points-reset)
 * [Points Transfer  *Transfer your SE or SL Points into Streamer.bot.*](/extensions/points-system-points-transfer)
 * [Redeem with Points *Allow your viewers to spend there points to redeem actions.*](/en/extensions/redeem-with-points)

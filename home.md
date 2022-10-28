@@ -31,7 +31,7 @@ This wiki is here to not only provide you with great resources to enhance your s
 - [<i class="mdi mdi-antenna" style="color: deepskyblue"></i> **OBS Based *Extensions that get the most out of OBS.***](/extensions/obs-based-extensions)
 - [<i class="mdi mdi-shield-half-full" style="color: deepskyblue"></i> **Protective Extensions *Protect yourself and your views with these extensions.***](/extensions/protective-extensions)
 - [<i class="fas fa-coins" style="color: deepskyblue"></i> **Points System *A Currency System built for Streamer.bot along with many tools and games.***](/extensions/points-system)
-- [<i class="mdi mdi-bullhorn" style="color: deepskyblue"></i> **Shoutout Example *There are many ways to shout people out here are a few!***](/extensions/shoutouts/shoutout-examples)
+- [<i class="mdi mdi-bullhorn" style="color: deepskyblue"></i> **Shoutout Example *There are many ways to shout people out here are a few!***](/extensions/shoutout-examples)
 - [<i class="fas fa-heart" style="color: deepskyblue"></i> **Smaller Examples *Filled with smaller but still amazing extensions!***](/extensions/smaller-extensions)
 - [<i class="fas fa-eye" style="color: deepskyblue"></i> **Visual Extensions *Extensions controlled by Streamer.bot with an added Visual Element***](/extensions/visual-extensions)
 - [<i class="mdi mdi-reload" style="color: deepskyblue"></i> **Workaround Extensions *Extensions to help you do things that aren't native in Streamer.bot***](/extensions/workarounds)
