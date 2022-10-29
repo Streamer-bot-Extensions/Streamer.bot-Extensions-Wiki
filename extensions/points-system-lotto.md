@@ -29,7 +29,7 @@ You Will also need to add the codepen Url to `urlPath`
 You Will also need to create a `.txt` file and give it a name, put it some where safe and paste the location in `filePath`.
 Then in **Lotto Draw** you will need to make sure that the subAction "OBS Set Browser Source" is pointing to the newly created browser source.
 
-You will need to set up the following commands.
+You will need to set up the following commands. If not imported.
 
 ```text
 !buytickets,!buyticket  = Tied to Lotto Ticket
