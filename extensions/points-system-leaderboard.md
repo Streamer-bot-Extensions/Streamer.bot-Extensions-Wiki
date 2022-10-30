@@ -59,7 +59,7 @@ Once you've got the code pen how you like it, you will need to export it. You ca
 `filePath` This is the url of the browser Source.
 `ignoredGroup` This is the name of people you want the bot to ignore. So they don't show on the leaderboard. (You will need to create this group)
 
-> It's important to note that if you choose a number too high for boardSize the message may not post due to twitch's own message character limit. 
+> It's important to note that if you choose a number too high for boardSize the message may not post due to twitch's own message character limit. 15 is the highest I would go to be safe. 
 {.is-info}
 
 # Contributors

@@ -8,6 +8,7 @@ editor: markdown
 dateCreated: 2022-05-01T13:37:34.417Z
 ---
 
+
 # Give Points
 ## Import Code
 ```
@@ -53,7 +54,7 @@ Add the Following Command.
 ```
 ---
 # Set All Users Points
-> This will edit the amount of `points` for everyone the bot has seen since based on the user data loaded from when you opened the bot or since the last save which ever is more recent. {.is-info}
+> This will edit the amount of `points` for everyone the bot has seen since based on the user data loaded from when you opened the bot or since the last save which ever is more recent. For Best Results Save before using.{.is-info}
 ## Import Code
 ```
 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

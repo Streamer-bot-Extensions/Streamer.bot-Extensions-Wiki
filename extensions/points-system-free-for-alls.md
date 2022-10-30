@@ -34,7 +34,7 @@ Once the code is all compiled and triggers are set-up it now time to look at the
 |`entryCost`| This is how much it costs the join the FFA|
 |`fightName`|This allows to change the name of the FFA|
 |`potTotal`| This by default is at 0 meaning only the points that get put in will be payed out, but if you set this any higher that will get added to the final prize pot.|
-|`ffaOneByOne`| This will determine if you want it to output to chat as people get eliminated 1 by 1. Set to `false` to just reveal the winner.|
+|`ffaOneByOne`| This will determine if you want it to output to chat as people get eliminated 1 by 1. Set to `false` to just reveal the winner. True may cause chat spam.|
 
 # Contributors
 
