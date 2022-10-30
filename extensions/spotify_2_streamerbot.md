@@ -22,9 +22,9 @@ Open your desktop application during the process so it will be recognized by str
 
 # Import Code 
 
-* `Import Pane` [tiny SPOT TO SB](/assets/spotify/files/tiny%20SPOT%20TO%20SB%20-%20STREAMER.BOT%20IMPORT%20CODE.txt)
+* `Import Pane` [tiny SPOT TO SB](/assets/spotify/files/TinySpot.sb)
 
-* `Import Pane` [roly SPOT TO SB](/assets/spotify/files/roly%20SPOT%20TO%20SB%20-%20STREAMER.BOT%20IMPORT%20CODE.txt)
+* `Import Pane` [roly SPOT TO SB](/assets/spotify/files/RolySpot.sb)
 
 # Installation
 
