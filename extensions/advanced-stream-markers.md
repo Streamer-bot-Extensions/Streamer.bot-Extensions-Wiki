@@ -2,7 +2,7 @@
 title: Advanced Stream Markers 2.0 (by NotZelda)
 description: Allow viewers or broadcaster to trigger a stream marker that adds to twitch VOD but also to a .txt file showing timestamp, duration, title and description.
 published: true
-date: 2022-11-01T16:16:39.531Z
+date: 2022-11-01T17:29:28.581Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:36:02.000Z
@@ -43,6 +43,6 @@ Create a `Command` called `!marker` and set it to `Start` that is tied to the `M
 >There is an `Action` called `Show Navi` that can be used to display an animation everytime the command is run.
 {.is-info}
 # Contributors
- - [<i class="mdi mdi-twitch"></i> NotZelda](https://www.twitch.tv/NotZelda)
- - [<i class="mdi mdi-github"></i> Ik1497](https://github.com/Ik1497)
+ - [NotZelda](https://www.twitch.tv/NotZelda){.twitch}
+ - [Ik1497](https://github.com/Ik1497){.github}
  {.contributors}
