@@ -2,17 +2,15 @@
 title: Active Chatter List (by BoomSoMuch)
 description: Whenever anyone chats for the first time during the stream this will add their name to a text file.
 published: true
-date: 2022-10-26T22:32:37.027Z
+date: 2022-11-01T22:00:36.571Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:22:46.750Z
 ---
 
 # Import File
-
 - [<i class="mdi mdi-file-download"></i> **Import Code *Click to Download***](/assets/active-chatter-list/images/active-chatter-list.sb)
 {.btn-grid .my-5}
-
 
 # Installation
 In Streamer.bot in select `Import` from the top left.
@@ -33,6 +31,5 @@ Now there is always a clean list of only the people who have spoken so far durin
 {.is-info}
 
 # Contributors
-
- - [<i class="mdi mdi-twitch"></i> BoomSoMuch](https://www.twitch.tv/BoomSoMuch)
- {.contributors}
+- [BoomSoMuch](https://www.twitch.tv/BoomSoMuch){.twitch}
+{.contributors}
