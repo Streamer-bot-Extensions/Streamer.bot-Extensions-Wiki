@@ -2,7 +2,7 @@
 title: Uptime Commands (by TerrierDarts)
 description: Uptime is a way of showing your chat how long you have been streaming, usually triggered by a `!uptime` command.
 published: true
-date: 2022-08-31T00:36:15.472Z
+date: 2022-11-01T17:23:46.435Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-31T19:05:25.175Z
@@ -49,5 +49,5 @@ So just edit a `Twitch Send Message` Sub-action so it Outputs how you wish.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}
