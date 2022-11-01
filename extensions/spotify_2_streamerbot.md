@@ -2,7 +2,7 @@
 title: Spotify To Streamerbot (By LeBluxTV)
 description: Use SB to control and interact with Streamerbot!
 published: true
-date: 2022-10-23T19:37:29.176Z
+date: 2022-11-01T20:57:29.976Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:37:26.389Z
@@ -21,8 +21,8 @@ Open your desktop application during the process so it will be recognized by Str
 
 # Import Files 
 
-- [<i class="mdi mdi-file-download"></i> **Import Code *Click to Download***](/assets/spotify/files/TinySpot.sb)
-- [<i class="mdi mdi-file-download"></i> **Import Code *Click to Download***](/assets/spotify/files/RolySpot.sb)
+- [<i class="mdi mdi-file-download"></i> **Tiny Spot Import Code *Click to Download***](/assets/spotify/files/TinySpot.sb)
+- [<i class="mdi mdi-file-download"></i> **Roly Spot Import Code *Click to Download***](/assets/spotify/files/RolySpot.sb)
 {.btn-grid .my-5}
 
 # Installation
