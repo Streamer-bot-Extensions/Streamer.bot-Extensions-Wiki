@@ -2,7 +2,7 @@
 title: Ad Snooze (by TheShiningOne)
 description: Snooze the upcoming Twitch Ad with this extension.
 published: true
-date: 2022-10-23T19:34:52.273Z
+date: 2022-11-01T22:12:18.006Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-03T13:05:03.866Z
@@ -40,6 +40,5 @@ You will have ```Snooze Ad``` action which you can trigger how you like, for exa
 {.is-warning}
 
 # Contributors
-
- - [<i class="mdi mdi-twitch"></i> TheShiningOne](https://www.twitch.tv/TheShiningOne)
- {.contributors}
+- [TheShiningOne](https://www.twitch.tv/TheShiningOne){.twitch}
+{.contributors}
