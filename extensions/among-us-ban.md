@@ -2,7 +2,7 @@
 title: Among Us Ban (by GoWMan)
 description: Some one in chat seem sus?  Need to call an emergency mod meeting?  Want to eject that impostor?  Well now you can with the Among Us Ban Alert for Streamer.bot!
 published: true
-date: 2022-10-23T19:35:00.485Z
+date: 2022-11-04T17:17:33.129Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:34:57.746Z
@@ -17,11 +17,10 @@ Some one in chat seem sus?  Need to call an emergency mod meeting?  Want to ejec
 <iframe src="https://www.youtube.com/embed/annlF5LiaFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 ## Resources
-Source Copy:  [OBS Plugin](https://obsproject.com/forum/resources/source-copy.1261/)
-Among Us Ban:  [Resources](/assets/among-us-ban/files/amongusban.rar)
+Source Copy: [OBS Plugin](https://obsproject.com/forum/resources/source-copy.1261/)
+Among Us Ban: [Resources](/assets/among-us-ban/files/amongusban.rar)
 
 ## Installation
-
 ### Streamer.bot
 Copy the Import Code below and paste into the `Import Pane`:
 ```text
@@ -49,3 +48,7 @@ Double click on the `Obs Set Browser Source Url` `Subaction` and make sure that 
 
 >`%user%` will only be populated if Streamer.bot has seen the user.  If you ban a random account that hasn't been in your stream while using Streamer.bot it will only display `%user%` instead of populating with the username.
 {.is-warning}
+
+# Contributors
+- [GoWMan](https://www.twitch.tv/GoWMan){.twitch}
+{.contributors}

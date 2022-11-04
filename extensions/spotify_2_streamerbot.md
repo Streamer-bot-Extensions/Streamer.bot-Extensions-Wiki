@@ -2,7 +2,7 @@
 title: Spotify To Streamerbot (By LeBluxTV)
 description: Use SB to control and interact with Streamerbot!
 published: true
-date: 2022-11-01T20:57:29.976Z
+date: 2022-11-02T17:52:21.343Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:37:26.389Z
@@ -45,7 +45,7 @@ Using Source Copy Plugin, go to Tools tab in OBS, source copy > load scene , fin
 ## tiny SPOT TO SB
 ![tiny](/assets/spotify/files/tiny.png)
 
-- [<i class="mdi mdi-folder-download"></i> **tiny Spot Assets *Click to Download***](/assets/spotify/files/roly%20%5BNS%5D%20SPOTIFY%20-%202%20SOURCE%20COPY%20IMPORT%20FILE.zip)
+- [<i class="mdi mdi-folder-download"></i> **tiny Spot Assets *Click to Download***](/assets/spotify/files/tiny%20%5BNS%5D%20SPOTIFY%20SOURCE%20COPY%20IMPORT%20FILE.zip)
 {.btn-grid .my-5}
 
 
@@ -62,7 +62,7 @@ Using Source Copy Plugin, go to Tools tab in OBS, source copy > load scene , fin
 ## roly SPOT TO SB
 ![roly](/assets/spotify/files/roly.png)
 
-- [<i class="mdi mdi-folder-download"></i> **roly Spot Assets *Click to Download***](/assets/spotify/files/tiny%20%5BNS%5D%20SPOTIFY%20SOURCE%20COPY%20IMPORT%20FILE.zip)
+- [<i class="mdi mdi-folder-download"></i> **roly Spot Assets *Click to Download***](/assets/spotify/files/roly%20%5BNS%5D%20SPOTIFY%20-%202%20SOURCE%20COPY%20IMPORT%20FILE.zip)
 {.btn-grid .my-5}
 
 
