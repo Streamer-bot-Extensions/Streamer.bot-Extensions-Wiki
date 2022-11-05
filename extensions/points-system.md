@@ -1,8 +1,8 @@
 ---
-title: Point System
-description: A point System Built fully for the use in Streamer.bot
+title: Points System
+description: A Points System Built fully for use in Streamer.bot
 published: true
-date: 2022-10-28T14:21:13.185Z
+date: 2022-11-05T01:03:37.609Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-22T12:07:44.998Z
