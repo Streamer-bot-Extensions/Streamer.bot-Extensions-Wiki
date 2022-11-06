@@ -2,7 +2,7 @@
 title: Walkon Videos/Images (by GoWMan)
 description: This expands on Geocyms Walkon Sounds to include Videos and Images as well.
 published: true
-date: 2022-10-23T19:38:13.138Z
+date: 2022-11-06T16:45:24.565Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-29T18:34:57.018Z
@@ -14,7 +14,7 @@ TlM0RR+LCAAAAAAABADNWVlz4kgSft+I/Q8Kv+zLqKd0AZrY3QjABgQ2bi4BWs+D6tDR6BoJgcXE/PfJ
 ```
 
 # Installation
-> Requires [Geocyms Walkon Sounds](./walkon-sounds) to utilize the regular feature!
+> Requires [Geocyms Walkon Sounds](/extensions/walkon-sounds) to utilize the regular feature!
 {.is-danger}
 
 This setup allows an easy way to acomplish this without needing any complicated setup or maintenence.
