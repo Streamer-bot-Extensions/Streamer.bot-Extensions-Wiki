@@ -2,10 +2,10 @@
 title: Discord Examples
 description: A Few Examples on how to use Streamer.bot to Post To Discord
 published: true
-date: 2022-09-16T20:16:23.104Z
+date: 2022-11-07T16:25:19.988Z
 tags: post, to, discord
 editor: markdown
-dateCreated: 2022-09-13T13:37:53.318Z
+dateCreated: 2022-11-07T15:25:44.171Z
 ---
 
 Using the following Examples you will be able to post to discord in many different ways. 
@@ -13,10 +13,10 @@ Using the following Examples you will be able to post to discord in many differe
 The first thing you will need to do is to get a Webhook.
 
 Go to your Discord Server `Settings > Integrations` and click new `Web Hook`.
-![post-to-discord-1.png](/extensions/post-to-discord/images/post-to-discord-1.png)
+![post-to-discord-1.png](/assets/post-to-discord/images/post-to-discord-1.png)
 
 Choose a channel for it to post to and give it a name, anything will do.
-![post-to-discord-1.png](/extensions/post-to-discord/images/post-to-discord-2.png)
+![post-to-discord-1.png](/assets/post-to-discord/images/post-to-discord-2.png)
 
 Copy the Webhook URL - you will need this for the c# code later so save it somewhere for now.
 
