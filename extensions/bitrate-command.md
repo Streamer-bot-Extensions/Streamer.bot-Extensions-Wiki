@@ -32,5 +32,5 @@ Next create a `Command` called `!bitrate` set to `Exact` and tied to the `!bitra
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends)
+ - [WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends){.twitch}
  {.contributors}

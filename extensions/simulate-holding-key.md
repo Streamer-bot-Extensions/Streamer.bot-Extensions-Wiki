@@ -48,5 +48,5 @@ Use the HoldKey_redeem action for that, as it will handle the input correctly.
 
 # Contributors
  
-- [<i class="mdi mdi-twitch"></i> ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat)
+- [ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat){.twitch}
  {.contributors}

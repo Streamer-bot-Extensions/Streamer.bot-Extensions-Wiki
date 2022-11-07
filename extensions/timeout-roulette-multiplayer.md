@@ -48,5 +48,5 @@ Game supports Twitch and YouTube chats. In case of multistreaming both chat can 
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> ShiningOne](https://www.twitch.tv/shiningone)
+ - [ShiningOne](https://www.twitch.tv/shiningone){.twitch}
  {.contributors}

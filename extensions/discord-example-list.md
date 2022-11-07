@@ -258,8 +258,8 @@ public class CPHInline
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> Geocym](https://www.twitch.tv/Geocym)
-- [<i class="mdi mdi-twitch"></i> Grizzlage](https://www.twitch.tv/grizzlage)
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+- [Geocym](https://www.twitch.tv/Geocym){.twitch}
+- [Grizzlage](https://www.twitch.tv/grizzlage){.twitch}
+- [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}
 

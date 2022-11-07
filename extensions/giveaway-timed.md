@@ -76,5 +76,5 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA)
+ - [MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA){.twitch}
  {.contributors}

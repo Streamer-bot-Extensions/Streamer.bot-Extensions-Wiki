@@ -27,5 +27,5 @@ System.Drawing.dll
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> WaldoAndFriends](https://www.twitch.tv/waldoandfriends)
+ - [WaldoAndFriends](https://www.twitch.tv/waldoandfriends){.twitch}
  {.contributors}

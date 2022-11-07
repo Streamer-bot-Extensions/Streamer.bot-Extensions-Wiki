@@ -177,5 +177,5 @@ blueberrydogs
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> Caruha](https://www.twitch.tv/Caruha)
+ - [Caruha](https://www.twitch.tv/Caruha){.twitch}
  {.contributors}

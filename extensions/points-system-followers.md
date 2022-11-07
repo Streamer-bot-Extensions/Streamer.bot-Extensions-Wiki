@@ -20,7 +20,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> MarkusoOoO](https://www.twitch.tv/markusoooo)
+ - [MarkusoOoO](https://www.twitch.tv/markusoooo){.twitch}
  {.contributors}
  
  > This Page on the way {.is-warning}

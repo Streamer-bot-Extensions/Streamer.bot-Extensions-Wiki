@@ -28,5 +28,5 @@ When a user redeems the reward:
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> iAmLarcyn](https://www.twitch.tv/iAmLarcyn)
+ - [iAmLarcyn](https://www.twitch.tv/iAmLarcyn){.twitch}
  {.contributors}

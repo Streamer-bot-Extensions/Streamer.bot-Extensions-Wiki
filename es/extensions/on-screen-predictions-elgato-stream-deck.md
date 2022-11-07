@@ -20,5 +20,5 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> p0mz0r](https://www.twitch.tv/p0mz0r)
+- [p0mz0r](https://www.twitch.tv/p0mz0r){.twitch}
 {.contributors}

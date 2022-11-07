@@ -104,6 +104,6 @@ This code will just need a `!logQueue` command tied to the action and it may nee
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
- - [<i class="mdi mdi-twitch"></i> WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+ - [WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends){.twitch}
  {.contributors}

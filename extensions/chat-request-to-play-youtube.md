@@ -47,8 +47,8 @@ As I say it is a tiny bit more but it allows you to do it whilst still having so
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
-- [<i class="mdi mdi-twitch"></i> PrettyTeddyy](https://www.twitch.tv/PrettyTeddyy)
+- [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+- [PrettyTeddyy](https://www.twitch.tv/PrettyTeddyy){.twitch}
  {.contributors}
 
 

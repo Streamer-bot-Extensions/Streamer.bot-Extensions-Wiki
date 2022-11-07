@@ -32,5 +32,5 @@ What is to come:
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> ItsTheBOFH](https://www.twitch.tv/ItsTheBOFH)
+ - [ItsTheBOFH](https://www.twitch.tv/ItsTheBOFH){.twitch}
  {.contributors}

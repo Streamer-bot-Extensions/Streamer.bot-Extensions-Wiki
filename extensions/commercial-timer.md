@@ -56,7 +56,7 @@ With this complete, everytime that you hit Start Streaming the timer will enable
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> GowMan](https://www.twitch.tv/GowMan)
+ - [GowMan](https://www.twitch.tv/GowMan){.twitch}
  {.contributors}
 
 

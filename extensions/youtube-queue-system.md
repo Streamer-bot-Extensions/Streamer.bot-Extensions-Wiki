@@ -83,7 +83,7 @@ The `!peak` command will allow you to see the next X amount of people in the que
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
- - [<i class="mdi mdi-twitch"></i> WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends)
- - [<i class="mdi mdi-youtube"></i> Haunter](https://www.youtube.com/channel/UC9qO6-NFvWwhde5o2B_DMzQ)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+ - [WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends){.twitch}
+ - [Haunter](https://www.youtube.com/channel/UC9qO6-NFvWwhde5o2B_DMzQ){.youtube}
  {.contributors}

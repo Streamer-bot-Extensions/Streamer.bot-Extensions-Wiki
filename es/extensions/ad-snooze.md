@@ -26,7 +26,7 @@ System.Net.Http.dll
 ```
 Después de importar el código necesitarás obtener un encabezado de autorización, y el hash de la carga del navegador desde el cual hayas iniciado sesión en tu cuenta con la que transmitas. Para ello, necesitarás ir a tu panel de control de Twitch, luego al gestor del stream y abrir las `Herramientas de Desarrollo` (usualmente con F12) y cambiar a la pestaña de `Red`. Después presionarás `Snooze` (debes estar transmitiendo) y habrá una solicitud de tipo PST a `gql.twitch.tv/gql` con `operationName: "SnoozeAd"`. Necesitarás copiar esta solicitud como cURL y pegarla en cualquier editor de texto. Dentro, encontrarás todos los datos requeridos. En código, encontrarás los marcadores donde deberás colocar tus datos.
 
-![snooze.png](/extensions/ad-snooze/images/snooze.png)
+![snooze.png](/assets/ad-snooze/images/snooze.png)
 
 > Después de cada reinicio de sesión en Twitch deberás obtener estos datos de nuevo. 
 > 
@@ -41,5 +41,5 @@ Tendrás una acción llamada `Snooze Ad` que puedes activar de la forma que gust
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> TheShiningOne](https://www.twitch.tv/TheShiningOne)
+ - [TheShiningOne](https://www.twitch.tv/TheShiningOne){.twitch}
  {.contributors}

@@ -26,5 +26,5 @@ Once download it will need extracting and putting somewhere safe. You will then 
 If it doesnt work, it maybe an issue with the Streamer.bot WebSocket, so please check it is active and it is 127.0.0.1 and port 8080. If these are different the script file may need editing.
 
 # Contributors
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

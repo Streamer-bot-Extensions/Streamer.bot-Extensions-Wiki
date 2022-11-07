@@ -55,5 +55,5 @@ Finally the `Walk on Sounds` action should be assigned to the `First Words` even
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> Geocym](https://www.twitch.tv/Geocym)
+ - [Geocym](https://www.twitch.tv/Geocym){.twitch}
  {.contributors}

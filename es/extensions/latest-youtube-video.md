@@ -29,5 +29,5 @@ Puedes tener esto activado por un comando o por una acción temporizada.
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

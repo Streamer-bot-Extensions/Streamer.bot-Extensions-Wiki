@@ -69,5 +69,5 @@ Lo último que necesitarás es agregar tu enlace web de Discord en donde el cód
 
 # Colaboradores
 
-- [*Grizzlage*](https://www.twitch.tv/grizzlage)
+- [*Grizzlage*](https://www.twitch.tv/grizzlage){.twitch}
 {.contributors}

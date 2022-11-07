@@ -72,6 +72,6 @@ public class CPHInline
 ```
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> NotZelda](https://www.twitch.tv/NotZelda)
- - [<i class="mdi mdi-twitch"></i> Nate1280](https://www.twitch.tv/Nate1280)
+ - [NotZelda](https://www.twitch.tv/NotZelda){.twitch}
+ - [Nate1280](https://www.twitch.tv/Nate1280){.twitch}
  {.contributors}

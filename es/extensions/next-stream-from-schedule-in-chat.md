@@ -18,12 +18,12 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 # Configuración
 Asegúrate de haber configurado la Categoría & Ttiempo de finalización en tu calendario; de lo contrario, no funcionarpa. (editar el código C# para eliminar las clases y variables usadas podría eludir esta restricción)
 
-Referencias DLL's necesarias: ![image](/extensions/next-stream-from-schedule-in-chat/images/170585445-3af591c3-bf5d-437e-a311-90bd8457ac3e.png)
+Referencias DLL's necesarias: ![image](/assets/next-stream-from-schedule-in-chat/images/170585445-3af591c3-bf5d-437e-a311-90bd8457ac3e.png)
 
 # Ejemplo de Uso
-![Next Stream in chat](/extensions/next-stream-from-schedule-in-chat/images/175247155-7f89d259-8801-4ceb-976f-e317576e5431.png)
+![Next Stream in chat](/assets/next-stream-from-schedule-in-chat/images/175247155-7f89d259-8801-4ceb-976f-e317576e5431.png)
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> LeBluxTV](https://www.twitch.tv/LeBluxTV)
+- [LeBluxTV](https://www.twitch.tv/LeBluxTV){.twitch}
 {.contributors}

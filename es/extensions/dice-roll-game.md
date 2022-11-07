@@ -88,5 +88,5 @@ El juego puede ser configurado para colocar respuestas de victoria y derrota de 
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> Geocym](https://www.twitch.tv/Geocym)
+ - [ Geocym](https://www.twitch.tv/Geocym)
  {.contributors}

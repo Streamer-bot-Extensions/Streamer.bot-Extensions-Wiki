@@ -22,24 +22,24 @@ Esto solo requerirá un comando `!followage` ligado a la acción para funcionar.
 
 > Si el usuario no sigue al canal, no funcionará. {.is-warning}
 ## Ejemplo de Uso
-![followagesimple.png](/extensions/followage/images/followagesimple.png)
+![followagesimple.png](/assets/followage/images/followagesimple.png)
 
 # Antigüedad de Seguimiento (con objetivos y fallos)
 ## Código de Importación
 ```
 TlM0RR+LCAAAAAAABADtV8Fu3DYQvRfoPwgL+BYWJEVSZG/uwa2Booc0PRU9DMnhWoBW2lJSbCPIv5eSvLZWXqe7ycJJgZ4kcYbk8PHNm9GH77/LstV7jG3Z1KsfM/5mHKhhg+lrtZo+wXXJ3KaRP4fvLPswPZKp9IMfIvi8yHPifIFE5CCIVt4QCRqNEcpwNNNa46S/e+yH9eu+qp5GsQZb4bBeF3ucjd+5qvd4FZvNL2XbNfE+uQSo2pnPLuCrpqqa28s1znZbx6bfDsafoC3dzADVLdy3b/v6+XoRat9sLsdzP7e6pnZ9jFh3z23PsNrDa3Rpmz46fHe/xUfEH23vIZYDDE/oP5omqHVhjZaGkRy4IILmnhgLjgiUiisRbGB2MfEWy/XNECr9ge5buikGuRjeIbZ3P5+6oym+2uPdsMvT6Mc3L2GwO+dvDxcX4fa63vbdIvRmixEeLoEukar6QzBNF3A9gmULJiQCEstDgkgaSWwhLAkFh+AZl0VYghX7+nqzQV9Ch9X9wYNC6DA+coMtEEpsuHwK4QCEyeHtv28yrrO3ET1Ih5wHpRkQ7kWig2E0nZVSYpzHxAbvVFGcSgfGz8oHdgwfOrwbQlpdhDGD+xbjRXYDbWYR62waLOt1eovZg0/K8l+ben2xON42YsCUnP7SuaYfU5QdQo6j9ToRgHhlB80KNGlWUERp7VAyVhjpTkburMCJz0mkPWw+kU3q9GwShZOeUUEoFQmxYIBYaZAUjhlljLJB4H87m3Kl0HmTChcFmU5YOGKt8ERqRjEo9Gjys2XTEupjKJEfQ4m9+pK/XF86iGvs/kipdrjS5FQx6lMp59YTAUOlQaVT4QGVC+ktCnpypWHnw4LPsNi9/rUsxD8PG4zVeGZyKUdg26KfWSfjDtRlg3Ma9V+jwbmCsvqWm5ydoL+7Kdts4FjmG2yzuuke1Dy7sLEB76AdKXiEjB9M2RC8AhYkAQM8FUCeZBy8IsByz0IuUHP/dWWcviJPT2t4XoOnv2MVvmWe7onlQp3mYjmR9gWpBKED5IUl3DlGhEqIg9VAlAQGBWVMO/k1pfKolvz1WzAsKKR/Q04s06nCUJneisBJyltllaUJupNheyl3v7TC/N+AvUYDxqTMg/dAdMCk5iL1HNrlnHChC43aKydP/rs9awM2/5k5m5gPj8lzUuTZ1DRts0n6t/P/+A9uKKRsshEAAA==
 ```
-![followage_actions.png](/extensions/followage/images/followage_actions.png)
+![followage_actions.png](/assets/followage/images/followage_actions.png)
 ## Instalación
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
 Esta acción tiene algunas acciones par Obtener Información/Antigüedad de Seguimient que necesitarás revisar para que coincidan. En `FollowAge` necesitas usar la sub-acción `get target info from input` y `Add Follow Age Info from targetUser`. Entonces en `FollowAgeSelf` necesitarás agregar `Add follow age info from who redeemed`
 
-Esto solo requerirá un comando `!followage` ligado a la acción FollowAge. ![followage_command.png](/extensions/followage/images/followage_command.png)
+Esto solo requerirá un comando `!followage` ligado a la acción FollowAge. ![followage_command.png](/assets/followage/images/followage_command.png)
 > Este comando está configurado para permitir una entrada después del comando, por lo que necesitarás asegurarte que la opción "location" del comando esté configurada como "start". {.is-info}
 
 ## Ejemplo de Uso
-Este comando es un poco más amplio que el ejemplo previo, de manera que un usuario puede simplemente usar `!followage` para obtener su propia antigüedad como seguidor, pero el usuario también puede obtener seguimientos específicos (como se ve abajo) para obtener la antigüedad como seguidor del canal de otro usuario. También arrojará un error si el usuario no sigue al emisor. ![followage_fail.png](/extensions/followage/images/followage_fail.png)
+Este comando es un poco más amplio que el ejemplo previo, de manera que un usuario puede simplemente usar `!followage` para obtener su propia antigüedad como seguidor, pero el usuario también puede obtener seguimientos específicos (como se ve abajo) para obtener la antigüedad como seguidor del canal de otro usuario. También arrojará un error si el usuario no sigue al emisor. ![followage_fail.png](/assets/followage/images/followage_fail.png)
 
 # Antigüedad de Seguimiento en C#
 ## Import Code
@@ -53,6 +53,6 @@ Una vez más, tendrás que asegurar que las sub-acciones de Get Info están conf
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/terrierdarts)
-- [<i class="mdi mdi-twitch"></i> Farlezz](https://www.twitch.tv/Farlezz)
+- [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
+- [Farlezz](https://www.twitch.tv/Farlezz){.twitch}
 {.contributors}

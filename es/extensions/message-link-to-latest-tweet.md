@@ -22,5 +22,5 @@ Para configurar esta extensión, cambia FetchUrl para incluir tu nombre de Twitt
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> slashie101](https://www.twitch.tv/slashie101)
+ - [slashie101](https://www.twitch.tv/slashie101){.twitch}
  {.contributors}

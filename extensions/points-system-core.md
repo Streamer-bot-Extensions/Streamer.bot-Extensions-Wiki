@@ -124,5 +124,5 @@ To allow users to contribute points to the community challenge setup a `Command`
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> VRFlad](https://www.twitch.tv/VRFlad)
+ - [VRFlad](https://www.twitch.tv/VRFlad){.twitch}
  {.contributors}

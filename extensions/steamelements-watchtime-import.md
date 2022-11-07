@@ -28,5 +28,5 @@ Then the final thing to do is to create a command that runs the action.
  {.is-warning}
 
 # Contributors
- - [<i class="mdi mdi-twitch"></i> GoWMan](https://www.twitch.tv/GoWMan)
+ - [GoWMan](https://www.twitch.tv/GoWMan){.twitch}
  {.contributors}

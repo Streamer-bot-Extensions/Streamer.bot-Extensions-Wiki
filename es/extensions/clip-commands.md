@@ -98,5 +98,6 @@ public class CPHInline
 ```
 
 # Colaboradores
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/terrierdarts)
+- [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
+{.contributor}
 

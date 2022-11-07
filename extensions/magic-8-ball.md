@@ -26,5 +26,5 @@ Point the `Cooldown` `Action` to the `Action` `8ball - cool down` with a `User C
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA)
+ - [MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA){.twitch}
  {.contributors}

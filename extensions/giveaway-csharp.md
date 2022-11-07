@@ -59,5 +59,5 @@ This giveaway since in C# has settings in most of the actions, if any of these s
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

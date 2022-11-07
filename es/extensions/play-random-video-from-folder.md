@@ -16,17 +16,17 @@ TlM0RR+LCAAAAAAABAC9V21v2kgQ/n7S/YcVUqWeVEd+xbhSPzQkcU0bWqAB4vPptC9j42Pt9fkFQqv8
 # Instalación
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
-![random-video-from-folder-import.png](/extensions/play-random-video-from-folder/images/random-video-from-folder-import.png)
+![random-video-from-folder-import.png](/assets/play-random-video-from-folder/images/random-video-from-folder-import.png)
 
 # Configuración
-Cambia el `Valor` de la sub-acción `Set Argument` por `%randomVideoFolder%` a la carpeta que deseas usar. ![random-video-from-folder-folder.png](/extensions/play-random-video-from-folder/images/random-video-from-folder-folder.png)
+Cambia el `Valor` de la sub-acción `Set Argument` por `%randomVideoFolder%` a la carpeta que deseas usar. ![random-video-from-folder-folder.png](/assets/play-random-video-from-folder/images/random-video-from-folder-folder.png)
 > Asegúrate de usar ``\\` en lugar de ``&#96; en la ruta del archivo. 
 > 
 > {.is-warning}
 
-Cambia el `Valor` de la sub-acción `Set Argument` de`%randomVideoSource%` al nombre de la `Fuente de Imagen` en OBS. ![random-video-from-folder-source.png](/extensions/play-random-video-from-folder/images/random-video-from-folder-source.png)
+Cambia el `Valor` de la sub-acción `Set Argument` de`%randomVideoSource%` al nombre de la `Fuente de Imagen` en OBS. ![random-video-from-folder-source.png](/assets/play-random-video-from-folder/images/random-video-from-folder-source.png)
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> VRFlad](https://www.twitch.tv/VRFlad)
+- [VRFlad](https://www.twitch.tv/VRFlad){.twitch}
 {.contributors}

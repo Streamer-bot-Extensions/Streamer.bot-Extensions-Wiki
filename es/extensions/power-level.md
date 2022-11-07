@@ -24,5 +24,5 @@ Descarga los Recursos.
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> Sportiax](https://www.twitch.tv/Sportiax)
+- [Sportiax](https://www.twitch.tv/Sportiax){.twitch}
 {.contributors}

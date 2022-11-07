@@ -310,5 +310,5 @@ This is how it works:
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> Kleinhalbi](https://www.twitch.tv/Kleinhalbi)
+ - [Kleinhalbi](https://www.twitch.tv/Kleinhalbi){.twitch}
  {.contributors}

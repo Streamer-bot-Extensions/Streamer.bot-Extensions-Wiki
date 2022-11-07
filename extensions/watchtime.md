@@ -37,5 +37,5 @@ Create a `Command` called `!watchtime` set to `Exact` and tie it to the `Get Wat
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> GoWMan](https://www.twitch.tv/GoWMan)
+ - [GoWMan](https://www.twitch.tv/GoWMan){.twitch}
  {.contributors}

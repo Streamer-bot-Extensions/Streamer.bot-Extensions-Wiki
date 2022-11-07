@@ -30,5 +30,5 @@ I know this is really basic, but hopefully it will help someone, who wants to us
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> MarkusoOoO](https://www.twitch.tv/MarkusoOoO)
+ - [MarkusoOoO](https://www.twitch.tv/MarkusoOoO){.twitch}
  {.contributors}

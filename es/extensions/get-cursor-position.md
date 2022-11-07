@@ -15,16 +15,16 @@ TlM0RR+LCAAAAAAABACtVctuo0gU3Y/U/4CymN6MLTA4NtkFkhBIQrdf2GbIgnoYV1w8mgKTcqv/fQqw
 # Instalación
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
-![get-cursor-position-import.png](/extensions/get-cursor-position/images/get-cursor-position-import.png)
+![get-cursor-position-import.png](/assets/get-cursor-position/images/get-cursor-position-import.png)
 
 Asegúrate de añair las siguientes referencias a la sub-acción `Execute Code`:
 ```
 System.dll
 System.Drawing.dll
 ```
-![get-cursor-position-references.png](/extensions/get-cursor-position/images/get-cursor-position-references.png)
+![get-cursor-position-references.png](/assets/get-cursor-position/images/get-cursor-position-references.png)
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> WaldoAndFriends](https://www.twitch.tv/waldoandfriends)
+ - [WaldoAndFriends](https://www.twitch.tv/waldoandfriends){.twitch}
  {.contributors}

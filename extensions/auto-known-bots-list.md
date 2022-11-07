@@ -36,5 +36,5 @@ Then you can create a trigger, you can use a command or a timed action however o
 There is a setting if you want to you can save these names to a file, you will just need to make sure that the `saveNames` is set to `True` and you've entered the file path in `savePath` 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> PapaBearDoes](https://www.twitch.tv/PapaBearDoes)
+ - [PapaBearDoes](https://www.twitch.tv/PapaBearDoes){.twitch}
  {.contributors}

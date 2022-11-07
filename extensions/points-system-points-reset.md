@@ -50,5 +50,5 @@ You will also need to create the following command.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

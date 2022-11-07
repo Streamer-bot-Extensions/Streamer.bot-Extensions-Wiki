@@ -147,5 +147,5 @@ To use the widget as just an onscreen overlay for your local weather.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> Web_Mage](https://www.twitch.tv/Web_Mage)
+ - [Web_Mage](https://www.twitch.tv/Web_Mage){.twitch}
  {.contributors}

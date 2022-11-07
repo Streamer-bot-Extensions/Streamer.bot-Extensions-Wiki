@@ -40,7 +40,7 @@ The `Set Argument` Sub action in Mario-Click that value is of many coins equals 
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
- - [<i class="mdi mdi-twitch"></i> Lyfesaver74](https://www.twitch.tv/Lyfesaver74)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+ - [Lyfesaver74](https://www.twitch.tv/Lyfesaver74){.twitch}
  {.contributors}
 

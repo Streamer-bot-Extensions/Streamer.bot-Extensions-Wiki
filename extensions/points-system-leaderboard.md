@@ -64,5 +64,5 @@ Once you've got the code pen how you like it, you will need to export it. You ca
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

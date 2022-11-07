@@ -34,4 +34,4 @@ Esto te permitirá agregar un tiempo de espera a una acción que está ligada so
 ```
 
 ### FullActionGlobal (AcciónGlobalCompleta)
-Esto te permitirá agregar un Tiempo de Espera Global a una acción, sin importar cómo es que fue activada. Para agregar esto a una acción, necesitarás configurar dos `Set Arguments`, uno para `actionName` y otro para `actionCooldown`. Al final, deberá verse así. ![fullactionexample.png](/extensions/actioncooldown/images/fullactionexample.png)
+Esto te permitirá agregar un Tiempo de Espera Global a una acción, sin importar cómo es que fue activada. Para agregar esto a una acción, necesitarás configurar dos `Set Arguments`, uno para `actionName` y otro para `actionCooldown`. Al final, deberá verse así. ![fullactionexample.png](/assets/actioncooldown/images/fullactionexample.png)

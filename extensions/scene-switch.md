@@ -50,5 +50,5 @@ TlM0RR+LCAAAAAAABADlV+tT2zgQ/34z9z948rliZEl+qDP9AKGFwDQ0hBDgwgc91o6pHzk/CCnD/36y
 
 
 # Contributors
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/terrierdarts)
+- [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
 {.contributors}

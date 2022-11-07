@@ -17,7 +17,7 @@ TlM0RR+LCAAAAAAABADtXF1vY8cNfS/Q/6AYyFtYDGc4X31LX4o8NAHSIkAR5IEzw0mMeuWtLGezCPLf
 # Instalación
 ## Prerequisitos
 
-Puedes encontrar todos los archivos juntos en este [enlace](/extensions/prize-wheel/files/Roulette-by-MarkusoOoO.zip) en una carpeta comprimida y toda las guías de información están en el archivo `Readme.txt`.
+Puedes encontrar todos los archivos juntos en este [enlace](/assets/prize-wheel/files/Roulette-by-MarkusoOoO.zip) en una carpeta comprimida y toda las guías de información están en el archivo `Readme.txt`.
 
 *OBS v27.1.3+ (Si estás usando v27.2.0+ asegúrate de también actualizar el plugin Move Transition (encontrarás el link más adelante) a la versión más reciente, de lo contrario tu OBS se trabará) >>> https://obsproject.com/download
 
@@ -81,11 +81,11 @@ let index = weightedRand12({0:0.25, 1:0.0, 2:0.0, 3:0.0, 4:0.0, 5:0.0, 6:0.50, 7
 ## Agregar/Quitar número de premios/artículos
 En `script.js` empezando en la línea 9 hay un arreglo de `premios`. Solo elimina o agrega cuántos premios deseas tener en tu rueda (un ejemplo con 3 premios se incluye en la imagen debajo).
 
-![prize-wheel.png](/extensions/prize-wheel/images/prize-wheel.png)
+![prize-wheel.png](/assets/prize-wheel/images/prize-wheel.png)
 
 En `style.css` hice un pequeño cambio para hacer esto más fácil de modificar. En la línea 94 hay un selector de css para la clase `bg`. En la línea 95 deberás cambiar el valor de `transform` a >`rotate(calc(360deg/X));`, donde X es la cantidad de premios que deseas tener en tu rueda (mira la segunda captura de pantalla debajo para mi ejemplo de 3 premios).
 
-![prize-wheel.png](/extensions/prize-wheel/images/prize-wheel1.png)
+![prize-wheel.png](/assets/prize-wheel/images/prize-wheel1.png)
 
 Si deseas tener más de 12 premios en la rueda (es decir, agregar más de los que hay en la plantilla), necesitarás agregar más código, porque en `style.css` empezando a partir de la línea 75, hay clases especificadas solo para 12 premios. Así que simplemente copia el código mostrado debajo tantas veces como necesites para manipular esos fondos (o de lo contrario los fondos aparecerán en blanco). Solo cambia X por cada número de premio empezando en 13, y colocando tu valor RGB en background-color.
 ```
@@ -95,5 +95,5 @@ Si deseas tener más de 12 premios en la rueda (es decir, agregar más de los qu
 ```
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> MarkusoOoO](https://www.twitch.tv/markusoooo)
+ - [MarkusoOoO](https://www.twitch.tv/markusoooo){.twitch}
  {.contributors}

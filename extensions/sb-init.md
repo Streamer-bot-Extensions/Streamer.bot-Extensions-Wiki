@@ -29,5 +29,5 @@ The rest of the `Action` can be adapted to anything you want done right after SB
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> Krayn_](https://www.twitch.tv/Krayn_)
+ - [Krayn_](https://www.twitch.tv/Krayn_){.twitch}
  {.contributors}

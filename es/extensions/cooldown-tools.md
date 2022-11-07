@@ -69,7 +69,7 @@ TlM0RR+LCAAAAAAABACFVltzokgUft+q/Q9WntcUgsYwVfOgKAhGElEuss4D3Y3QsbksiAan5r9vN+QC
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 > Este código reembolsará automáticamente cualquier acción que se encuentre en tiempo de espera. {.is-info}
 
-Solo tendrás que agregar una subacción de establecimiento de argumento `Set Argument %rewardCooldown% to XX`, donde XX es el tiempo de espera en segundos, y después necesitarás agregar un método que apunto al código importado. Deberá verse de la siguiente manera. ![channelpointcooldown.png](/extensions/cooldowns/channelpointcooldown.png)
+Solo tendrás que agregar una subacción de establecimiento de argumento `Set Argument %rewardCooldown% to XX`, donde XX es el tiempo de espera en segundos, y después necesitarás agregar un método que apunto al código importado. Deberá verse de la siguiente manera. ![channelpointcooldown.png](/assets/cooldowns/channelpointcooldown.png)
 
 
 ---
@@ -81,7 +81,7 @@ Esto te permitirá añadir tiempos de espera para tus clicks y acciones referent
 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
 ```
 ### Instalación
-En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`. En cualquier acción en la que desees agregar un tiempo de espera para Heat necesitarás agregar las siguientes sub-acciones al inicio de la acción. Puedes encontrar más información [AQUÍ](/en/extensions/heat-map/heat-cooldown) ![heatcooldown.png](/extensions/heat-map/images/heatcooldown.png)
+En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`. En cualquier acción en la que desees agregar un tiempo de espera para Heat necesitarás agregar las siguientes sub-acciones al inicio de la acción. Puedes encontrar más información [AQUÍ](/en/assets/heat-map/heat-cooldown) ![heatcooldown.png](/assets/heat-map/images/heatcooldown.png)
 
 ---
 
@@ -99,5 +99,5 @@ Ten en cuenta que todas las acciones bajo el mismo tiempo de espera deberán coi
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

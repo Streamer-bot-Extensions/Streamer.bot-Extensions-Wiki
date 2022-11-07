@@ -63,7 +63,7 @@ Finally the `Walk on Videos and Images` `Action` should be assigned to the `Firs
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> GoWMan](https://www.twitch.tv/GoWMan)
- - [<i class="mdi mdi-twitch"></i> Web_Mage](https://www.twitch.tv/Web_Mage)
- - [<i class="mdi mdi-twitch"></i> Lyfesaver74](https://www.twitch.tv/Lyfesaver74)
+ - [GoWMan](https://www.twitch.tv/GoWMan){.twitch}
+ - [Web_Mage](https://www.twitch.tv/Web_Mage){.twitch}
+ - [Lyfesaver74](https://www.twitch.tv/Lyfesaver74){.twitch}
  {.contributors}

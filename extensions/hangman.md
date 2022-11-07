@@ -73,6 +73,6 @@ TlM0RR+LCAAAAAAABADtXVtz2sqyfj9V5z+4UrWe9lIymtF1Ve0Hgw0G28SAuZ7sB81FgJEEi5sNu/Z/
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
- - [<i class="mdi mdi-twitch"></i> LeBluxTV](https://www.twitch.tv/LeBluxTV)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+ - [LeBluxTV](https://www.twitch.tv/LeBluxTV){.twitch}
  {.contributors}

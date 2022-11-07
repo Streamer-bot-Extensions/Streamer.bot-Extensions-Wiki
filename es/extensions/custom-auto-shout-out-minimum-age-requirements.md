@@ -18,4 +18,5 @@ dateCreated: 2022-08-04T02:33:01.323Z
 > {.is-danger}
 # Colaboradores
 
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*VRFlad*](https://www.twitch.tv/VRFlad)
+-[VRFlad](https://www.twitch.tv/VRFlad){.twitch}
+{.contributor}

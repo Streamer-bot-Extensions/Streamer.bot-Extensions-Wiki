@@ -82,6 +82,6 @@ The Chat from the my actions look like this.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> Farlezz](https://www.twitch.tv/Farlezz)
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [Farlezz](https://www.twitch.tv/Farlezz){.twitch}
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

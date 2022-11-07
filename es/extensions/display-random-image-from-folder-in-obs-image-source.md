@@ -20,5 +20,5 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> iAmLarcyn](https://www.twitch.tv/iAmLarcyn)
+ - [iAmLarcyn](https://www.twitch.tv/iAmLarcyn){.twitch}
  {.contributors}

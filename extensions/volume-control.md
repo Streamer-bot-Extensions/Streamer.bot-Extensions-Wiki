@@ -31,5 +31,5 @@ Set the `Source Name` in the first `Set Argument" subaction.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> slashie101](https://www.twitch.tv/slashie101)
+ - [slashie101](https://www.twitch.tv/slashie101){.twitch}
  {.contributors}

@@ -19,14 +19,14 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 # Configuración
 
 ## Discord
-En tu servidor de Discord, ve a `Server Settings> Integrations` y haz click en `New Web Hook`. ![post-to-discord-1.png](/extensions/post-to-discord/images/post-to-discord-1.png)
+En tu servidor de Discord, ve a `Server Settings> Integrations` y haz click en `New Web Hook`. ![post-to-discord-1.png](/assets/post-to-discord/images/post-to-discord-1.png)
 
-Elige un canal en el cual publicar y darle un nombre, cualquier cosa funcionará. ![post-to-discord-1.png](/extensions/post-to-discord/images/post-to-discord-2.png)
+Elige un canal en el cual publicar y darle un nombre, cualquier cosa funcionará. ![post-to-discord-1.png](/assets/post-to-discord/images/post-to-discord-2.png)
 
 Copia la URL del Webhook, necesitarás esto para el código de C# más adelante, así que guárdalo en algún lugar por ahora.
 
 ## Streamer.bot
-Cambia la `Sub-acción` `OBS Raw (Take Screenshot)` para que coincida con tu configuración. ![post-to-discord-obs-raw.png](/extensions/post-to-discord/images/post-to-discord-obs-raw.png)
+Cambia la `Sub-acción` `OBS Raw (Take Screenshot)` para que coincida con tu configuración. ![post-to-discord-obs-raw.png](/assets/post-to-discord/images/post-to-discord-obs-raw.png)
 
 En la sub-acción `C# Execute Code` inserta el Webhook de Discord y cambia la ruta del archivo en donde lo indica.
 ```cs
@@ -35,9 +35,9 @@ string Webhook_link = "PEGA LA URL DE TU WEBHOOK AQUÍ";
     string FilePath = @"D:\OBS\Discord\screenshot.png";
  ```
 
- Asegúrate de que tengas las siguientes referencias agregadas a la sub-acción `Execute C# Code` y luego presiona `Save and Compile`. ![post-to-discord-obs-references.png](/extensions/post-to-discord/images/post-to-discord-references.png)
+ Asegúrate de que tengas las siguientes referencias agregadas a la sub-acción `Execute C# Code` y luego presiona `Save and Compile`. ![post-to-discord-obs-references.png](/assets/post-to-discord/images/post-to-discord-references.png)
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> Geocym](https://www.twitch.tv/Geocym)
+- [ Geocym](https://www.twitch.tv/Geocym)
 {.contributors}

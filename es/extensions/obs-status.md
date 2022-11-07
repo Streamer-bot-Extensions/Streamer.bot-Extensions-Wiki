@@ -52,5 +52,5 @@ Salida: 2.74
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat)
+- [ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat){.twitch}
 {.contributors}

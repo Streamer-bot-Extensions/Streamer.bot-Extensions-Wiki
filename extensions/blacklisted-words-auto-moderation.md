@@ -41,7 +41,7 @@ Trigger this `Action` from the `Message Event` `( in settings > events > general
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> LeBluxTv](https://www.twitch.tv/LeBluxTv)
+ - [LeBluxTv](https://www.twitch.tv/LeBluxTv){.twitch}
  {.contributors}
 
 

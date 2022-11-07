@@ -27,7 +27,7 @@ System.dll
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> emongev](https://www.twitch.tv/emongev)
+ - [emongev](https://www.twitch.tv/emongev){.twitch}
  {.contributors}
 
 
