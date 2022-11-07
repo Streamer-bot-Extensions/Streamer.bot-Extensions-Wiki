@@ -2,7 +2,7 @@
 title: YouTube - User Queue Systems (by TerrierDarts)
 description: Apply a Queue system to your stream so Viewers can Join or Line up their Ideas
 published: true
-date: 2022-11-07T16:26:04.666Z
+date: 2022-11-07T16:26:33.162Z
 tags: play with viewers, user queue
 editor: markdown
 dateCreated: 2022-10-23T19:38:29.922Z
@@ -82,7 +82,7 @@ The `!peak` command will allow you to see the next X amount of people in the que
 ![peak](/assets/user-queue-system/images/peak.png)
 
 # Contributors
- - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
- - [WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends){.twitch}
- - [Haunter](https://www.youtube.com/channel/UC9qO6-NFvWwhde5o2B_DMzQ){.youtube}
+- [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+- [WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends){.twitch}
+- [Haunter](https://www.youtube.com/channel/UC9qO6-NFvWwhde5o2B_DMzQ){.youtube}
 {.contributors}
