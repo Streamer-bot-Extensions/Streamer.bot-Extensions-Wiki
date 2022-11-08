@@ -89,7 +89,7 @@ Name | Description
 `!sr` | (followed by your query)  will add the result to the queue.
 `!spotifyDevice` | shouldn't be needed, but can change the device to listen.
 # Contributors
- - [<i class="mdi mdi-twitch"></i> LeBluxTv](https://www.twitch.tv/LeBluxTV)
- - [<i class="mdi mdi-twitch"></i> ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat)
- - [<i class="mdi mdi-twitch"></i> HappyPlotter](https://www.twitch.tv/HappyPlotter)
+ - [ LeBluxTv](https://www.twitch.tv/LeBluxTV)
+ - [ ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat)
+ - [ HappyPlotter](https://www.twitch.tv/HappyPlotter)
 {.contributors}

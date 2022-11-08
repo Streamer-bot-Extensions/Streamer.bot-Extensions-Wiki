@@ -21,5 +21,5 @@ TlM0RR+LCAAAAAAABADtXVtz4kiWfp+I+Q+1FdsRu9ujjszUfSL2wWCDwWWqAHPT1jzkTaBCXIabDRP9
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

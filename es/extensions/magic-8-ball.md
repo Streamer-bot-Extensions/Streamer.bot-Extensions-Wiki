@@ -16,12 +16,12 @@ TlM0RR+LCAAAAAAABADlWVtvGzcWfl9g/8PAL7sLhF7eL32zldaxnLi13fi27gOv0qxHM6pmZEcp+t/3
 # Instalación
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
-![magic-8-ball-import.png](/extensions/magic-8-ball/images/magic-8-ball-import.png)
+![magic-8-ball-import.png](/assets/magic-8-ball/images/magic-8-ball-import.png)
 
 # Configuración
-Crea un `Comando` lamado `!8ball` con la opción "Location" en `Start` y lígalo a la `Acción` 8ball. Apunta la `Acción` `Cooldown` a la `Acción` `8ball - cool down` con una configuración de `User Cooldown` de `600` segundos. ![magic-8-ball-command.png](/extensions/magic-8-ball/images/magic-8-ball-command.png)
+Crea un `Comando` lamado `!8ball` con la opción "Location" en `Start` y lígalo a la `Acción` 8ball. Apunta la `Acción` `Cooldown` a la `Acción` `8ball - cool down` con una configuración de `User Cooldown` de `600` segundos. ![magic-8-ball-command.png](/assets/magic-8-ball/images/magic-8-ball-command.png)
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA)
+ - [MrVibes_RSA](https://www.twitch.tv/MrVibes_RSA){.twitch}
  {.contributors}

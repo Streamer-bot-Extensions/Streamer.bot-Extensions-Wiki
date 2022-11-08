@@ -22,7 +22,7 @@ System.Net.Http.dll
 ```
 Después de importar el código necesitarás obtener un encabezado de autorización, y el hash de la carga del navegador desde el cual hayas iniciado sesión en tu cuenta con la que transmitas. Para ello, necesitarás ir a tu panel de control de Twitch, luego al gestor del stream y abrir las `Herramientas de Desarrollo` (usualmente con F12) y cambiar a la pestaña de `Red`. Luego presiona `Editar Información del Stream`, haz click en `Hecho`, y habrá una petición POST a `gql.twitch.tv/gql` con `operationName:   "EditBroadcastContext_LiveUpNotificationMutation"`. Necesitarás copiar esta solicitud como cURL y pegarla en cualquier editor de texto. Dentro, encontrarás todos los datos requeridos. En código, encontrarás los marcadores donde deberás colocar tus datos.
 
-![go-live.png](/extensions/go-live-notification/images/go-live.png)
+![go-live.png](/assets/go-live-notification/images/go-live.png)
 
 > Después de cada reinicio de sesión en Twitch deberás obtener estos datos de nuevo. 
 > 
@@ -37,5 +37,5 @@ Tendrás una acción `Change go live notification` que podrás usar como desees.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TheShiningOne](https://www.twitch.tv/TheShiningOne)
+ - [TheShiningOne](https://www.twitch.tv/ShiningOne){.twitch}
  {.contributors}

@@ -29,5 +29,5 @@ I should also mention this is based on a MQTT library found here: https://github
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> Krayn_](https://www.twitch.tv/Krayn_)
+- [Krayn_](https://www.twitch.tv/Krayn_){.twitch}
 {.contributors}

@@ -24,5 +24,5 @@ To Set this up Change the FetchUrl to Include your Twitter name, and it will ret
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> slashie101](https://www.twitch.tv/slashie101)
+ - [slashie101](https://www.twitch.tv/slashie101){.twitch}
  {.contributors}

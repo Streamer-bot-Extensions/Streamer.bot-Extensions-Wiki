@@ -2,7 +2,7 @@
 title: Clip Commands
 description: Few Examples of how to play with clips in Streamer.bot.
 published: true
-date: 2022-10-23T16:06:22.404Z
+date: 2022-11-06T22:33:03.837Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-25T17:02:16.506Z
@@ -95,5 +95,5 @@ public class CPHInline
 ```
 
 # Contributors
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/terrierdarts)
-- {.is-contributor}
+- [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
+{.contributors}

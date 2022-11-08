@@ -2,7 +2,7 @@
 title: Display Random Image from Folder in OBS Image Source (by iAmLarcyn)
 description: Display a Random Image from Folder in OBS Image Source with Streamer.bot.
 published: true
-date: 2022-09-04T20:52:26.123Z
+date: 2022-11-07T16:22:24.293Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T00:13:02.828Z
@@ -20,9 +20,9 @@ Copy the `Import Code` and paste it into the `Import String`.
 In OBS, create an image source and name it.
 Change the arguments to the folder path containing images (only images), and the name of the obs source.
 From there, you can adjust how you show/hide the source however you would like.
-> If it doesn't work, you may have to manually bring in the System.IO and System.Drawing references in the Execute code step {.is-warning}
+> If it doesn't work, you may have to manually bring in the `System.IO` and `System.Drawing` references in the Execute code step {.is-warning}
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> iAmLarcyn](https://www.twitch.tv/iAmLarcyn)
+ - [iAmLarcyn](https://www.twitch.tv/iAmLarcyn){.twitch}
  {.contributors}

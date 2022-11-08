@@ -23,25 +23,25 @@ Esta configuración te permitirá una forma fácil de tener un temporizador auto
 
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
-![commercial_timer.png](/extensions/commercial-timer/images/commercial_timer.png)
+![commercial_timer.png](/assets/commercial-timer/images/commercial_timer.png)
 
 # Configuración
 
 Crea una `Acción Temporizada` llamada***Auto Run Commercial*** y configúrala para tener un ***Intervalo de 3600 segundos***, ***Enabled en "No"***, ***0 líneas*** y lígala a la `Acción` llamada ***Run Commercial***.
 
-![commercial_timer2.png](/extensions/commercial-timer/images/commercial_timer2.png)
+![commercial_timer2.png](/assets/commercial-timer/images/commercial_timer2.png)
 
 Crea un evento de OBS para `StreamStarted`, lígala a la `Acción` **Stream Started** y asegúrate de que esté **habilitada**. Crea un evento de OB S para `StreamStopped`, lígala a la `Acción` **Stream Ending** y asegúrate de que esté **habilitada**.
 
-![commercial_timer3.png](/extensions/commercial-timer/images/commercial_timer3.png)
+![commercial_timer3.png](/assets/commercial-timer/images/commercial_timer3.png)
 
 Asegúrate de cambiar la subacción `OBS Set Active Scene` en la `Acción` **Run Commercial**** a tu ***Escena de "En Espera"*** y tu ***"Escena de "En Vivo"*** para *cambiarr en automático* de escenas en el comercial.
 
-![commercial_timer4.png](/extensions/commercial-timer/images/commercial_timer4.png)
+![commercial_timer4.png](/assets/commercial-timer/images/commercial_timer4.png)
 
 Asegúrate de que la sub-acción Temporizada tanto en la `Acción` ***Stream Started*** como en la `Acción` ***Stream Ending*** apuntan a la `Acción Temporizada` ***Auto Run Commercial***.
 
-![commercial_timer6.png](/extensions/commercial-timer/images/commercial_timer6.png) ![commercial_timer5.png](/extensions/commercial-timer/images/commercial_timer5.png)
+![commercial_timer6.png](/assets/commercial-timer/images/commercial_timer6.png) ![commercial_timer5.png](/assets/commercial-timer/images/commercial_timer5.png)
 
 ***
 
@@ -55,7 +55,7 @@ Con esto finalizado, cada vez que pulses "Empezar a Transmitir" el temporizador 
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> GowMan](https://www.twitch.tv/GowMan)
+ - [GowMan](https://www.twitch.tv/GowMan){.twitch}
  {.contributors}
 
 

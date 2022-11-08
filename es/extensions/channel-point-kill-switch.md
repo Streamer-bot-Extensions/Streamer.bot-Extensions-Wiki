@@ -17,7 +17,7 @@ TlM0RR+LCAAAAAAABADVWsuO28YS3QfIPxACgmzcN/1+3J3hPOBNHDiBESDwovo1I1yJnEuRGRuG/z3V
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
 
-![channel-point-kill-switch-import.png](/extensions/channel-point-kill-switch/images/channel-point-kill-switch-import.png)
+![channel-point-kill-switch-import.png](/assets/channel-point-kill-switch/images/channel-point-kill-switch-import.png)
 
 # Configuración
 ```text
@@ -45,5 +45,5 @@ Action - Visual Redeem Off
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> iAmLarcyn](https://www.twitch.tv/iAmLarcyn)
+ - [iAmLarcyn](https://www.twitch.tv/iAmLarcyn){.twitch}
  {.contributors}

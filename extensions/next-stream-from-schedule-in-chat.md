@@ -28,5 +28,5 @@ DLL's To Reference :
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> LeBluxTV](https://www.twitch.tv/LeBluxTV)
+- [LeBluxTV](https://www.twitch.tv/LeBluxTV){.twitch}
 {.contributors}

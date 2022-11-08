@@ -20,5 +20,5 @@ Se incluyen cuatro acciones. Querrás definir un comando y apuntarlo a la acció
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> TheIcemanCometh](https://www.twitch.tv/TheIcemanCometh)
+ - [TheIcemanCometh](https://www.twitch.tv/TheIcemanCometh){.twitch}
  {.contributors}

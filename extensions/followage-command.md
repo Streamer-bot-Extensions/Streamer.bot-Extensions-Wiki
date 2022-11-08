@@ -59,6 +59,6 @@ Like the previous examples, this just needs a `!followage` command tied to the a
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/terrierdarts)
-- [<i class="mdi mdi-twitch"></i> Farlezz](https://www.twitch.tv/Farlezz) 
+- [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
+- [Farlezz](https://www.twitch.tv/Farlezz){.twitch}
 {.contributors}

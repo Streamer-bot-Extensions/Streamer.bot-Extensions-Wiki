@@ -33,5 +33,5 @@ And into `Trapcard laid down` put into bottom subaction `Trapcard Activated` act
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> MarkusoOoO](https://www.twitch.tv/markusoooo)
+ - [MarkusoOoO](https://www.twitch.tv/markusoooo){.twitch}
  {.contributors}

@@ -25,5 +25,5 @@ public class CPHInline
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> Der_Gardine](https://www.twitch.tv/Der_Gardine)
+ - [Der_Gardine](https://www.twitch.tv/Der_Gardine){.twitch}
  {.contributors}

@@ -2,7 +2,7 @@
 title: Go Live Notification (by TheShiningOne)
 description: Change your going live notification without needing to go into the dashboard
 published: true
-date: 2022-10-23T16:06:49.790Z
+date: 2022-11-07T16:29:13.769Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-03T13:08:33.972Z
@@ -25,7 +25,7 @@ System.Net.Http.dll
 After importing code you will need to get authorization header, and hash from payload from your browser where you logged-in in your broadcast account.
 For that you need to go to you Twitch dashboard in stream manager and open ```developer tools``` in the browser (usually F12) and swhitch to ```Network``` tab. Then press ```Edit stream info```, click ```Done```, and there will be POST request to ```gql.twitch.tv/gql``` with ```operationName:	"EditBroadcastContext_LiveUpNotificationMutation"```. You need to copy this request as cURL and pate it in any text editor. Inside you will find all required data. In code you will find placeholders for your data.
 
-![go-live.png](/extensions/go-live-notification/images/go-live.png)
+![go-live.png](/assets/go-live-notification/images/go-live.png)
 
 > After each relogin on Twitch site you wiil have to get this data again.
 {.is-warning}
@@ -38,5 +38,5 @@ You will have ```Change go live notification``` action which you can use how you
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TheShiningOne](https://www.twitch.tv/ShiningOne)
+ - [TheShiningOne](https://www.twitch.tv/ShiningOne){.twitch}
  {.contributors}

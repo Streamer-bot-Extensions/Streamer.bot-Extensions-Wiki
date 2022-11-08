@@ -21,5 +21,5 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> p0mz0r](https://www.twitch.tv/p0mz0r)
+- [p0mz0r](https://www.twitch.tv/p0mz0r){.twitch}
 {.contributors}

@@ -33,11 +33,11 @@ A
 string path = @"<Ruta de Tu Archivo Aquí>" + date + "_markers.txt";
 ```
 
-Crea un `Comando` llamado `!marcador` y establécelo para estar en el inicio del comando con la opción location en `Start`. Posteriormente lígalo a la `Acción` `Marker Command`. ![advanced-stream-markers-command.png](/extensions/advanced-stream-markers/images/advanced-stream-markers-command.png)
+Crea un `Comando` llamado `!marcador` y establécelo para estar en el inicio del comando con la opción location en `Start`. Posteriormente lígalo a la `Acción` `Marker Command`. ![advanced-stream-markers-command.png](/assets/advanced-stream-markers/images/advanced-stream-markers-command.png)
 > Hay una `Acción` llamada `Show Navi` que es usada para desplegar una animación cada que el comando es ejecutado. 
 > 
 > {.is-info}
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> NotZelda](https://www.twitch.tv/NotZelda)
+ - [NotZelda](https://www.twitch.tv/NotZelda){.twitch}
  {.contributors}

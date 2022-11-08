@@ -31,5 +31,5 @@ Change the `Set Argument` `Value` for `%randomVideoSource%` to the name of the `
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> VRFlad](https://www.twitch.tv/VRFlad)
+- [VRFlad](https://www.twitch.tv/VRFlad){.twitch}
 {.contributors}

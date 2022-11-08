@@ -47,5 +47,5 @@ Usa la acción HoldKey_redeem para ello, ya que mnejará la entrada correctament
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat)
+- [ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat){.twitch}
  {.contributors}

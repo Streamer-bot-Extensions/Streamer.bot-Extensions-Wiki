@@ -44,5 +44,5 @@ string Webhook_link = "PASTE YOUR WEBHOOK URL HERE";
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> Geocym](https://www.twitch.tv/Geocym)
+- [Geocym](https://www.twitch.tv/Geocym){.twitch}
 {.contributors}

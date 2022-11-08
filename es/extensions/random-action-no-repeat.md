@@ -18,10 +18,10 @@ TlM0RR+LCAAAAAAABADlWFlv4zgSfl9g/4OR12kGpG4NsA8+4jNx4vtY9wMvyYp1jeRLGfR/X0qK05bs
 # Instalación
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
-Una vez que hayas importado el código, notarás que tienes 6 nuevas acciones, lo primero que querrás hacer será renombrar tu cola de acciones. Puedes hacer esto editando la sub-acción `Set Argument` en la Acción `exampleQueue-Main`. También establece cuántas acciones estarán en esta cola de acciones. ![ranr-subactions.png](/extensions/random-actions-no-repeat/images/ranr-subactions.png)
+Una vez que hayas importado el código, notarás que tienes 6 nuevas acciones, lo primero que querrás hacer será renombrar tu cola de acciones. Puedes hacer esto editando la sub-acción `Set Argument` en la Acción `exampleQueue-Main`. También establece cuántas acciones estarán en esta cola de acciones. ![ranr-subactions.png](/assets/random-actions-no-repeat/images/ranr-subactions.png)
 > Recomiendo mucho usar camelCase cuando nombres tu cola de acciones {.is-warning}
 
-Una vez que te decidas por un nombre, puedes renombrar la Acción, y después necesitarás crear las accionesAleatorias que activarás con el nombreCola, además de un número que llegue hasta tantas acciones como tengas. En mi ejemplo mi cola se llamó `exampleQueue` y tengo `5` Acciones. Así que mi esquema de nombramientos fue así. ![ranr-actions.png](/extensions/random-actions-no-repeat/images/ranr-actions.png)
+Una vez que te decidas por un nombre, puedes renombrar la Acción, y después necesitarás crear las accionesAleatorias que activarás con el nombreCola, además de un número que llegue hasta tantas acciones como tengas. En mi ejemplo mi cola se llamó `exampleQueue` y tengo `5` Acciones. Así que mi esquema de nombramientos fue así. ![ranr-actions.png](/assets/random-actions-no-repeat/images/ranr-actions.png)
 
 Ahora solo tendrás que elegir cómo se activa esta cola, pero si ibas a configurar esto como un comando de chat tendrás que ligarlo a la Sub-Acción Principal para que haga el resto del trabajo.
 
@@ -31,5 +31,5 @@ Ahora solo tendrás que elegir cómo se activa esta cola, pero si ibas a configu
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

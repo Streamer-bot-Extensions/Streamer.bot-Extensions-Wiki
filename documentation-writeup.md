@@ -40,7 +40,7 @@ As you method of how to get the import code.
 # Contributors
 > This is where you can credit yourself and anyone you feel deserves a credit
  ```
- - [<i class="mdi mdi-twitch"></i> UserName1](https://www.twitch.tv/Username1)
- - [<i class="mdi mdi-twitch"></i> UserName2](https://www.twitch.tv/Username2)
+ - [UserName1](https://www.twitch.tv/Username1){.twitch}
+ - [UserName2](https://www.youtube.com/Username2){.youtube}
  {.contributors}
  ```

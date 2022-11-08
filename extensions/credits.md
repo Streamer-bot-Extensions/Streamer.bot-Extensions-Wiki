@@ -19,6 +19,6 @@ This is a list of all the different credit styles that can be used with Streamer
 {.btn-grid .my-5}
 
 # Contributors
- - [<i class="mdi mdi-twitch"></i> Nate1280](https://www.twitch.tv/Nate1280)
- - [<i class="mdi mdi-twitch"></i> Lyfesaver74](https://www.twitch.tv/Lyfesaver74)
+ - [Nate1280](https://www.twitch.tv/Nate1280){.twitch}
+ - [Lyfesaver74](https://www.twitch.tv/Lyfesaver74){.twitch}
  {.contributors}

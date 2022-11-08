@@ -114,8 +114,8 @@ If you find that you've followed all the steps and it still doesn't work here ar
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
-- [<i class="mdi mdi-twitch"></i> Nate1280](https://www.twitch.tv/Nate1280)
+- [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+- [Nate1280](https://www.twitch.tv/Nate1280){.twitch}
 {.contributors}
 
 

@@ -58,5 +58,5 @@ You can use `!slotemote` followed by `add` or `remove`and the emote name to Add 
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

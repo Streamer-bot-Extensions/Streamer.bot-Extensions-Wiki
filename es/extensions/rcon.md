@@ -30,5 +30,5 @@ Lo que está por venir: Estoy tratando actualizar esto para no tener que usar un
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> ItsTheBOFH](https://www.twitch.tv/ItsTheBOFH)
+ - [ItsTheBOFH](https://www.twitch.tv/ItsTheBOFH){.twitch}
  {.contributors}

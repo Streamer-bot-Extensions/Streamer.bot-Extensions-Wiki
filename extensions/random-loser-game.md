@@ -20,5 +20,5 @@ There are four actions included. You will want to define a Command and point it 
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TheIcemanCometh](https://www.twitch.tv/TheIcemanCometh)
+ - [TheIcemanCometh](https://www.twitch.tv/TheIcemanCometh){.twitch}
  {.contributors}

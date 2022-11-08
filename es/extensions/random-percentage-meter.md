@@ -20,5 +20,5 @@ TlM0RR+LCAAAAAAABADVlT1v2zAQhvcC/Q+qAW9hIVL8kLoFHYIsQdGmU9HhSB4TIbLkUlIcI8h/LyXZ
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> GinjaFlame](https://www.twitch.tv/GinjaFlame)
+ - [GinjaFlame](https://www.twitch.tv/GinjaFlame){.twitch}
  {.contributors}

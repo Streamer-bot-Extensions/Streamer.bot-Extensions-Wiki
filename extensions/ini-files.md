@@ -64,5 +64,5 @@ This also works for words and/or symbols, it isn't limited to just numbers. Howe
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> robophill](https://www.twitch.tv/robophill)
+ - [robophill](https://www.twitch.tv/robophill){.twitch}
  {.contributors}

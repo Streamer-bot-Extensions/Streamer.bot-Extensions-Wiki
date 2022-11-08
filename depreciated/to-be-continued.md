@@ -17,5 +17,5 @@ TlM0RR+LCAAAAAAABADVWUtv20YQvgfIfyAM5OYp9v3orXHboJcWqINc6h72MWsLkSmHouykQf57h6Rl
 ```
 
 # Contributors
-- [<i class="mdi mdi-twitch"></i> passbo](https://www.twitch.tv/passb0)
+- [ passbo](https://www.twitch.tv/passb0)
 {.contributors}

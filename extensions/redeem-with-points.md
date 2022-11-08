@@ -29,5 +29,5 @@ if `rawInput` is equal to `Example2` then do `Example2Action` and 'Break'
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

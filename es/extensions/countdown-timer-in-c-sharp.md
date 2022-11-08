@@ -38,5 +38,6 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> rondhi](https://www.twitch.tv/rondhi)
+ - [rondhi](https://www.twitch.tv/rondhi){.twitch}
+ - {.contributors}
 

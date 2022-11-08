@@ -2,7 +2,7 @@
 title: Temperature, Distance, and Volume Converter (by rondhi)
 description: Convert temperature, distance, or volume with a chat command
 published: true
-date: 2022-08-31T00:36:00.027Z
+date: 2022-11-07T16:39:46.788Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T03:36:30.396Z
@@ -26,5 +26,6 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> rondhi](https://www.twitch.tv/rondhi)
+ - [rondhi](https://www.twitch.tv/rondhi){.twitch}
+{.contributors}
 

@@ -16,17 +16,17 @@ TlM0RR+LCAAAAAAABADNVLFu2zAQ3Qv0H1QB2cyAlChZ7JYURYYCLVAXWYoMR/IUC5UlV6ScBIH/vaRk
 ## Instalación
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
-![bitrate-command-import.png](/extensions/bitrate-command/images/bitrate-command-import.png)
+![bitrate-command-import.png](/assets/bitrate-command/images/bitrate-command-import.png)
 
 ## Configuración
-Asigna la `Acción` `OBS Event - StreamStatus` al `Evento` `StreamStatus` en la pestaña de `OBS`. ![bitrate-command-obs-event.png](/extensions/bitrate-command/images/bitrate-command-obs-event.png)
+Asigna la `Acción` `OBS Event - StreamStatus` al `Evento` `StreamStatus` en la pestaña de `OBS`. ![bitrate-command-obs-event.png](/assets/bitrate-command/images/bitrate-command-obs-event.png)
 
-Luega crea un `Comando` llamado `!bitrate` establecido con la opción Location en `Exact` y asígnale la Acción `!bitrate`. ![bitrate-command-command.png](/extensions/bitrate-command/images/bitrate-command-command.png)
+Luega crea un `Comando` llamado `!bitrate` establecido con la opción Location en `Exact` y asígnale la Acción `!bitrate`. ![bitrate-command-command.png](/assets/bitrate-command/images/bitrate-command-command.png)
 > El chat ahora podrá usar el comando `!bitrate` para desplegar la tasa de bits actual. 
 > 
 > {.is-info}
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends)
+ - [WaldoAndFriends](https://www.twitch.tv/WaldoAndFriends){.twitch}
  {.contributors}

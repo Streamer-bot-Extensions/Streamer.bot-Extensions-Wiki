@@ -39,7 +39,7 @@ La Acción `Set-Up Variables` requiere estar enlazada al evento `Created` en la 
 > 
 > {.is-info}
 
-Si lo configuraste correctamente, deberá verse como la imagen siguiente ![predictcommand.png](/extensions/predictions/images/predictcommand.png)
+Si lo configuraste correctamente, deberá verse como la imagen siguiente ![predictcommand.png](/assets/predictions/images/predictcommand.png)
 
 ## Ejemplo
 Cuando todo esté configurado deberá funcionar de la siguiente manera
@@ -72,21 +72,21 @@ Necesitarás oteber este código de codepen https://codepen.io/terrierdarts/pen/
 Después de que hayas obtenido el código de codepen en OBS necesitarás ir a la acción `ResolvePrediction` y asegurarte que las Subacciones de OBS apuntan hacia la fuente que acabas de agregar.
 > Como vamos a necesitar agregar información es importante que NO selecciones la casilla de "Archivo Local". {.is-danger}
 
-Después necesitarás crear una Recompensa de Puntos de canal con la Acción `TriggerPrediction`. ![coinflipcpr.png](/extensions/predictions/images/coinflipcpr.png)
+Después necesitarás crear una Recompensa de Puntos de canal con la Acción `TriggerPrediction`. ![coinflipcpr.png](/assets/predictions/images/coinflipcpr.png)
 
 La acción `Save Variables` necesita estar ligada al Evento `Created` de la pestaña de Predicciones.
 > Puedes encontrar la Pestaña de Predicciones en, Platforms :arrow_right: Twitch :arrow_right: Predictions 
 > 
 > {.is-info}
 
-Si lo configuraste correctamente, deberá verse como la imagen siguiente ![predictcommand.png](/extensions/predictions/images/predictcommand.png)
+Si lo configuraste correctamente, deberá verse como la imagen siguiente ![predictcommand.png](/assets/predictions/images/predictcommand.png)
 
 ## Ejemplo
-![coinflipexample.png](/extensions/predictions/images/coinflipexample.png)
+![coinflipexample.png](/assets/predictions/images/coinflipexample.png)
 
 *El Pen original proviene de html5andblog https://codepen.io/html5andblog/pen/pJZpee*
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

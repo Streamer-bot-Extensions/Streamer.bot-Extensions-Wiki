@@ -18,14 +18,14 @@ TlM0RR+LCAAAAAAABADtWtty4kgSfd+I/QfCEfO0rZ7SXTUR82CwwcJt2hgjgZZ5qJuEjLgMAgyemH/f
 # Instalación
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
-![INI_File_Import.png](/extensions/ini-files/images/INI_File_Import.png)
+![INI_File_Import.png](/assets/ini-files/images/INI_File_Import.png)
 > (Advertencia: Esto fue hecho usando Streamer.bot v0.1.4, pero debe funcionar con versiones actualizadas) 
 > 
 > {.is-warning}
 
-Las acciones INI - Get Action ![INI_File_Get_Action.png](/extensions/ini-files/images/INI_File_Get_Action.png)
+Las acciones INI - Get Action ![INI_File_Get_Action.png](/assets/ini-files/images/INI_File_Get_Action.png)
 
-e INI - Set Action ![INI_File_Set_Action.png](/extensions/ini-files/images/INI_File_Set_Action.png)
+e INI - Set Action ![INI_File_Set_Action.png](/assets/ini-files/images/INI_File_Set_Action.png)
 
 Son ambas acciones de ejemplo a manera de demostración y te permitirán experimentar con la forma en que INIFile - Get Data, e INIFile - Set Data son usadas.
 
@@ -41,7 +41,7 @@ Hay cuatro variables globales que son usadas para los siguientes propósitos:
 
 Un ejemplo de como un archivo ini está estructurado es:
 
-![INI_File_Structure.png](/extensions/ini-files/images/INI_File_Structure.png)
+![INI_File_Structure.png](/assets/ini-files/images/INI_File_Structure.png)
 
 Suponiendo que tenemos una Sección llamada "Robophill", una Clave llamada "Points", y el Contenido es "123". Si quisiéramos obtener esta información, estableceríamos las variables globales como:
 
@@ -59,5 +59,5 @@ Esto también funciona para palabras y/o símbolos, no está limitado solo a nú
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> robophill](https://www.twitch.tv/robophill)
+ - [robophill](https://www.twitch.tv/robophill){.twitch}
  {.contributors}

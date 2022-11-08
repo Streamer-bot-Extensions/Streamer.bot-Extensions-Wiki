@@ -77,6 +77,6 @@ Then you will need to extract the files to somewhere safe. Inside the folder you
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
- - [<i class="mdi mdi-twitch"></i> Farlezz](https://www.twitch.tv/Farlezz)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+ - [Farlezz](https://www.twitch.tv/Farlezz){.twitch}
  {.contributors}
