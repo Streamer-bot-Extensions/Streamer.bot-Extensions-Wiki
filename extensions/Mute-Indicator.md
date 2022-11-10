@@ -2,7 +2,7 @@
 title: Mute Indicator
 description: A visual indicator on what audio sources are muted!
 published: false
-date: 2022-11-10T08:49:09.488Z
+date: 2022-11-10T08:57:05.894Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-10T08:45:40.687Z
@@ -31,7 +31,7 @@ dateCreated: 2022-11-10T08:45:40.687Z
 
 # Widgets
 ### Ik1497
-> Inset GIF here
+![overview.gif](https://ik1497.github.io/Extensions/Mute-Indicator/overview.gif =500x)
 
 # Contributors
 - [Ik1497](https://github.com/ik1497){.github}
