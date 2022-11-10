@@ -2,7 +2,7 @@
 title: Mute Indicator
 description: A visual indicator on what audio sources are muted!
 published: false
-date: 2022-11-10T08:45:40.687Z
+date: 2022-11-10T08:49:09.488Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-10T08:45:40.687Z
@@ -18,7 +18,8 @@ dateCreated: 2022-11-10T08:45:40.687Z
 # Configuration
 ## Streamer.bot
 1. Make sure you've imported the import code [above](#installation).
-2. Link the `Mute Indicator - Mute event` action to the `InputMuteStateChanged` event in `Stream Apps` `-->` `OBS`
+2. Link the `Mute Indicator - Mute event` action to the `InputMuteStateChanged` event in `Stream Apps` `-->` `OBS`.
+3. Make sure that the `Server/Clients` `-->` `Websocket Server` is enabled.
 
 ## OBS Studio
 1. Choose what widget you want to use.
