@@ -2,11 +2,13 @@
 title: Mute Indicator
 description: A visual indicator on what audio sources are muted!
 published: false
-date: 2022-11-10T08:57:05.894Z
+date: 2022-11-10T09:23:04.449Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-10T08:45:40.687Z
 ---
+
+*OBS WS v4.9*{.obs-version-badge} *OBS WS v5.x*{.obs-version-badge}
 
 # Import Code
 - [<i class="mdi mdi-file-download"></i> **Import Code *Click to Download***](https://ik1497.github.io/Extensions/Mute-Indicator/import.sb)
