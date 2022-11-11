@@ -2,8 +2,8 @@
 title: Visual Extensions
 description: Extensions that add a visual element controlled by Streamer.bot
 published: true
-date: 2022-11-11T12:58:32.313Z
-tags: overlay, overlays
+date: 2022-11-11T17:41:16.964Z
+tags: 
 editor: markdown
 dateCreated: 2022-10-24T13:06:24.598Z
 ---
@@ -20,7 +20,6 @@ These Extensions create a visual effect that is controlled by Streamer.bot
 - [Hydrate](/extensions/hydrate-redeem)
 - [Magazine and Postcards](/extensions/pics-to-magazine-postcard-newspaper)
 - [Movie Poster](/extensions/movie-poster)
-- [Mute Indicator](/extensions/Mute-Indicator){.disabled}
 - [Play Random Video](/extensions/play-random-video-from-folder)
 - [Show Random Image](/extensions/display-random-image-from-folder-in-obs-image-source)
 - [Vote Box](/extensions/vote-box)
