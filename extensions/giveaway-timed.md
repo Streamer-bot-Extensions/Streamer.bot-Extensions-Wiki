@@ -21,7 +21,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 ![giveaways-import.png](/assets/giveaways/images/giveaways-import.png)
 
 + You should now have 9 actions and 10 commands.
-+ Example: ![alt text](/assets/giveaways/images/2.png "image title")
++ Example: ![alt text](/assets/giveaways/images/List-of-imported-Commands.png "image title")
 
 + Setup is as easy as typing !setup in to your Twitch Chat.
 
