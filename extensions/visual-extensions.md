@@ -2,7 +2,7 @@
 title: Visual Extensions
 description: Extensions that add a visual element controlled by Streamer.bot
 published: true
-date: 2022-11-11T17:41:16.964Z
+date: 2022-11-20T07:07:44.517Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T13:06:24.598Z
@@ -16,7 +16,7 @@ These Extensions create a visual effect that is controlled by Streamer.bot
 - [Chinese Proverbs](/extensions/chinese-proverbs)
 - [Fake News](/extensions/fake-news-overlay)
 - [Fireworks](/extensions/fireworks)
-- [Giphy](/extensions/giphy){.disabled}
+- [GIPHY](/extensions/giphy){.disabled}
 - [Hydrate](/extensions/hydrate-redeem)
 - [Magazine and Postcards](/extensions/pics-to-magazine-postcard-newspaper)
 - [Movie Poster](/extensions/movie-poster)
@@ -24,3 +24,4 @@ These Extensions create a visual effect that is controlled by Streamer.bot
 - [Show Random Image](/extensions/display-random-image-from-folder-in-obs-image-source)
 - [Vote Box](/extensions/vote-box)
   {.links-list}
+  
