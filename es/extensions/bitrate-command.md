@@ -2,7 +2,7 @@
 title: Comando de tasa de bits (por WaldoAndFriends)
 description: Guarda la tasa de bits actual cuando el Evento StreamStatus es emitido por el websocket de OBS, asignándo una acción al Evento.
 published: true
-date: 2022-11-07T15:23:00.096Z
+date: 2022-11-20T07:25:58.817Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:30.281Z

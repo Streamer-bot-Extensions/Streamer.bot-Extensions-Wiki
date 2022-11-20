@@ -2,7 +2,7 @@
 title: Siguiente Stream en el Calendario en el Chat (por LeBluxTV)
 description: Desplegará la siguiente transmisión programada en el chat
 published: true
-date: 2022-11-07T15:24:24.531Z
+date: 2022-11-20T07:27:31.338Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:56:25.458Z

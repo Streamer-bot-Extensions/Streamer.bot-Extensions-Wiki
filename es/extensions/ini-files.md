@@ -2,7 +2,7 @@
 title: Archivos .ini (por Robophil)
 description: Lee y escribe en archivos .ini en Streamer.bot.
 published: true
-date: 2022-11-07T15:24:02.895Z
+date: 2022-11-20T07:27:09.334Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:56:05.558Z

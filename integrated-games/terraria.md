@@ -2,7 +2,7 @@
 title: TerraSocket
 description: A WebSocket mod for Terraria
 published: true
-date: 2022-08-31T00:37:02.449Z
+date: 2022-11-20T07:24:36.770Z
 tags: mod, websocket, integration, terraria, confuzzedcat
 editor: markdown
 dateCreated: 2022-05-25T12:23:50.048Z

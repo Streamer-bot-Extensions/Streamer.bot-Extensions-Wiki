@@ -1,11 +1,11 @@
 ---
-title: Casino Style Roulette 
+title: Casino Style Roulette
 description: Place bets and Spin the Wheel for big rewards!
-published: false
-date: 2022-10-05T17:15:00.406Z
+published: true
+date: 2022-11-20T07:21:31.179Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-05T17:15:00.405Z
+dateCreated: 2022-11-20T07:21:28.402Z
 ---
 
 # Header

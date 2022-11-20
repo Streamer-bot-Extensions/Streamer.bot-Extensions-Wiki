@@ -2,7 +2,7 @@
 title: Custom/Automated Shoutout w/1 month requirement on account age (by VRFlad)
 description: Create custom and automated shoutouts with a minimum account age requirement in Streamer.bot.
 published: true
-date: 2022-11-07T16:21:40.690Z
+date: 2022-11-20T07:18:24.456Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-17T00:41:22.246Z

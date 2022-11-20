@@ -2,7 +2,7 @@
 title: Visual Extensions
 description: Extensions that add a visual element controlled by Streamer.bot
 published: true
-date: 2022-11-20T07:07:49.014Z
+date: 2022-11-20T07:23:36.504Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T13:06:24.598Z

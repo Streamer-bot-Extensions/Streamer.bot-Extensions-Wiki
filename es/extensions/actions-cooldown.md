@@ -2,7 +2,7 @@
 title: Tiempo de Espera de Acciones
 description: Aplicar tiempo de espera acciones si son activadas por múltiples fuentes
 published: true
-date: 2022-11-07T15:22:41.237Z
+date: 2022-11-20T07:25:39.613Z
 tags: acciones, tiempo de espera
 editor: markdown
 dateCreated: 2022-08-04T02:32:53.231Z

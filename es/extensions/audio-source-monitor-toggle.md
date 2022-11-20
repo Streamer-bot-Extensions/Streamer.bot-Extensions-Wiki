@@ -2,7 +2,7 @@
 title: Alternado de monitor de fuente de audio (por Zerelito)
 description: Intercambia fácilmente entre fuentes de audio de la transmisión (spotify, listas de reproducción, etc...) con un solo click.
 published: true
-date: 2022-11-07T15:22:54.653Z
+date: 2022-11-20T07:25:53.242Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:22.114Z

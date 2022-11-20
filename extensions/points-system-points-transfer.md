@@ -2,7 +2,7 @@
 title: Point Transfer (by GoWMan)
 description: This extension will allow you to import points from StreamElements or StreamLabs Chatbot.
 published: true
-date: 2022-11-07T15:27:38.256Z
+date: 2022-11-20T07:21:25.500Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:36:55.636Z

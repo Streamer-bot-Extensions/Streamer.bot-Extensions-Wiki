@@ -2,7 +2,7 @@
 title: Increase Points For Followers (by MarkusoOoO)
 description: Give users points for following.
 published: true
-date: 2022-11-07T15:27:18.137Z
+date: 2022-11-20T07:21:02.100Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-28T15:47:03.926Z

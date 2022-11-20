@@ -2,7 +2,7 @@
 title: Spotify To Streamerbot (By LeBluxTV)
 description: Use SB to control and interact with Streamerbot!
 published: true
-date: 2022-11-11T17:41:28.576Z
+date: 2022-11-20T07:22:31.420Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:37:26.389Z

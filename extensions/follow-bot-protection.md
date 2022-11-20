@@ -2,7 +2,7 @@
 title: Follow Bot Protection (by Caruha)
 description: Checks if a follow is any of the hoss or other follow bots and wont continue sub action if it is.
 published: true
-date: 2022-11-07T15:26:04.455Z
+date: 2022-11-20T07:19:03.247Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-25T02:50:52.438Z

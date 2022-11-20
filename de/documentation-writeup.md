@@ -2,7 +2,7 @@
 title: Seitenvorlage
 description: Dies ist eine Vorlage dafür, wie eine Seite geschrieben werden sollte!
 published: true
-date: 2022-11-07T15:22:30.621Z
+date: 2022-11-20T07:16:21.331Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-29T00:56:49.156Z

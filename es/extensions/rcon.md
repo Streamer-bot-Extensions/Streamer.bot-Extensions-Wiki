@@ -2,7 +2,7 @@
 title: RCON (por ItsTheBOFH)
 description: Esta es una extensión para Streamer.bot que te permite usar el cliente RCON para conectarte a Servidores de Juegos por medio de protocolos RCON para ejecutar comandos.
 published: true
-date: 2022-11-07T15:24:57.177Z
+date: 2022-11-20T07:28:07.829Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-25T02:42:41.610Z

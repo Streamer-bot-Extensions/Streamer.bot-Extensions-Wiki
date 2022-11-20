@@ -2,7 +2,7 @@
 title: Barrel Roll (por IRLCreate)
 description: Te da una recompensa de puntos de canal para realizar un barrel roll
 published: true
-date: 2022-08-31T00:41:47.508Z
+date: 2022-11-20T07:28:18.889Z
 tags: barrel roll, divertido, punto de canal
 editor: markdown
 dateCreated: 2022-08-04T02:33:33.528Z

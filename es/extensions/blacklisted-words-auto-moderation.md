@@ -2,7 +2,7 @@
 title: Automoderación de palabras en lista negra (por LeBluxTV)
 description: Agrega palabras a una lista negra, de manera que si alguien escribe una de estas palabras en el chat, el mensaje será eliminado (o se le da un tiempo fuera al usuario).
 published: true
-date: 2022-11-07T15:23:02.914Z
+date: 2022-11-20T07:26:01.708Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:35.617Z

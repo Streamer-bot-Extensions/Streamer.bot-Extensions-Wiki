@@ -2,7 +2,7 @@
 title: Shoutout Personalizado/Automatizado con un requerimiento de 1 mes en la antigüedad de la cuenta (por VRFlad)
 description: Crea shoutouts personalizados y automatizados con un requisito de mínimo de antigüedad de cuenta en Streamer.bot.
 published: true
-date: 2022-11-07T15:23:27.398Z
+date: 2022-11-20T07:26:27.067Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T02:33:01.323Z

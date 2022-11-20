@@ -2,7 +2,7 @@
 title: Comandos Básicos de Canal (por VRFlad)
 description: Aprende como realizar comandos básicos de canal en Streamer.bot.
 published: true
-date: 2022-08-31T00:41:50.488Z
+date: 2022-11-20T07:28:21.671Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T02:33:37.735Z

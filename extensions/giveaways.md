@@ -2,7 +2,7 @@
 title: Giveaways
 description: Run Giveaways with either of the following Examples
 published: true
-date: 2022-10-24T12:28:41.586Z
+date: 2022-11-20T07:19:19.914Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T21:58:57.340Z

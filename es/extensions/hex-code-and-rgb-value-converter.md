@@ -2,7 +2,7 @@
 title: Convertidor de valores en código hexadecimal y RGB (por ConfuzzedCat)
 description: Una acción simple para convertir valores RGB a códigos hexadecimales, y a la inversa.
 published: true
-date: 2022-11-07T15:23:59.990Z
+date: 2022-11-20T07:27:06.531Z
 tags: confuzzedcat, hex code, hex, rgb, rgb colors, convert, converter, hex to rgb, rgb to hex, hex2rgb, rgb2hex
 editor: markdown
 dateCreated: 2022-08-09T03:56:01.377Z

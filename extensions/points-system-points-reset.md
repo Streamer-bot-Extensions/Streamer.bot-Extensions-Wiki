@@ -2,7 +2,7 @@
 title: Points Reset (by TerrierDarts)
 description: This extension will allow you to reset your points all back to zero if you so wish.
 published: true
-date: 2022-11-07T15:27:35.496Z
+date: 2022-11-20T07:21:22.594Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-28T15:47:19.038Z

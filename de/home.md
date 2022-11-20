@@ -2,7 +2,7 @@
 title: Streamer.bot Erweiterungen
 description: Von der Streamer.bot Community hergestellte Erweiterungen
 published: true
-date: 2022-08-31T00:32:09.982Z
+date: 2022-11-20T07:16:24.093Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-29T00:56:52.953Z

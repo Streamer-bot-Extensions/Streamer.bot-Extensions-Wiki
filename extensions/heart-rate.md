@@ -2,7 +2,7 @@
 title: Heart Rate Extensions
 description: Extensions to work with the HypeRate and Pulsoid
 published: true
-date: 2022-10-23T19:36:07.919Z
+date: 2022-11-20T07:19:30.980Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T16:06:52.743Z

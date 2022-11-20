@@ -2,7 +2,7 @@
 title: Heists (by TerrierDarts)
 description: With Heists you give chance for your viewers to join together in a raid in order to gain rewards in the chat.
 published: true
-date: 2022-11-07T15:27:26.284Z
+date: 2022-11-20T07:21:10.488Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-07T15:27:23.684Z

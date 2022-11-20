@@ -2,7 +2,7 @@
 title: Sistema de puntos
 description: Un sistema de puntos creado completamente para su uso en Streamerbot
 published: true
-date: 2022-11-07T15:24:35.354Z
+date: 2022-11-20T07:27:44.924Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T15:25:53.150Z

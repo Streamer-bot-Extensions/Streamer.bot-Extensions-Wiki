@@ -2,7 +2,7 @@
 title: Nivel de Poder (por Sportiax)
 description: 
 published: true
-date: 2022-11-07T15:24:43.512Z
+date: 2022-11-20T07:27:53.529Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-15T14:31:02.300Z

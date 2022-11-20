@@ -2,7 +2,7 @@
 title: Timed VIP
 description: Allow your viewers to claim VIP for a short period of time
 published: true
-date: 2022-11-07T15:28:32.836Z
+date: 2022-11-20T07:22:48.166Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-01T15:16:38.163Z

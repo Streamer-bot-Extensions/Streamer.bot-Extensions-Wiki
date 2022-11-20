@@ -2,7 +2,7 @@
 title: Ad Snooze (by TheShiningOne)
 description: Snooze the upcoming Twitch Ad with this extension.
 published: true
-date: 2022-11-01T22:12:20.820Z
+date: 2022-11-20T07:17:13.822Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-03T13:05:03.866Z

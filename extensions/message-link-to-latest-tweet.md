@@ -2,7 +2,7 @@
 title: Message Link to Latest Tweet (by slashie101)
 description: Shows a link to your latest tweet!
 published: true
-date: 2022-11-07T15:26:53.253Z
+date: 2022-11-20T07:20:17.946Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:05:06.398Z

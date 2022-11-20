@@ -2,7 +2,7 @@
 title: Bola 8 Mágica (por MrVibes_RSA)
 description: Te permite preguntar a la Bola 8 Mágica preguntas de "sí" o "no".
 published: true
-date: 2022-11-07T15:24:13.811Z
+date: 2022-11-20T07:27:20.165Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:56:13.482Z

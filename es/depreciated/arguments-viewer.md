@@ -2,7 +2,7 @@
 title: Visualizador de Argumentos (por Silverlink)
 description: Despliegue en interfaz de usuario de todos las las variables de tipo argumento que fueron pobladas cuando se ejecutó una acción.
 published: true
-date: 2022-08-31T00:38:51.576Z
+date: 2022-11-20T07:25:28.225Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-28T23:22:48.953Z
