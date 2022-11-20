@@ -2,7 +2,7 @@
 title: Favorita Aleatoria (Synth Riders) (por VRFlad)
 description: Agrega una canción aleatoria a tu cola de Synth Riders para solicitarla de forma automática.
 published: true
-date: 2022-08-31T00:39:13.172Z
+date: 2022-11-07T15:22:49.072Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-30T04:40:42.193Z

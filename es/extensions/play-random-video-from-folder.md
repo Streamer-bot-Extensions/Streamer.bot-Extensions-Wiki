@@ -2,7 +2,7 @@
 title: Reproducir un Video Aleatorio desde una Carpeta (por VRFlad)
 description: Reproduce un video aleatorio desde una carpeta usando Streamer.bot.
 published: true
-date: 2022-08-31T00:41:10.358Z
+date: 2022-11-07T15:24:32.643Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:56:41.097Z

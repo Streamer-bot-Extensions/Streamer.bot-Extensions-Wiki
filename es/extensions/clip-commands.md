@@ -2,7 +2,7 @@
 title: clip-commands
 description: 
 published: true
-date: 2022-08-31T00:39:43.595Z
+date: 2022-11-07T15:23:16.291Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:56.092Z

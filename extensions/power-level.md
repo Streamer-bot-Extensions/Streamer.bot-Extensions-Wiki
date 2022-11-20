@@ -2,7 +2,7 @@
 title: Power Level (by Sportiax)
 description: 
 published: true
-date: 2022-10-23T19:37:07.604Z
+date: 2022-11-07T15:27:52.080Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:09:47.966Z

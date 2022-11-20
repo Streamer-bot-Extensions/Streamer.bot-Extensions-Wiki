@@ -2,7 +2,7 @@
 title: Sorteos
 description: Ejecuta sorteos o rifas con cualquiera de estos ejemplos
 published: true
-date: 2022-08-31T00:40:30.220Z
+date: 2022-10-26T16:02:14.341Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:55:48.593Z

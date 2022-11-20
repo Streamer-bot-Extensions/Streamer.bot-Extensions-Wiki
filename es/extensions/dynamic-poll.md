@@ -2,7 +2,7 @@
 title: Encuesta Dinámica (por NotZelda)
 description: ¡Crea encuestas simples usando esta Extensión!
 published: true
-date: 2022-09-11T15:25:38.074Z
+date: 2022-11-07T15:23:35.488Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T02:33:17.364Z

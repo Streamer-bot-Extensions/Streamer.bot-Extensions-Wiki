@@ -2,7 +2,7 @@
 title: Boss Battles (by TerrierDarts)
 description: With Boss Battles you give chance for your viewers to join together to defeat bosses in order to gain rewards in the chat.
 published: true
-date: 2022-10-23T19:36:50.618Z
+date: 2022-11-07T15:27:12.695Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:36:47.942Z

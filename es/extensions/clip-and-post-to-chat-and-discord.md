@@ -2,7 +2,7 @@
 title: Crear Clip y Publicar en Chat y Discord (por Grizzlage)
 description: Usando esta extensión podrás publicar tus clips directamenteen discord usando un comando !clip.
 published: true
-date: 2022-09-11T15:25:32.277Z
+date: 2022-11-07T15:23:13.633Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:52.145Z

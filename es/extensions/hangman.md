@@ -2,7 +2,7 @@
 title: Juego del Ahorcado (por TerrierDarts)
 description: ¡Juega un juego clásico de Ahorcado en tu chat de Twitch!
 published: true
-date: 2022-08-31T00:40:36.399Z
+date: 2022-11-07T15:23:57.187Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:55:56.594Z

@@ -2,7 +2,7 @@
 title: Publicar en Discord (por Geocym)
 description: Con esta extensipon, podrás publicar en Discord. Esto puede incluir cualquier cosa desde imágenes hasta clips. Incluso puede ser usado para publicar un mensaje de inicio de transmisión.
 published: true
-date: 2022-08-31T00:41:13.402Z
+date: 2022-11-07T15:24:38.036Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:56:45.030Z

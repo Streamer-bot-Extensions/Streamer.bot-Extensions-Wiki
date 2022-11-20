@@ -2,7 +2,7 @@
 title: Clip and Post to Chat and Discord (by Grizzlage)
 description: Using this extension you will be able to post your clips directly into discord by using a `!clip` Command.
 published: true
-date: 2022-10-23T16:06:19.763Z
+date: 2022-11-07T15:25:29.332Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T00:25:57.920Z

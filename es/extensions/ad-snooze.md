@@ -2,7 +2,7 @@
 title: Posponer Anuncios (por TheShiningOne)
 description: Pospón el próximo anuncio de Twitch con esta extensión.
 published: true
-date: 2022-09-07T15:25:24.331Z
+date: 2022-11-07T15:22:46.433Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:55:22.423Z

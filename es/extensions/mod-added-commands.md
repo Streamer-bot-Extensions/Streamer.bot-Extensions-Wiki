@@ -2,7 +2,7 @@
 title: Comandos Añadidos por Moderadores (por TerrierDarts)
 description: Esta extensión permitirá a tus moderadores agregar comandos de chat simples vía el mismo chat, y tendrás acceso a muchas variables si así lo deseas.
 published: true
-date: 2022-08-31T00:40:55.004Z
+date: 2022-11-07T15:24:19.243Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:56:21.423Z

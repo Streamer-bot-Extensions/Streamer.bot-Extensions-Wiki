@@ -2,7 +2,7 @@
 title: Urban Dictionary (by TerrierDarts)
 description: Search Urban Dictionary for a Specific Word, or leave it to fate and pull something Random.
 published: true
-date: 2022-08-31T00:36:18.457Z
+date: 2022-11-07T15:28:46.394Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-31T00:34:01.291Z

@@ -2,7 +2,7 @@
 title: Protección de "Follow" por Bots (por Caruha)
 description: Verifica si un usuario que empieza a seguir al canal pertenece a los bots de Hoss o a cualquier otro bot para generar "follows" y, de ser así, no continuará con la acción.
 published: true
-date: 2022-08-31T00:40:21.072Z
+date: 2022-11-07T15:23:46.432Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:55:36.223Z

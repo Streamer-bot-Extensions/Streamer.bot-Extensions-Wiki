@@ -2,7 +2,7 @@
 title: Discord Examples
 description: A Few Examples on how to use Streamer.bot to Post To Discord
 published: true
-date: 2022-11-07T16:25:19.988Z
+date: 2022-11-07T16:25:22.835Z
 tags: post, to, discord
 editor: markdown
 dateCreated: 2022-11-07T15:25:44.171Z

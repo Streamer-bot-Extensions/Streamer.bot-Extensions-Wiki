@@ -2,7 +2,7 @@
 title: Add Ranks (by VRFlad)
 description: Add Rankings to VRFlads Points System.
 published: true
-date: 2022-11-01T22:10:06.650Z
+date: 2022-11-01T22:10:09.552Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:36:44.316Z

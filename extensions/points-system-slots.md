@@ -2,12 +2,11 @@
 title: Slots (by TerrierDarts)
 description: This will allow your users to gamble there points for a spin on the slot machine, you can customise the emotes used, amount of emotes, pay out and default bet amount!
 published: true
-date: 2022-07-24T06:13:53.977Z
+date: 2022-11-07T15:27:43.764Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-20T16:02:15.587Z
+dateCreated: 2022-10-28T15:47:26.576Z
 ---
-
 
 # Import Code 
 

@@ -2,7 +2,7 @@
 title: Commercial Timer (by GoWMan)
 description: This allows you to create a timer in Streamer.bot that auto plays a 180 second commercial every hour on the hour.
 published: true
-date: 2022-11-07T01:26:29.540Z
+date: 2022-11-07T15:25:32.029Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:26:10.373Z

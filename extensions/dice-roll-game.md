@@ -2,7 +2,7 @@
 title: Dice Roll Game (by Geocym)
 description: This is a simple dice roll game where viewers can challenge each other in chat to roll a 20 sided die each and whoever gets the bigger number wins..
 published: true
-date: 2022-10-23T19:35:36.340Z
+date: 2022-11-07T15:25:44.126Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T02:19:11.907Z

@@ -2,7 +2,7 @@
 title: Repetición Instantánea de 20 Segundos (por MarkusoOoO)
 description: Crear una repetición instantánea de 20 segundos con Streamer.bot.
 published: true
-date: 2022-08-31T00:39:00.630Z
+date: 2022-11-07T15:22:38.605Z
 tags: repetición, rebobinado, efecto
 editor: markdown
 dateCreated: 2022-07-30T04:40:32.316Z

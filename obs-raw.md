@@ -1,8 +1,8 @@
 ---
-title:  Welcome to Streamer.bot Extensions
+title: Welcome to Streamer.bot Extensions
 description: This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
 published: false
-date: 2022-10-20T11:49:48.650Z
+date: 2022-11-07T15:29:25.989Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T17:41:21.650Z

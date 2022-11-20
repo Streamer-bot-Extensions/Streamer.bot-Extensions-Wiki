@@ -2,7 +2,7 @@
 title: Get Cursor Position (by MrWaldo)
 description: If for any reason you need the position of your cursor, this action will create a cursorX & cursorY variable.
 published: true
-date: 2022-10-23T19:35:54.928Z
+date: 2022-11-07T15:26:09.911Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:48:15.855Z

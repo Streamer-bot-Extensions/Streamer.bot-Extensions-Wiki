@@ -2,7 +2,7 @@
 title: Marcadores Avanzados de Transmisión 2.0 (por NotZelda)
 description: Permite a los espectadores o emisores activar un marcador de stream que se agrega al VOD de Twitch, pero también a un archivo .txt que muestra una marca de tiempo, duración, título y descripción.
 published: true
-date: 2022-09-11T15:25:26.239Z
+date: 2022-11-07T15:22:51.865Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:13.135Z

@@ -2,7 +2,7 @@
 title: Publicar en Twitter (por Nate1280 y TerrierDarts)
 description: Enviar Chat a una Publicación en Twitter
 published: true
-date: 2022-08-31T00:41:16.742Z
+date: 2022-11-07T15:24:40.863Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-15T14:30:58.061Z
