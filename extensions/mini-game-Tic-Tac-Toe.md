@@ -18,15 +18,13 @@ dateCreated:
 - [<i class="mdi mdi-file-download"></i> **Tic Tac Toe Import Code *Click to Download***](/assets/tic-tac-toe/files/Tic_Tac_Toe_Mini_Game_Streamer.Bot_Actions.sb)
 {.btn-grid .my-5}
 
-# Preconfiguration
+# Installation
 
 First of all, Create a new Channel point Reward and give it a name (e.g. : "Challenge a viewer on Tic Tac Toe")
 
 - [<i class="mdi mdi-file-download"></i> **Tic Tac Toe Import Code *Click to Download***](/assets/tic-tac-toe/files/Tic_Tac_Toe_Mini_Game_Streamer.Bot_Actions.sb)
 {.btn-grid .my-5}
 Download and unzip images folder where you want. You will need to locate that folder later.
-
-# Installation
 
 ## OBS Scene Importation
 - [<i class="mdi mdi-folder-download"></i> **Tic Tac Toe Scenes *Click to Download***](/assets/tic-tac-toe/files/Tic_Tac_Toe_SOURCE_COPY_LeBluxTV.zip)
@@ -59,9 +57,9 @@ This will Import 3 Actions and a bunch of Commands
 
 ### Configuration 
 
-`TIC TAC TOE [ Check Play / Win]` ► No configuration needed
+Action Name : `TIC TAC TOE [ Check Play / Win]` ► No configuration needed
 
-`TIC TAC TOE [ Get Players ] ►[ Channel Point Reward ]` 
+Action Name : `TIC TAC TOE [ Get Players ] ►[ Channel Point Reward ]` 
 
 ► Set the Position of the widget to pop-in / slide-in 
 
@@ -69,7 +67,7 @@ This will Import 3 Actions and a bunch of Commands
 
 ► Set your Channel Point Reward name 
 
-`TIC TAC TOE [ Reset Game ]` 
+Action Name : `TIC TAC TOE [ Reset Game ]` 
 
 ► Set the Position of the widget to pop-out / slide-out
 
