@@ -2,7 +2,7 @@
 title: Chat Games
 description: Boost Interaction with these many Chat Games!
 published: true
-date: 2022-11-20T07:17:53.496Z
+date: 2022-11-22T20:46:44.599Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-09T19:57:21.913Z
@@ -17,4 +17,5 @@ Chat Games are a great way to boost the interaction in within your channel.
 - [Magic 8 Ball *Ask the bot Yes/No questions*](/extensions/magic-8-ball)
 - [Prize Wheel *Spin the wheel and win a prize or get punished*](/extensions/prize-wheel)
 - [Point System Game Collection *Games that work with the Points System*](/extensions/points-system#points-system-games)
+- [Tic Tac Toe *Allow Viewers to play a classic Game of Tic Tac Toe*](/extensions/mini-game-Tic-Tac-Toe)
 {.links-list}
