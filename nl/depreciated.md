@@ -2,7 +2,7 @@
 title: Verouderde Extensies
 description: Lijst van extensies die verouderd zijn.
 published: true
-date: 2022-08-31T00:37:14.373Z
+date: 2022-11-20T07:24:49.123Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-24T06:46:51.080Z

@@ -2,7 +2,7 @@
 title: Basis Kanaal Commands (door VRFlad)
 description: Leer hoe basis commands toe te voegen in Streamer.bot.
 published: true
-date: 2022-08-31T00:44:20.241Z
+date: 2022-11-20T07:29:17.939Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-24T16:10:05.095Z

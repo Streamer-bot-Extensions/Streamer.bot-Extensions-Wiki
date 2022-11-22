@@ -2,7 +2,7 @@
 title: Magic 8 Ball (by MrVibes_RSA)
 description: Allows you to ask the magic 8ball yes or no Questions.
 published: true
-date: 2022-10-23T19:36:24.630Z
+date: 2022-11-20T07:20:09.438Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T00:36:46.862Z

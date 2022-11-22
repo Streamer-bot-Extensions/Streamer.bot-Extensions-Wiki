@@ -2,7 +2,7 @@
 title: Connect To Twitch (by VRFlad)
 description: Learn how to connect Streamer.bot to Twitch.
 published: true
-date: 2022-08-31T00:38:33.876Z
+date: 2022-11-20T07:25:11.478Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-24T21:18:58.333Z

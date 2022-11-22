@@ -2,7 +2,7 @@
 title: Lista de Bots Conocidos Automática (por PapaBearDoes)
 description: Usando esta Extensión podrás agregar bots conocidos a un grupo; esto no los bloquea, sin embargo permite excluirlos de eventos del tipo randomUser.
 published: true
-date: 2022-08-31T00:39:22.235Z
+date: 2022-11-20T07:25:55.967Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:26.278Z

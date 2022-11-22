@@ -2,7 +2,7 @@
 title: Chat Request to Play YouTube (by TerrierDarts)
 description: This extension will allow you to play YouTube videos on stream.
 published: true
-date: 2022-10-23T19:35:27.034Z
+date: 2022-11-20T07:17:59.066Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T00:59:07.716Z

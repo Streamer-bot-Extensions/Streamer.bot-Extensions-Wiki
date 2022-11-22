@@ -2,7 +2,7 @@
 title: Link/URL Protection (by emongev)
 description: With this extension you can block links in your chat, you can also add a small list of approved sites for such things as Discord Links, Clips and other Social Media.
 published: true
-date: 2022-08-31T00:34:43.504Z
+date: 2022-11-20T07:20:03.716Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T00:16:06.062Z

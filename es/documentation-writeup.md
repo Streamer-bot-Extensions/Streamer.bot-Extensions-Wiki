@@ -2,7 +2,7 @@
 title: Consejos para Redacción de Documentación
 description: 
 published: true
-date: 2022-08-31T00:32:43.473Z
+date: 2022-11-20T07:16:54.338Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T23:16:15.007Z

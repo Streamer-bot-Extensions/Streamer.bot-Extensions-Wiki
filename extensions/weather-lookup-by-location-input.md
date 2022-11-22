@@ -2,7 +2,7 @@
 title: Weather Lookup By Location Input (by Web_Mage)
 description: This extension will allow you and your chat to look up weather conditions around the globe.
 published: true
-date: 2022-10-23T19:59:12.146Z
+date: 2022-11-20T07:23:56.426Z
 tags: api, extension, obs
 editor: markdown
 dateCreated: 2022-05-18T02:07:55.239Z

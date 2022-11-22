@@ -2,10 +2,10 @@
 title: Credits (by Nate1280, Lyfesaver74, and https://codepen.io/)
 description: Display credits at the end of stream.
 published: true
-date: 2022-08-21T19:08:50.760Z
+date: 2022-11-20T07:18:21.823Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-27T02:36:14.656Z
+dateCreated: 2022-11-07T15:25:37.634Z
 ---
 
 # Description

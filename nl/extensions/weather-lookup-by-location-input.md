@@ -2,7 +2,7 @@
 title: Weer Opzoeken Per Locatie (door Web_Mage)
 description: 
 published: true
-date: 2022-08-31T00:44:08.486Z
+date: 2022-11-20T07:29:09.654Z
 tags: api, obs, extensie
 editor: markdown
 dateCreated: 2022-07-25T22:39:07.795Z

@@ -2,7 +2,7 @@
 title: Interruptor de Puntos de Canal (por iAmLarcyn)
 description: Permite al emisor o a los moderadores activar o desactivar las recompensas de puntos de canal.
 published: true
-date: 2022-08-31T00:39:31.388Z
+date: 2022-11-20T07:26:04.622Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:39.815Z

@@ -2,7 +2,7 @@
 title: Recordatorio de Chat (por NotZelda)
 description: Establece una Acción en el siguiente mensaje de chat, cuando no se ha dicho nada en el chat en una cantidad de tiempo especificada. ¡Recuérdate mirar al chat después de un lapso de tiempo!
 published: true
-date: 2022-08-31T00:39:34.444Z
+date: 2022-11-20T07:26:07.458Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:43.948Z

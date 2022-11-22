@@ -2,7 +2,7 @@
 title: Auto Known Bots List (by PapaBearDoes)
 description: Using this Extension you will be able to add known bots to a group, this does not ban them however it allows you to exclude them from 	`randomUser` type events.
 published: true
-date: 2022-10-23T19:35:06.947Z
+date: 2022-11-20T07:17:33.100Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:11:33.869Z

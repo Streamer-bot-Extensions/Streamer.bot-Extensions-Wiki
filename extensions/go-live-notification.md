@@ -2,7 +2,7 @@
 title: Go Live Notification (by TheShiningOne)
 description: Change your going live notification without needing to go into the dashboard
 published: true
-date: 2022-11-07T16:29:13.769Z
+date: 2022-11-20T07:19:22.561Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-03T13:08:33.972Z

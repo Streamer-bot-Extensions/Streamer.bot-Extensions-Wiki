@@ -2,7 +2,7 @@
 title: First Words
 description: List of Extensions that you can use to welcome your viewers into stream.
 published: true
-date: 2022-10-16T14:54:48.481Z
+date: 2022-11-20T07:18:59.978Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-13T13:54:45.646Z
