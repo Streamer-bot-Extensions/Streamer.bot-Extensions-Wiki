@@ -12,19 +12,13 @@ dateCreated:
 
 # Tutorial
 
-<iframe src="https://www.youtube.com/embed/ " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
+<iframe src="https://www.youtube.com/embed/EcXJQUF649g " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
 # Import Files 
 - [<i class="mdi mdi-file-download"></i> **Tic Tac Toe Import Code *Click to Download***](/assets/tic-tac-toe/files/Tic_Tac_Toe_Mini_Game_Streamer.Bot_Actions.sb)
 {.btn-grid .my-5}
 
 # Installation
-
-First of all, Create a new Channel point Reward and give it a name (e.g. : "Challenge a viewer on Tic Tac Toe")
-
-- [<i class="mdi mdi-file-download"></i> **Tic Tac Toe Import Code *Click to Download***](/assets/tic-tac-toe/files/Tic_Tac_Toe_Mini_Game_Streamer.Bot_Actions.sb)
-{.btn-grid .my-5}
-Download and unzip images folder where you want. You will need to locate that folder later.
 
 ## OBS Scene Importation
 - [<i class="mdi mdi-folder-download"></i> **Tic Tac Toe Scenes *Click to Download***](/assets/tic-tac-toe/files/Tic_Tac_Toe_SOURCE_COPY_LeBluxTV.zip)
@@ -36,6 +30,13 @@ Download and unzip to Import both scene into OBS :
 
 `[NS] TIC TAC TOE Overlay - 2 - Source Copy.json`
 
+## Assets
+- [<i class="mdi mdi-folder-download"></i> **Tic Tac Toe Images *Click to Download***](/assets/tic-tac-toe/files/Tic_Tac_Toe_IMAGES_LeBluxTV.zip)
+{.btn-grid .my-5}
+
+Download and unzip images folder where you want. You will need to locate that folder later.
+
+Create a new Channel point Reward and give it a name (e.g. : "Challenge a viewer on Tic Tac Toe")
 
 ### plugins needed : 
 |Plug-in Name|Sources Requiring|Link|
@@ -82,3 +83,7 @@ Action Name : `TIC TAC TOE [ Reset Game ]`
 |`!p1` `!p2` | First Player Choice |
 |`!A1` `!A2` `!A3`<br>`!B1` `!B2` `!B3`<br>`!C1` `!C2` `!C3`| Players moves |
 |`!resetTicTacToe`<br>`!resetTTT`| Reset the game (e.g. : if one players left the stream without finishing to play )|
+
+# Contributors
+ - [LeBluxTv](https://www.twitch.tv/LeBluxTV){.twitch}
+ {.contributors}
