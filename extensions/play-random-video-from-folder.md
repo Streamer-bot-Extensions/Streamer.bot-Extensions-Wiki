@@ -1,12 +1,13 @@
 ---
 title: Play Random Video from Folder (by VRFlad)
-description: Play a random video from a folder using Streamer.bot.
+description: Play a random video from a folder using Streamer.bot (OBS WebSocket v5).
 published: true
 date: 2022-11-20T07:20:50.997Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:01:12.163Z
 ---
+*OBS WS v5*{.obs-version-badge}
 
 # Import Code
 ```text
@@ -14,33 +15,30 @@ TlM0RR+LCAAAAAAABADFWGtv28YS/V6g/2EhoMiX0F0+liILpIAtyQodW4olWZJ1WRj7IsV6+bh8SFaD
 ```
 
 # Import File
-[playRandomFileFromFolder.txt](https://github.com/Streamer-bot-Extensions/Streamer.bot-Extensions-Wiki/files/10088401/playRandomFileFromFolder.txt)
+[<i class="mdi mdi-file-download"></i> **Import Code *Click to Download***](/assets/play-random-video-from-folder/playRandomVideoFromFolder.sb) {.btn-grid .my-5}
 
-
-# Description
-This is an update to the existing Play Random Video from Folder extension previously created by VRFlad. This update addresses changes resulting from the update to OBS 28 and Websocket 5.
 
 # Installation
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`.
-![importActionDialog](https://user-images.githubusercontent.com/119024525/203893037-bec372ce-5da0-4e5c-86e6-0b6a96092caa.png)
 
-
+![image](/assets/play-random-video-from-folder/images/playRandomVideoImportActionDialog.png)
+       
 
 # Configuration
 Change the `Set Argument` `Value` for `%randomVideoFolder%` to the folder you want to use.
 
-![setArgumentRandomFolder](https://user-images.githubusercontent.com/119024525/203894330-1865c611-2284-4a5f-9ea5-be7970cf6612.png)
+![image](/assets/play-random-video-from-folder/images/playRandomVideoSetArgumentRandomFolder.png)
 
 
 
 Change the `inputName` `Value` within the `OBS Raw Sub-Action` to the name of your `Media Source` in OBS.
-![obsRawUpdateInputName](https://user-images.githubusercontent.com/119024525/203893404-e5390b50-782e-4ab5-bf4b-63718534e792.png)
+![image](/assets/play-random-video-from-folder/images/playRandomVideoObsRawUpdateInputName.png)
 
-# Optional Configuration Step
+## Optional Configuration Step
 Change the `Delay` to be greater than or equal to the longest clip in your random videos folder. Update the `Scene` and `Source` values on the `OBS Source Visibility State` sub-actions to reflect the Scene and Source for your `Media Source` (This is an optional step, and these sub-actions can be removed if you do not wish to use them)
 
-![delaySubAction](https://user-images.githubusercontent.com/119024525/203894211-ef924937-02af-4f8c-9468-e46390e31c5c.png)
+![image](/assets/play-random-video-from-folder/images/playRandomVideoDelaySubAction.png)
 
 
 # Contributors
