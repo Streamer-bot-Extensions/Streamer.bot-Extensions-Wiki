@@ -2,7 +2,7 @@
 title: Mostrar Imagen Aleatoria desde Carpeta en Fuente Imagen en OBS (por iAmLarcyn)
 description: Muestra una Imagen Aleatoria desde una Carpeta en una Fuente de Imagen en OBS con Streamer.bot.
 published: true
-date: 2022-09-11T15:25:35.050Z
+date: 2022-11-20T07:26:35.155Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T02:33:13.325Z
@@ -20,5 +20,5 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> iAmLarcyn](https://www.twitch.tv/iAmLarcyn)
+ - [iAmLarcyn](https://www.twitch.tv/iAmLarcyn){.twitch}
  {.contributors}

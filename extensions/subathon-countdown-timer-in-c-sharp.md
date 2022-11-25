@@ -2,7 +2,7 @@
 title: Subathon Countdown Timer in C# (by rondhi)
 description: 
 published: true
-date: 2022-10-23T19:37:42.611Z
+date: 2022-11-20T07:22:42.756Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:20:36.197Z
@@ -82,4 +82,5 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> rondhi](https://www.twitch.tv/rondhi)
+ - [rondhi](https://www.twitch.tv/rondhi){.twitch}
+ {.contributors}

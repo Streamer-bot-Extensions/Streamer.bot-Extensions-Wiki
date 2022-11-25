@@ -2,7 +2,7 @@
 title: clip-commands
 description: 
 published: true
-date: 2022-08-31T00:39:43.595Z
+date: 2022-11-20T07:26:15.663Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:56.092Z
@@ -98,5 +98,6 @@ public class CPHInline
 ```
 
 # Colaboradores
-### <img src="/logos/twitch-6860918_1280.png" height=25></img> [*TerrierDarts*](https://www.twitch.tv/terrierdarts)
+- [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
+{.contributor}
 

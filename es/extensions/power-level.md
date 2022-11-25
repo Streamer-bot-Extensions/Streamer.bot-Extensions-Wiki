@@ -2,7 +2,7 @@
 title: Nivel de Poder (por Sportiax)
 description: 
 published: true
-date: 2022-08-31T00:41:19.611Z
+date: 2022-11-20T07:27:53.529Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-15T14:31:02.300Z
@@ -24,5 +24,5 @@ Descarga los Recursos.
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> Sportiax](https://www.twitch.tv/Sportiax)
+- [Sportiax](https://www.twitch.tv/Sportiax){.twitch}
 {.contributors}

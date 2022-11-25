@@ -2,7 +2,7 @@
 title: RCON (por ItsTheBOFH)
 description: Esta es una extensión para Streamer.bot que te permite usar el cliente RCON para conectarte a Servidores de Juegos por medio de protocolos RCON para ejecutar comandos.
 published: true
-date: 2022-08-31T00:41:35.225Z
+date: 2022-11-20T07:28:07.829Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-25T02:42:41.610Z
@@ -30,5 +30,5 @@ Lo que está por venir: Estoy tratando actualizar esto para no tener que usar un
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> ItsTheBOFH](https://www.twitch.tv/ItsTheBOFH)
+ - [ItsTheBOFH](https://www.twitch.tv/ItsTheBOFH){.twitch}
  {.contributors}

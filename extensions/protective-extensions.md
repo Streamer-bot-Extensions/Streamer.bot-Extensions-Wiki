@@ -2,7 +2,7 @@
 title: Protective Extensions
 description: A Collection of Extensions built to protect you and your viewers builtfor streamerbot.
 published: true
-date: 2022-10-23T19:58:57.648Z
+date: 2022-11-20T07:21:52.506Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-02T22:49:57.264Z

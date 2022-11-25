@@ -2,7 +2,7 @@
 title: Temporizador de Cuenta Atrás en C# (por rondhi)
 description: Al usar esta extensión podrás crear temporizadores de cuenta regresiva en Streamer.bot.
 published: true
-date: 2022-08-31T00:39:52.981Z
+date: 2022-11-20T07:26:24.353Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T02:32:57.197Z
@@ -38,5 +38,6 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> rondhi](https://www.twitch.tv/rondhi)
+ - [rondhi](https://www.twitch.tv/rondhi){.twitch}
+ - {.contributors}
 

@@ -2,7 +2,7 @@
 title: Extensiones basadas en OBS
 description: Extensiones que interactuarán de alguna manera con OBS, de forma administrativa.
 published: true
-date: 2022-09-11T15:25:51.967Z
+date: 2022-11-20T07:27:33.949Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T15:25:49.121Z

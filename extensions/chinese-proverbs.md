@@ -2,7 +2,7 @@
 title: Chinese Proverbs (by GoWMan)
 description: Display uplifting and insightful proverbs on your stream with Chinese Proverbs for Streamer.bot.
 published: true
-date: 2022-10-23T19:35:29.746Z
+date: 2022-11-20T07:18:01.981Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:35:27.111Z

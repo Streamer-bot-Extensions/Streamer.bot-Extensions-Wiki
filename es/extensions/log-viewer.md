@@ -2,7 +2,7 @@
 title: Visualizador de Log (por TerrierDarts)
 description: Esta extensión te permitirá abrir rápidamente el archivo de log.
 published: true
-date: 2022-09-11T15:25:47.946Z
+date: 2022-11-20T07:27:17.388Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T15:25:45.122Z
@@ -26,5 +26,5 @@ Necesitas asegurarte que el comando `!viewlog` esté habilitado.
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

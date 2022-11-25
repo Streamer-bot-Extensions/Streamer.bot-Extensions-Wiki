@@ -2,10 +2,10 @@
 title: Increase Points For Followers (by MarkusoOoO)
 description: Give users points for following.
 published: true
-date: 2022-09-03T13:03:56.151Z
+date: 2022-11-20T07:21:02.100Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-18T01:34:51.363Z
+dateCreated: 2022-10-28T15:47:03.926Z
 ---
 
 PAGE UNDER CONSTRUCTION 
@@ -20,7 +20,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> MarkusoOoO](https://www.twitch.tv/markusoooo)
+ - [MarkusoOoO](https://www.twitch.tv/markusoooo){.twitch}
  {.contributors}
  
  > This Page on the way {.is-warning}

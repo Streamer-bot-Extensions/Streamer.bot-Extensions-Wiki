@@ -2,7 +2,7 @@
 title: Walkon Sounds (by Geocym)
 description: This simple set of actions allows you to have a custom entrance sound for each of your regulars.
 published: true
-date: 2022-10-23T19:38:10.365Z
+date: 2022-11-20T07:23:44.938Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-20T01:34:57.535Z
@@ -55,5 +55,5 @@ Finally the `Walk on Sounds` action should be assigned to the `First Words` even
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> Geocym](https://www.twitch.tv/Geocym)
+ - [Geocym](https://www.twitch.tv/Geocym){.twitch}
  {.contributors}

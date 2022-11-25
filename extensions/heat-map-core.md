@@ -2,7 +2,7 @@
 title: Heat Map Core Installation
 description: Core Installation of Heat Map, Heat Map allows your viewers to click on the screen and intract with it.
 published: true
-date: 2022-10-23T19:36:14.397Z
+date: 2022-11-20T07:19:36.717Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:36:11.610Z
@@ -82,6 +82,6 @@ The Chat from the my actions look like this.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> Farlezz](https://www.twitch.tv/Farlezz)
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [Farlezz](https://www.twitch.tv/Farlezz){.twitch}
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

@@ -2,7 +2,7 @@
 title: Alternado de monitor de fuente de audio (por Zerelito)
 description: Intercambia fácilmente entre fuentes de audio de la transmisión (spotify, listas de reproducción, etc...) con un solo click.
 published: true
-date: 2022-09-11T15:25:29.363Z
+date: 2022-11-20T07:25:53.242Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:22.114Z
@@ -22,15 +22,15 @@ TlM0RR+LCAAAAAAABADlWN1r3DgQfz+4/0EslHvJFH1Zku8tcCX0odejDQdHNxR9JgavnfNH0xDyv59k
 # Instalación
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
-![audio-source-toggle-import.png](/extensions/audio-source-monitor-toggle/images/audio-source-toggle-import.png)
+![audio-source-toggle-import.png](/assets/audio-source-monitor-toggle/images/audio-source-toggle-import.png)
 
 # Configuración
-Cambia el `Argumento` `%audioSource%` a tu audio y asigna la `Acción` a una tecla de acceso rápido/comando/botón de tu preferencia. ![audio-source-toggle-argument.png](/extensions/audio-source-monitor-toggle/images/audio-source-toggle-argument.png)
+Cambia el `Argumento` `%audioSource%` a tu audio y asigna la `Acción` a una tecla de acceso rápido/comando/botón de tu preferencia. ![audio-source-toggle-argument.png](/assets/audio-source-monitor-toggle/images/audio-source-toggle-argument.png)
 > Puedes hacer copias de esta `Acción` para hacer alternados de tus fuentes de audio. 
 > 
 > {.is-info}
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> Zerelito](https://www.twitch.tv/Zerelito)
+ - [Zerelito](https://www.twitch.tv/Zerelito){.twitch}
  {.contributors}

@@ -2,7 +2,7 @@
 title: Post to Twitter (by Nate1280 and TerrierDarts)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-10-23T19:37:04.986Z
+date: 2022-11-20T07:21:44.033Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
@@ -82,9 +82,11 @@ The `Address` and `Port` needs to match the one you did the prior step of settin
 ## Streaming Commands
 To automate this it different depending on which version of WS you are using if you are using WS4.9.XX then you can tie the 2 actions to  OBS Events > Stream Started and OBS > Events > Stream Stopped for the starting and stopping actions respectfully. 
 In WS5 you will need to use the event called `StreamStateChanged`, This is tied to a seperate action, which you will need to create. I called it `StreamCheck`. Then i did an If statement of 
+
+```json
+if ("obsEvent.outputActive" Equals "True") do "StreamStarting" then "continue" else do "StreamEnding" then "continue"
 ```
-If 'obsEvent.outputActive' Equals 'True' do 'StreamStarting' else do 'StreamEnding'
-```
+
 ![streamstartcheck.png](/assets/twitter/images/streamstartcheck.png)
 
  The Arguments in both sub-actions are exactly the same however you will have a **LIVE** version and you will have a **Normal** Version for when you are offline. 
@@ -114,8 +116,8 @@ If you find that you've followed all the steps and it still doesn't work here ar
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
-- [<i class="mdi mdi-twitch"></i> Nate1280](https://www.twitch.tv/Nate1280)
+- [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+- [Nate1280](https://www.twitch.tv/Nate1280){.twitch}
 {.contributors}
 
 

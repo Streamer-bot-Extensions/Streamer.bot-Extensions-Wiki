@@ -2,10 +2,10 @@
 title: Youtube - Urban Dictionary (by TerrierDarts)
 description: Allow Viewers to Search Urban Dictionary.
 published: true
-date: 2022-09-24T19:46:51.613Z
+date: 2022-11-20T07:24:18.994Z
 tags: 
 editor: markdown
-dateCreated: 2022-09-23T16:31:33.472Z
+dateCreated: 2022-11-07T15:29:19.715Z
 ---
 
 # Import Code
@@ -34,5 +34,5 @@ You will need to make sure the `!urban` command is enabled.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

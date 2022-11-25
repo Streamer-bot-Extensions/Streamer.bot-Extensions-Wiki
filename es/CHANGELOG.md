@@ -2,7 +2,7 @@
 title: CHANGELOG
 description: 
 published: true
-date: 2022-08-31T00:32:31.193Z
+date: 2022-11-20T07:16:43.249Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T23:15:58.898Z

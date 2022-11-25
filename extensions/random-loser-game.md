@@ -2,7 +2,7 @@
 title: Random Loser Game (by TheIcemanCometh)
 description: Commonly known by a name with one bullet in a gun. Renamed here as to not offend anyone.
 published: true
-date: 2022-08-31T00:35:32.718Z
+date: 2022-11-20T07:22:03.534Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:38:20.006Z
@@ -20,5 +20,5 @@ There are four actions included. You will want to define a Command and point it 
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TheIcemanCometh](https://www.twitch.tv/TheIcemanCometh)
+ - [TheIcemanCometh](https://www.twitch.tv/TheIcemanCometh){.twitch}
  {.contributors}

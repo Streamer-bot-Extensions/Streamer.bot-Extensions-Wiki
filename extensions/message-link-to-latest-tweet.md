@@ -2,7 +2,7 @@
 title: Message Link to Latest Tweet (by slashie101)
 description: Shows a link to your latest tweet!
 published: true
-date: 2022-08-31T00:34:52.495Z
+date: 2022-11-20T07:20:17.946Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:05:06.398Z
@@ -24,5 +24,5 @@ To Set this up Change the FetchUrl to Include your Twitter name, and it will ret
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> slashie101](https://www.twitch.tv/slashie101)
+ - [slashie101](https://www.twitch.tv/slashie101){.twitch}
  {.contributors}

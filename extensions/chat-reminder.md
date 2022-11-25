@@ -2,7 +2,7 @@
 title: Chat Reminder (by NotZelda)
 description: Set up an Action on the next chat message, when nothing has been said in chat in a specified amount of time. Get reminded to look at chat after an amount of time!
 published: true
-date: 2022-10-23T19:35:24.358Z
+date: 2022-11-20T07:17:56.196Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:39:48.833Z
@@ -31,5 +31,5 @@ Change the `Sound File` in the `Action` `ChatWakeUp` to any sound file you want 
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> NotZelda](https://www.twitch.tv/NotZelda)
+ - [NotZelda](https://www.twitch.tv/NotZelda){.twitch}
  {.contributors}

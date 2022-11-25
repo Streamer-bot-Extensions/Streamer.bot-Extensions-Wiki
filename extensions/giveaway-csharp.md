@@ -2,7 +2,7 @@
 title: Giveaway in C# (by TerrierDarts)
 description: This giveaway is all ran in C# with no text file
 published: true
-date: 2022-10-24T12:28:40.499Z
+date: 2022-11-20T07:19:14.411Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T12:28:37.656Z
@@ -59,5 +59,5 @@ This giveaway since in C# has settings in most of the actions, if any of these s
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

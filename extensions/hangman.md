@@ -2,7 +2,7 @@
 title: Hangman (by TerrierDarts)
 description: Play A Classic Game of Hangman in your Twitch Chat!
 published: true
-date: 2022-10-23T19:36:05.341Z
+date: 2022-11-20T07:19:28.346Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-11T16:45:26.313Z
@@ -73,6 +73,6 @@ TlM0RR+LCAAAAAAABADtXVtz2sqyfj9V5z+4UrWe9lIymtF1Ve0Hgw0G28SAuZ7sB81FgJEEi5sNu/Z/
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
- - [<i class="mdi mdi-twitch"></i> LeBluxTV](https://www.twitch.tv/LeBluxTV)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+ - [LeBluxTV](https://www.twitch.tv/LeBluxTV){.twitch}
  {.contributors}

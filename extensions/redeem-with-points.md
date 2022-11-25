@@ -2,7 +2,7 @@
 title: Redeem Actions Using Points
 description: With this extension, your users will be able to redeem items with there points, from VRFlad's Point System.
 published: true
-date: 2022-10-23T19:37:19.905Z
+date: 2022-11-20T07:22:12.003Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:37:17.239Z
@@ -29,5 +29,5 @@ if `rawInput` is equal to `Example2` then do `Example2Action` and 'Break'
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

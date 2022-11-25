@@ -2,7 +2,7 @@
 title: Advies voor het opstellen van documenten
 description: 
 published: true
-date: 2022-08-31T00:37:17.150Z
+date: 2022-11-20T07:24:51.846Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-24T16:09:46.402Z

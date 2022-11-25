@@ -2,10 +2,10 @@
 title: Lotto (by TerrierDarts)
 description: Allow your viewers to try their luck at winning big with this Lotto Game!
 published: true
-date: 2022-07-24T06:13:42.336Z
+date: 2022-11-20T07:21:19.891Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-20T16:09:06.194Z
+dateCreated: 2022-10-28T15:31:50.510Z
 ---
 
 # Import Code
@@ -77,6 +77,6 @@ Then you will need to extract the files to somewhere safe. Inside the folder you
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
- - [<i class="mdi mdi-twitch"></i> Farlezz](https://www.twitch.tv/Farlezz)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+ - [Farlezz](https://www.twitch.tv/Farlezz){.twitch}
  {.contributors}

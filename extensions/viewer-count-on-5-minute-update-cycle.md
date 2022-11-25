@@ -2,7 +2,7 @@
 title: Viewer Count on 5 Minute Update Cycle (by MarkusoOoO)
 description: Update your viewer count every 5 minutes with Streamer.bot.
 published: true
-date: 2022-10-23T19:38:01.063Z
+date: 2022-11-20T07:23:28.436Z
 tags: counter, basic, easy
 editor: markdown
 dateCreated: 2022-05-17T00:55:28.541Z
@@ -30,5 +30,5 @@ I know this is really basic, but hopefully it will help someone, who wants to us
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> MarkusoOoO](https://www.twitch.tv/MarkusoOoO)
+ - [MarkusoOoO](https://www.twitch.tv/MarkusoOoO){.twitch}
  {.contributors}

@@ -1,8 +1,8 @@
 ---
-title:  Welcome to Streamer.bot Extensions
+title: Welcome to Streamer.bot Extensions
 description: This is a repository of all the community made extensions for Streamer.bot. You may use any of these extensions to further enhance your stream.
 published: false
-date: 2022-10-20T11:49:48.650Z
+date: 2022-11-20T07:16:13.093Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-03T17:41:21.650Z
@@ -89,7 +89,7 @@ Name | Description
 `!sr` | (followed by your query)  will add the result to the queue.
 `!spotifyDevice` | shouldn't be needed, but can change the device to listen.
 # Contributors
- - [<i class="mdi mdi-twitch"></i> LeBluxTv](https://www.twitch.tv/LeBluxTV)
- - [<i class="mdi mdi-twitch"></i> ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat)
- - [<i class="mdi mdi-twitch"></i> HappyPlotter](https://www.twitch.tv/HappyPlotter)
+ - [ LeBluxTv](https://www.twitch.tv/LeBluxTV)
+ - [ ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat)
+ - [ HappyPlotter](https://www.twitch.tv/HappyPlotter)
 {.contributors}

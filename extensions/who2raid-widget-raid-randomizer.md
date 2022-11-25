@@ -2,7 +2,7 @@
 title: who2raid-widget-raid-randomizer
 description: Automatised Raid randomly choosen from streams you follow.
 published: true
-date: 2022-10-23T19:59:14.908Z
+date: 2022-11-20T07:24:01.936Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-23T23:48:02.375Z
@@ -44,6 +44,6 @@ Do the same for the WEBM File (video) 'TV SNOW'<br>
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> LeBluxTV](https://www.twitch.tv/LeBluxTV)
- - [<i class="mdi mdi-twitch"></i> Surakage](https://www.twitch.tv/surakage)
+ - [LeBluxTV](https://www.twitch.tv/LeBluxTV){.twitch}
+ - [Surakage](https://www.twitch.tv/surakage){.twitch}
  {.contributors}

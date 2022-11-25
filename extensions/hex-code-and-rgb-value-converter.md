@@ -2,7 +2,7 @@
 title: Hex Code and RGB Value Converter (by ConfuzzedCat)
 description: A simple action to convert r,g,b values to hex codes and back.
 published: true
-date: 2022-08-31T00:34:34.173Z
+date: 2022-11-20T07:19:42.404Z
 tags: confuzzedcat, hex code, hex, rgb, rgb colors, convert, converter, hex to rgb, rgb to hex, hex2rgb, rgb2hex
 editor: markdown
 dateCreated: 2022-05-18T00:21:09.033Z
@@ -39,6 +39,6 @@ Outputs: #BF42F0
 ```
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat)
+ - [ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat){.twitch}
  {.contributors}
 

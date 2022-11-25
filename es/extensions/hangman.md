@@ -2,7 +2,7 @@
 title: Juego del Ahorcado (por TerrierDarts)
 description: ¡Juega un juego clásico de Ahorcado en tu chat de Twitch!
 published: true
-date: 2022-08-31T00:40:36.399Z
+date: 2022-11-20T07:27:03.755Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:55:56.594Z
@@ -21,7 +21,7 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 ## Codepen
 https://codepen.io/terrierdarts/pen/qBpQExw Here is the Pen, its not necessary but its here if you want it.
 ## Configuración en OBS (Opcional)
-Si lo deseas, puedes usar el codepen para mostrar el juego en pantalla. He proporcionado el enlace de codepen, así que si deseas realizar algún ajuste de estilo, lo puedes hacer. La mejor manera de hacerlo es `bifurcar` el pen y después hacer las ediciones. Una vez que consigas que se vea como quieres puedes `Exportar`, y una vez descargado puedes extraer la carpeta en algún lugar seguro. Después, necesitarás ir a la carpeta "dist" y abrir el archivo index.html. Necesitarás copiar la url de la barra de direcciones y crear una fuente de navegador en OBS con esa URL. La fuente debe tener 500 pixeles de ancho y alto. Deberá verse de la siguiente manera. ![hangmanobs.png](/extensions/hangman/images/hangmanobs.png)
+Si lo deseas, puedes usar el codepen para mostrar el juego en pantalla. He proporcionado el enlace de codepen, así que si deseas realizar algún ajuste de estilo, lo puedes hacer. La mejor manera de hacerlo es `bifurcar` el pen y después hacer las ediciones. Una vez que consigas que se vea como quieres puedes `Exportar`, y una vez descargado puedes extraer la carpeta en algún lugar seguro. Después, necesitarás ir a la carpeta "dist" y abrir el archivo index.html. Necesitarás copiar la url de la barra de direcciones y crear una fuente de navegador en OBS con esa URL. La fuente debe tener 500 pixeles de ancho y alto. Deberá verse de la siguiente manera. ![hangmanobs.png](/assets/hangman/images/hangmanobs.png)
 > Es importante que no utilices `Archivo Local` en OBS. {.is-warning}
 ## Configuración de Streamer.bot
 
@@ -72,6 +72,6 @@ TlM0RR+LCAAAAAAABADtXVtz2sqyfj9V5z+4UrWe9lIymtF1Ve0Hgw0G28SAuZ7sB81FgJEEi5sNu/Z/
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
- - [<i class="mdi mdi-twitch"></i> LeBluxTV](https://www.twitch.tv/LeBluxTV)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+ - [LeBluxTV](https://www.twitch.tv/LeBluxTV){.twitch}
  {.contributors}

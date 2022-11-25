@@ -2,7 +2,7 @@
 title: Dynamic Predictions (by TerrierDarts)
 description: Start, Run and Resolve Predictions with Streamer.bot!
 published: true
-date: 2022-10-23T19:35:39.134Z
+date: 2022-11-20T07:18:42.589Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T15:48:16.293Z
@@ -94,5 +94,5 @@ If set up correctly it should look like the image below
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

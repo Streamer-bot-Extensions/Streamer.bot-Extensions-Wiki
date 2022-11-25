@@ -2,7 +2,7 @@
 title: Simular Mantener Presionada Tecla (por ConfuzzedCat)
 description: Una forma de simular el mantener presionada una tecla.
 published: true
-date: 2022-08-31T00:41:44.442Z
+date: 2022-11-20T07:28:16.185Z
 tags: confuzzedcat,, key, simulate, hold, holding, keypress
 editor: markdown
 dateCreated: 2022-08-25T02:42:53.510Z
@@ -47,5 +47,5 @@ Usa la acción HoldKey_redeem para ello, ya que mnejará la entrada correctament
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat)
+- [ConfuzzedCat](https://www.twitch.tv/ConfuzzedCat){.twitch}
  {.contributors}

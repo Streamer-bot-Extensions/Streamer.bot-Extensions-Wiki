@@ -2,7 +2,7 @@
 title: Heat Cooldown (by TerrierDarts)
 description: Allows the user to add User or Global Cooldowns
 published: true
-date: 2022-10-23T19:36:10.520Z
+date: 2022-11-20T07:19:33.696Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:36:07.959Z
@@ -40,5 +40,5 @@ This will trigger the cooldown check, Select User or Global depending on which c
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

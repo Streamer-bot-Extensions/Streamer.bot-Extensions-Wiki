@@ -2,7 +2,7 @@
 title: Watchtime (by GoWMan)
 description: This will allow users to keep track of how much time they have spent watching the stream.
 published: true
-date: 2022-10-23T19:59:09.267Z
+date: 2022-11-20T07:23:53.377Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T02:09:42.575Z
@@ -37,5 +37,5 @@ Create a `Command` called `!watchtime` set to `Exact` and tie it to the `Get Wat
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> GoWMan](https://www.twitch.tv/GoWMan)
+ - [GoWMan](https://www.twitch.tv/GoWMan){.twitch}
  {.contributors}

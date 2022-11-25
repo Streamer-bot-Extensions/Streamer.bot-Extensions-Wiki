@@ -2,7 +2,7 @@
 title: Favorita Aleatoria (Synth Riders) (por VRFlad)
 description: Agrega una canción aleatoria a tu cola de Synth Riders para solicitarla de forma automática.
 published: true
-date: 2022-08-31T00:39:13.172Z
+date: 2022-11-20T07:25:47.803Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-30T04:40:42.193Z
@@ -20,17 +20,17 @@ Esta configuración permite de manera fácil agregar una canción favorita aleat
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
 
-![add-favorite-synth-riders-import.png](/extensions/add-favorite-synth-riders/images/add-favorite-synth-riders-import.png)
+![add-favorite-synth-riders-import.png](/assets/add-favorite-synth-riders/images/add-favorite-synth-riders-import.png)
 
 # Configuración
 Actualiza la ruta de tu carpeta de Synth Riders (el código te hará saber si es incorrecta).
 
-![add-favorite-synth-riders-path.png](/extensions/add-favorite-synth-riders/images/add-favorite-synth-riders-path.png)
+![add-favorite-synth-riders-path.png](/assets/add-favorite-synth-riders/images/add-favorite-synth-riders-path.png)
 
 
 El código establecerá la `Variable` `songrequest` que puedes usar para crear un mensaje personalizado, o un mensaje de Twitchspeaker.
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> VRFlad](https://www.twitch.tv/VRFlad)
+ - [VRFlad](https://www.twitch.tv/VRFlad){.twitch}
  {.contributors}

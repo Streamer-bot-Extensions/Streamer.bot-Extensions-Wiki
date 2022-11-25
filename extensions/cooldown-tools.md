@@ -2,7 +2,7 @@
 title: Cooldown Tools
 description: With these tools you can make the most out of cooldowns!
 published: true
-date: 2022-08-31T00:33:44.502Z
+date: 2022-11-20T07:18:13.437Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-19T15:54:51.993Z
@@ -76,7 +76,7 @@ Copy the `Import Code` and paste it into the `Import String`.
 > This code will auto refund any action that is still in cooldown. {.is-info}
 
 You will just need to add a `Set Argument %rewardCooldown% to XX` XX is the time of cooldown in Seconds, then you need to add a method pointing to the newly imported code. It will look something like this.
-![channelpointcooldown.png](/extensions/cooldowns/channelpointcooldown.png)
+![channelpointcooldown.png](/assets/cooldowns/channelpointcooldown.png)
 
 
 ---
@@ -90,8 +90,8 @@ TlM0RR+LCAAAAAAABADtV12TmkgUfd+q/Q9T87xOIWgiqcqDoALOyEQUENY80DRCx0ZYERVT+e97G8YI
 ### Installation
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`.
- In any action you wish to add a Heat Cooldown to you will need to add the following actions at the top of the action. More info on this can be found [HERE](/en/extensions/heat-map/heat-cooldown) 
-![heatcooldown.png](/extensions/heat-map/images/heatcooldown.png)
+ In any action you wish to add a Heat Cooldown to you will need to add the following actions at the top of the action. More info on this can be found [HERE](/extensions/heat-cooldown) 
+![heatcooldown.png](/assets/heat-map/images/heatcooldown.png)
 
 ---
 
@@ -112,5 +112,5 @@ Note all Actions inside the same cooldown must match the variant, time and Name.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

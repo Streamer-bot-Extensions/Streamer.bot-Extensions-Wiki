@@ -2,7 +2,7 @@
 title: Predicciones en Pantalla (Elgato StreamDeck) (por p0mz0r)
 description: Esta extensión te permite usar tu StreamDeck para ejecutar Predicciones en pantalla.
 published: true
-date: 2022-08-31T00:41:07.289Z
+date: 2022-11-20T07:27:39.461Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:56:37.112Z
@@ -20,5 +20,5 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> p0mz0r](https://www.twitch.tv/p0mz0r)
+- [p0mz0r](https://www.twitch.tv/p0mz0r){.twitch}
 {.contributors}

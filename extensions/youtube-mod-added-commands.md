@@ -2,7 +2,7 @@
 title: Youtube - Mod Added Commands (by TerrierDarts)
 description: This extension will allow your mods to add simple chat commands in via chat, you will also have access to many variables if you wish.
 published: true
-date: 2022-10-23T19:38:28.818Z
+date: 2022-11-20T07:24:13.333Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:38:26.230Z
@@ -61,6 +61,6 @@ Once all commands are setup you will need to do `!comfirst` but you will only ne
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/terrierdarts)
-- [<i class="mdi mdi-twitch"></i> Farlezz](https://www.twitch.tv/Farlezz) 
+- [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
+- [Farlezz](https://www.twitch.tv/Farlezz){.twitch}
 {.contributors}

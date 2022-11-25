@@ -2,7 +2,7 @@
 title: Emote Guessing Game (by Kleinhalbi)
 description: A Chat Game where they need to guess the secret emote!
 published: true
-date: 2022-08-31T00:34:09.500Z
+date: 2022-11-20T07:18:49.287Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:25:14.682Z
@@ -17,7 +17,7 @@ TlM0RR+LCAAAAAAABADVWl1zGjkWfd+q/Q+dVOVpRl5JLXVLU7UPMbExduKJv8D2eh/0CQwNzdJgm0zN
 
 In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
-![emote-guessing-game-import.png](/extensions/emote-guessing-game/images/emote-guessing-game-import.png)
+![emote-guessing-game-import.png](/assets/emote-guessing-game/images/emote-guessing-game-import.png)
 
 # Configuration
 
@@ -284,17 +284,17 @@ WheelLight
 </details>
 
 Go to `Action` `"01 Prepare game"` and edit `"Set global emotesFilePath"` to the path of the file containing all the emotes you want to use.
-![emote-guessing-game-emotes-file.png](/extensions/emote-guessing-game/images/emote-guessing-game-emotes-file.png)
+![emote-guessing-game-emotes-file.png](/assets/emote-guessing-game/images/emote-guessing-game-emotes-file.png)
 
 Then edit `"Set global gamesFilePath"` to the path of an empty .txt file to be used by the bot for the game.
-![emote-guessing-game-game-file.png](/extensions/emote-guessing-game/images/emote-guessing-game-game-file.png)
+![emote-guessing-game-game-file.png](/assets/emote-guessing-game/images/emote-guessing-game-game-file.png)
  
 Go to `Settings -> Events -> Set "Chat Message" Action` to `"03 Check chat messages"`.
-![emote-guessing-game-chat.png](/extensions/emote-guessing-game/images/emote-guessing-game-chat.png)
+![emote-guessing-game-chat.png](/assets/emote-guessing-game/images/emote-guessing-game-chat.png)
 
 Go to `Settings -> Timed Actions -> Create an Action` as follows:
 Enabled OFF, Repeat OFF, Name "End Emote Guessing Game", Interval 600 seconds, Random OFF, Lines 0, Action "04 Time over" (edited)
-![emote-guessing-game-timed-action.png](/extensions/emote-guessing-game/images/emote-guessing-game-timed-action.png)
+![emote-guessing-game-timed-action.png](/assets/emote-guessing-game/images/emote-guessing-game-timed-action.png)
 
 Now you can assign any command, reward, whatever to the action `"01 Prepare game"` to start the game. 
 

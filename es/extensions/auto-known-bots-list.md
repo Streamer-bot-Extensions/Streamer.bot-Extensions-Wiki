@@ -2,7 +2,7 @@
 title: Lista de Bots Conocidos Automática (por PapaBearDoes)
 description: Usando esta Extensión podrás agregar bots conocidos a un grupo; esto no los bloquea, sin embargo permite excluirlos de eventos del tipo randomUser.
 published: true
-date: 2022-08-31T00:39:22.235Z
+date: 2022-11-20T07:25:55.967Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:26.278Z
@@ -26,12 +26,12 @@ System.Net.dll
 System.IO.dll
 ```
 
-Despues de haber importado el código necesitarás crear un grupo llamado `Bots`. Si lo cambias por cualquier otro nombre, necesitarás ajustarlo en la Acción. ![groupbots.png](/extensions/auto-known-bots/images/groupbots.png)
+Despues de haber importado el código necesitarás crear un grupo llamado `Bots`. Si lo cambias por cualquier otro nombre, necesitarás ajustarlo en la Acción. ![groupbots.png](/assets/auto-known-bots/images/groupbots.png)
 
-Después podrás crear un activador, pudiendo usar un comando o una acción temporizada. De cualquier manera una vez configurado y activado, agregará los bots al grupo. ![groupbotsfull.png](/extensions/auto-known-bots/images/groupbotsfull.png)
+Después podrás crear un activador, pudiendo usar un comando o una acción temporizada. De cualquier manera una vez configurado y activado, agregará los bots al grupo. ![groupbotsfull.png](/assets/auto-known-bots/images/groupbotsfull.png)
 
 Existe una configuración si deseas guardar estos nombres a un archivo, solo necesitas asegurarte que `saveNames` esté establecido en `True` y que has introducido el directorio del archivo en `savePath`
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> PapaBearDoes](https://www.twitch.tv/PapaBearDoes)
+ - [PapaBearDoes](https://www.twitch.tv/PapaBearDoes){.twitch}
  {.contributors}

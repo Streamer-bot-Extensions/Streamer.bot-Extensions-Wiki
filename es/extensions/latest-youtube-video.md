@@ -2,7 +2,7 @@
 title: Último Video de YouTube (por TerrierDarts)
 description: Esto publicará tu último video de YouTube en el chat.
 published: true
-date: 2022-09-11T15:25:43.909Z
+date: 2022-11-20T07:27:12.049Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T15:25:41.082Z
@@ -29,5 +29,5 @@ Puedes tener esto activado por un comando o por una acción temporizada.
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

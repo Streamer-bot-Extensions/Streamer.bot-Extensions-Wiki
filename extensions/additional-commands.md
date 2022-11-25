@@ -2,12 +2,11 @@
 title: Additional Commands
 description: Here you will find a few extra commands to go with the point system.
 published: true
-date: 2022-09-22T12:26:44.035Z
+date: 2022-11-20T07:17:19.278Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-01T13:37:34.417Z
+dateCreated: 2022-10-28T15:46:59.876Z
 ---
-
 
 # Give Points
 ## Import Code
@@ -28,6 +27,7 @@ Enable the Following Command (this is contained inside the import).
 ```
 
 ---
+
 # Steal Points
 ## Import Code
 ```
@@ -89,6 +89,5 @@ Add the Following Command.
 !addpointstoall 5000
 ```
 # Contributors
-
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
- {.contributors}
+- [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+{.contributors}

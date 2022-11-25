@@ -2,7 +2,7 @@
 title: Random Action No Repeat (by TerrierDarts)
 description: This extension will allow you to randomly run actions from the same trigger without repeating any.
 published: true
-date: 2022-10-23T19:37:17.190Z
+date: 2022-11-20T07:22:00.666Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-28T23:06:49.076Z
@@ -34,5 +34,5 @@ You will now just need to choose how this queue is triggered, but if you was goi
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

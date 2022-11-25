@@ -2,7 +2,7 @@
 title: Automoderación de palabras en lista negra (por LeBluxTV)
 description: Agrega palabras a una lista negra, de manera que si alguien escribe una de estas palabras en el chat, el mensaje será eliminado (o se le da un tiempo fuera al usuario).
 published: true
-date: 2022-08-31T00:39:28.336Z
+date: 2022-11-20T07:26:01.708Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:35.617Z
@@ -19,20 +19,20 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 
 # Configuración
 
-Hay 2 `Acciones` en esta herramienta: ![Main_Actions_BlackListed_Words_Auto_Moderation](/extensions/blacklisted-words-auto-moderation/images/170503420-d14672f3-ae86-4a4f-b1fd-51a95f06f102.png)
+Hay 2 `Acciones` en esta herramienta: ![Main_Actions_BlackListed_Words_Auto_Moderation](/assets/blacklisted-words-auto-moderation/images/170503420-d14672f3-ae86-4a4f-b1fd-51a95f06f102.png)
 
 `Add Black-Listed Word To words.txt File`
 
-![SubActions](/extensions/blacklisted-words-auto-moderation/images/170502929-96f26575-1038-4dc0-add9-3ed6b2a09ec9.png) Establece la ruta completa a un archivo .txt llamado `words.txt` crea un `Comando` a esta `Acción`
+![SubActions](/assets/blacklisted-words-auto-moderation/images/170502929-96f26575-1038-4dc0-add9-3ed6b2a09ec9.png) Establece la ruta completa a un archivo .txt llamado `words.txt` crea un `Comando` a esta `Acción`
 > (Por ejemplo: !addBadword)
 
 `Check Badword/TimeOut if found [Message Event]`
 
-![Check_Messages_For_BlackListed_Words_Erase_Or_Time_Out](/extensions/blacklisted-words-auto-moderation/images/subactions_blacklisted_words_automoderation.png) Coloca el nombre de tu bot Establece el directorio completo al archivo .txt que creaste anteriormente Establece la `duración` del `tiempo fuera` Colocar el argumento `timeout` a `False` eliminará el mensaje, mantenerlo en `True` pondrá al usuario en tiempo fuera. Activa esta `Acción` desde el evento `Message Event` `(en settings > events> general)`
+![Check_Messages_For_BlackListed_Words_Erase_Or_Time_Out](/assets/blacklisted-words-auto-moderation/images/subactions_blacklisted_words_automoderation.png) Coloca el nombre de tu bot Establece el directorio completo al archivo .txt que creaste anteriormente Establece la `duración` del `tiempo fuera` Colocar el argumento `timeout` a `False` eliminará el mensaje, mantenerlo en `True` pondrá al usuario en tiempo fuera. Activa esta `Acción` desde el evento `Message Event` `(en settings > events> general)`
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> LeBluxTv](https://www.twitch.tv/LeBluxTv)
+ - [LeBluxTv](https://www.twitch.tv/LeBluxTv){.twitch}
  {.contributors}
 
 

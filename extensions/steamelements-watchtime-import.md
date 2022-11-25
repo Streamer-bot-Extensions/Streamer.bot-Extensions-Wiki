@@ -2,7 +2,7 @@
 title: Streamelements Watchtime Import (by GoWMan)
 description: Import Watchtime from Streamelements into Streamerbot
 published: true
-date: 2022-10-23T19:37:33.140Z
+date: 2022-11-20T07:22:34.143Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-10T17:46:26.090Z
@@ -28,5 +28,5 @@ Then the final thing to do is to create a command that runs the action.
  {.is-warning}
 
 # Contributors
- - [<i class="mdi mdi-twitch"></i> GoWMan](https://www.twitch.tv/GoWMan)
+ - [GoWMan](https://www.twitch.tv/GoWMan){.twitch}
  {.contributors}

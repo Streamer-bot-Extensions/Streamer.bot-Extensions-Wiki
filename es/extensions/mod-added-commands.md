@@ -2,7 +2,7 @@
 title: Comandos Añadidos por Moderadores (por TerrierDarts)
 description: Esta extensión permitirá a tus moderadores agregar comandos de chat simples vía el mismo chat, y tendrás acceso a muchas variables si así lo deseas.
 published: true
-date: 2022-08-31T00:40:55.004Z
+date: 2022-11-20T07:27:25.730Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-09T03:56:21.423Z
@@ -44,7 +44,7 @@ El último comando que necesitarás configurar es un Comando Regex.
 ```
 !  = Ligado a #comname3
 ```
-![modaddedcom_regex.png](/extensions/mod-added-commands/images/modaddedcom_regex.png) Una vez que todos los comandos han sido configurados necesitarás ejecutar un `!comfirst`, pero solo necesitarás hacerlo una vez. Esto es solo para configurar la lista de comandos para cuando un usuario utilice `!comlist`.
+![modaddedcom_regex.png](/assets/mod-added-commands/images/modaddedcom_regex.png) Una vez que todos los comandos han sido configurados necesitarás ejecutar un `!comfirst`, pero solo necesitarás hacerlo una vez. Esto es solo para configurar la lista de comandos para cuando un usuario utilice `!comlist`.
 # Ejemplo de Uso
 ## Al añadir un comando
 ```
@@ -69,6 +69,6 @@ El último comando que necesitarás configurar es un Comando Regex.
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/terrierdarts)
-- [<i class="mdi mdi-twitch"></i> Farlezz](https://www.twitch.tv/Farlezz)
+- [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
+- [Farlezz](https://www.twitch.tv/Farlezz){.twitch}
 {.contributors}

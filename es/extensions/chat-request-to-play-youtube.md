@@ -2,7 +2,7 @@
 title: Solicitud de chat para reproducir YouTube (de TerrierDarts)
 description: Esta extensión te permitirá reproducir videos de YouTube en la transmisión.
 published: true
-date: 2022-08-31T00:39:37.536Z
+date: 2022-11-20T07:26:10.202Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:47.992Z
@@ -27,7 +27,7 @@ TlM0RR+LCAAAAAAABADFV22PokgQ/n7J/Qcyn+5yy6QBUdnkPvgyOjCj68sIynkfmu4WmWlelhcRN/vf
 # Instalación
 Primeramente necesitarás una fuente de navegador que este código podrá cambiar al video cuando éste sea llamado.
 
-Cuando importes el código, recibirás una acción. Esto tendrá cosas que necesitarás editar para poder finalizar esta configuración. ![argsyt.png](/extensions/chat-request-youtube/images/argsyt.png) `scene` Aquí es donde le dirás a Streamer.bot en qué escena está la fuente de navegador. `source` Aquí es donde le dirás a Streamer. bot qué fuente de navegador es la que se usará. `maxLength` Aquí es donde le dirás a Streamer.bot qué tan largo es el video que deseas reproducir
+Cuando importes el código, recibirás una acción. Esto tendrá cosas que necesitarás editar para poder finalizar esta configuración. ![argsyt.png](/assets/chat-request-youtube/images/argsyt.png) `scene` Aquí es donde le dirás a Streamer.bot en qué escena está la fuente de navegador. `source` Aquí es donde le dirás a Streamer. bot qué fuente de navegador es la que se usará. `maxLength` Aquí es donde le dirás a Streamer.bot qué tan largo es el video que deseas reproducir
 
 > Es importante que cuando ingreses la escena y la fuente los escribas exactamente como se encuentran en OBS, incluyendo mayúsculas y minúsculas. {.is-warning}
 
@@ -40,8 +40,8 @@ Como digo, es un poco más de trabajo, pero te permite lograrlo mientras sigues 
 
 # Colaboradores
 
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
-- [<i class="mdi mdi-twitch"></i> PrettyTeddyy](https://www.twitch.tv/PrettyTeddyy)
+- [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+- [PrettyTeddyy](https://www.twitch.tv/PrettyTeddyy){.twitch}
  {.contributors}
 
 

@@ -2,7 +2,7 @@
 title: Add Ranks (by VRFlad)
 description: Add Rankings to VRFlads Points System.
 published: true
-date: 2022-10-23T19:36:46.883Z
+date: 2022-11-20T07:20:53.679Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:36:44.316Z
@@ -35,6 +35,5 @@ If a `Command` is not setup for `!points` from the [Points System (by VRFlad)](.
 ![points-system-points-add-ranks-points-command.png](/assets/points-system/images/points-system-points-add-ranks-points-command.png)
 
 # Contributors
-
- - [<i class="mdi mdi-twitch"></i> VRFlad](https://www.twitch.tv/VRFlad)
- {.contributors}
+- [VRFlad](https://www.twitch.tv/VRFlad){.twitch}
+{.contributors}

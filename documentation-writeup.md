@@ -2,7 +2,7 @@
 title: Page Template
 description: This is a short Template of How a Page should be written!
 published: true
-date: 2022-08-31T00:31:51.665Z
+date: 2022-11-20T07:16:07.032Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-01T00:18:30.446Z
@@ -40,7 +40,7 @@ As you method of how to get the import code.
 # Contributors
 > This is where you can credit yourself and anyone you feel deserves a credit
  ```
- - [<i class="mdi mdi-twitch"></i> UserName1](https://www.twitch.tv/Username1)
- - [<i class="mdi mdi-twitch"></i> UserName2](https://www.twitch.tv/Username2)
+ - [UserName1](https://www.twitch.tv/Username1){.twitch}
+ - [UserName2](https://www.youtube.com/Username2){.youtube}
  {.contributors}
  ```

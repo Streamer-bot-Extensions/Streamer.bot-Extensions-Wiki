@@ -2,10 +2,10 @@
 title: Leaderboard (by TerrierDarts)
 description: This tool will allow you to see which users have the most points, it comes with a codepen for visuals of Top 5 but you can post in chat up to 20 people. Twitch Character Limit may prevent more. 0.1.8+
 published: true
-date: 2022-07-27T21:03:19.721Z
+date: 2022-11-20T07:21:13.208Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-20T15:52:36.015Z
+dateCreated: 2022-10-28T15:47:15.038Z
 ---
 
 # Tutorial
@@ -64,5 +64,5 @@ Once you've got the code pen how you like it, you will need to export it. You ca
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

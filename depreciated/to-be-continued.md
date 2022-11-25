@@ -2,7 +2,7 @@
 title: To Be Continued... (by passbo)
 description: �To be continued� effect from SushiDragon (in Nutty�s Video) through Streamer.bot.
 published: true
-date: 2022-08-31T00:32:28.166Z
+date: 2022-11-20T07:16:40.523Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T00:29:50.175Z
@@ -17,5 +17,5 @@ TlM0RR+LCAAAAAAABADVWUtv20YQvgfIfyAM5OYp9v3orXHboJcWqINc6h72MWsLkSmHouykQf57h6Rl
 ```
 
 # Contributors
-- [<i class="mdi mdi-twitch"></i> passbo](https://www.twitch.tv/passb0)
+- [ passbo](https://www.twitch.tv/passb0)
 {.contributors}

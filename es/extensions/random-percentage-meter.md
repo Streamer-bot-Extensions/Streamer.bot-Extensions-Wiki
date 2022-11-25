@@ -2,6 +2,26 @@
 title: Medidor de Porcentaje Aleatorio (por GinjaFlame)
 description: Da al usuario objetivo un porcentaje aleatorio de algo. Por ejemplo: 5% tonto, 72% lindo, 40% lascivo.
 published: true
+date: 2022-11-20T07:28:05.050Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-25T02:42:37.608Z
+---
+
+---
+title: Medidor de Porcentaje Aleatorio (por GinjaFlame)
+description: Da al usuario objetivo un porcentaje aleatorio de algo. Por ejemplo: 5% tonto, 72% lindo, 40% lascivo.
+published: true
+date: 2022-11-07T15:24:54.451Z
+tags: 
+editor: markdown
+dateCreated: 2022-08-25T02:42:37.608Z
+---
+
+---
+title: Medidor de Porcentaje Aleatorio (por GinjaFlame)
+description: Da al usuario objetivo un porcentaje aleatorio de algo. Por ejemplo: 5% tonto, 72% lindo, 40% lascivo.
+published: true
 date: 2022-08-31T00:41:32.002Z
 tags: 
 editor: markdown
@@ -20,5 +40,5 @@ TlM0RR+LCAAAAAAABADVlT1v2zAQhvcC/Q+qAW9hIVL8kLoFHYIsQdGmU9HhSB4TIbLkUlIcI8h/LyXZ
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> GinjaFlame](https://www.twitch.tv/GinjaFlame)
+ - [GinjaFlame](https://www.twitch.tv/GinjaFlame){.twitch}
  {.contributors}

@@ -2,7 +2,7 @@
 title: Dynamic Poll by (NotZelda)
 description: Create Simple Polls using this Extension!
 published: true
-date: 2022-09-04T20:52:29.091Z
+date: 2022-11-20T07:18:39.670Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:30:19.607Z
@@ -73,6 +73,6 @@ public class CPHInline
 ```
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> NotZelda](https://www.twitch.tv/NotZelda)
- - [<i class="mdi mdi-twitch"></i> Nate1280](https://www.twitch.tv/Nate1280)
+ - [NotZelda](https://www.twitch.tv/NotZelda){.twitch}
+ - [Nate1280](https://www.twitch.tv/Nate1280){.twitch}
  {.contributors}

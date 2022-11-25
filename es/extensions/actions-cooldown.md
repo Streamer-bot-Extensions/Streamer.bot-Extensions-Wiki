@@ -2,7 +2,7 @@
 title: Tiempo de Espera de Acciones
 description: Aplicar tiempo de espera acciones si son activadas por múltiples fuentes
 published: true
-date: 2022-08-31T00:39:03.860Z
+date: 2022-11-20T07:25:39.613Z
 tags: acciones, tiempo de espera
 editor: markdown
 dateCreated: 2022-08-04T02:32:53.231Z
@@ -34,4 +34,4 @@ Esto te permitirá agregar un tiempo de espera a una acción que está ligada so
 ```
 
 ### FullActionGlobal (AcciónGlobalCompleta)
-Esto te permitirá agregar un Tiempo de Espera Global a una acción, sin importar cómo es que fue activada. Para agregar esto a una acción, necesitarás configurar dos `Set Arguments`, uno para `actionName` y otro para `actionCooldown`. Al final, deberá verse así. ![fullactionexample.png](/extensions/actioncooldown/images/fullactionexample.png)
+Esto te permitirá agregar un Tiempo de Espera Global a una acción, sin importar cómo es que fue activada. Para agregar esto a una acción, necesitarás configurar dos `Set Arguments`, uno para `actionName` y otro para `actionCooldown`. Al final, deberá verse así. ![fullactionexample.png](/assets/actioncooldown/images/fullactionexample.png)

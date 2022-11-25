@@ -2,7 +2,7 @@
 title: Juego de Lanzamiento de Dados (por Geocym)
 description: Esto es un simple juego de lanzamiento de dados en el que los espectadores podrán retarse mutuamente en el chat para lanzar un dado de 20 caras cada uno y quien obtenga el número mayor gana.
 published: true
-date: 2022-08-31T00:40:02.256Z
+date: 2022-11-20T07:26:32.512Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T02:33:09.169Z
@@ -88,5 +88,5 @@ El juego puede ser configurado para colocar respuestas de victoria y derrota de 
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> Geocym](https://www.twitch.tv/Geocym)
+ - [ Geocym](https://www.twitch.tv/Geocym)
  {.contributors}

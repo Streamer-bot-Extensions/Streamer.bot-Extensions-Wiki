@@ -2,10 +2,10 @@
 title: Gamble (by TerrierDarts)
 description: Allow Users to gamble there points with the reward of doubling there stake!
 published: true
-date: 2022-07-24T06:13:33.741Z
+date: 2022-11-20T07:21:07.710Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-20T16:03:48.675Z
+dateCreated: 2022-10-28T15:47:11.385Z
 ---
 
 # Import Code
@@ -37,5 +37,5 @@ You will need to create the following commands.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

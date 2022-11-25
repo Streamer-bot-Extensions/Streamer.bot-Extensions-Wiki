@@ -2,10 +2,10 @@
 title: Raffle
 description: Allow your viewers to enter raffles to try and win some big rewards, this has plenty of customisation options to give you total control!
 published: true
-date: 2022-09-23T11:19:41.763Z
+date: 2022-11-20T07:21:28.349Z
 tags: 
 editor: markdown
-dateCreated: 2022-04-20T16:04:47.155Z
+dateCreated: 2022-10-28T15:47:22.844Z
 ---
 
 # Import Code
@@ -52,5 +52,5 @@ You will need to set up the following commands.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
  {.contributors}

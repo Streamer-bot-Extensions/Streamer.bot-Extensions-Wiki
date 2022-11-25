@@ -2,7 +2,7 @@
 title: Stream Info at Regular Intervals (by LeBluxTV)
 description: Get current viewer count, comparing with the previous check and show uptime at regular intervals.
 published: true
-date: 2022-10-23T19:37:39.765Z
+date: 2022-11-20T07:22:39.965Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T01:44:56.837Z
@@ -27,5 +27,5 @@ Just tie the Imported Action to a Timed Action for best results do set the Inter
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> LeBluxTV](https://www.twitch.tv/LeBluxTV)
+ - [LeBluxTV](https://www.twitch.tv/LeBluxTV){.twitch}
  {.contributors}

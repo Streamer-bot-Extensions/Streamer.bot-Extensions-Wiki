@@ -2,7 +2,7 @@
 title: Lista de conversadores Activos (por BoomSoMuch)
 description: Cuando cualquiera conversa por primera vez durante la transmisión, esto añadiré su nombre a un archivo de texto.
 published: true
-date: 2022-08-31T00:39:06.961Z
+date: 2022-11-20T07:25:42.394Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-30T04:40:38.409Z
@@ -17,12 +17,12 @@ TlM0RR+LCAAAAAAABADFlctu3CAUhveV+g7WSNmFCDBgyK6t1CibLhIpXXS64HKcWPLYUwy5KMq719iZ
 # Instalación
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
-![active-chatter-import.png](/extensions/active-chatter-list/images/active-chatter-import.png)
+![active-chatter-import.png](/assets/active-chatter-list/images/active-chatter-import.png)
 
 # Configuración
-Haz doble click en la `Sub-acción` `Write to file (Escribir a Archivo)` y luego cambia el `File Path (Directorio de Archivo` de manera que apunte a un archivo válido. ![active-chatter-write-to-file.png](/extensions/active-chatter-list/images/active-chatter-write-to-file.png)
+Haz doble click en la `Sub-acción` `Write to file (Escribir a Archivo)` y luego cambia el `File Path (Directorio de Archivo` de manera que apunte a un archivo válido. ![active-chatter-write-to-file.png](/assets/active-chatter-list/images/active-chatter-write-to-file.png)
 
-Después, liga la `Acción` `First Words` al evento de primeras palabras `First Word Event`. ![active-chatter-first-words-event.png](/extensions/active-chatter-list/images/active-chatter-first-words-event.png)
+Después, liga la `Acción` `First Words` al evento de primeras palabras `First Word Event`. ![active-chatter-first-words-event.png](/assets/active-chatter-list/images/active-chatter-first-words-event.png)
 
 Ahora ya existirá una lista limpia solo de ls personas que han hablado durante la transmisión.
 > Esto también puede usarse para obtener nombres de usuario aleatorios, u otras cosas divertidas en otras `Acciones`. 
@@ -31,5 +31,5 @@ Ahora ya existirá una lista limpia solo de ls personas que han hablado durante 
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> BoomSoMuch](https://www.twitch.tv/BoomSoMuch)
+ - [BoomSoMuch](https://www.twitch.tv/BoomSoMuch){.twitch}
  {.contributors}

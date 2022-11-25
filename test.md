@@ -2,7 +2,7 @@
 title: Test Page
 description: 
 published: false
-date: 2022-10-16T00:08:35.816Z
+date: 2022-11-20T07:16:15.803Z
 tags: test
 editor: markdown
 dateCreated: 2022-07-17T18:50:43.167Z
@@ -10,14 +10,9 @@ dateCreated: 2022-07-17T18:50:43.167Z
 
 # Contributors
 - [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
-- [Farlezz](https://www.twitch.tv/Farlezz){.youtube}
-- [Farlezz](https://www.twitch.tv/Farlezz){.twitter}
-- [Farlezz](https://www.twitch.tv/Farlezz){.github}
-{.contributors}
-
-# Contributors
-- [<i class="mdi mdi-twitch"></i> GoWMan](https://www.twitch.tv/GoWMan)
-- [<i class="mdi mdi-twitch"></i> GoWMan](https://www.twitch.tv/GoWMan)
+- [Farlezz](https://www.youtube.com/channel/UCRvOQ16ngGnNvt0UHAdkHRQ){.youtube}
+- [Farlezz](https://twitter.com/FarlezzX){.twitter}
+- [Farlezz](https://github.com/Farlezz){.github}
 {.contributors}
 
 <br>

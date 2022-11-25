@@ -2,7 +2,7 @@
 title: Trap Card (by MarkusoOoO)
 description: After you redeem it, it will timeout first user who will write something into chat (I put two if checks for MODs and VIPs, so it will ignore those roles - you can change this behaviour).
 published: true
-date: 2022-10-23T19:37:55.503Z
+date: 2022-11-20T07:23:14.354Z
 tags: trap, trapcard, chat, timeout
 editor: markdown
 dateCreated: 2022-05-18T01:02:57.341Z
@@ -33,5 +33,5 @@ And into `Trapcard laid down` put into bottom subaction `Trapcard Activated` act
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> MarkusoOoO](https://www.twitch.tv/markusoooo)
+ - [MarkusoOoO](https://www.twitch.tv/markusoooo){.twitch}
  {.contributors}

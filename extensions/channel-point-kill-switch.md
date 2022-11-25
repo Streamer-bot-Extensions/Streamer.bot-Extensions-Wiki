@@ -2,7 +2,7 @@
 title: Channel Point Kill Switch (by iAmLarcyn)
 description: Allow broadcaster or mods to turn on or off channel point rewards.
 published: true
-date: 2022-10-23T19:35:21.570Z
+date: 2022-11-20T07:17:50.702Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-05T02:18:42.418Z
@@ -46,5 +46,5 @@ I have added in another action called VFX check that you can add to the beginnin
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> iAmLarcyn](https://www.twitch.tv/iAmLarcyn)
+ - [iAmLarcyn](https://www.twitch.tv/iAmLarcyn){.twitch}
  {.contributors}

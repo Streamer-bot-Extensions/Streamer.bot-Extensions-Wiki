@@ -2,7 +2,7 @@
 title: Get Cursor Position (by MrWaldo)
 description: If for any reason you need the position of your cursor, this action will create a cursorX & cursorY variable.
 published: true
-date: 2022-10-23T19:35:54.928Z
+date: 2022-11-20T07:19:11.574Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:48:15.855Z
@@ -27,5 +27,5 @@ System.Drawing.dll
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> WaldoAndFriends](https://www.twitch.tv/waldoandfriends)
+ - [WaldoAndFriends](https://www.twitch.tv/waldoandfriends){.twitch}
  {.contributors}

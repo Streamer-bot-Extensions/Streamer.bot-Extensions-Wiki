@@ -2,7 +2,7 @@
 title: Recordatorio de Chat (por NotZelda)
 description: Establece una Acción en el siguiente mensaje de chat, cuando no se ha dicho nada en el chat en una cantidad de tiempo especificada. ¡Recuérdate mirar al chat después de un lapso de tiempo!
 published: true
-date: 2022-08-31T00:39:34.444Z
+date: 2022-11-20T07:26:07.458Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-31T00:41:43.948Z
@@ -19,14 +19,14 @@ En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, c
 ![chat-reminder-import.png](/extensions/chat-reminder/images/chat-reminder-import.png)
 
 # Configuración
-Liga la `Acción` `Chat Reminder` al `Evento` `Chat Message`. ![chat-reminder-event.png](/extensions/chat-reminder/images/chat-reminder-event.png)
+Liga la `Acción` `Chat Reminder` al `Evento` `Chat Message`. ![chat-reminder-event.png](/assets/chat-reminder/images/chat-reminder-event.png)
 
-Cambia el `Archivo de Sonido` en la `Acción` `ChatWakeUp` a cualquier sonido que desees usar. ![chat-reminder-sound.png](/extensions/chat-reminder/images/chat-reminder-sound.png)
+Cambia el `Archivo de Sonido` en la `Acción` `ChatWakeUp` a cualquier sonido que desees usar. ![chat-reminder-sound.png](/assets/chat-reminder/images/chat-reminder-sound.png)
 > Esto ahora reproducirá un sonido después de que una cantidad de tiempo definida haya pasado sin que nada haya sido dicho en el chat. 
 > 
 > {.is-info}
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> NotZelda](https://www.twitch.tv/NotZelda)
+ - [NotZelda](https://www.twitch.tv/NotZelda){.twitch}
  {.contributors}

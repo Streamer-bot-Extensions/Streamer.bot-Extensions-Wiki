@@ -2,7 +2,7 @@
 title: Random Percentage Meter (by GinjaFlame)
 description: Gives targeted user a random % of something. ie, 5% derpy, 72% cute, 40% lewd.
 published: true
-date: 2022-08-31T00:35:35.716Z
+date: 2022-11-20T07:22:06.297Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T00:19:03.648Z
@@ -21,5 +21,5 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> GinjaFlame](https://www.twitch.tv/GinjaFlame)
+ - [GinjaFlame](https://www.twitch.tv/GinjaFlame){.twitch}
  {.contributors}

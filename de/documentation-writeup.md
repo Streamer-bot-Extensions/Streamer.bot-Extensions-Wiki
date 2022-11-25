@@ -2,7 +2,7 @@
 title: Seitenvorlage
 description: Dies ist eine Vorlage dafür, wie eine Seite geschrieben werden sollte!
 published: true
-date: 2022-08-31T00:32:06.835Z
+date: 2022-11-20T07:16:21.331Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-29T00:56:49.156Z
@@ -38,7 +38,7 @@ Während du die Installation beschreibst. (Vermeide es nur "Importiere einfach d
 # Mitwirkende
 > Hier kannst du dich selbst vorstellen und jeden der deiner Meinung nach erwähnt werden sollte
  ```
- - [<i class="mdi mdi-twitch"></i> UserName1](https://www.twitch.tv/Username1)
- - [<i class="mdi mdi-twitch"></i> UserName2](https://www.twitch.tv/Username2)
+ - [ UserName1](https://www.twitch.tv/Username1)
+ - [ UserName2](https://www.twitch.tv/Username2)
  {.contributors}
  ```

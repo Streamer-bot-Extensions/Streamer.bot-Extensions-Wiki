@@ -2,7 +2,7 @@
 title: Mario Clicker
 description: A Cool Mario Effect that is clickable with heat, it will also give your viewers a life every `x` amount of clicks.
 published: true
-date: 2022-10-23T19:36:27.390Z
+date: 2022-11-20T07:20:12.240Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:36:24.679Z
@@ -40,7 +40,7 @@ The `Set Argument` Sub action in Mario-Click that value is of many coins equals 
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/TerrierDarts)
- - [<i class="mdi mdi-twitch"></i> Lyfesaver74](https://www.twitch.tv/Lyfesaver74)
+ - [TerrierDarts](https://www.twitch.tv/TerrierDarts){.twitch}
+ - [Lyfesaver74](https://www.twitch.tv/Lyfesaver74){.twitch}
  {.contributors}
 

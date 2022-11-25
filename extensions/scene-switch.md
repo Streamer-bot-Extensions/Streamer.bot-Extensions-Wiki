@@ -2,7 +2,7 @@
 title: Scene Switch Actions
 description: Run Actions for When you Swap Scenes
 published: true
-date: 2022-10-23T19:28:48.025Z
+date: 2022-11-20T07:22:17.498Z
 tags: scene, swap, change, scenes
 editor: markdown
 dateCreated: 2022-10-15T14:00:04.837Z
@@ -50,5 +50,5 @@ TlM0RR+LCAAAAAAABADlV+tT2zgQ/34z9z948rliZEl+qDP9AKGFwDQ0hBDgwgc91o6pHzk/CCnD/36y
 
 
 # Contributors
-- [<i class="mdi mdi-twitch"></i> TerrierDarts](https://www.twitch.tv/terrierdarts)
+- [TerrierDarts](https://www.twitch.tv/terrierdarts){.twitch}
 {.contributors}

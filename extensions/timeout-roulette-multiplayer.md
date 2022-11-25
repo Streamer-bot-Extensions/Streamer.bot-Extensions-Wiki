@@ -2,7 +2,7 @@
 title: Timeout roulette with multiplayer (by TheShiningOne)
 description: Timeout roulette with singlepayer, multiplayer and duel games.
 published: true
-date: 2022-10-08T21:25:02.649Z
+date: 2022-11-20T07:22:53.647Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-21T11:27:27.379Z
@@ -48,5 +48,5 @@ Game supports Twitch and YouTube chats. In case of multistreaming both chat can 
 
 # Contributors
 
- - [<i class="mdi mdi-twitch"></i> ShiningOne](https://www.twitch.tv/shiningone)
+ - [ShiningOne](https://www.twitch.tv/shiningone){.twitch}
  {.contributors}

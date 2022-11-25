@@ -2,7 +2,7 @@
 title: Power Level (by Sportiax)
 description: 
 published: true
-date: 2022-10-23T19:37:07.604Z
+date: 2022-11-20T07:21:46.818Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:09:47.966Z
@@ -25,5 +25,5 @@ Download The Assets.
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> Sportiax](https://www.twitch.tv/Sportiax)
+- [Sportiax](https://www.twitch.tv/Sportiax){.twitch}
 {.contributors}

@@ -2,7 +2,7 @@
 title: On Screen Predictions (Elgato StreamDeck) (by p0mz0r)
 description: This extension allows you to use your StreamDeck to run on-screen Predictions.
 published: true
-date: 2022-08-31T00:35:07.909Z
+date: 2022-11-20T07:20:44.404Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T01:27:49.283Z
@@ -21,5 +21,5 @@ Copy the `Import Code` and paste it into the `Import String`.
 
 # Contributors
 
-- [<i class="mdi mdi-twitch"></i> p0mz0r](https://www.twitch.tv/p0mz0r)
+- [p0mz0r](https://www.twitch.tv/p0mz0r){.twitch}
 {.contributors}

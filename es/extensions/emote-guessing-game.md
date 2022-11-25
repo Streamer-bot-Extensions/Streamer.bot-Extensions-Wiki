@@ -2,7 +2,7 @@
 title: Juego de Adivinizanza de Emotes (por @Kleinhalbi)
 description: ¡Un juego de chat en el cual necesitan adivinar el emote secreto!
 published: true
-date: 2022-08-31T00:40:14.709Z
+date: 2022-11-20T07:26:43.888Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-04T02:33:25.511Z
@@ -15,7 +15,7 @@ TlM0RR+LCAAAAAAABADVWl1zGjkWfd+q/Q+dVOVpRl5JLXVLU7UPMbExduKJv8D2eh/0CQwNzdJgm0zN
 
 # Instalación
 
-En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`. ![emote-guessing-game-import.png](/extensions/emote-guessing-game/images/emote-guessing-game-import.png)
+En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`. ![emote-guessing-game-import.png](/assets/emote-guessing-game/images/emote-guessing-game-import.png)
 
 # Configuración
 
@@ -280,13 +280,13 @@ WheelLight
 ```
 </details>
 
-Ve a la `Acción` `"01 Prepare game"` y edita `Set global emotesFilePath"` a la ruta del archivo que contiene todos los emotes que desees usar. ![emote-guessing-game-emotes-file.png](/extensions/emote-guessing-game/images/emote-guessing-game-emotes-file.png)
+Ve a la `Acción` `"01 Prepare game"` y edita `Set global emotesFilePath"` a la ruta del archivo que contiene todos los emotes que desees usar. ![emote-guessing-game-emotes-file.png](/assets/emote-guessing-game/images/emote-guessing-game-emotes-file.png)
 
-Después edita `"Set global gamesFilePath"` a la ruta del archivo .txt vacío que será usaro por el bot para el juego. ![emote-guessing-game-game-file.png](/extensions/emote-guessing-game/images/emote-guessing-game-game-file.png)
+Después edita `"Set global gamesFilePath"` a la ruta del archivo .txt vacío que será usaro por el bot para el juego. ![emote-guessing-game-game-file.png](/assets/emote-guessing-game/images/emote-guessing-game-game-file.png)
 
-Ve a `Settings -> Events -> y establece la Acción de "Chat Message"` a `"03 Check chat messages"`. ![emote-guessing-game-chat.png](/extensions/emote-guessing-game/images/emote-guessing-game-chat.png)
+Ve a `Settings -> Events -> y establece la Acción de "Chat Message"` a `"03 Check chat messages"`. ![emote-guessing-game-chat.png](/assets/emote-guessing-game/images/emote-guessing-game-chat.png)
 
-Ve a `Settings -> Timed Actions -> Create an Action `, y crea una acción de la siguiente manera: Enabled OFF, Repeat OFF, Name "End Emote Guessing Game", Interval 600 seconds, Random OFF, Lines 0, Action "04 Time over" (edited) ![emote-guessing-game-timed-action.png](/extensions/emote-guessing-game/images/emote-guessing-game-timed-action.png)
+Ve a `Settings -> Timed Actions -> Create an Action `, y crea una acción de la siguiente manera: Enabled OFF, Repeat OFF, Name "End Emote Guessing Game", Interval 600 seconds, Random OFF, Lines 0, Action "04 Time over" (edited) ![emote-guessing-game-timed-action.png](/assets/emote-guessing-game/images/emote-guessing-game-timed-action.png)
 
 Ahora puedes asignar la acción `"01 Prepare game"` a cualquier comando, recompensa o lo que desees para iniciar el juego.
 > Opcionalmente, asigna `"05 End game"` si deseas terminar el juego en curso, debido a una raid, o cualquier otro evento. 
@@ -302,5 +302,5 @@ Funciona de la siguiente manera:
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> Kleinhalbi](https://www.twitch.tv/Kleinhalbi)
+ - [Kleinhalbi](https://www.twitch.tv/Kleinhalbi){.twitch}
  {.contributors}

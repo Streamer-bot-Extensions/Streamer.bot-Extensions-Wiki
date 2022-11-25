@@ -2,7 +2,7 @@
 title: SB-Init (por Krayn)
 description: Una acción que se pone en la cola a sí misma cuando Streamer.bot inicia.
 published: true
-date: 2022-08-31T00:41:38.192Z
+date: 2022-11-20T07:28:10.535Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-25T02:42:45.563Z
@@ -16,7 +16,7 @@ TlM0RR+LCAAAAAAABACtVVtvokAUft9k/4PhuZjhJtKkDxZbq03doPVSlz4MMwNlO1yWi2ib/vedgboi
 # Instalación
 En Streamer.bot, en el panel de `Importación` de la parte superior izquierda, copia el `Código de Importación` y pégalo en la `Cadena de Importación`.
 
-![sb-init-import.png](/extensions/sb-init/images/sb-init-import.png)
+![sb-init-import.png](/assets/sb-init/images/sb-init-import.png)
 
 # Configuración
 En la `Acción` espera 10 segundos para darle tiempo a SB para conectarse a Twitch y enviar un mensaje de "Streamer.bot conectado". La única parte importante es que el nombre de la `Acción` sea `"SB-init"` y que el código de la `Subacción` **NO** sean cambiados. El resto de la `Acción` puede ser adaptado a cualquier cosa que quieras que se haga después de que SB inicie.
@@ -26,5 +26,5 @@ En la `Acción` espera 10 segundos para darle tiempo a SB para conectarse a Twit
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> Krayn_](https://www.twitch.tv/Krayn_)
+ - [Krayn_](https://www.twitch.tv/Krayn_){.twitch}
  {.contributors}

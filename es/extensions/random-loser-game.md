@@ -2,7 +2,7 @@
 title: Juego de Perdedor Aleatorio (por TheIcemanCometh)
 description: Comúnmente conocido como "una bala en un arma", o "ruleta rusa". Renombrado aquí para no ofender a nadie.
 published: true
-date: 2022-08-31T00:41:28.986Z
+date: 2022-11-20T07:28:02.325Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-25T02:42:33.728Z
@@ -20,5 +20,5 @@ Se incluyen cuatro acciones. Querrás definir un comando y apuntarlo a la acció
 
 # Colaboradores
 
- - [<i class="mdi mdi-twitch"></i> TheIcemanCometh](https://www.twitch.tv/TheIcemanCometh)
+ - [TheIcemanCometh](https://www.twitch.tv/TheIcemanCometh){.twitch}
  {.contributors}
