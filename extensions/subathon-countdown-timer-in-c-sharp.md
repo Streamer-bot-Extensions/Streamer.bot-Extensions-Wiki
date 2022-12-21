@@ -27,11 +27,11 @@ TlM0RR+LCAAAAAAABADtfVlTI8mS7vuYzX/Q9J02u3dmok+smRHnDShQiSroZhOg6XmIVcoitQySoODY
 ### 2. Streamer Bot > Actions > `Subathon Timer Code` > Double-click `Execute Code (Subathon Timer)` > Click the `References` tab > Click `Find Refs` and make sure System.dll is added to the list.
 - NOTE: In more recent versions of Streamer Bot, this step may be unnecessary.
 
-![addReference](https://user-images.githubusercontent.com/8848167/208851934-f7696ff2-33fe-4c1a-a470-c2cdbc30ee9a.png)
+![addReference](/assets/subathon-countdown-timer-in-c-sharp/208851934-f7696ff2-33fe-4c1a-a470-c2cdbc30ee9a.png)
 
 #### Click the Compiling Log tab, click Compile to make sure the code compiles correctly, and then click Save and Compile
 
-![compile](https://user-images.githubusercontent.com/8848167/208852172-01258495-ea67-4d12-b285-dbe4267ed282.png)
+![compile](/assets/subathon-countdown-timer-in-c-sharp/208852172-01258495-ea67-4d12-b285-dbe4267ed282.png)
 
 ### 3. Depending on which Platform you're streaming to, you will need to link events to certain actions.
 #### For Twitch (under `Platforms > Twitch > Events`):
@@ -56,7 +56,7 @@ TlM0RR+LCAAAAAAABADtfVlTI8mS7vuYzX/Q9J02u3dmok+smRHnDShQiSroZhOg6XmIVcoitQySoODY
 - You can edit the `secondsLeftBackupDirectory` variable to point the directory where you have two text files: `subathonSecondsLeft.txt` and `subathonTotalTimeInSeconds.txt`. These files keep a backup of your time remaining so you can use `!subathonresume` if either Streamer Bot crashes or you decide to pause your subathon with `!subathonpause`
 - If you want to change the names of the scene and text source in OBS, make sure it matches here too.
 
-![configure](https://user-images.githubusercontent.com/8848167/208850746-9e81976b-3941-48aa-8cc5-33a66047bde7.png)
+![configure](/assets/subathon-countdown-timer-in-c-sharp/208850746-9e81976b-3941-48aa-8cc5-33a66047bde7.png)
 
 ### 5. You can configure how many minutes get added for each sub tier event.
 - `Subathon Twitch Sub Tier 1 Config Minutes`
@@ -69,7 +69,7 @@ TlM0RR+LCAAAAAAABADtfVlTI8mS7vuYzX/Q9J02u3dmok+smRHnDShQiSroZhOg6XmIVcoitQySoODY
 - Example: if `moneyDivide` is 2.50 and `secondsMultiplier` is 60. If someone gives $5.00, then 2 minutes (120 seconds) gets added to the countdown. $6 will also add 2 minutes. $7.50 would add 3 minutes.
 - NOTE: For calculating time: it is rounded down to the nearest `moneyDivide`.
 
-![moneyAdd](https://user-images.githubusercontent.com/8848167/208853043-523afa61-d08e-4468-a168-81fc07202243.png)
+![moneyAdd](/assets/subathon-countdown-timer-in-c-sharp/208853043-523afa61-d08e-4468-a168-81fc07202243.png)
 
 ### 6. Subathon Chat Commands
 - NOTE: Imported commands are disabled by default as a security measure. Please make sure to enable them.
@@ -81,7 +81,7 @@ TlM0RR+LCAAAAAAABADtfVlTI8mS7vuYzX/Q9J02u3dmok+smRHnDShQiSroZhOg6XmIVcoitQySoODY
 
 ### 7.  Action `Subathon Done Action` will be triggered once the timer runs out.
 
-![subathonDone](https://user-images.githubusercontent.com/8848167/208854102-d247ae06-b35f-4a2a-a9e9-6f00ab72939e.png)
+![subathonDone](/assets/subathon-countdown-timer-in-c-sharp/208854102-d247ae06-b35f-4a2a-a9e9-6f00ab72939e.png)
 
 # Contributors
 
