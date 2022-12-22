@@ -2,13 +2,14 @@
 title: Streamer.bot Tool
 description: A Handy Tool to Assist you when building.
 published: true
-date: 2022-12-22T12:29:55.670Z
+date: 2022-12-22T17:04:59.201Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T01:37:47.752Z
 ---
 
-> This Tool requires Streamer.bot Version 0.1.15+ 
+> This Tool requires Streamer.bot Version 0.1.15+.
+You may also face issues with this you your display settings are too high. I'm working on a Scaling Fix!
 {.is-danger}
 
 # Import File
