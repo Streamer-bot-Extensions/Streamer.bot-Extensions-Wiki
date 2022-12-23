@@ -9,7 +9,6 @@ dateCreated: 2022-12-22T01:37:47.752Z
 ---
 
 > This Tool requires Streamer.bot Version 0.1.15+.
-You may also face issues with this you your display settings are too high. I'm working on a Scaling Fix!
 {.is-danger}
 
 # Import File
@@ -51,6 +50,8 @@ Once you've triggered your command it should open like so.
 ![toolMain](/assets/streamerbot-tool/tool1.png)
 
 You have several things this can do. 
+### Platform Select
+You can choose if you are using Twitch or Youtube. 
 
 ### Run Actions
 You can run actions to test them, Select the action you want and press `Run Action`. You can also add arguments with this if you click on `+Args` another menu pops up.
@@ -91,6 +92,8 @@ When Setting a Variable will look like this.
 It's Important you do not try to run the tool from within the tool.
 
 It's also Important to Close the Args Menu before closing the Tool as this can cause Streamer.bot to crash.
+
+Your selected Settings for Platform, Persisted and User Checkbox's and the Output Settings Checkbox's should all save so you don't need to manage it every time you open, but it is something to be aware of.
 
 As noted on the bottom of the tool, this is for Testing Purposes Only and should be used as such, best practice would be to use inside a testing environment if possible.
 
