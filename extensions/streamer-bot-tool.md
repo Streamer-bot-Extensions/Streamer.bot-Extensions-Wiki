@@ -2,7 +2,7 @@
 title: Streamer.bot Tool
 description: A Handy Tool to Assist you when building.
 published: true
-date: 2022-12-22T17:04:59.201Z
+date: 2023-01-03T13:51:45.926Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-22T01:37:47.752Z
@@ -10,6 +10,8 @@ dateCreated: 2022-12-22T01:37:47.752Z
 
 > This Tool requires Streamer.bot Version 0.1.15+.
 {.is-danger}
+
+
 
 # Import File
 
@@ -48,6 +50,9 @@ When you are ready you just need something to trigger the action, a button on a 
 Once you've triggered your command it should open like so.
 
 ![toolMain](/assets/streamerbot-tool/tool1.png)
+
+> If the tool does not open after you have tried everything change `websocketURL` to `localhost`
+{.is-warning}
 
 You have several things this can do. 
 ### Platform Select
