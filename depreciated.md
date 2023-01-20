@@ -2,14 +2,14 @@
 title: Depreciated Extensions
 description: List of Extensions That Have Been Depreciated.
 published: true
-date: 2023-01-20T01:35:19.740Z
+date: 2023-01-20T01:36:08.853Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T02:08:54.599Z
 ---
 
-# Depreciated Extensions
->The following extensions have been marked as depreciated.  They have either been replaced by a more robust extension, they have been implemented into a newer version of Streamer.bot, or they just no longer work.
+# Deprecated Extensions
+>The following extensions have been marked as deprecated.  They have either been replaced by a more robust extension, they have been implemented into a newer version of Streamer.bot, or they just no longer work.
 No support will be offered when using these as they may or may not work with the current version of Streamer.bot.
 {.is-warning}
 
