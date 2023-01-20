@@ -1,8 +1,8 @@
 ---
-title: Depreciated Extensions
+title: Deprecated Extensions
 description: List of Extensions That Have Been Depreciated.
 published: true
-date: 2023-01-20T01:36:08.853Z
+date: 2023-01-20T01:44:30.386Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T02:08:54.599Z
