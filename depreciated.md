@@ -2,7 +2,7 @@
 title: Depreciated Extensions
 description: List of Extensions That Have Been Depreciated.
 published: true
-date: 2023-01-20T01:34:48.004Z
+date: 2023-01-20T01:35:19.740Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T02:08:54.599Z
@@ -16,7 +16,7 @@ No support will be offered when using these as they may or may not work with the
 >USE AT YOUR OWN RISK!
 {.is-danger}
 
-- [Go Live Notification *Edit your going live notification with Streamer.bot*](/extensions/go-live-notification)
+* [Go Live Notification *Edit your going live notification with Streamer.bot*](/extensions/go-live-notification)
 * [Lurk With Counters *by DanFrmSpace* *A Lurk Command with Counters* *Failed to work in 0.1.8*](/depreciated/lurk-command-with-counters)
 * [Process Uptime Checking *by BamBam* *This is a process uptime checking utility* *Newer Methods Found*](/depreciated/process-uptime-checking)
 * [Arguments Viewer *by Silverlink* *In UI printout of all Argument Variables that were populated when an action executed.* *Built into 0.1.8+*](/depreciated/arguments-viewer)
