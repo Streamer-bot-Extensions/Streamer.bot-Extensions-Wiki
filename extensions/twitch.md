@@ -2,7 +2,7 @@
 title: Twitch Extensions
 description: Extensions that are built for use on Twitch Only
 published: true
-date: 2022-11-20T07:23:17.183Z
+date: 2023-01-20T01:33:58.636Z
 tags: twitch
 editor: markdown
 dateCreated: 2022-10-04T15:04:35.516Z
@@ -19,7 +19,6 @@ The following examples will only work on twitch these can range from polls to ti
 - [Clip Commands *Use Streamer.bot to create clip and more*](/extensions/clip-commands)
 - [Dynamic Poll *Run Polls with Streamer.bot*](/extensions/dynamic-poll)
 - [Dynamic Predictions *Start Predictions with Streamer.bot*](/extensions/dynamic-predictions)
-- [Go Live Notification *Edit your going live notification with Streamer.bot*](/extensions/go-live-notification)
 - [On-Screen Prediction *Do predictions with your streamdeck*](/extensions/on-screen-predictions-elgato-stream-deck)
 - [Stream Interval Update *At Intervals post the current uptime and viewer count*](/extensions/stream-infos-at-regular-intervals)
 - [Stream Schedule *Get the Stream Schedule with Streamer.bot*](/extensions/next-stream-from-schedule-in-chat)
