@@ -2,7 +2,7 @@
 title: Smaller Extensions
 description: A Collection of Smaller Extensions built for Streamer.bot.
 published: true
-date: 2022-11-20T07:22:28.463Z
+date: 2023-01-22T20:09:34.604Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-29T22:37:35.435Z
@@ -17,6 +17,7 @@ Here you will find some Extensions that are slightly smaller, but still are very
 - [First Command *A redeem that will give Permissions to the first person to redeem*](/extensions/first-command)
 - [Get Cursor Position *Gets x and y value of the mouse*](/extensions/get-cursor-position)
 - [Latest Youtube Video *Will post to chat your latest youtube Video*](/extensions/latest-youtube-video)
+- [Launch TwitchSpeaker *Check and see if TwitchSpeaker is running and if not, launch it.*](/extensions/launch-tts)
 - [Message To Last Tweet *Will post link to latest tweet sent*](/extensions/message-link-to-latest-tweet)
 - [Power Level](/extensions/power-level)
 - [Random Percentage Meter *Gives viewers a random % value of something*](/extensions/random-percentage-meter)
