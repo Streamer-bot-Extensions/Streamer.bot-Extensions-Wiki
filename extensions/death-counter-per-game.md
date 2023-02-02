@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-14T00:18:30.446Z
 ---
 
->If you are upgrading from pwnedCounter 1.3 to 1.4 ski to [here](#update-from-pwnedcounter-13-to-14){.is-info}
+>If you are upgrading from pwnedCounter 1.3 to 1.4 skip to [this section](#update-from-pwnedcounter-13-to-14){.is-info}
 
 See available commands here: [Commands](#command-usage-description-these-can-be-changed-to-your-liking)
 As long as Streamer.Bot itself is connected with Twitch the extension will always keep itself up-to-date with the current game being played. 
