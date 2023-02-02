@@ -7,7 +7,8 @@ tags:
 editor: markdown
 dateCreated: 2023-01-14T00:18:30.446Z
 ---
-
+See available commands here: [Commands](#command-usage-description-these-can-be-changed-to-your-liking)
+If you are upgrading from pwnedCounter 1.3 to 1.4 ski to [here](#update-from-pwnedcounter-1.3-to-1.4)
 
 As long as Streamer.Bot itself is connected with Twitch the extension will always keep itself up-to-date with the current game being played. 
 If needed you can also enable the OBS GDI Text sub-actions, so your death counter will also visually appear on your stream.
