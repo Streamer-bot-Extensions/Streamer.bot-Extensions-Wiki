@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-14T00:18:30.446Z
 ---
 
->If you are upgrading from pwnedCounter 1.3 to 1.4 skip to [this section](#update-from-pwnedcounter-13-to-14){.is-info}
+
 
 See available commands here: [Commands](#command-usage-description-these-can-be-changed-to-your-liking)
 As long as Streamer.Bot itself is connected with Twitch the extension will always keep itself up-to-date with the current game being played. 
@@ -22,8 +22,9 @@ TlM0RR+LCAAAAAAABADtfXlvW0mS5/8L7Hfg1KIxu+jO6ncfDcwAEq2DsqwqXaTEqUEhr0fSfCQ1IimJ
 ```
 
 # Installation
->In Streamer.bot in select `Import` from the top left.
-Copy the `Import Code` and paste it into the `Import String`.
+* In Streamer.bot in select `Import` from the top left. Copy the `Import Code` and paste it into the `Import String`.
+
+>If you are upgrading from pwnedCounter 1.3 to 1.4 skip to [this section](#update-from-pwnedcounter-13-to-14){.is-info}
 
 1. As SB-Init is already included in the import code, if you already had it in your current setup, you can unselect it in the Importable Actions section. After clicking import, you should add the `pwnC_UpdateStream` action into your existing `SB-Init`. Make sure the action is under the delay action in SB-Init.
 (If it’s your first-time setup and you are not connected to Twitch somehow, it will set your current game to Just Chatting)
