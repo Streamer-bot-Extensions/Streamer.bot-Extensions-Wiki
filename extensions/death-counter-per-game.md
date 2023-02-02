@@ -10,7 +10,7 @@ dateCreated: 2023-01-14T00:18:30.446Z
 
 
 
-See available commands here: [Commands](#command-usage-description-these-can-be-changed-to-your-liking)
+See available commands here: [Commands](#command-usage-descriptions)
 As long as Streamer.Bot itself is connected with Twitch the extension will always keep itself up-to-date with the current game being played. 
 If needed you can also enable the OBS GDI Text sub-actions, so your death counter will also visually appear on your stream.
 
@@ -71,7 +71,7 @@ Sub-Actions / Messages you are able to configure are located in the folder:
 * OBS Death Counter Text
 It is possible to use `%game%` in both messages. `%deathCounter%` can only be used for the `OBS Death Counter Text` folder.
 
-### How to display death counter in OBS
+# How to display death counter in OBS
 To use the death counter with OBS, there are sub-actions that first need to be enabled and changed to your Scene and GDI Text Source. Then you can change the Text here and use %deathCounter%.
 The sub-actions that have such a sub-action are:
 * pwnC_Category_Add_Remove
@@ -89,7 +89,7 @@ After importing pwnedCounter v1.4 these are the next steps you should take:
 
 >Most if not all actions are logged. So if for any reason you accidentally reset a death counter, you should be able to just check your logs with the game name to find your last count. pwnedCounter logs will always begin with `[pwned Counter]`{.is-info}
 
-# Command Usage Description (these can be changed to your liking)
+# Command Usage Descriptions
 * !deathcategory - Will add or remove the current game category that is set on Twitch, to the death counters.
 * !deaths - Will display the current deaths if the game category has a death counter. If not will send a customizable message.
 * !deathsall - Will display the total sum of deaths in all game categories.
