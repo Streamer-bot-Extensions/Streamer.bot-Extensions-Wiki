@@ -14,7 +14,7 @@ See available commands here: [Commands](#command-usage-description-these-can-be-
 As long as Streamer.Bot itself is connected with Twitch the extension will always keep itself up-to-date with the current game being played. 
 If needed you can also enable the OBS GDI Text sub-actions, so your death counter will also visually appear on your stream.
 
-# Included Resource
+# Included Resources
 - [SB-Init](https://extensions.streamer.bot/en/extensions/sb-init) (by [Krayn](https://www.twitch.tv/Krayn_){.twitch})
 # Import Code
 ```text
