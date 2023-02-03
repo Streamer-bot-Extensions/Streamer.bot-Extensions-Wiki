@@ -33,15 +33,15 @@ In Streamer.bot in select `Import` from the top left. Copy the `Import Code` and
 (If it’s your first-time setup and you are not connected to Twitch somehow, it will set your current game to Just Chatting)
 2. Go to your Stream Update event, `Platforms -> Twitch -> Events -> Stream Update`. Set the generic action to `pwnC_UpdateStream`. If you are already using the Stream Update event for something else, create a general action where all your actions that use the Stream Update event are. Now set this general action as the generic action of the Stream Update event.
 ![death-counter-per-game-stream-update.png](/assets/death-counter-per-game/images/death-counter-per-game-stream-update.png)
-3.  Go to your `Commands tab`, right-click the `pwned Counter DeathCommands 1.4`. Select `Group -> Enable All`. This will enable the general commands that can always be used even if the game category was not set as a death counter. You can disable the `!pwnedCounter` command, this is only used to transfer your death counter from the old pwned Counter extension (v.1.3), or you want to debug your current counters in the log.
+3.  Go to your `Commands tab`, right-click the `pwned Counter DeathCommands 1.4`. Select `Group -> Enable All`. This will enable the general commands that can always be used, even if the game category was not set as a death counter. You can disable the `!pwnedCounter` command, which is only used to transfer your death counter from the old pwned Counter extension (v.1.3), or you want to debug your current counters in the log.
 ![death-counter-per-game-enable-commands.png](/assets/death-counter-per-game/images/death-counter-per-game-enable-commands.png)
-4.  Make sure all your commands, in both the pwned Counter groups have the right permissions. Especially `!deathcategory`, `!death+`, `!death-`, `!deathreset` and `!deathset`. Most if not all should only be used by moderators.
+4.  Make sure all your commands, in both the pwned Counter groups, have the right permissions. Especially `!deathcategory`, `!death+`, `!death-`, `!deathreset` and `!deathset`. Most, if not all, should only be used by moderators.
 5. (optional) Restart your Streamer.Bot to check if SB-Init is working properly. This will then setup pwnedCounter as well, although it would always check if it has been setup already or not.
 
 # Configuration
 >In Streamer.Bot v0.1.15 and above, comments colored in blue will tell you about messages/actions you can modify as you wish.{.is-info} 
 ### pwnC_Modify Action
-Sub-Actions / Messages you are able to configure are located in the folder:
+Sub-Actions / Messages you are able to configure, are located in the folder:
 * Default Death Message
 * Custom Death Messages
 * Error Messages
@@ -49,29 +49,29 @@ Sub-Actions / Messages you are able to configure are located in the folder:
 Use `%game%` and `%deathCounter%` in your messages, ***except for the Error Messages***.
 
 ### pwnC_ShowDeath Action
-Sub-Actions / Messages you are able to configure are located in the folder:
+Sub-Actions / Messages you are able to configure, are located in the folder:
 * ShowDeath Command Messages
 * OBS Text No DeathCounter
 * OBS Death Counter Text
 The comments will mention which arguments you are able to use for each sub-action. (`%deathCounter%` or `%game%`)
 
 ### pwnC_ShowAllDeaths Action
-Sub-Actions / Messages you are able to configure are located in the folder:
+Sub-Actions / Messages you are able to configure, are located in the folder:
 * Twitch Message
 You can only use the argument `%total_Deaths%`, which will display the sum of deaths in all games.
 
 ### pwnC_Category_Add_Rem Action
-Sub-Actions / Messages you are able to configure are located in the folder:
+Sub-Actions / Messages you are able to configure, are located in the folder:
 * Command Inputs for adding or removing category + Message
 * Add Category Messages
 * Remove Category Messages
 * OBS Text No DeathCounter
 * OBS Death Counter Text
 Use `%game%` only for `Add Category Messages` and `Remove Category Messages`. `%deathCounter%` argument should only be used in `OBS Death Counter Text` folder.
-In the first folder called `Command Inputs ...` you are able to set alias of add or rem, which will check if the command `!deathcategory` is gonna add or remove a game from the death counters. You can also change the error message that will be send if you are not using the right input for the `!deathcategory` command.
+In the first folder called `Command Inputs ...` you are able to set alias of add or rem, which will check if the command `!deathcategory` is gonna add or remove a game from the death counters. You can also change the error message that will be sent if you are not using the right input for the `!deathcategory` command.
 
 ### pwnC_UpdateStream
-Sub-Actions / Messages you are able to configure are located in the folder:
+Sub-Actions / Messages you are able to configure, are located in the folder:
 * OBS Text No DeathCounter
 * OBS Death Counter Text
 It is possible to use `%game%` in both messages. `%deathCounter%` can only be used for the `OBS Death Counter Text` folder.
@@ -86,24 +86,24 @@ The sub-actions that have such a sub-action are:
 >When you enable the OBS GDI Text sub-actions, please make sure your OBS is connected with your Streamer.Bot. Check in the Stream Apps Tab under OBS. After you made sure your OBS is connected select which OBS GDI Text Source you want to update with the death counter value.{.is-info}
 
 # Update from pwnedCounter 1.3 to 1.4
-After importing pwnedCounter v1.4 these are the next steps you should take:
+After importing pwnedCounter v1.4, these are the next steps, you should take:
 1. Go to `Platforms -> Events -> General -> Stream Update`. Update the Generic action to `pwnC_UpdateStream`. If you already have a general action that is in the `Generic Stream Update`, just add `pwnC_UpdateStream` into that action and delete the old `PC_UpdateStream`.
 2. In your `SB-Init` Action, change the Sub-Action `Action(PC_UpdateStream)` to use the `pwnC_UpdateStream` action.
 3. Enable the command group `pwnedCounter DeathCommands 1.4`. In your chat write the command `!pwnedCounter transfer`. This will transfer all death counters to the new system which uses in total only uses two global variables. It will also delete all global variables that were needed before and will also delete the old `deathCategories.txt` file.
-4. The last thing to do is if you are satisfied with the transfer. Adjust the messages in the new `pwnC-Actions` to the ones you had before and delete/Disable the old commands and actions so they won’t trigger anymore. ***You can also delete the old pwnedCounter Queue since it is not needed anymore, as the new import has it's own queue name.***
+4. The last thing to do is if you are satisfied with the transfer. Adjust the messages in the new `pwnC-Actions` to the ones you had before and delete/Disable the old commands and actions so they won’t trigger anymore. ***You can also delete the old pwnedCounter Queue since it is not needed anymore, as the new import has its own queue name.***
 
->Most if not all actions are logged. So if for any reason you accidentally reset a death counter, you should be able to just check your logs with the game name to find your last count. pwnedCounter logs will always begin with `[pwned Counter]`{.is-info}
+>Most, if not all, actions are logged. So if for any reason you accidentally reset a death counter, you should be able to just check your logs with the game name to find your last count. pwnedCounter logs will always begin with `[pwned Counter]`{.is-info}
 
 # Command Usage Descriptions
-* !deathcategory - Will add or remove the current game category that is set on Twitch, to the death counters.
-* !deaths - Will display the current deaths if the game category has a death counter. If not will send a customizable message.
+* !deathcategory add/rem - Will add or remove the current game category that is set on Twitch, to the death counters.
+* !deaths - Will display the current deaths if the game category has a death counter. If not, will send a customizable message.
 * !deathsall - Will display the total sum of deaths in all game categories.
 * !death- - Will remove **one** death from the current game death counter.
 * !death+ - Will add **one** death to the current game death counter.
-* !deathset x - Will let you set the current games death counter to x.
-* !deathreset - Will reset the current games death counter.
+* !deathset x - Will let you set the current game's death counter to x.
+* !deathreset - Will reset the current game's death counter.
 * !pwnedCounter transfer - Will transfer death counters from pwnedCounter 1.3 to 1.4 system.
-* !pwnedCounter debug - Will show the global variables of pwnedCounter(1.4) so you are able to check if everything is alright. Please use Debug mode if you want to see the wanted information. `Settings -> General -> Log Level -> Debug`
+* !pwnedCounter debug - Will show the global variables of pwnedCounter (1.4) so you are able to check if everything is alright. Please use Debug mode if you want to see the wanted information. `Settings -> General -> Log Level -> Debug`
 
 # Contributors
  - [pwnyy](https://www.twitch.tv/pwnyytv){.twitch}
