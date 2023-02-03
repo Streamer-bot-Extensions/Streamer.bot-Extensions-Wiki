@@ -8,6 +8,7 @@ editor: markdown
 dateCreated: 2023-01-14T00:18:30.446Z
 ---
 *Streamer.Bot v0.1.8 +*{.obs-version-badge}
+
 See available commands here: [Commands](#command-usage-descriptions)
 
 As long as Streamer.Bot itself is connected with Twitch the extension will always keep itself up-to-date with the current game being played. 
