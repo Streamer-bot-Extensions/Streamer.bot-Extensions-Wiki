@@ -11,6 +11,7 @@ dateCreated: 2023-01-14T00:18:30.446Z
 
 
 See available commands here: [Commands](#command-usage-descriptions)
+
 As long as Streamer.Bot itself is connected with Twitch the extension will always keep itself up-to-date with the current game being played. 
 If needed you can also enable the OBS GDI Text sub-actions, so your death counter will also visually appear on your stream.
 
@@ -23,13 +24,15 @@ TlM0RR+LCAAAAAAABADtfXlvW0mS5/8L7Hfg1KIxu+jO6ncfDcwAEq2DsqwqXaTEqUEhr0fSfCQ1IimJ
 
 # Installation
 * In Streamer.bot in select `Import` from the top left. Copy the `Import Code` and paste it into the `Import String`.
-
+![death-counter-per-game-import.png](/assets/death-counter-per-game/images/death-counter-per-game-import.png)
 >If you are upgrading from pwnedCounter 1.3 to 1.4 skip to [this section](#update-from-pwnedcounter-13-to-14){.is-info}
 
 1. As SB-Init is already included in the import code, if you already had it in your current setup, you can unselect it in the Importable Actions section. After clicking import, you should add the `pwnC_UpdateStream` action into your existing `SB-Init`. Make sure the action is under the delay action in SB-Init.
 (If it’s your first-time setup and you are not connected to Twitch somehow, it will set your current game to Just Chatting)
 2. Go to your Stream Update event, `Platforms -> Twitch -> Events -> Stream Update`. Set the generic action to `pwnC_UpdateStream`. If you are already using the Stream Update event for something else, create a general action where all your actions that use the Stream Update event are. Now set this general action as the generic action of the Stream Update event.
+![death-counter-per-game-stream-update.png](/assets/death-counter-per-game/images/death-counter-per-game-stream-update.png)
 3.  Go to your `Commands tab`, right-click the `pwned Counter DeathCommands 1.4`. Select `Group -> Enable All`. This will enable the general commands that can always be used even if the game category was not set as a death counter. You can disable the `!pwnedCounter` command, this is only used to transfer your death counter from the old pwned Counter extension (v.1.3), or you want to debug your current counters in the log.
+![death-counter-per-game-enable-commands.png](/assets/death-counter-per-game/images/death-counter-per-game-enable-commands.png)
 4.  Make sure all your commands, in both the pwned Counter groups have the right permissions. Especially `!deathcategory`, `!death+`, `!death-`, `!deathreset` and `!deathset`. Most if not all should only be used by moderators.
 5. (optional) Restart your Streamer.Bot to check if SB-Init is working properly. This will then setup pwnedCounter as well, although it would always check if it has been setup already or not.
 
@@ -78,7 +81,7 @@ The sub-actions that have such a sub-action are:
 * pwnC_Modify
 * pwnC_ShowDeath
 * pwnC_UpdateStream
->When you enable the OBS GDI Text sub-actions, please make sure your OBS is connected with your Streamer.Bot. Check in the Stream Apps Tab under OBS. Then you can just select which OBS GDI Text Source you want to update with the death counter value.{.is-info}
+>When you enable the OBS GDI Text sub-actions, please make sure your OBS is connected with your Streamer.Bot. Check in the Stream Apps Tab under OBS. After you made sure your OBS is connected select which OBS GDI Text Source you want to update with the death counter value.{.is-info}
 
 # Update from pwnedCounter 1.3 to 1.4
 After importing pwnedCounter v1.4 these are the next steps you should take:
