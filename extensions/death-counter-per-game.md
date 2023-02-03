@@ -1,6 +1,6 @@
 ---
 title: Death Counter - pwnedCounter (by pwnyy)
-description: Automatic enable/disable death counter depending on your set game category on Twitch.
+description: Automatically enable/disable the death counter depending on your set game category on Twitch.
 published: true
 date: 2023-01-14T07:16:07.032Z
 tags: 
