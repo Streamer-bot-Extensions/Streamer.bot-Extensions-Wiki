@@ -9,10 +9,8 @@ dateCreated: 2023-01-14T00:18:30.446Z
 ---
 *Streamer.Bot v0.1.8 +*{.obs-version-badge}
 
-See available commands here: [Commands](#command-usage-descriptions)
+Available Commands: [Click Here](#command-usage-descriptions)
 
-As long as Streamer.Bot itself is connected with Twitch the extension will always keep itself up-to-date with the current game being played. 
-If needed you can also enable the OBS GDI Text sub-actions, so your death counter will also visually appear on your stream.
 
 # Included Resources
 - [SB-Init](https://extensions.streamer.bot/en/extensions/sb-init) (by [Krayn](https://www.twitch.tv/Krayn_){.twitch})
@@ -31,7 +29,7 @@ In Streamer.bot in select `Import` from the top left. Copy the `Import Code` and
 
 1. As SB-Init is already included in the import code, if you already had it in your current setup, you can unselect it in the Importable Actions section. After clicking import, you should add the `pwnC_UpdateStream` action into your existing `SB-Init`. Make sure the action is under the delay action in SB-Init.
 (If it’s your first-time setup and you are not connected to Twitch somehow, it will set your current game to Just Chatting)
-2. Go to your Stream Update event, `Platforms -> Twitch -> Events -> Stream Update`. Set the generic action to `pwnC_UpdateStream`. If you are already using the Stream Update event for something else, create a general action where all your actions that use the Stream Update event are. Now set this general action as the generic action of the Stream Update event.
+2. Go to your Stream Update event, `Platforms -> Twitch -> Events -> Stream Update`. Set the generic action to `pwnC_UpdateStream`. If you are already using the Stream Update event for something else, create a general action where all your actions that use the Stream Update event are. Now set this general action as the generic action of the Stream Update event. This will make sure the current game category is up-to-date if it's being changed during the stream. 
 ![death-counter-per-game-stream-update.png](/assets/death-counter-per-game/images/death-counter-per-game-stream-update.png)
 3.  Go to your `Commands tab`, right-click the `pwned Counter DeathCommands 1.4`. Select `Group -> Enable All`. This will enable the general commands that can always be used, even if the game category was not set as a death counter. You can disable the `!pwnedCounter` command, which is only used to transfer your death counter from the old pwned Counter extension (v.1.3), or you want to debug your current counters in the log.
 ![death-counter-per-game-enable-commands.png](/assets/death-counter-per-game/images/death-counter-per-game-enable-commands.png)
