@@ -56,23 +56,23 @@ In Streamer.bot in select `Import` from the top left.
 Copy the `Import Code` and paste it into the `Import String`. 
 
 |Start Giveaway|
-you have do change the date from `YEAR, MONTH, DAY, HOURS, MINUTES, SECONDS` to (example) `2023, 01, 23, 0, 0, 0`.
+You have to change the date from `YEAR, MONTH, DAY, HOURS, MINUTES, SECONDS` to (example) `2023, 01, 23, 0, 0, 0`.
 ![giveway-csharp-dateline-startdate](/assets/giveaway-csharp-Dateline/images/giveway-csharp-dateline-startdate.png)
 
 |End Giveaway|
-you have do change the date from `YEAR, MONTH, DAY, HOURS, MINUTES, SECONDS` to (example) `2023, 02, 10, 14, 0, 0`.
+You have to change the date from `YEAR, MONTH, DAY, HOURS, MINUTES, SECONDS` to (example) `2023, 02, 10, 14, 0, 0`.
 ![giveway-csharp-dateline-enddate](/assets/giveaway-csharp-Dateline/images/giveway-csharp-dateline-enddate.png)
 
 |Price/Title|
-you have do change the price title from `Price: HERE IS MY TITLE` to (example) `Price: You can win a Waifu`.
+You have to change the price title from `Price: HERE IS MY TITLE` to (example) `Price: You can win a Waifu`.
 ![giveway-csharp-dateline-price](/assets/giveaway-csharp-Dateline/images/giveway-csharp-dateline-price.png)
 
 |required Days|
-you have do change the required Days from `FOLLOWDAYS` to (example) `7`. This are the required Days for Following you.
+You have to change the required Days from `FOLLOWDAYS` to (example) `7`. This are the required Days for Following you.
 ![giveway-csharp-dateline-requiredDays](/assets/giveaway-csharp-Dateline/images/giveway-csharp-dateline-requiredDays.png)
 
 |CSV Path|
-you have do change the path from `MY PATH` to (example) `A:\Dokumente\giveaway.csv`.
+You have to change the path from `MY PATH` to (example) `A:\Dokumente\giveaway.csv`.
 ![giveway-csharp-dateline-csv](/assets/giveaway-csharp-Dateline/images/giveway-csharp-dateline-csv.png)
 
 # Contributors
