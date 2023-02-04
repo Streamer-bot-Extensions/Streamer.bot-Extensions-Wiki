@@ -2,11 +2,14 @@
 title: Post to Twitter (by Nate1280 and TerrierDarts)
 description: Stream Chat To Twitter Post
 published: true
-date: 2022-11-20T07:21:44.033Z
+date: 2023-02-02T18:25:40.097Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-27T04:14:39.472Z
 ---
+
+# IMPORTANT
+> As of February 9th, 2023 Twitter has made access to both v1.1 and v2.0 inaccessible for free.  Use of this extension will require a paid tier level of access from Twitter to be able to access their API.  As more information is forthcoming this page will be updated to reflect that information. {.is-danger} 
 
 # Tutorial
 <div class=“iframe-container”><iframe src="https://www.youtube.com/embed/nc9edtn75pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
