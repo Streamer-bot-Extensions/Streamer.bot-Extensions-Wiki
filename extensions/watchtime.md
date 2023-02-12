@@ -2,7 +2,7 @@
 title: Watchtime (by GoWMan)
 description: This will allow users to keep track of how much time they have spent watching the stream.
 published: true
-date: 2023-02-12T00:03:36.559Z
+date: 2023-02-12T00:09:14.489Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T02:09:42.575Z
@@ -15,7 +15,7 @@ TlM0RR+LCAAAAAAABADdWNuOo0gSfV9p/8Hq1x2XuJi2PdI8YFzG+MK08QXDuh8gEwPlxDAG7IJR//tE
 # Import File *Streamer.bot 0.1.14+*{.obs-version-badge}
 [Watchtime V2.0](/assets/watchtime/files/watchtimev2.0.sb)
 
->In Streamer.bot 0.1.14 the Present Viewers Event changed to allow how often the Event is run to be >changed.  Watchtime V2.0 has been updated to reflect this and there is an argument that you need >to change to match the minutes set on the event.  Also a bug was addressed where parsing the >watchtime would return formatted incorrectly.  The old version will no longer be supported.  >Please update to this version ASAP. 
+>In Streamer.bot 0.1.14 the Present Viewers Event changed to allow how often the Event is run to be changed.  Watchtime V2.0 has been updated to reflect this and there is an argument that you need to change to match the minutes set on the event.  Also a bug was addressed where parsing the watchtime would return formatted incorrectly.  The old version will no longer be supported.  Please update to this version ASAP. 
 {.is-warning}
 
 # Installation
