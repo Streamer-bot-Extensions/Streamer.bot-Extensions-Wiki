@@ -2,7 +2,7 @@
 title: Watchtime (by GoWMan)
 description: This will allow users to keep track of how much time they have spent watching the stream.
 published: true
-date: 2023-02-11T23:59:56.155Z
+date: 2023-02-12T00:03:36.559Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-18T02:09:42.575Z
@@ -27,7 +27,7 @@ Drag the `Import File` into the `Import String`.
 
 # Configuration
 
-**New** Set the argument `vMinutes` to reflect what you have set on the slider for the `Present Viewers Event`. 
+**New**{.obs-version-badge} Set the argument `vMinutes` to reflect what you have set on the slider for the `Present Viewers Event`. 
 
 Add the `Action` `Auto Add Watchtime` to the `Present Viewers Event`.
 ![watchtime-present-viewers-event.png](/assets/watchtime/images/watchtime-present-viewers-event.png)
