@@ -2,7 +2,7 @@
 title: Giveaways
 description: Run Giveaways with either of the following Examples
 published: true
-date: 2022-11-20T07:19:19.914Z
+date: 2023-02-04T17:34:53.994Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-17T21:58:57.340Z
@@ -24,7 +24,6 @@ Allows you to pick a single or multiple winners, saves them in a Winner.txt file
 - [ Go To Page](/extensions/giveaway-timed)
 {.btn-grid .my-5}
 
-
 ---
 
 ## Giveaway all in C# by [TerrierDarts](https://www.twitch.tv/TerrierDarts)
@@ -39,4 +38,14 @@ Allows you to give more entries to Subs, Vips/Mods
 {.btn-grid .my-5} 
 
 ---
+
+## Giveaway in C# with Start/End Dates by [AboutSelphy](https://www.twitch.tv/AboutSelphy)
+
+Stores data in CSV file.
+Lets you define a starting and ending date for long term giveaways.
+Allows you to set the minimum follow age for submissions
+Allows viewing the winner of the previous giveaway
+
+- [Go To Page](/extensions/giveaway-csharp-Dateline)
+{.btn-grid .my-5} 
 

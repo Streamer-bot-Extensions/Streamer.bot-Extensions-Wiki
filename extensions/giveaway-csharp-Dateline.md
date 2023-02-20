@@ -1,0 +1,81 @@
+---
+title: Giveaway in C# with Dateline (by AboutSelphy)
+description: This giveaway is all ran in C# with a csv file
+published: true
+date: 2023-27-1T07:19:14.411Z
+tags: 
+editor: markdown
+dateCreated: 2023-27-1T07:19:14.411Z
+---
+
+# Import Code
+```
+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
+```
+
+# Installation
+In Streamer.bot in select `Import` from the top left.
+Copy the `Import Code` and paste it into the `Import String`. 
+
+## Resources
+CSV FILE:  [Resources](/assets/giveaway-csharp-Dateline/files/giveaway.csv)
+
+All code should compile, if it does not compile please reach out in discord. (Link found on Home Page)
+The following chat commands will be imported too, if you have any duplicates or wish to change them here how they are set up. 
+|Command|Action Tied to|
+|---|---|
+|`!giveaway`| 1. current status of the giveaway|
+|`!giveaway enter` |2. Joins the giveaway |
+|`!giveaway pick` |3. Pull A Winner (only Mods)|
+|`!giveaway winner` |4. posts the winner of the last giveaway |
+
+
+# Configuration
+
+This giveaway since in C# has settings in most of the actions, if any of these setting are repeated you will need to make sure that they match. All settings are changed by adjusting the Set Argument Sub-Action. Here is a run down of all the settings in each Action.
+
+Create a "Giveaway" user group -> settings -> Groups -> Add Group: Giveaway.
+
+## 1. settings Giveaway
+|Setting|Purpose|
+|---|---|
+|`startGiveaway`| This is the base number of the start date.
+|`endGiveaway`| This is the base number of the end date.
+|`requiredDays`| This is the number of at least followed days.
+|`price`| This is the (title/price).
+
+## 2. Pull a Winner
+|Setting|Purpose|
+|---|---|
+|`!giveaway pick`| This picks a random user from the .csv 
+
+## 3. Setup
+
+|Import|
+In Streamer.bot in select `Import` from the top left.
+Copy the `Import Code` and paste it into the `Import String`. 
+
+|Start Giveaway|
+You have to change the date from `YEAR, MONTH, DAY, HOURS, MINUTES, SECONDS` to (example) `2023, 01, 23, 0, 0, 0`.
+![giveway-csharp-dateline-startdate](/assets/giveaway-csharp-Dateline/images/giveway-csharp-dateline-startdate.png)
+
+|End Giveaway|
+You have to change the date from `YEAR, MONTH, DAY, HOURS, MINUTES, SECONDS` to (example) `2023, 02, 10, 14, 0, 0`.
+![giveway-csharp-dateline-enddate](/assets/giveaway-csharp-Dateline/images/giveway-csharp-dateline-enddate.png)
+
+|Price/Title|
+You have to change the price title from `Price: HERE IS MY TITLE` to (example) `Price: You can win a Waifu`.
+![giveway-csharp-dateline-price](/assets/giveaway-csharp-Dateline/images/giveway-csharp-dateline-price.png)
+
+|required Days|
+You have to change the required Days from `FOLLOWDAYS` to (example) `7`. This are the required Days for Following you.
+![giveway-csharp-dateline-requiredDays](/assets/giveaway-csharp-Dateline/images/giveway-csharp-dateline-requiredDays.png)
+
+|CSV Path|
+You have to change the path from `MY PATH` to (example) `A:\Dokumente\giveaway.csv`.
+![giveway-csharp-dateline-csv](/assets/giveaway-csharp-Dateline/images/giveway-csharp-dateline-csv.png)
+
+# Contributors
+
+ - [AboutSelphy](https://www.twitch.tv/AboutSelphy){.twitch}
+ {.contributors}
