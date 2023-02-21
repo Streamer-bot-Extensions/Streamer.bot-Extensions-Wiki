@@ -9,7 +9,9 @@ description: Display line from file without repeating it until they all get disp
 # Installation
 
 # Configuration
-
+|Command|Purpose|
+|---|---|
+|`!command` | Description |
 # Example Use
 
 # Contributors
