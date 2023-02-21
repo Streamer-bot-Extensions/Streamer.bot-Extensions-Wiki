@@ -9,7 +9,9 @@ description: Send To chat a Chuck Norris joke
 # Installation
 
 # Configuration
-
+|Command|Purpose|
+|---|---|
+|`!command` | Description |
 # Example Use
 
 # Contributors
