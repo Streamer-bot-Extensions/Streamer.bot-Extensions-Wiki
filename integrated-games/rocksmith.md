@@ -2,7 +2,7 @@
 title: Rocksmith (Rocksniffer) Extension
 description: React to in game activity using Rocksniffer
 published: true
-date: 2023-02-27T22:05:17.720Z
+date: 2023-02-27T22:08:37.911Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T22:05:17.720Z
