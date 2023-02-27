@@ -2,7 +2,7 @@
 title: Rocksmith (Rocksniffer) Extension
 description: React to in game activity using Rocksniffer
 published: true
-date: 2023-02-27T22:09:10.715Z
+date: 2023-02-27T22:24:12.743Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T22:05:17.720Z
@@ -15,8 +15,9 @@ dateCreated: 2023-02-27T22:05:17.720Z
 A streamer.bot implementation to replace Warth's SceneSwitcher, and more.
 
 # Video
-https://www.youtube.com/watch?v=dR7iKeCe-MI
-<iframe src="https://www.youtube.com/watch?v=dR7iKeCe-MI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
+<div class=“iframe-container”><iframe src="https://www.youtube.com/embed/dR7iKeCe-MI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
+
+
 
 # Download
 
