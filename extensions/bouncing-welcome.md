@@ -2,7 +2,7 @@
 title: Bouncing Welcome Animation
 description: Browser source for OBS with a bouncing welcome animation adapted for SB from a Coedpen made by Shaw at keyframers
 published: true
-date: 2023-03-04T17:52:56.116Z
+date: 2023-03-04T17:57:44.365Z
 tags: first words, welcome, codepen
 editor: markdown
 dateCreated: 2023-03-04T15:42:39.588Z
@@ -12,7 +12,7 @@ dateCreated: 2023-03-04T15:42:39.588Z
 Bouncing Welcome Message for Streamer.bot adapted from a Codepen by Shaw @ Keyframers. Codepen source: https://codepen.io/team/keyframers/pen/NWpGrWZ
 
 ## Video Example
-<video width="1280" height="720" controls>
+<video width="960" height="540" controls>
  <source src="/assets/bouncing-welcome-animation/bouncingani-720-30.mp4" type="video/mp4">
 </video>
 
