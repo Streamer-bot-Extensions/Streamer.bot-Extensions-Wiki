@@ -2,7 +2,7 @@
 title: Bouncing Welcome Animation
 description: Browser source for OBS with a bouncing welcome animation adapted for SB from a Coedpen made by Shaw at keyframers
 published: true
-date: 2023-03-04T15:42:39.588Z
+date: 2023-03-04T16:10:13.087Z
 tags: first words, welcome, codepen
 editor: markdown
 dateCreated: 2023-03-04T15:42:39.588Z
@@ -11,8 +11,7 @@ dateCreated: 2023-03-04T15:42:39.588Z
 # Bouncing Welcome Animation for First Words
 Bouncing Welcome Message for Streamer.bot adapted from a Codepen by Shaw @ Keyframers. Codepen source: https://codepen.io/team/keyframers/pen/NWpGrWZ
 
-[bouncing.mp4](/assets/bouncing-welcome-animation/bouncing.mp4)
-
+## Video Example
 <video width="1280" height="720" controls>
  <source src="/assets/bouncing-welcome-animation/bouncing.mp4" type="video/mp4">
 </video>
@@ -37,3 +36,13 @@ Chose your Scene, Source and paste the address you copied into the URL box as sh
 ```text
 TlM0RR+LCAAAAAAABADFVU1vnDAQvVfqf0Ar5RYHA8bgSFWVNkrbSyv1K4eqB2MPuzTGbG2z2VWU/14Muw3LVv2QkoYD4HnPM/abB755+iQIZiswtmr07DSIj/uA5jV0o9mLptWi0vPgEpRoagjOdFVz57kDkQs/sB33ix8Hwc3w6KBK+gxxWqYsphFinAtEijJFRVIyFFGCBSQ0zpJiyNVP+t5C6yvrVqm7KGheKPD5nGlhFF8L1Uq4ME39urKuMZuOUnJlR5yDrUy20JPmpmmXnrXbJwouKmNdcNkYaUdErq75xr5v9WEhw7Vs6rNekENUNFq0xoB2h9iBiHtC9hQrQMPb7VY+gligDz5yt7KB1bRG/KRNmzcht0Z5VlkpOA3D8OVp+Ml2Pggld3wRvtNwbqoVhOdgr1yzDIttNuRg7RDfiYiuK7dAdqkq5zz6zaIr2JSmW4OxiCAcyq4zYaUlrE8WrlbPfUOeHbVdraPJijqNNPRavOm9g7cX+sVtd01SDKYDQjLGohIJQkhnOogRy0WEKOc5L1mSxymbTLyGar7wvcEneB9xm6WXM8n3wzvL7Dn1d24d1ud18FXuorfH/7Hp1nHnefiBlJdJLoB2ehdcJohQiRHDSYY4jiOeR5xmGfln5fF9Kh/9jfIrrvrfEMXppHjN15+34AQZvv+Dr3skTslEkqWEIRr14pQFKsoCEMWMFqQscFFO+/VHcSKM4/uUJ35kY0YPZEyeRQmHnCHMCEUkTxkqvE8ZFSwBJiVk6eMaMxkpv3v9Oj0kXvkS/UkxgkSjFF9akCN0APtEA3M4WkdTu2l13Xl2x7/9AVy9oaEMCAAA
 ```
+
+# Contributors
+- [Lyfesaver](https://www.twitch.tv/Lyfesaver74){.twitch}
+
+- <span class="mdi mdi-codepen"></span> [Keyframers on Codepen](https://codepen.io/team/keyframers){.codepen}
+
+- [Keyframers on Twitter](https://codepen.io/team/keyframers){.twitter} 
+
+- [Shaw on Twitter](https://twitter.com/shshaw){.twitter} 
+{.contributors}
