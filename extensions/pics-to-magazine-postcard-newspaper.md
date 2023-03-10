@@ -1,8 +1,8 @@
 ---
-title: Pics to Magazines, Postcard and Newspaper (by Lyfesaver74)
+title: Magazine Covers (by Lyfesaver74)
 description: Screenshots and text input from chat for Magazines, Postcard, and Newspaper
 published: true
-date: 2023-03-10T04:33:41.605Z
+date: 2023-03-10T04:39:39.934Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-20T07:20:44.468Z
