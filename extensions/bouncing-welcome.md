@@ -2,7 +2,7 @@
 title: Bouncing Welcome Animation
 description: Browser source for OBS with a bouncing welcome animation adapted for SB from a Coedpen made by Shaw at keyframers
 published: true
-date: 2023-03-04T19:04:15.081Z
+date: 2023-03-10T02:18:02.399Z
 tags: first words, welcome, codepen
 editor: markdown
 dateCreated: 2023-03-04T15:42:39.588Z
@@ -17,16 +17,16 @@ Bouncing Welcome Message for Streamer.bot adapted from a Codepen by Shaw @ Keyfr
 </video>
 
 # Install
-1. Download the [Bouncing_Welcome_Animation](/assets/bouncing-welcome-animation/bouncing_welcome_animation.zip) zip and extract it to a folder of your choice
-2. Copy `Import Code` from below and import into Streamer.bot using the `Import` button in top left of the bot
+1. Download the [Bouncing_Welcome_Animation](/assets/bouncing-welcome-animation/bouncing_welcome_animation.zip) zip and extract it to a folder of your choice.
+2. Copy `Import Code` from below and import into Streamer.bot using the `Import` button in top left of the bot.
 3. Add a Browser source in OBS. Give it a name and in Properties ***do not tick `Local file`*** but do tick `Shutdown source when not visible` and `Refresh browser source when scene becomes active`.
 Click `OK`. *Do not worry that we have not given it a URL*
-4. Using Windows Explorer navigate to the folder you exported the zip to and open the index.html file into your broswer of choice
-5. Click inside the address bar of the browser window and copy the location (Should start with `file:///`
+4. Using Windows Explorer navigate to the folder you exported the zip to and open the index.html file into your broswer of choice.
+5. Click inside the address bar of the browser window and copy the location (Should start with `file:///`).
 6. In Streamer.bot go to the action you imported called Bouncing Welcome and double-click the OBS Set Browser Source URL to edit it.
 ![obsprop.png](/assets/bouncing-welcome-animation/obsprop.png)
 Chose your Scene, Source and paste the address you copied into the URL box as shown above. Next take this string and paste it to the end of the RUL you just added. `?name=%user%` so that the end of the string looks like this:
-`\index.html?name=%user%`
+`/index.html?name=%user%`
 7. Click `OK`
 8. Assign the action to trigger on First Words event, or add the action as a subaction in your current action for First Words
 9. Done.
