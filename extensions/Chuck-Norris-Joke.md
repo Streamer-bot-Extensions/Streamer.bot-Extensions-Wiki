@@ -15,7 +15,7 @@ Just Import the code above, you can test it with `!chuck` command ( don't forget
 |---|---|
 |`!chuck` | Send a Chcuck Norris Joke To Chat |
 # Example Use
-![image](/assets/Chuck-Norris-Joke/images/Example.png)
+![image](/assets/Chuck-Norris-Joke/images/ExampleChuckNorrisJoke.png)
 
 # Contributors
 
