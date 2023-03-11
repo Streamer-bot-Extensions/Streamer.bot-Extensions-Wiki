@@ -12,6 +12,8 @@ Import the code above to Streamer.bot .
 
 # Configuration
 For the command named : "Stream Bitrate Value [ Timed Action intervale 1sec ]" 
+- Make sure the OBS Raw (subaction) is set to websocket 5.x (in case you use another one)
+
 * You need to set up a TIMED ACTION ( find it in settings tabs )
 * give it a name , and put that action in the Action field
 * The interval is 1 sec 
