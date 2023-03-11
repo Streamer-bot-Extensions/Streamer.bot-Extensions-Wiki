@@ -8,16 +8,23 @@ TlM0RR+LCAAAAAAABADNV1lv20YQfg+Q/8AKCNACobO8JDFAH2TaliXbsiXLkqwoD8vdJc1qeZRLSmaC
 ``` 
 
 # Installation
-Import The code above
+Import the code above to Streamer.bot .
 
 # Configuration
-for the command named : "Stream Bitrate Value [ Timed Action intervale 1sec ]" 
+For the command named : "Stream Bitrate Value [ Timed Action intervale 1sec ]" 
 * You need to set up a TIMED ACTION ( find it in settings tabs )
 * give it a name , and put that action in the Action field
 * The interval is 1 sec 
 
-# Example Use
+![image](/assets/Get-Current-Bitrate/images/timedAction.png)
 
+|Command|Purpose|
+|---|---|
+|`!bitrate` | Send your current bitrate to Chat |
+(don't forget to enable the command after importation)
+
+# Example Use
+![image](/assets/Get-Current-Bitrate/images/example.png)
 # Contributors
 
 - [lebluxtv](https://www.twitch.tv/lebluxtv){.twitch}
