@@ -2,42 +2,46 @@
 title: Ad Snooze (by TheShiningOne)
 description: Snooze the upcoming Twitch Ad with this extension.
 published: true
-date: 2022-11-20T07:17:13.822Z
-tags: 
+date: 2023-03-03T07:18:00.000Z
+tags:
 editor: markdown
 dateCreated: 2022-08-03T13:05:03.866Z
 ---
 
 # Tutorial
-<div class=“iframe-container”><iframe src="https://www.youtube.com/embed/ORb1EGwZRPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
+<div class=“iframe-container”><iframe src="https://www.youtube.com/embed/Xu9SwS5IuH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe></div>
+
+# Import File
+
+- [<i class="mdi mdi-file-download"></i> **Import Code *Click to Download***](/assets/ad-snooze/files/ad-snooze.sb)
+{.btn-grid .my-5}
 
 # Import code
 ```
-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
+TlM0RR+LCAAAAAAABADFWm2TokgS/n4R9x8m5uutHQjS3WzEflC6RdB2BlFAri8ugEKkLcATUXFj//tlFe++zPZuxO1NxIRtVZGVlfnkk5mFv/79b1++fD14uySIo68/f2F/ogORHXrw7evX/Kvt7mE6gZF/ku9fvvyaf8BUgMg6G6144ZHnOnbXYTq9ruN2nldPQgfZPY/nnRXjrXq5LPrQf1IvJfKjFON61ItsB3tE3n6Xeo3xk4tT5A13cTgKkn28y2DJysZJY02p8ELu/1uL4vjsNbbzd3G6LWYbwzY+2lkyS6NrcTs7QnHYp8e+nnXjyE13Oy/aX89dmaplLrrkYO8CctJpobOzi4+Jt6s1K1ZhaqOvq2DnreLTxbSd7uN5tvUurdVwSpdhe4LQ7XUYm7c7PZbrdWzP7naen1C36zq9p0dkX0g9eoG/JqdiHpj2zD7fq8ty7fHKtheS7jgzVy9C3olsUo/+9tOnrZXu9+CUO8ZKLnz/WVs9IQBtDzmdZ6/nAICZJzCT53XYlf38zAuMbfPs/9VW7GdsVUaB5EXeLnC/bOMtbNgWiLzE3QXbAtmXqmw8b9vHwcG7QjadBiR6gHvXuwA4nRR/fn83QF9A8/v7W+Du4iRe7R+mr/P39+EOVDvGu81j7/390HtgHjiG6wrv72HixjscOA8I47Yuf1ailiV7L7wrT9vvPDssP73dgxPvO3tACMAMt4cfvuPUD6IHOdp7u5XtelRoU+a/2uZxsr0nxoj6AJnTrRO6/oLDZyTp+29HZnw5NsEIvs8OiHtLVVNnHLa7RhI+OB/JVIz0s23wkTyc8i43w47GvzjsKbGMKWMbQupm/MgyeOyG+OOm7M1suzRQ6nBk/fTcXjPLLGO4t0w5XYYCM8GDBBmgS8ArTjQDmdZ6yS6eXtQY9Bh0l+Fpu8wGH440PLvZYKEz0wPovaW6+szYA9miWa0bIHN2cIwh1XMxUg6upGdotPHd+m8iW3FHeuBI+EOWhMAO9Q8kDtilcepaczi/35IJZyLy3nxtgVN4JrXgE4XCztIHmcOtefl1qmov5Dl8RIaSkLVgN2LPD5ir9Q0GL26ow7gO9uQ3tjnbOmwv1oeo8Z13TA3OW38/j1WiD5G/UVA4zOShrqiLhtzozf+uDVLLdH2VFVJLwvT8Bttak84lPbW4WWyWZ1Tx1olU39b6gvzSp3YRDetAdFyyvj8eWWs3aOrS822j5y8be7jZhupF/aAW+sFzzkjH8gvTWjuJ8vFvxVrbWPpjqWkfPveBBvgyZwvPHOCxuPG/zxkfjfDRMoRwPJoygLvUyjZbqq+Kc71Bnr7Ag+b53e5+a5KzSTxG2UB1Q+FomQrjNW0XrJvnSxs4SeSbuh39Gle46TcJMBpBbCgWyxMbvizNKR7Pc7+JJuNbxulsaYO/WN9NsR8Wis/tOEvyMZOhuuV+x6EsrnVtMWye6TzZnLATIsYW+8J3rX8aa4MMfNN1w55/rX9yNIvzwvkZZCppcZYB6NXG/OWzWa7nSgU8RQzFZx2j0wRseaZx9lrEoFrE/gK4hqO6rt1o8wxxlxHumogQtyOFcM4/ZEmBOEVnsOWZYNIJdU5+/f3nxmKBLTMJrBADb1kHT5QTWVSmDrfdOtJprbOgiyRwKntau9xbsNKOeTxkyocNvnGMRTAR+4HKrjPgWGx20daSEEZD4Dz8fJLpWbFAYqLNS/Ase/Rn5hovOZ2xNJ/iPY8zvLWCfiwb+KyaSoSMLgbuPIM9M5dy2Xrthug81oD3Kj+Q2JsWsYfZpSn7wGuZxeqMGimQB6bYDQj2alsZLMxzU0cOyzE5MDV+4XTLGPS3Ezw7zOH8MBePdaawF+UNZgm6AVbmZd6gfABjgJPAZUFPilMFERmLwv4Q76kuCW+wH+jjb2/rC2eS2vKW5RhmyPPzwofxmOjLnA6I1TOQnecV8E+bc3up2h3IRB75/HYsYkKle89B7hGxQ4ZwIuDk4A4RcPg0rrA0nDION+CW5uzDFnOdZbHv5/9J/hCOev58CucEvKlxyQtkP4ixg8XMMJwBzq+AvYZZsResnWFLlAs75FyrS2uSQzeEh5bZurSzCHzBgV0zwPCV7RtjIuRIyPe9lszmuSaYnKdf6ahLeG/p0+MSuB+NaK5pnWlmAPYBW9ZLUsqivpQlHeJ2cLaM2cIGjBJ7lX6ebEiegZpD9APv3H98exkI36Lk9O2jf1xp/NPbR3x8GzEB0Rs4dQrPdCFvnovv5FyE6871/CmxgW9pvgEdJ1n/9CYW3LcA3hD5N4dFr5ahdAG3GxnDWhNiVBwAvxEbH33bVAFjwsHOBk9WeaYh4MPQBTmosVPF1GiWIWNR8FYev1DTHBxxsHUZEjv6HuokxoWaxY0UiGM1nkFsU9xDnvTmp5JrkqoOeenlmKZ5teAf4OaxOKQxPdnAuaPZGuxx1lidB7wEpd9Bx608KvJNfWbFCa0DrHsB/0VQ54Tw7KaOc5nul3OIGtT5SsFopGdQs4RLkreK8fKcFzFeYa8dkyWvfCrGgdNuYLmdf47y6PQsi8PqzOB7EsfM0sCpy+yxp13LAB5s1Sh1zAGHhc+xvJmunQAxwJHgC9Wv9R5AXTo4ILCRBTXg0lDWLrv4kY1KzhBKrECNAzxNsAB1NmATOAxqrunEMjexHAEGaQ7qBYSrP6tfzZ0Dgoku4DNFNUcodzj/czqFSheNoIYO5O24qlXwy+LVh/pRiDSDD53Mh3w2TBVO9S2SB8RBUHDKn8RSNc+4UVEfmkxRh1sH21D9C84r46b21SavERr5u7bThl9DHk7kqnYs9eUXlrlmmvX1JHv2Z5BjZAl6EXZPeLCuu+sxwoGtXgM4EOd+4DWHFZjqe8GJea3beB5qWifSE0e85fcqF1zEbPX8tW0/aps2/TWT9AAZLmCo3tsKhS7gqJBB198+C+ldpFOJ0drWeb/RijE3W28sc7ojeQF8UMVnURc1YrwfN+QQ/HVJD0Ls8fZDW6hXmKs4Z7S/2G9a8jXBblmvljVvGaNXNlJERfyhTMk6IOKHxhzlHw5sBbmqYU9ar9zpq+JWv73Roa+m8XLJO4097vFXbZsFqwMXTOM87+K0ye8eu9mNOabGDK31/TXkS9BdyUiNUNeA66BRR5zL+mEeQs+uQX6RaP4Bvqj7uMLOd+Kh5oYSM8X3GgfB0S/rN13Se0isfFfgpar3SG/UdaRjnedu+7EdN+CvZryvtEqn2iaXOGnwJdgr7/cXJTeug4saquLcBtcWsUh6lCHULsJ+mfdUQ0fK6wLAfgJ/l1x+GU/37NmMs7s8eJvTKkzcqIHpvUPl+4WpQ3xuqnuFq7VmiSXa37XvZaLKpseqhyWx8HrbDpNCZ4oxeqcygL1n/KSf25bUGtV9wiXfF2sK3qv6qKI+acRw3WsSOVf1Pwf1mTnDzXXjuheaIUPPvLKXrvNV7YsNyc2zAWAz1kcKhnr5g5wDzgYxedoAPtI2Lzb2oRjMMdOuIcu6sVHL3LFhw7fNPHcZv7SmLGv+/K6G+OzUtm1A719eAM8Zkd247zDyO4V72OS/LYHLGvduwBfDc6XP+V7PA9xecx8DPkmseex7XK7bSusfIIbbZzFrPmvU43R9qyfVGvUh1A0X9nj6TJzKpF9/rWL/Ls81ebOOyxav1TW99nyQX0EurHXA3164qNbSeX1mtu7yukw173aHXcAkX/efl2u7JYfdit3q/qlxd/SjeobaD86W6OQO7nfik9aT5N5jOONdaZGqzTOVd1AmU/VSeV1V2DaaNmOS6NTmlYC/eX96aZcSF23ZtGapfXQ3XkmdNCU94ZrcqUyq/MWfr2P2HpYLfbJBSGoDS+wB/wpMIw/RPg5qiUYu4s/NHhNqNFLvQn96H29lXqV3stWeF/exI8BJnStpXeJQ7NO7ngLT/9t4v5WjnUb8FXfB0JPQOr3VGzb73XGpL55hb6SS/oTchTLkbsCa/7AeeGrF4aiOpaqmC2pd6v6p2O+jusMtct40v/8R10NPAs4a5Xi1ij6zzLu3dLE0fgo547w0EG7UHtfnKPbKuWlzeadKaqA2dxn5fSHIYB12j0sM/iBfFL5vcFL9XmMNc5jc8brQ90K8Vf1FgSel1Ek067Xf67oqJfWGyunkPjJFw2pNrBX6LUq5Aa+CbgzEbQr+XEPMKE4EPR+rV+PNmur3bH+3RgYumhv62WWHUeNOvLrLtsJh4ubvnSrbu7WOhU6LH93blXrXWLrX19I7319+uXgBut15bhxuA3znDSjysJ1pe3t3/e6fzif2wZt5SYr381gvXl3fX9lac/kuNn8z7QiPz47tch3uqcd2evYT27EdZ9V5FJ6feG+FBN57/KNvpgXy7/a76dZPMujMZ95Oc3/mTX7i5b+vuPMqX00Dd/OlX/ye4g+/0X/sPbpIYHodpuehTu/RA7uxYMYVzwk89/jk9vjL3wn8tW/0uw2blX/W75OLH5JIZAP6sr0x5cYY29vEQ43ZfJIKylfmP7JpPAqPhaEdoXL9b/8FB5IO6vwjAAA=
 ```
 
 # Installation
 In Streamer.bot in select `Import` from the top left.
-Copy the `Import Code` and paste it into the `Import String`. 
+Drag and Drop the `Import File` into the `Import String` or opy the `Import Code` and paste it into the `Import String`.
 
 References Required
 ```
+mscorlib.dll
 System.dll
-System.Net.Http.dll
+Streamer.bot.Plugin.Interface.dll
+UIAutomationClient.dll
+UIAutomationTypes.dll
 ```
-After importing code you will need to get authorization header, and hash from payload from your browser where you logged-in in your broadcast account.
-For that you need to go to you Twitch dashboard in stream manager and open ```developer tools``` in the browser (usually F12) and swhitch to ```Network``` tab. Then press ```Snooze``` (you have to be live), and there will be POST request to ```gql.twitch.tv/gql``` with ```operationName:	"SnoozeAd"```. You need to copy this request as cURL and pate it in any text editor. Inside you will find all required data. In code you will find placeholders for your data.
-
-![snooze.png](/assets/ad-snooze/images/snooze.png)
-
-> After each relogin on Twitch site you wiil have to get this data again.
-{.is-warning}
 
 # Example Use
-You will have ```Snooze Ad``` action which you can trigger how you like, for example on ```Raid Event```, so when someone raided you their viewers will not get stuck on the ads.
+You will have ```UIA_Snooze``` action which you can trigger how you like, for example on ```Raid Event```, so when someone raided you their viewers will not get stuck on the ads.
 
-> This method uses undocummented API, so it can break at any moment.
-{.is-warning}
+Inside action you have 3 arguments which you can change:
+
+- `browser` - enter name of your browser, right now only `firefox` or `chrome` is acceptable, but `chrome` should cover all chromium based browser
+- `section` - one of two section where snooze add button can be, `ads manager` or `quick actions`
+- `button` - text from button: `snooze`, or you can press other buttons if you want
 
 # Contributors
 - [TheShiningOne](https://www.twitch.tv/TheShiningOne){.twitch}
