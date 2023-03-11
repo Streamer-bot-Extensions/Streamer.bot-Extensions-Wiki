@@ -13,7 +13,7 @@ Just Import the code above, you can test it with `!chuck` command ( don't forget
 # Configuration
 |Command|Purpose|
 |---|---|
-|`!chuck` | Send a Chcuck Norris Joke To Chat |
+|`!chuck` | Send a Chuck Norris Joke To Chat |
 # Example Use
 ![image](/assets/Chuck-Norris-Joke/images/ExampleChuckNorrisJoke.png)
 
