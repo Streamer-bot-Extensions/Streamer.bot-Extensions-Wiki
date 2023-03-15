@@ -2,7 +2,7 @@
 title: Newspaper Quotes
 description: Have a newspaper show quotes. Adapted from a Codepen by Olivia Ng
 published: true
-date: 2023-03-14T14:08:05.611Z
+date: 2023-03-15T12:04:21.656Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T14:08:05.611Z
@@ -36,8 +36,8 @@ Click `OK`.
 
 ![vogueprop.png](/extensions/magazine-covers/vogueprop.png)
 
-Chose your Scene, Source and paste the address you copied into the URL box as shown above. Next take this string and paste it to the end of the RUL you just added. `?title=Local streamer says: %quote%&nameText=%quoteuser% wanted for misquoting streamer&issueNum=%quoteId%&img=%targetUserProfileImageUrl%` so that the end of the string looks like this:
-`/index.html?title=Local streamer says: %quote%&nameText=%quoteuser% wanted for misquoting streamer&issueNum=%quoteId%&img=%targetUserProfileImageUrl%`
+Chose your Scene, Source and paste the address you copied into the URL box as shown above. Next take this string and paste it to the end of the RUL you just added. `?title=Local streamer says: %quote%&nameText=%quoteuser% wanted for misquoting streamer&issueNum=Issue No. %quoteId%&img=%targetUserProfileImageUrl%` so that the end of the string looks like this:
+`/index.html?title=Local streamer says: %quote%&nameText=%quoteuser% wanted for misquoting streamer&issueNum=Issue No. %quoteId%&img=%targetUserProfileImageUrl%`
 7. Click `OK`
 8. Edit the `Take Screenshot` sub-action by double clicking it
 Set the ***Scene and Source where your webcam*** is and then clcik the three dots across from `File Path` and navigate to the folder created and extracted the zip. Select the `cam-shot.png` file.
@@ -57,7 +57,7 @@ On, or around, line number 63 will be the socials you need to edit. Replace the 
 Other edits you might want to make
 - Line 13 to change the title of the paper from The Streamer Times to your choice
 - Line 26 to change the caption under the webcam screenshot
-
+- Line 30 Has some text about Vault-Tec Love Swings. I have toned it down a bit but some might consider it too lewd for their channel. No foul language or descriptions, just vague wording around an adult topic.
 
 # Import Code
 ```text
