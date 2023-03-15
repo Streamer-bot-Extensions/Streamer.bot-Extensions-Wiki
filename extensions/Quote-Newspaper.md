@@ -2,7 +2,7 @@
 title: Newspaper Quotes
 description: Have a newspaper show quotes. Adapted from a Codepen by Olivia Ng
 published: true
-date: 2023-03-15T12:04:21.656Z
+date: 2023-03-15T14:34:10.181Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T14:08:05.611Z
@@ -48,7 +48,7 @@ Set the ***Scene and Source where your webcam*** is and then clcik the three dot
 10. In Streamer.bot navigate to Settings > Quotes and Enable quotes then assign the new action you imported to the Quote Add
 
 # Customize It!
-You will want to take the time to do some easy, lite editing to the HTML file before you use it, at leat in one place and that is for the socials as they come set to Lyfesaver's.
+You will want to take the time to do some easy, lite editing to the HTML (index.html) file before you use it, at leat in one place and that is for the socials as they come set to Lyfesaver's.
 
 You can use any text editor, even Notepad, but VS Code or Notepad++ will be optimal as they allow for styling and line numbers.
 
@@ -59,13 +59,15 @@ Other edits you might want to make
 - Line 26 to change the caption under the webcam screenshot
 - Line 30 Has some text about Vault-Tec Love Swings. I have toned it down a bit but some might consider it too lewd for their channel. No foul language or descriptions, just vague wording around an adult topic.
 
+One thing to note is that the spinning paper effect is done with Move Transition and not part of the browser code. If you decide to take the time to give the paper a spinning effect be sure to enable the Play Sound sub-action.
+
 # Import Code
 ```text
-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
+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
 ```
 
 # Contributors
 - [Lyfesaver](https://www.twitch.tv/Lyfesaver74){.twitch}
 
-- <span class="mdi mdi-codepen"></span> [Abby McTaggert on Codepen](https://codepen.io/amctagg1){.codepen}
+- <span class="mdi mdi-codepen"></span> [Olivia Ng](https://codepen.io/oliviale){.codepen}
 {.contributors}
