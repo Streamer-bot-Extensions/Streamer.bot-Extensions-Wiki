@@ -2,7 +2,7 @@
 title: Newspaper Quotes
 description: Have a newspaper show quotes. Adapted from a Codepen by Olivia Ng
 published: true
-date: 2023-03-15T15:28:53.068Z
+date: 2023-03-15T15:33:13.777Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T14:08:05.611Z
@@ -29,7 +29,7 @@ TlM0RR+LCAAAAAAABADVWNtu20YQfS/QfyBUCGiBrLU3krsGiiJx4CZAG7RNWxSI8rCX2ZgIRSq8+IIg
 3. Add a Browser source in OBS. Give it a name like Newspaper Quotes or something and then in the Properties:
 <span class="mdi mdi-arrow-right-bold-outline"></span> ***Do not tick*** "Local file" <span class="mdi mdi-arrow-left-bold-outline"></span> 
 <span class="mdi mdi-arrow-right-bold-outline"></span> ***Do not worry that we are not giving it a URL*** <span class="mdi mdi-arrow-left-bold-outline"></span>
-Give it a size of 1920 by 1080. Dont worry, you can clcik-drag to resize in OBS
+Give it a size of 1175 by 1080. Dont worry, you can clcik-drag to resize in OBS but it is important to set the ***width to 1175*** and set the ***height to 1080***
 Tick `Shutdown source when not visible`.
 Tick `Refresh browser source when scene becomes active`.
 
