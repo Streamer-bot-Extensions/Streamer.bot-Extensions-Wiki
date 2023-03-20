@@ -34,12 +34,11 @@ Automatic generate a **Multistream Link** from the stream title.
 
 ![importscript](/assets/automaticly-mutlistream-link/images/importscript.png)
 
-<<<<<<< HEAD
 > ## Automaticly MutliStream Link Generator 
 [Script Download](/assets/automaticly-mutlistream-link/files/Automatic_MultiStream _By_AboutSelphy.rar)
-=======
-> ## Automaticly MutliStream Link Generator [Script Download](/assets/automaticly-mutlistream-link/files/Automatic_MultiStream _By_AboutSelphy.rar)
->>>>>>> 8b765bd7f21a55a7644309772b4280f07ab1e391
+
+> ## Automaticly MutliStream Link Generator 
+> [Script Download](/assets/automaticly-mutlistream-link/files/Automatic_MultiStream _By_AboutSelphy.rar)
 
 
 
