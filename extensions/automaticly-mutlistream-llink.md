@@ -36,7 +36,7 @@ Automatic generate a **Multistream Link** from the stream title.
 
 > ## Automaticly MutliStream Link Generator
  
-Download: [Script Download](/assets/automaticly-mutlistream-link/files/Automatic_MultiStream _By_AboutSelphy.rar)
+Streamer.bot File:  [Script Download](/assets/automaticly-mutlistream-link/files/Automatic_MultiStream _By_AboutSelphy.rar)
 
 
 
