@@ -38,9 +38,6 @@ Automatic generate a **Multistream Link** from the stream title.
  
 [Script Download](/assets/automaticly-mutlistream-link/files/Automatic_MultiStream _By_AboutSelphy.rar)
 
-> ## Automaticly MutliStream Link Generator 
-> [Script Download](/assets/automaticly-mutlistream-link/files/Automatic_MultiStream _By_AboutSelphy.rar)
-
 
 
 ## Step 2: Setup the MultiStream Service.
