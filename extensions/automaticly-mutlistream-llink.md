@@ -20,6 +20,9 @@ TlM0RR+LCAAAAAAABADtXVtv6kiefx9pvgN79mk1XafL5fKl+i1wAnEupAOEiyetVd0MPhhMc0tgNNLu
 > Github: [Automaticly-MutliStream-Link](https://github.com/AboutSelphy/Streamer.bot-Automaticly-MutliStream)
 
 Automatic generate a **Multistream Link** from the stream title.
+
+
+
 ![streamtitle](/assets/automaticly-mutlistream-link/images/streamtitle.png)
 
 
@@ -32,11 +35,15 @@ Automatic generate a **Multistream Link** from the stream title.
 > Example 1: In Streamer.bot in select `Import` from the top left. Copy the `Import Code` and paste it into the `Import String`. 
 > Example 2: Just drop the file in `Import String` field
 
-![importscript](/assets/automaticly-mutlistream-link/images/importscript.png)
-
-> ## Automaticly MutliStream Link Generator
+> ## File
  
 Streamer.bot File:  [Script Download](/assets/automaticly-mutlistream-link/files/Automatic_MultiStream_By_AboutSelphy)
+
+
+
+![importscript](/assets/automaticly-mutlistream-link/images/importscript.png)
+
+
 
 
 
@@ -46,6 +53,8 @@ Streamer.bot File:  [Script Download](/assets/automaticly-mutlistream-link/files
 > Edit the `%streamService` argument and add a service.
 >> Example: https://multitwitch.tv/
 
+
+
 ![multiservice](/assets/automaticly-mutlistream-link/images/multiservice.png)
 
 
@@ -54,6 +63,8 @@ Streamer.bot File:  [Script Download](/assets/automaticly-mutlistream-link/files
 
 > ### Choose your sown Message:
 > Edit the `%messageMulti%` and `%messageNoMulti%` argument and write your own message.
+
+
 
 ![custommessage](/assets/automaticly-mutlistream-link/images/custommessage.png)
 
@@ -66,6 +77,8 @@ Streamer.bot File:  [Script Download](/assets/automaticly-mutlistream-link/files
 |`!multi`| Sends the `%messageMulti%` or if there is no multi stream `%messageNoMulti%` message.
 |`!multistream`| Sends the `%messageMulti%` or if there is no multi stream `%messageNoMulti%` message.
 
+
+
 ![command](/assets/automaticly-mutlistream-link/images/command.png)
 
 
@@ -75,6 +88,8 @@ Streamer.bot File:  [Script Download](/assets/automaticly-mutlistream-link/files
 > ### Add timed chat message:
 > Go to `Settings` and than to `Timed Actions`.
 > Create a new Timed Action and link the action. 
+
+
 
 ![timedaction](/assets/automaticly-mutlistream-link/images/timedaction.png)
 ![timedactionsetup](/assets/automaticly-mutlistream-link/images/timedactionsetup.png)
