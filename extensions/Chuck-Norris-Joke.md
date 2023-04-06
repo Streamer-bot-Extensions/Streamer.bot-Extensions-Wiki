@@ -8,7 +8,7 @@ TlM0RR+LCAAAAAAABAC1WFtv4sgSfl9p/0M20j6dBbUNDvFK+xATLibEGW4G+3Ae2u3GGNqX9QUwo/nv
 ```
 # Installation
 
-Just Import the code above, you can test it with `!chuck` command ( don't forget to Enable it ). You can off course set that action to a Channel Point Reward.
+Just Import the code above In Streamer.bot (top left import button) . Copy the Import Code and paste it into the `Import String` field . You can test it with `!chuck` command ( don't forget to Enable it ). You can off course set that action to a Channel Point Reward.
 ( API key should work, but if you encounter issue ( rate-limit ) you can get your own there : https://rapidapi.com/matchilling/api/chuck-norris ( free )
 
 # Configuration
