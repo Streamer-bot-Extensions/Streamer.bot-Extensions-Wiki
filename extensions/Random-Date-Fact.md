@@ -16,7 +16,7 @@ Just Import the code above In Streamer.bot (top left import button) . Copy the I
 |`!dateFact`|(don't forget to enable the command)|
 
 # Example Use
-![image](/assets/)
+![image](/assets/Random-Date-Fact/images/exampleDateFact.png)
 # Contributors
 
 - [lebluxtv](https://www.twitch.tv/lebluxtv){.twitch}
