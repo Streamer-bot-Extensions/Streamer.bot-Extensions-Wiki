@@ -12,7 +12,6 @@ Just Import the code above In Streamer.bot (top left import button) . Copy the I
 
 |Command|Purpose|
 |---|---|
-|`!command` | Description |
 |`!dateFact`|(don't forget to enable the command)|
 
 # Example Use
