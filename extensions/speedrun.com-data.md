@@ -1,4 +1,4 @@
-title:Get speedrun.com data
+title: Get speedrun.com data
 description: Get your speedrun datas to Chat 
 
 *OBS WS v5.x*{.obs-version-badge} 
@@ -12,18 +12,17 @@ Enter your account Name ::
 * in the subaction " Set argument %accountId% to ... "
 
 # Configuration
-
-Command to use : '!speedrun'
-without any argument after the command , it will just reminds you arguments you can use ( and show how many datas are available )
-Arguments :
-* game ► will return datas from the current game you are playing on stream ( Twitch Category )
-* any%
-* 100%
-* low%
-* all ► will return all datas available
+|Command|argument|purpose|
+|---|---|---|
+|`!speedrun` | | without any argument after the command , it will just reminds you arguments you can use ( and show how many datas are available ) |
+|`!speedrun`|game|will return datas from the current game you are playing on stream ( Twitch Category )|
+|`!speedrun`|any%||
+|`!speedrun`|100%||
+|`!speedrun`|low%||
+|`!speedrun`|all|will return all datas available|
 
 # Example Use
-
+![image](/assets/)
 # Contributors
 
 - [lebluxtv](https://www.twitch.tv/lebluxtv){.twitch}
