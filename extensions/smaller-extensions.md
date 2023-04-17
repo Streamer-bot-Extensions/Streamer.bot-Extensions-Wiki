@@ -12,6 +12,7 @@ dateCreated: 2022-08-29T22:37:35.435Z
 
 Here you will find some Extensions that are slightly smaller, but still are very useful. They just require less set up and in some cases a bit more unique. 
 
+- [Automaticly MutliStream Link Generator *Generate automaticly a MultiStream Link from the streamtitle.*](/extensions/automaticly-mutlistream-link)
 - [Chat Request to Play Youtube *Play Youtube Videos on Screen.*](/extensions/chat-request-to-play-youtube)
 - [Discord Examples *A Few Examples of how to code posting to discord.*](/extensions/discord-example-list)
 - [First Command *A redeem that will give Permissions to the first person to redeem*](/extensions/first-command)
