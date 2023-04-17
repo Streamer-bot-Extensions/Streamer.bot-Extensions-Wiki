@@ -22,7 +22,7 @@ Enter your account Name ::
 |`!speedrun`|all|will return all datas available|
 
 # Example Use
-![image1](assets/speedrun.com-data/images/image1.png)
+![image1](/assets/speedrun.com-data/images/image1.png)
 ![image2](assets/speedrun.com-data/images/image2.png)
 # Contributors
 
