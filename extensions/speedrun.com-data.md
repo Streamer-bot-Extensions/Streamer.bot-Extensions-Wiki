@@ -23,7 +23,7 @@ Enter your account Name ::
 
 # Example Use
 ![image1](/assets/speedrun.com-data/images/image1.png)
-![image2](assets/speedrun.com-data/images/image2.png)
+![image2](/assets/speedrun.com-data/images/image2.png)
 # Contributors
 
 - [lebluxtv](https://www.twitch.tv/lebluxtv){.twitch}
