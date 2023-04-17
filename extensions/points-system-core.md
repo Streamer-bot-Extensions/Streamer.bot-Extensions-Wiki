@@ -2,7 +2,7 @@
 title: Points System (by VRFlad)
 description: The core extension to allow Streamer.bot to have channel points without the need for being a Twitch Affliate.
 published: true
-date: 2022-11-20T07:20:59.323Z
+date: 2023-03-07T23:49:35.814Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-23T19:36:51.737Z
@@ -13,10 +13,11 @@ dateCreated: 2022-10-23T19:36:51.737Z
 <br>
 <iframe src="https://www.youtube.com/embed/VCnoT7wqNrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allow fullscreen style="border: none; max-width: 100%; width: 100%; aspect-ratio: 16/9;"></iframe>
 
+Current Import has been updated since the video was recorded.
 
-# Import Code
+# Import Code 
 ```text
-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
+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
 ```
 
 # Installation
@@ -26,101 +27,65 @@ Copy the `Import Code` and paste it into the `Import String`.
 This setup allows an easy way to have a points system in Streamer.bot without any complicated maintenence and should allow for a one and done setup.
 
 
-![points-system-import.png](/assets/points-system/images/points-system-import.png)
+This Import Contains 13 Actions and 9 Commands, note commands are disabled by default
 
 # Configuration
 
-To automatically give points to your viewers while watching set the `Action` `Points-timed` to the `Event` `Present Viewers`.
+## Points Name
+
+You can use the command `!setName` to set the name of the Points. Example `!setPoints UFO's` will change them to UFO's.
+
+## Timed Action
+
+To automatically give points to your viewers while watching set the `Action` `[Points] - Timed Action` to the `Event` `Present Viewers`.
 
 ![points-system-present-viewers.png](/assets/points-system/images/points-system-present-viewers.png)
 
-To award points to users when they raid and/or host you set the `Action` `events trigger to add points to user (host / raid)` to the `Event` `Raid` and/or the `Event` `Host`.
+## Raid
+
+To award points to users when they raidyou set the `Action` `[Points] - Add Points for Raid` to the `Event` `Raid`
 
 ![points-system-raid.png](/assets/points-system/images/points-system-raid.png)
-![points-system-host.png](/assets/points-system/images/points-system-host.png)
+
 
 ## Moderator and/or Broadcaster Only Commands
 
-Create a `Command` called `!pointsname` that is tied to the `Action` `pointsname` and set to `Start`.
->For example using `!pointsname UFO's` will set your points name to UFO's.
-{.is-info}
+As Previously Mentioned Commands are disabled by default, you will need to ensure the following commands also have broadcaster/mod Permssions.
 
-![points-system-points-name-command.png](/assets/points-system/images/points-system-points-name-command.png)
+```
+!addPoints
+!setPoints
+!pointsccreset
+!pointsccsetname
+!setName
+```
 
-To retrieve the name of the points setup a `Command` called `!getpointsname` that is tied to the `Action` `getpointsname` and set to `Exact`.
->For example using `!getpointsname` will return the name of the points you have set from using `!pointsname`.
-{.is-info}
-
-![points-system-get-points-name-command.png](/assets/points-system/images/points-system-get-points-name-command.png)
-
-To set a user's points manually setup a `Command` called `!setpoints` that is tied to the `Action` `Setpoints (for Streamer / Mod)` and set to `Start`.
->For example using `!setpoints VRFlad 100` will set VRFlad's points to a total of 100 points.
-{.is-info}
-
-> This will overwrite a user's total points!
-{.is-danger}
-
-![points-system-set-points-command.png](/assets/points-system/images/points-system-set-points-command.png)
-
-To be able to give users points setup a `Command` called `!addpoints` that is tied to the `Action` `Addpoints (for Streamer / Mod)` and set to `Start`.
-
->For example using `!addpoints VRFlad 100` will give VRFlad 100 points.
-{.is-info}
-
-![points-system-add-points-command.png](/assets/points-system/images/points-system-add-points-command.png)
-
-## User Commands
-
-To allow users to view their total points setup a `Command` called `!points` that is tied to the `Action` `Current points per user` and set to `Exact`.
->For example when a user uses `!points` in chat it will return `user, you have points pointsname.`
-> (i.e `VRFlad, you have 100 UFO's.`)
-{.is-info}
-
-![points-system-points-command.png](/assets/points-system/images/points-system-points-command.png)
-
-### !buywithpoints Sample
-
-The `Action` `Points-sampleredeem` is an example `Action` you can use to allow users to redeem things on stream while you are live.  The `Commands` made need to be called `!buywithpoints <Name>` and set to `Exact`.  The following image shows how to do this with the `Action` `Points-sampleredeem`:
-
-![points-system-buywithpoints-sample-command.png](/assets/points-system/images/points-system-buywithpoints-sample-command.png)
-
-## Community Challenge (Optional)
+## Community Challenge Usage (Optional)
 
 To use the Points System optional Community Challenge the following commands should be created:
 
 ## Moderator and/or Broadcaster Only Commands (Community Challenge)
 
-Create a `Command` called `!pointsccsetname` that is tied to the `Action` `points-cc-setname` and set to `Start`.
->For example using `!pointsccsetname This month's Community Challenge will benefit UNICEF!` will set your Community Challenge Description to `This month's Community Challenge will benefit UNICEF!`
-{.is-info}
+Using `!pointsccsetname This month's Community Challenge will benefit UNICEF!` will set your Community Challenge Description to `This month's Community Challenge will benefit UNICEF!`
 
-![points-system-cc-set-name.png](/assets/points-system/images/points-system-cc-set-name.png)
 
-Create a `Command` called `!pointssetcctotal` that is tied to the `Action` `points-cc-totalpoints` and set to `Start`.
->For example using `!pointssetcctotal 10000` will set your Community Challenge Goal to 10,000 points.
-{.is-info}
+When using `!pointssetcctotal 10000` will set your Community Challenge Goal to 10,000 points.
 
-![points-system-cc-totalpoints.png](/assets/points-system/images/points-system-cc-totalpoints.png)
+Using `!pointsccreset` will reset your Community Challenge and clear out the all the points contributed!
 
-Create a `Command` called `!pointsccreset` that is tied to the `Action` `points-cc-reset` and set to `Exact`.
->Using `!pointsccreset` will reset your Community Challenge and clear out the all the points contributed!
-{.is-danger}
 
-![points-system-cc-reset.png](/assets/points-system/images/points-system-cc-reset.png)
+
 
 ## User Commands (Community Challenge)
 
-To allow users to view the community challenge status setup a `Command` called `!pointscc` that is tied to the `Action` `points-communitychallenge` and set to `Exact`.
->For example when a user uses `!pointscc` in chat it will return `The` `pointsname` `challenge -` `communitychallengename` `is at` `communitychallengecurrpoints` `out of` `communitychallengetotalpoints.` if there is a Community Challenge active.  Otherwise, it will return `There is no current` `pointsname` `community challenge.`
-{.is-info}
 
-![points-system-cc-status.png](/assets/points-system/images/points-system-cc-status.png)
+When a user uses `!pointscc` in chat it will return `The` `pointsname` `challenge -` `communitychallengename` `is at` `communitychallengecurrpoints` `out of` `communitychallengetotalpoints.` if there is a Community Challenge active.  Otherwise, it will return `There is no current` `pointsname` `community challenge.`
 
-To allow users to contribute points to the community challenge setup a `Command` called `!contribute` that is tied to the `Action` `points-cc-contribute` and set to `Start`.
->For example when a user uses `!contribute 100` in chat it will add 100 points to the Community Challenge and deduct the points from the user's points total.
-{.is-info}
 
-![points-system-cc-contribute.png](/assets/points-system/images/points-system-cc-contribute.png)
+
+When a user uses `!contribute 100` in chat it will add 100 points to the Community Challenge and deduct the points from the user's points total.
+
+
 
 # Contributors
 
