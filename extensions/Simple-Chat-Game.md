@@ -21,7 +21,8 @@ Just Import the code above, Enable commands.
 |`!winner`|return the highest score|
 
 # Example Use
-![image](/assets/)
+![image1](/assets/Simple-Chat-Game/images/image1.png)
+![image2](/assets/Simple-Chat-Game/images/image2.png)
 # Contributors
 
 - [lebluxtv](https://www.twitch.tv/lebluxtv){.twitch}
