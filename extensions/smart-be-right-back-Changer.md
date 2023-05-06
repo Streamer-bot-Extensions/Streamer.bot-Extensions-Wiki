@@ -2,10 +2,10 @@
 title: Smart [BE RIGHT BACK] Changer (by AboutSelphy)
 description: Change the Scene to [BE RIGHT BACK] and automaticly Changes back t o the last scene.
 published: true
-date: 2023-03-20T07:23:22.709Z
+date: 2023-05-07T0046:00.709Z
 tags: 
 editor: markdown
-dateCreated: 2023-03-15T00:34:01.291Z
+dateCreated: 2023-05-07T0046:00.709Z
 ---
 
 # Import Code
