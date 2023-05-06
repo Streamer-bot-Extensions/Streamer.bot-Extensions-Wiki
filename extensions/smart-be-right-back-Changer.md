@@ -32,7 +32,7 @@ Streamer.bot File:  [Script Download](/assets/smart-be-right-back-Changer/files/
 
 
 
-![importscript](/assets/smart-be-right-back-Changer/images/importscript.gif)![importscript](/assets/smart-be-right-back-Changer/images/importscript2.gif)
+![importscript](/assets/smart-be-right-back-Changer/images/importscript2.gif) ![importscript](/assets/smart-be-right-back-Changer/images/importscript.gif)
 
 
 
