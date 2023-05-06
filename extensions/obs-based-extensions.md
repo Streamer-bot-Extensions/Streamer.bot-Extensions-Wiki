@@ -13,6 +13,6 @@ These extensions will help you control OBS with Streamer.bot.
 - [Audio Source Monitor Toggle *Toggle audio with one click*](/extensions/audio-source-monitor-toggle)
 - [BitRate *Get the Current Bitrate*](/extensions/bitrate-command)
 - [OBS Status *Get the OBS Status*](/extensions/obs-status)
-- [Smart [BE RIGHHT BACK] Sene Changer*](/extensions/smart-be-right-back-Changer)
+- [Smart [BE RIGHHT BACK] Scene Changer*](/extensions/smart-be-right-back-Changer)
 - [Volume Control *Control Volume with Streamer.bot*](/extensions/volume-control)
 {.links-list}
