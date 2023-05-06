@@ -40,7 +40,7 @@ Streamer.bot File:  [Script Download](/assets/smart-be-right-back-Changer/files/
 
 ## Step 2: Setup the [BE RIGHT BACK] SCENE.
 
-> ### Choose your service:
+> ### Choose your Scene:
 > Edit the `%scene%` argument and add your [BE RIGHT BACK SCENE].
 >> Example: [SCREEN] BE RIGHT BACK
 
