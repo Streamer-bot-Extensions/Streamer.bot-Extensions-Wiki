@@ -2,10 +2,10 @@
 title: Seitenvorlage
 description: Dies ist eine Vorlage dafür, wie eine Seite geschrieben werden sollte!
 published: true
-date: 2022-11-20T07:16:21.331Z
-tags: 
+date: 2022-11-20T07:16:07.032Z
+tags:
 editor: markdown
-dateCreated: 2022-08-29T00:56:49.156Z
+dateCreated: 2021-07-17T00:18:22.011Z
 ---
 
 > Seitentitel und Beschreibung sind in den Seiteneinstellungen. Nicht auf der Seite
@@ -38,7 +38,7 @@ Während du die Installation beschreibst. (Vermeide es nur "Importiere einfach d
 # Mitwirkende
 > Hier kannst du dich selbst vorstellen und jeden der deiner Meinung nach erwähnt werden sollte
  ```
- - [ UserName1](https://www.twitch.tv/Username1)
- - [ UserName2](https://www.twitch.tv/Username2)
+ - [UserName1](https://www.twitch.tv/Username1){.twitch}
+ - [UserName2](https://www.youtube.com/Username2){.youtube}
  {.contributors}
  ```
