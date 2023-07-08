@@ -2,7 +2,7 @@
 title: Uptime Commands (by TerrierDarts)
 description: Uptime is a way of showing your chat how long you have been streaming, usually triggered by a `!uptime` command.
 published: true
-date: 2022-11-20T07:23:19.943Z
+date: 2023-07-08T02:08:37.738Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-31T19:05:25.175Z
@@ -29,6 +29,7 @@ TlM0RR+LCAAAAAAABADVWVlz4rgWfp+q+Q9MqvqtScs2DtBV84BJAobANBA239wHWRLGQV7GC8RM9X+/
 Once imported you will have imported a `!uptime` commands too, so if you have a duplicate you will need to delete, disable or change one of them if you don't want a 2 actions to run at the same time. The references should of imported with the code but if not, you will need to add 
 ```
 system.Linq.dll
+system.Core.dll
 ```
 If all that is done then your uptime command should be set-up you will just need to edit the output message to your specifications.
 
