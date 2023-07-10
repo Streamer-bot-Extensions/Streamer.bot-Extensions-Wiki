@@ -39,7 +39,7 @@ System.Net.dll
 
 The C# code needs to the IP addresses of the lights to control. You can define which Keylight to control and the settings to push using the arguments in the Action
 
-![elgato-lighting-v2.png](/extensions/elgato-lighting-control-v2/elgato-lighting-v2.png)
+![elgato-lighting-v2.png](/assets/elgato-lighting-control-v2/elgato-lighting-v2.png)
 
 Configure the following  to match your usecase
 
