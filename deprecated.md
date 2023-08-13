@@ -2,7 +2,7 @@
 title: Deprecated Extensions
 description: List of Extensions That Have Been Depreciated.
 published: true
-date: 2023-01-20T01:44:30.386Z
+date: 2023-08-13T23:18:34.090Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-19T02:08:54.599Z
@@ -23,4 +23,5 @@ No support will be offered when using these as they may or may not work with the
 * [Action Cooldown *by TerrierDarts* *Add Cooldowns to Actions* *Rebuilt and Button Cooldown has been added to the Decks*](/depreciated/actions-cooldown)
 * [To be continued *by passbo* *lacking infomation and does not work*](/depreciated/to-be-continued/)
 * [Viewer Count *Built into Streamer.bot*](/en/extensions/viewer-count-on-5-minute-update-cycle)
+* [First Command *A redeem that will give Permissions to the first person to redeem*](/extensions/first-command)
 {.links-list}
